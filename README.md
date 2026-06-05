@@ -5,13 +5,40 @@ A Flutter education app for learning medical English vocabulary through word roo
 **App Store category**: Education — Language Learning  
 **Bundle ID**: `com.longyuhan.medenglish`
 
+## 下载 / Download
+
+### 📱 Android（安卓）
+
+扫码或点击下载最新版 APK，然后在手机上安装。
+Scan the QR code or use the link below to download the latest APK.
+
+<a href="https://github.com/1708004874a-star/med-english/releases/latest">
+  <img src="docs/download-qr.png" alt="Download QR" width="160">
+</a>
+
+**下载链接 / Link**: <https://github.com/1708004874a-star/med-english/releases/latest>
+
+安装步骤 / Install steps:
+1. 用手机浏览器打开上面的链接，下载 `app-release.apk`。
+2. 点击安装；若提示「未知来源」，允许该来源安装即可。
+3. （Play Protect 可能扫描一下，点继续即可。）
+
+> **鸿蒙 HarmonyOS**：HarmonyOS 4 及更早（兼容安卓）可直接安装上面的 APK；
+> HarmonyOS NEXT / 5.0「纯血鸿蒙」不支持 APK，暂无法安装。
+
+### 🍎 iOS
+
+iOS builds are signed with a free personal Apple ID and can only be installed on
+the developer's own device. Distributing to other iPhones requires a paid Apple
+Developer account (TestFlight). Build locally with `flutter build ios --release`.
+
 ## Features
 
-- **Word Roots & Affixes** — 50 morphemes (prefixes, roots, suffixes) with bilingual meanings
-- **Medical Vocabulary** — 100 terms across 8 body systems with IPA pronunciation and TTS
+- **Word Roots & Affixes** — 131 morphemes (prefixes, roots, suffixes) with bilingual meanings
+- **Medical Vocabulary** — 348 terms across 8 body systems with IPA pronunciation and TTS
 - **Flashcard Study** — 3D flip cards with spaced study sessions
-- **Knowledge Base** — 24 bilingual anatomy articles (OpenStax CC-BY 4.0)
-- **Self-Test Quiz** — Multiple-choice with instant feedback and explanations
+- **Knowledge Base** — 48 bilingual anatomy articles (OpenStax CC-BY 4.0)
+- **Self-Test Quiz** — 479 multiple-choice questions with instant feedback and explanations
 - **Notebook** — Save words, add personal notes, track mastery level
 - **Full bilingual UI** — English / Simplified Chinese, follows system locale
 
@@ -27,7 +54,7 @@ flutter doctor   # verify iOS toolchain
 ### Install & run
 
 ```bash
-git clone https://github.com/longyuhan/med-english.git
+git clone https://github.com/1708004874a-star/med-english.git
 cd med-english
 
 flutter pub get
