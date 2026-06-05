@@ -1,0 +1,273 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "MedEnglish",
+  "@appTitle": { "description": "The name of the application" },
+
+  "appTagline": "Master Medical English",
+  "@appTagline": { "description": "Short tagline shown on home screen" },
+
+  "disclaimerTitle": "Educational Use Only",
+  "@disclaimerTitle": { "description": "Title of the first-launch disclaimer dialog" },
+
+  "disclaimerBody": "This app is for educational and language learning purposes only. It does not provide medical diagnosis, treatment advice, or professional medical opinion. Always consult a qualified healthcare professional for any medical concerns.",
+  "@disclaimerBody": { "description": "Full disclaimer text shown on first launch and About screen" },
+
+  "disclaimerAccept": "I Understand",
+  "@disclaimerAccept": { "description": "Button to accept disclaimer and proceed" },
+
+  "languageSettingTitle": "Language",
+  "@languageSettingTitle": { "description": "Title for the UI language setting" },
+
+  "languageFollowSystem": "Follow system",
+  "@languageFollowSystem": { "description": "Option to follow the device system language" },
+
+  "tabVocabulary": "Vocabulary",
+  "@tabVocabulary": { "description": "Bottom nav tab label for vocabulary section" },
+
+  "tabKnowledge": "Knowledge",
+  "@tabKnowledge": { "description": "Bottom nav tab label for knowledge base section" },
+
+  "tabQuiz": "Quiz",
+  "@tabQuiz": { "description": "Bottom nav tab label for self-test section" },
+
+  "tabNotebook": "Notebook",
+  "@tabNotebook": { "description": "Bottom nav tab label for saved words section" },
+
+  "moduleWordRootsTitle": "Word Roots & Affixes",
+  "@moduleWordRootsTitle": { "description": "Home module card title for morphemes section" },
+
+  "moduleWordRootsSubtitle": "Prefixes, suffixes & roots",
+  "@moduleWordRootsSubtitle": { "description": "Home module card subtitle for morphemes section" },
+
+  "moduleVocabTitle": "Medical Vocabulary",
+  "@moduleVocabTitle": { "description": "Home module card title for vocabulary section" },
+
+  "moduleVocabSubtitle": "{count} terms across {systems} systems",
+  "@moduleVocabSubtitle": {
+    "description": "Home module card subtitle showing vocabulary statistics",
+    "placeholders": {
+      "count": { "type": "int", "example": "100" },
+      "systems": { "type": "int", "example": "8" }
+    }
+  },
+
+  "moduleKnowledgeTitle": "Knowledge Base",
+  "@moduleKnowledgeTitle": { "description": "Home module card title for knowledge base" },
+
+  "moduleKnowledgeSubtitle": "Anatomy & physiology",
+  "@moduleKnowledgeSubtitle": { "description": "Home module card subtitle for knowledge base" },
+
+  "moduleQuizTitle": "Self-Test",
+  "@moduleQuizTitle": { "description": "Home module card title for quiz section" },
+
+  "moduleQuizSubtitle": "Test your knowledge",
+  "@moduleQuizSubtitle": { "description": "Home module card subtitle for quiz section" },
+
+  "vocabListTitle": "Medical Vocabulary",
+  "@vocabListTitle": { "description": "App bar title for vocabulary list screen" },
+
+  "morphemeListTitle": "Word Roots & Affixes",
+  "@morphemeListTitle": { "description": "App bar title for morphemes list screen" },
+
+  "morphemeDetailTitle": "Word Root Detail",
+  "@morphemeDetailTitle": { "description": "App bar title for morpheme detail screen" },
+
+  "allSystems": "All Systems",
+  "@allSystems": { "description": "Filter chip label for showing all body systems" },
+
+  "difficultyLabel": "Difficulty",
+  "@difficultyLabel": { "description": "Label prefix for difficulty indicator" },
+
+  "etymologyLabel": "Etymology",
+  "@etymologyLabel": { "description": "Section header for word origin" },
+
+  "exampleLabel": "Example",
+  "@exampleLabel": { "description": "Section header for example sentence" },
+
+  "morphemesLabel": "Word Components",
+  "@morphemesLabel": { "description": "Section header showing how a word decomposes into morphemes" },
+
+  "wordsWithThisRoot": "Words with this root",
+  "@wordsWithThisRoot": { "description": "Section header on morpheme detail screen showing related vocabulary" },
+
+  "speakWord": "Pronounce",
+  "@speakWord": { "description": "Button label to trigger TTS pronunciation" },
+
+  "knowledgeTitle": "Knowledge Base",
+  "@knowledgeTitle": { "description": "App bar title for knowledge base section" },
+
+  "systemsTitle": "Body Systems",
+  "@systemsTitle": { "description": "Section header for body systems grid" },
+
+  "articleReadTime": "{minutes} min read",
+  "@articleReadTime": {
+    "description": "Estimated reading time shown on article cards",
+    "placeholders": {
+      "minutes": { "type": "int", "example": "3" }
+    }
+  },
+
+  "flashcardTitle": "Flashcard Study",
+  "@flashcardTitle": { "description": "App bar title for flashcard session" },
+
+  "startSession": "Start Session",
+  "@startSession": { "description": "Button to start a flashcard study session" },
+
+  "tapToFlip": "Tap to flip",
+  "@tapToFlip": { "description": "Hint text on flashcard front face" },
+
+  "iKnowThis": "I Know This",
+  "@iKnowThis": { "description": "Button on flashcard to mark as known" },
+
+  "needsReview": "Need Review",
+  "@needsReview": { "description": "Button on flashcard to mark for review" },
+
+  "sessionComplete": "Session Complete!",
+  "@sessionComplete": { "description": "Headline on session complete screen" },
+
+  "scoreLabel": "{correct}/{total} correct",
+  "@scoreLabel": {
+    "description": "Score display on session complete screen",
+    "placeholders": {
+      "correct": { "type": "int", "example": "15" },
+      "total": { "type": "int", "example": "20" }
+    }
+  },
+
+  "studyAgain": "Study Again",
+  "@studyAgain": { "description": "Button to restart a flashcard session" },
+
+  "backToVocab": "Back to Vocabulary",
+  "@backToVocab": { "description": "Button to return to vocabulary list from flashcard session" },
+
+  "quizTitle": "Self-Test",
+  "@quizTitle": { "description": "App bar title for quiz screen" },
+
+  "startQuiz": "Start Quiz",
+  "@startQuiz": { "description": "Button to begin a quiz" },
+
+  "questionOf": "Question {current} of {total}",
+  "@questionOf": {
+    "description": "Progress indicator during quiz",
+    "placeholders": {
+      "current": { "type": "int", "example": "3" },
+      "total": { "type": "int", "example": "10" }
+    }
+  },
+
+  "correct": "Correct!",
+  "@correct": { "description": "Feedback shown after a correct answer" },
+
+  "incorrect": "Incorrect",
+  "@incorrect": { "description": "Feedback shown after a wrong answer" },
+
+  "nextQuestion": "Next Question",
+  "@nextQuestion": { "description": "Button to advance to next quiz question" },
+
+  "seeResults": "See Results",
+  "@seeResults": { "description": "Button to view quiz results after last question" },
+
+  "quizResult": "Quiz Result",
+  "@quizResult": { "description": "App bar title for quiz results screen" },
+
+  "yourScore": "Your Score",
+  "@yourScore": { "description": "Label above score on quiz results screen" },
+
+  "reviewMistakes": "Review Mistakes",
+  "@reviewMistakes": { "description": "Button to review incorrect answers" },
+
+  "retakeQuiz": "Retake Quiz",
+  "@retakeQuiz": { "description": "Button to restart the same quiz" },
+
+  "notebookTitle": "My Notebook",
+  "@notebookTitle": { "description": "App bar title for notebook/saved words screen" },
+
+  "notebookEmpty": "No saved words yet",
+  "@notebookEmpty": { "description": "Empty state headline for notebook" },
+
+  "notebookEmptyHint": "Tap the bookmark icon on any vocabulary card to save it here",
+  "@notebookEmptyHint": { "description": "Empty state description for notebook" },
+
+  "addNote": "Add a note...",
+  "@addNote": { "description": "Placeholder for personal note input field" },
+
+  "masteryLevel": "Mastery Level",
+  "@masteryLevel": { "description": "Label for mastery level selector in notebook" },
+
+  "savedOn": "Saved on {date}",
+  "@savedOn": {
+    "description": "Shows when a word was saved to notebook",
+    "placeholders": {
+      "date": { "type": "String", "example": "Jun 5, 2026" }
+    }
+  },
+
+  "removeFromNotebook": "Remove",
+  "@removeFromNotebook": { "description": "Button to remove a word from the notebook" },
+
+  "aboutTitle": "About",
+  "@aboutTitle": { "description": "App bar title for about screen" },
+
+  "aboutAppVersion": "Version {version}",
+  "@aboutAppVersion": {
+    "description": "App version string on about screen",
+    "placeholders": {
+      "version": { "type": "String", "example": "1.0.0" }
+    }
+  },
+
+  "dataSourcesTitle": "Data Sources",
+  "@dataSourcesTitle": { "description": "Section header for data attribution on about screen" },
+
+  "dataSourcesBody": "Medical terminology based on NLM MeSH (public domain). Anatomy content adapted from OpenStax Anatomy & Physiology (CC-BY 4.0). Word roots are linguistic facts with no copyright restriction.",
+  "@dataSourcesBody": { "description": "Data attribution text" },
+
+  "openStaxCredit": "OpenStax Anatomy & Physiology (CC-BY 4.0)",
+  "@openStaxCredit": { "description": "Attribution for OpenStax content" },
+
+  "meshCredit": "NLM Medical Subject Headings (Public Domain)",
+  "@meshCredit": { "description": "Attribution for NLM MeSH terms" },
+
+  "githubLink": "View on GitHub",
+  "@githubLink": { "description": "Link button to GitHub repository" },
+
+  "search": "Search",
+  "@search": { "description": "Generic search label" },
+
+  "cancel": "Cancel",
+  "@cancel": { "description": "Generic cancel action" },
+
+  "save": "Save",
+  "@save": { "description": "Generic save action" },
+
+  "delete": "Delete",
+  "@delete": { "description": "Generic delete action" },
+
+  "back": "Back",
+  "@back": { "description": "Generic back navigation label" },
+
+  "loading": "Loading...",
+  "@loading": { "description": "Generic loading indicator text" },
+
+  "errorGeneric": "Something went wrong",
+  "@errorGeneric": { "description": "Generic error message" },
+
+  "noResults": "No results found",
+  "@noResults": { "description": "Empty search results message" },
+
+  "difficulty1": "Beginner",
+  "@difficulty1": { "description": "Difficulty level 1 label" },
+
+  "difficulty2": "Elementary",
+  "@difficulty2": { "description": "Difficulty level 2 label" },
+
+  "difficulty3": "Intermediate",
+  "@difficulty3": { "description": "Difficulty level 3 label" },
+
+  "difficulty4": "Advanced",
+  "@difficulty4": { "description": "Difficulty level 4 label" },
+
+  "difficulty5": "Expert",
+  "@difficulty5": { "description": "Difficulty level 5 label" }
+}

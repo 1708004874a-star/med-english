@@ -1,0 +1,1050 @@
+[
+  {
+    "id": 1,
+    "morpheme": "a-/an-",
+    "type": "prefix",
+    "meaning_zh": "无，缺乏",
+    "meaning_en": "without, no, not",
+    "origin": "Greek"
+  },
+  {
+    "id": 2,
+    "morpheme": "brady-",
+    "type": "prefix",
+    "meaning_zh": "慢",
+    "meaning_en": "slow",
+    "origin": "Greek"
+  },
+  {
+    "id": 3,
+    "morpheme": "cardio-/cardi-",
+    "type": "prefix",
+    "meaning_zh": "心脏",
+    "meaning_en": "heart, cardiac",
+    "origin": "Greek"
+  },
+  {
+    "id": 4,
+    "morpheme": "cephalo-",
+    "type": "prefix",
+    "meaning_zh": "头，头部",
+    "meaning_en": "head",
+    "origin": "Greek"
+  },
+  {
+    "id": 5,
+    "morpheme": "cyto-",
+    "type": "prefix",
+    "meaning_zh": "细胞",
+    "meaning_en": "cell",
+    "origin": "Greek"
+  },
+  {
+    "id": 6,
+    "morpheme": "dermo-/dermat-",
+    "type": "prefix",
+    "meaning_zh": "皮肤",
+    "meaning_en": "skin",
+    "origin": "Greek"
+  },
+  {
+    "id": 7,
+    "morpheme": "encephalo-",
+    "type": "prefix",
+    "meaning_zh": "脑，大脑",
+    "meaning_en": "brain",
+    "origin": "Greek"
+  },
+  {
+    "id": 8,
+    "morpheme": "entero-",
+    "type": "prefix",
+    "meaning_zh": "肠",
+    "meaning_en": "intestine",
+    "origin": "Greek"
+  },
+  {
+    "id": 9,
+    "morpheme": "erythro-",
+    "type": "prefix",
+    "meaning_zh": "红色，红细胞",
+    "meaning_en": "red, red blood cells",
+    "origin": "Greek"
+  },
+  {
+    "id": 10,
+    "morpheme": "gastro-",
+    "type": "prefix",
+    "meaning_zh": "胃",
+    "meaning_en": "stomach",
+    "origin": "Greek"
+  },
+  {
+    "id": 11,
+    "morpheme": "hemo-/hema-",
+    "type": "prefix",
+    "meaning_zh": "血液",
+    "meaning_en": "blood",
+    "origin": "Greek"
+  },
+  {
+    "id": 12,
+    "morpheme": "hepato-",
+    "type": "prefix",
+    "meaning_zh": "肝脏",
+    "meaning_en": "liver",
+    "origin": "Greek"
+  },
+  {
+    "id": 13,
+    "morpheme": "hyper-",
+    "type": "prefix",
+    "meaning_zh": "过高，超过正常",
+    "meaning_en": "excessive, above normal",
+    "origin": "Greek"
+  },
+  {
+    "id": 14,
+    "morpheme": "hypo-",
+    "type": "prefix",
+    "meaning_zh": "过低，低于正常",
+    "meaning_en": "deficient, below normal",
+    "origin": "Greek"
+  },
+  {
+    "id": 15,
+    "morpheme": "leuko-",
+    "type": "prefix",
+    "meaning_zh": "白色，白细胞",
+    "meaning_en": "white, white blood cells",
+    "origin": "Greek"
+  },
+  {
+    "id": 16,
+    "morpheme": "myo-/my-",
+    "type": "prefix",
+    "meaning_zh": "肌肉",
+    "meaning_en": "muscle",
+    "origin": "Greek"
+  },
+  {
+    "id": 17,
+    "morpheme": "nephro-",
+    "type": "prefix",
+    "meaning_zh": "肾脏",
+    "meaning_en": "kidney",
+    "origin": "Greek"
+  },
+  {
+    "id": 18,
+    "morpheme": "neuro-",
+    "type": "prefix",
+    "meaning_zh": "神经",
+    "meaning_en": "nerve",
+    "origin": "Greek"
+  },
+  {
+    "id": 19,
+    "morpheme": "onco-",
+    "type": "prefix",
+    "meaning_zh": "肿瘤，肿块",
+    "meaning_en": "tumor, mass",
+    "origin": "Greek"
+  },
+  {
+    "id": 20,
+    "morpheme": "osteo-",
+    "type": "prefix",
+    "meaning_zh": "骨骼",
+    "meaning_en": "bone",
+    "origin": "Greek"
+  },
+  {
+    "id": 21,
+    "morpheme": "patho-",
+    "type": "prefix",
+    "meaning_zh": "疾病",
+    "meaning_en": "disease",
+    "origin": "Greek"
+  },
+  {
+    "id": 22,
+    "morpheme": "peri-",
+    "type": "prefix",
+    "meaning_zh": "周围，环绕",
+    "meaning_en": "around, surrounding",
+    "origin": "Greek"
+  },
+  {
+    "id": 23,
+    "morpheme": "pneumo-/pneumon-",
+    "type": "prefix",
+    "meaning_zh": "肺，空气",
+    "meaning_en": "lung, air",
+    "origin": "Greek"
+  },
+  {
+    "id": 24,
+    "morpheme": "poly-",
+    "type": "prefix",
+    "meaning_zh": "多，多种",
+    "meaning_en": "many, multiple",
+    "origin": "Greek"
+  },
+  {
+    "id": 25,
+    "morpheme": "tachy-",
+    "type": "prefix",
+    "meaning_zh": "快速，急速",
+    "meaning_en": "rapid, fast",
+    "origin": "Greek"
+  },
+  {
+    "id": 26,
+    "morpheme": "uro-",
+    "type": "prefix",
+    "meaning_zh": "尿液，泌尿道",
+    "meaning_en": "urine, urinary tract",
+    "origin": "Greek"
+  },
+  {
+    "id": 27,
+    "morpheme": "angio-",
+    "type": "prefix",
+    "meaning_zh": "血管",
+    "meaning_en": "blood vessel",
+    "origin": "Greek"
+  },
+  {
+    "id": 28,
+    "morpheme": "arthro-",
+    "type": "prefix",
+    "meaning_zh": "关节",
+    "meaning_en": "joint",
+    "origin": "Greek"
+  },
+  {
+    "id": 29,
+    "morpheme": "bio-",
+    "type": "prefix",
+    "meaning_zh": "生命",
+    "meaning_en": "life",
+    "origin": "Greek"
+  },
+  {
+    "id": 30,
+    "morpheme": "endo-",
+    "type": "prefix",
+    "meaning_zh": "内部，内层",
+    "meaning_en": "within, inner",
+    "origin": "Greek"
+  },
+  {
+    "id": 31,
+    "morpheme": "-algia",
+    "type": "suffix",
+    "meaning_zh": "疼痛",
+    "meaning_en": "pain",
+    "origin": "Greek"
+  },
+  {
+    "id": 32,
+    "morpheme": "-emia",
+    "type": "suffix",
+    "meaning_zh": "血液状态",
+    "meaning_en": "blood condition",
+    "origin": "Greek"
+  },
+  {
+    "id": 33,
+    "morpheme": "-ectomy",
+    "type": "suffix",
+    "meaning_zh": "外科切除术",
+    "meaning_en": "surgical removal",
+    "origin": "Greek"
+  },
+  {
+    "id": 34,
+    "morpheme": "-itis",
+    "type": "suffix",
+    "meaning_zh": "炎症",
+    "meaning_en": "inflammation",
+    "origin": "Greek"
+  },
+  {
+    "id": 35,
+    "morpheme": "-logy/-ology",
+    "type": "suffix",
+    "meaning_zh": "…学，研究",
+    "meaning_en": "study of",
+    "origin": "Greek"
+  },
+  {
+    "id": 36,
+    "morpheme": "-megaly",
+    "type": "suffix",
+    "meaning_zh": "肥大，扩大",
+    "meaning_en": "enlargement",
+    "origin": "Greek"
+  },
+  {
+    "id": 37,
+    "morpheme": "-oma",
+    "type": "suffix",
+    "meaning_zh": "肿瘤，瘤",
+    "meaning_en": "tumor, mass",
+    "origin": "Greek"
+  },
+  {
+    "id": 38,
+    "morpheme": "-osis",
+    "type": "suffix",
+    "meaning_zh": "病症，异常过程",
+    "meaning_en": "condition, abnormal process",
+    "origin": "Greek"
+  },
+  {
+    "id": 39,
+    "morpheme": "-pathy",
+    "type": "suffix",
+    "meaning_zh": "疾病，病变",
+    "meaning_en": "disease, suffering",
+    "origin": "Greek"
+  },
+  {
+    "id": 40,
+    "morpheme": "-plasty",
+    "type": "suffix",
+    "meaning_zh": "外科修复术，成形术",
+    "meaning_en": "surgical repair, reconstruction",
+    "origin": "Greek"
+  },
+  {
+    "id": 41,
+    "morpheme": "-plegia",
+    "type": "suffix",
+    "meaning_zh": "瘫痪",
+    "meaning_en": "paralysis",
+    "origin": "Greek"
+  },
+  {
+    "id": 42,
+    "morpheme": "-rrhea",
+    "type": "suffix",
+    "meaning_zh": "流出，分泌",
+    "meaning_en": "flow, discharge",
+    "origin": "Greek"
+  },
+  {
+    "id": 43,
+    "morpheme": "-scopy",
+    "type": "suffix",
+    "meaning_zh": "内窥镜检查，目视检查",
+    "meaning_en": "visual examination",
+    "origin": "Greek"
+  },
+  {
+    "id": 44,
+    "morpheme": "-tomy",
+    "type": "suffix",
+    "meaning_zh": "切开术，切口",
+    "meaning_en": "cutting, incision",
+    "origin": "Greek"
+  },
+  {
+    "id": 45,
+    "morpheme": "-uria",
+    "type": "suffix",
+    "meaning_zh": "尿液状态",
+    "meaning_en": "urine condition",
+    "origin": "Greek"
+  },
+  {
+    "id": 46,
+    "morpheme": "-gram",
+    "type": "suffix",
+    "meaning_zh": "记录，影像",
+    "meaning_en": "record, image produced",
+    "origin": "Greek"
+  },
+  {
+    "id": 47,
+    "morpheme": "-ectasis",
+    "type": "suffix",
+    "meaning_zh": "异常扩张",
+    "meaning_en": "abnormal dilation",
+    "origin": "Greek"
+  },
+  {
+    "id": 48,
+    "morpheme": "-stenosis",
+    "type": "suffix",
+    "meaning_zh": "狭窄，收缩",
+    "meaning_en": "narrowing, constriction",
+    "origin": "Greek"
+  },
+  {
+    "id": 49,
+    "morpheme": "-trophy",
+    "type": "suffix",
+    "meaning_zh": "营养，生长",
+    "meaning_en": "nourishment, growth",
+    "origin": "Greek"
+  },
+  {
+    "id": 50,
+    "morpheme": "-genesis",
+    "type": "suffix",
+    "meaning_zh": "起源，产生",
+    "meaning_en": "origin, production",
+    "origin": "Greek"
+  },
+  {
+    "id": 51,
+    "morpheme": "arterio-",
+    "type": "root",
+    "meaning_zh": "动脉",
+    "meaning_en": "artery",
+    "origin": "Greek"
+  },
+  {
+    "id": 52,
+    "morpheme": "phlebo-/veno-",
+    "type": "root",
+    "meaning_zh": "静脉",
+    "meaning_en": "vein",
+    "origin": "Greek/Latin"
+  },
+  {
+    "id": 53,
+    "morpheme": "thrombo-",
+    "type": "root",
+    "meaning_zh": "血栓、血凝块",
+    "meaning_en": "clot, thrombus",
+    "origin": "Greek"
+  },
+  {
+    "id": 54,
+    "morpheme": "athero-",
+    "type": "root",
+    "meaning_zh": "脂肪斑块",
+    "meaning_en": "fatty plaque",
+    "origin": "Greek"
+  },
+  {
+    "id": 55,
+    "morpheme": "vaso-",
+    "type": "root",
+    "meaning_zh": "血管",
+    "meaning_en": "vessel",
+    "origin": "Latin"
+  },
+  {
+    "id": 56,
+    "morpheme": "aorto-",
+    "type": "root",
+    "meaning_zh": "主动脉",
+    "meaning_en": "aorta",
+    "origin": "Greek"
+  },
+  {
+    "id": 57,
+    "morpheme": "broncho-",
+    "type": "root",
+    "meaning_zh": "支气管",
+    "meaning_en": "bronchus",
+    "origin": "Greek"
+  },
+  {
+    "id": 58,
+    "morpheme": "laryngo-",
+    "type": "root",
+    "meaning_zh": "喉",
+    "meaning_en": "larynx",
+    "origin": "Greek"
+  },
+  {
+    "id": 59,
+    "morpheme": "pharyngo-",
+    "type": "root",
+    "meaning_zh": "咽",
+    "meaning_en": "pharynx",
+    "origin": "Greek"
+  },
+  {
+    "id": 60,
+    "morpheme": "rhino-",
+    "type": "root",
+    "meaning_zh": "鼻",
+    "meaning_en": "nose",
+    "origin": "Greek"
+  },
+  {
+    "id": 61,
+    "morpheme": "tracheo-",
+    "type": "root",
+    "meaning_zh": "气管",
+    "meaning_en": "trachea",
+    "origin": "Greek"
+  },
+  {
+    "id": 62,
+    "morpheme": "thoraco-",
+    "type": "root",
+    "meaning_zh": "胸、胸腔",
+    "meaning_en": "chest, thorax",
+    "origin": "Greek"
+  },
+  {
+    "id": 63,
+    "morpheme": "pleuro-",
+    "type": "root",
+    "meaning_zh": "胸膜",
+    "meaning_en": "pleura",
+    "origin": "Greek"
+  },
+  {
+    "id": 64,
+    "morpheme": "pulmo-/pulmono-",
+    "type": "root",
+    "meaning_zh": "肺",
+    "meaning_en": "lung",
+    "origin": "Latin"
+  },
+  {
+    "id": 65,
+    "morpheme": "oxy-",
+    "type": "root",
+    "meaning_zh": "氧",
+    "meaning_en": "oxygen",
+    "origin": "Greek"
+  },
+  {
+    "id": 66,
+    "morpheme": "-pnea",
+    "type": "suffix",
+    "meaning_zh": "呼吸",
+    "meaning_en": "breathing",
+    "origin": "Greek"
+  },
+  {
+    "id": 67,
+    "morpheme": "cerebro-",
+    "type": "root",
+    "meaning_zh": "大脑",
+    "meaning_en": "cerebrum",
+    "origin": "Latin"
+  },
+  {
+    "id": 68,
+    "morpheme": "cranio-",
+    "type": "root",
+    "meaning_zh": "颅、头骨",
+    "meaning_en": "skull",
+    "origin": "Greek"
+  },
+  {
+    "id": 69,
+    "morpheme": "myelo-",
+    "type": "root",
+    "meaning_zh": "脊髓、骨髓",
+    "meaning_en": "spinal cord, marrow",
+    "origin": "Greek"
+  },
+  {
+    "id": 70,
+    "morpheme": "meningo-",
+    "type": "root",
+    "meaning_zh": "脑膜",
+    "meaning_en": "meninges",
+    "origin": "Greek"
+  },
+  {
+    "id": 71,
+    "morpheme": "psycho-",
+    "type": "root",
+    "meaning_zh": "精神、心理",
+    "meaning_en": "mind",
+    "origin": "Greek"
+  },
+  {
+    "id": 72,
+    "morpheme": "-phasia",
+    "type": "suffix",
+    "meaning_zh": "言语（能力）",
+    "meaning_en": "speech",
+    "origin": "Greek"
+  },
+  {
+    "id": 73,
+    "morpheme": "-paresis",
+    "type": "suffix",
+    "meaning_zh": "轻瘫",
+    "meaning_en": "slight paralysis",
+    "origin": "Greek"
+  },
+  {
+    "id": 74,
+    "morpheme": "esthesi-",
+    "type": "root",
+    "meaning_zh": "感觉",
+    "meaning_en": "sensation",
+    "origin": "Greek"
+  },
+  {
+    "id": 75,
+    "morpheme": "colo-/colono-",
+    "type": "root",
+    "meaning_zh": "结肠",
+    "meaning_en": "colon",
+    "origin": "Greek"
+  },
+  {
+    "id": 76,
+    "morpheme": "procto-/recto-",
+    "type": "root",
+    "meaning_zh": "直肠、肛门",
+    "meaning_en": "rectum, anus",
+    "origin": "Greek/Latin"
+  },
+  {
+    "id": 77,
+    "morpheme": "chole-/cholecyst-",
+    "type": "root",
+    "meaning_zh": "胆汁、胆囊",
+    "meaning_en": "bile, gallbladder",
+    "origin": "Greek"
+  },
+  {
+    "id": 78,
+    "morpheme": "pancreat-",
+    "type": "root",
+    "meaning_zh": "胰腺",
+    "meaning_en": "pancreas",
+    "origin": "Greek"
+  },
+  {
+    "id": 79,
+    "morpheme": "esophag-",
+    "type": "root",
+    "meaning_zh": "食管",
+    "meaning_en": "esophagus",
+    "origin": "Greek"
+  },
+  {
+    "id": 80,
+    "morpheme": "glosso-",
+    "type": "root",
+    "meaning_zh": "舌",
+    "meaning_en": "tongue",
+    "origin": "Greek"
+  },
+  {
+    "id": 81,
+    "morpheme": "-emesis",
+    "type": "suffix",
+    "meaning_zh": "呕吐",
+    "meaning_en": "vomiting",
+    "origin": "Greek"
+  },
+  {
+    "id": 82,
+    "morpheme": "-phagia",
+    "type": "suffix",
+    "meaning_zh": "吞咽、进食",
+    "meaning_en": "eating, swallowing",
+    "origin": "Greek"
+  },
+  {
+    "id": 83,
+    "morpheme": "lapar-",
+    "type": "root",
+    "meaning_zh": "腹部",
+    "meaning_en": "abdomen",
+    "origin": "Greek"
+  },
+  {
+    "id": 84,
+    "morpheme": "chondro-",
+    "type": "root",
+    "meaning_zh": "软骨",
+    "meaning_en": "cartilage",
+    "origin": "Greek"
+  },
+  {
+    "id": 85,
+    "morpheme": "teno-/tendin-",
+    "type": "root",
+    "meaning_zh": "肌腱",
+    "meaning_en": "tendon",
+    "origin": "Greek/Latin"
+  },
+  {
+    "id": 86,
+    "morpheme": "spondylo-",
+    "type": "root",
+    "meaning_zh": "椎骨",
+    "meaning_en": "vertebra",
+    "origin": "Greek"
+  },
+  {
+    "id": 87,
+    "morpheme": "costo-",
+    "type": "root",
+    "meaning_zh": "肋骨",
+    "meaning_en": "rib",
+    "origin": "Latin"
+  },
+  {
+    "id": 88,
+    "morpheme": "kinesi-",
+    "type": "root",
+    "meaning_zh": "运动",
+    "meaning_en": "movement",
+    "origin": "Greek"
+  },
+  {
+    "id": 89,
+    "morpheme": "-malacia",
+    "type": "suffix",
+    "meaning_zh": "软化",
+    "meaning_en": "softening",
+    "origin": "Greek"
+  },
+  {
+    "id": 90,
+    "morpheme": "-desis",
+    "type": "suffix",
+    "meaning_zh": "融合、固定",
+    "meaning_en": "fusion",
+    "origin": "Greek"
+  },
+  {
+    "id": 91,
+    "morpheme": "thyro-",
+    "type": "root",
+    "meaning_zh": "甲状腺",
+    "meaning_en": "thyroid",
+    "origin": "Greek"
+  },
+  {
+    "id": 92,
+    "morpheme": "adreno-",
+    "type": "root",
+    "meaning_zh": "肾上腺",
+    "meaning_en": "adrenal gland",
+    "origin": "Latin"
+  },
+  {
+    "id": 93,
+    "morpheme": "glyco-/gluco-",
+    "type": "root",
+    "meaning_zh": "糖、葡萄糖",
+    "meaning_en": "sugar, glucose",
+    "origin": "Greek"
+  },
+  {
+    "id": 94,
+    "morpheme": "aden-",
+    "type": "root",
+    "meaning_zh": "腺",
+    "meaning_en": "gland",
+    "origin": "Greek"
+  },
+  {
+    "id": 95,
+    "morpheme": "-dipsia",
+    "type": "suffix",
+    "meaning_zh": "渴",
+    "meaning_en": "thirst",
+    "origin": "Greek"
+  },
+  {
+    "id": 96,
+    "morpheme": "reno-",
+    "type": "root",
+    "meaning_zh": "肾",
+    "meaning_en": "kidney",
+    "origin": "Latin"
+  },
+  {
+    "id": 97,
+    "morpheme": "cysto-",
+    "type": "root",
+    "meaning_zh": "膀胱、囊",
+    "meaning_en": "bladder, sac",
+    "origin": "Greek"
+  },
+  {
+    "id": 98,
+    "morpheme": "pyelo-",
+    "type": "root",
+    "meaning_zh": "肾盂",
+    "meaning_en": "renal pelvis",
+    "origin": "Greek"
+  },
+  {
+    "id": 99,
+    "morpheme": "uretero-",
+    "type": "root",
+    "meaning_zh": "输尿管",
+    "meaning_en": "ureter",
+    "origin": "Greek"
+  },
+  {
+    "id": 100,
+    "morpheme": "urethro-",
+    "type": "root",
+    "meaning_zh": "尿道",
+    "meaning_en": "urethra",
+    "origin": "Greek"
+  },
+  {
+    "id": 101,
+    "morpheme": "glomerulo-",
+    "type": "root",
+    "meaning_zh": "肾小球",
+    "meaning_en": "glomerulus",
+    "origin": "Latin"
+  },
+  {
+    "id": 102,
+    "morpheme": "litho-",
+    "type": "root",
+    "meaning_zh": "结石",
+    "meaning_en": "stone",
+    "origin": "Greek"
+  },
+  {
+    "id": 103,
+    "morpheme": "olig-",
+    "type": "root",
+    "meaning_zh": "少",
+    "meaning_en": "scanty, few",
+    "origin": "Greek"
+  },
+  {
+    "id": 104,
+    "morpheme": "kerato-",
+    "type": "root",
+    "meaning_zh": "角质、角膜",
+    "meaning_en": "horny tissue, cornea",
+    "origin": "Greek"
+  },
+  {
+    "id": 105,
+    "morpheme": "melano-",
+    "type": "root",
+    "meaning_zh": "黑色",
+    "meaning_en": "black",
+    "origin": "Greek"
+  },
+  {
+    "id": 106,
+    "morpheme": "onycho-",
+    "type": "root",
+    "meaning_zh": "甲、指甲",
+    "meaning_en": "nail",
+    "origin": "Greek"
+  },
+  {
+    "id": 107,
+    "morpheme": "tricho-",
+    "type": "root",
+    "meaning_zh": "毛发",
+    "meaning_en": "hair",
+    "origin": "Greek"
+  },
+  {
+    "id": 108,
+    "morpheme": "xero-",
+    "type": "root",
+    "meaning_zh": "干燥",
+    "meaning_en": "dry",
+    "origin": "Greek"
+  },
+  {
+    "id": 109,
+    "morpheme": "cyano-",
+    "type": "root",
+    "meaning_zh": "蓝色、青紫",
+    "meaning_en": "blue",
+    "origin": "Greek"
+  },
+  {
+    "id": 110,
+    "morpheme": "-penia",
+    "type": "suffix",
+    "meaning_zh": "减少、缺乏",
+    "meaning_en": "deficiency",
+    "origin": "Greek"
+  },
+  {
+    "id": 111,
+    "morpheme": "-lysis",
+    "type": "suffix",
+    "meaning_zh": "分解、破坏",
+    "meaning_en": "breakdown, dissolution",
+    "origin": "Greek"
+  },
+  {
+    "id": 112,
+    "morpheme": "-spasm",
+    "type": "suffix",
+    "meaning_zh": "痉挛",
+    "meaning_en": "involuntary contraction",
+    "origin": "Greek"
+  },
+  {
+    "id": 113,
+    "morpheme": "-ptosis",
+    "type": "suffix",
+    "meaning_zh": "下垂",
+    "meaning_en": "drooping, prolapse",
+    "origin": "Greek"
+  },
+  {
+    "id": 114,
+    "morpheme": "-rrhagia",
+    "type": "suffix",
+    "meaning_zh": "出血、大量流出",
+    "meaning_en": "bursting forth, hemorrhage",
+    "origin": "Greek"
+  },
+  {
+    "id": 115,
+    "morpheme": "-rrhaphy",
+    "type": "suffix",
+    "meaning_zh": "缝合",
+    "meaning_en": "suture",
+    "origin": "Greek"
+  },
+  {
+    "id": 116,
+    "morpheme": "-centesis",
+    "type": "suffix",
+    "meaning_zh": "穿刺抽液",
+    "meaning_en": "surgical puncture",
+    "origin": "Greek"
+  },
+  {
+    "id": 117,
+    "morpheme": "-stomy",
+    "type": "suffix",
+    "meaning_zh": "造口、造瘘",
+    "meaning_en": "surgical opening",
+    "origin": "Greek"
+  },
+  {
+    "id": 118,
+    "morpheme": "-pexy",
+    "type": "suffix",
+    "meaning_zh": "固定术",
+    "meaning_en": "surgical fixation",
+    "origin": "Greek"
+  },
+  {
+    "id": 119,
+    "morpheme": "-poiesis",
+    "type": "suffix",
+    "meaning_zh": "生成",
+    "meaning_en": "formation, production",
+    "origin": "Greek"
+  },
+  {
+    "id": 120,
+    "morpheme": "-cele",
+    "type": "suffix",
+    "meaning_zh": "疝、膨出",
+    "meaning_en": "hernia, protrusion",
+    "origin": "Greek"
+  },
+  {
+    "id": 121,
+    "morpheme": "-plasia",
+    "type": "suffix",
+    "meaning_zh": "形成、发育",
+    "meaning_en": "formation, development",
+    "origin": "Greek"
+  },
+  {
+    "id": 122,
+    "morpheme": "-sclerosis",
+    "type": "suffix",
+    "meaning_zh": "硬化",
+    "meaning_en": "hardening",
+    "origin": "Greek"
+  },
+  {
+    "id": 123,
+    "morpheme": "-stasis",
+    "type": "suffix",
+    "meaning_zh": "停止、控制",
+    "meaning_en": "stopping, controlling",
+    "origin": "Greek"
+  },
+  {
+    "id": 124,
+    "morpheme": "anti-",
+    "type": "prefix",
+    "meaning_zh": "对抗、抗",
+    "meaning_en": "against",
+    "origin": "Greek"
+  },
+  {
+    "id": 125,
+    "morpheme": "dys-",
+    "type": "prefix",
+    "meaning_zh": "困难、异常",
+    "meaning_en": "difficult, abnormal",
+    "origin": "Greek"
+  },
+  {
+    "id": 126,
+    "morpheme": "inter-",
+    "type": "prefix",
+    "meaning_zh": "在……之间",
+    "meaning_en": "between",
+    "origin": "Latin"
+  },
+  {
+    "id": 127,
+    "morpheme": "intra-",
+    "type": "prefix",
+    "meaning_zh": "在……之内",
+    "meaning_en": "within",
+    "origin": "Latin"
+  },
+  {
+    "id": 128,
+    "morpheme": "sub-",
+    "type": "prefix",
+    "meaning_zh": "在……之下",
+    "meaning_en": "under, below",
+    "origin": "Latin"
+  },
+  {
+    "id": 129,
+    "morpheme": "trans-",
+    "type": "prefix",
+    "meaning_zh": "穿过、转移",
+    "meaning_en": "across, through",
+    "origin": "Latin"
+  },
+  {
+    "id": 130,
+    "morpheme": "neo-",
+    "type": "prefix",
+    "meaning_zh": "新",
+    "meaning_en": "new",
+    "origin": "Greek"
+  },
+  {
+    "id": 131,
+    "morpheme": "post-",
+    "type": "prefix",
+    "meaning_zh": "在……之后",
+    "meaning_en": "after, behind",
+    "origin": "Latin"
+  }
+]

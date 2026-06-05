@@ -1,0 +1,4871 @@
+[
+  {
+    "id": 1,
+    "word": "myocarditis",
+    "ipa": "/ˌmaɪ.oʊ.kɑːrˈdaɪ.tɪs/",
+    "def_en": "Inflammation of the myocardium (heart muscle), most often caused by viral infection.",
+    "def_zh": "心肌炎：心肌（心脏肌肉）的炎症，通常由病毒感染引起。",
+    "example_en": "Viral myocarditis can lead to cardiac arrhythmias and, in severe cases, heart failure.",
+    "example_zh": "病毒性心肌炎可导致心律失常，严重时可引发心力衰竭。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      16,
+      3,
+      34
+    ]
+  },
+  {
+    "id": 2,
+    "word": "atherosclerosis",
+    "ipa": "/ˌæθ.ər.oʊ.sklɪˈroʊ.sɪs/",
+    "def_en": "Hardening and narrowing of arteries due to the buildup of plaques containing lipids and other substances.",
+    "def_zh": "动脉粥样硬化：动脉内壁因脂质等物质堆积形成斑块，导致动脉管腔变硬变窄。",
+    "example_en": "Atherosclerosis is a leading cause of heart attacks and strokes worldwide.",
+    "example_zh": "动脉粥样硬化是全球心脏病发作和脑卒中的主要原因。",
+    "system_id": 1,
+    "difficulty": 4,
+    "morpheme_ids": [
+      38
+    ]
+  },
+  {
+    "id": 3,
+    "word": "tachycardia",
+    "ipa": "/ˌtæk.ɪˈkɑːr.di.ə/",
+    "def_en": "Abnormally rapid heart rate, typically defined as more than 100 beats per minute in adults.",
+    "def_zh": "心动过速：心率异常加快，成人通常定义为每分钟超过100次。",
+    "example_en": "Stress, caffeine, and fever are common causes of sinus tachycardia.",
+    "example_zh": "压力、咖啡因和发热是窦性心动过速的常见原因。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": [
+      25,
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "word": "bradycardia",
+    "ipa": "/ˌbreɪ.dɪˈkɑːr.di.ə/",
+    "def_en": "Abnormally slow heart rate, typically defined as fewer than 60 beats per minute in adults.",
+    "def_zh": "心动过缓：心率异常减慢，成人通常定义为每分钟低于60次。",
+    "example_en": "Well-trained athletes often have resting bradycardia as a sign of cardiovascular fitness.",
+    "example_zh": "训练有素的运动员常因心血管功能良好而出现静息性心动过缓。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "word": "hypertension",
+    "ipa": "/ˌhaɪ.pərˈten.ʃən/",
+    "def_en": "A condition in which the force of blood against artery walls is consistently too high, classified as ≥130/80 mmHg.",
+    "def_zh": "高血压：血液对动脉壁的压力持续偏高，通常定义为血压≥130/80 mmHg。",
+    "example_en": "Hypertension is often called the 'silent killer' because it typically has no symptoms.",
+    "example_zh": "高血压常被称为\"无声杀手\"，因为它通常没有明显症状。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": [
+      13
+    ]
+  },
+  {
+    "id": 6,
+    "word": "pericardium",
+    "ipa": "/ˌper.ɪˈkɑːr.di.əm/",
+    "def_en": "The double-walled fibrous sac that encloses the heart and the roots of the great blood vessels.",
+    "def_zh": "心包：包裹心脏和大血管根部的双层纤维囊。",
+    "example_en": "Pericarditis causes inflammation of the pericardium, resulting in sharp chest pain.",
+    "example_zh": "心包炎导致心包发炎，引起剧烈胸痛。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": [
+      22,
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "word": "arrhythmia",
+    "ipa": "/əˈrɪð.mi.ə/",
+    "def_en": "Any irregularity in the rate or rhythm of the heartbeat, including beats that are too fast, too slow, or irregular.",
+    "def_zh": "心律失常：心跳频率或节律的任何不规则，包括过快、过慢或不规律。",
+    "example_en": "Atrial fibrillation is the most common type of serious arrhythmia.",
+    "example_zh": "心房颤动是最常见的严重心律失常类型。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      1
+    ]
+  },
+  {
+    "id": 8,
+    "word": "ischemia",
+    "ipa": "/ɪˈski.mi.ə/",
+    "def_en": "Insufficient blood supply to a tissue or organ, leading to oxygen deprivation and potential tissue damage.",
+    "def_zh": "缺血：某个组织或器官的血液供应不足，导致缺氧和潜在的组织损伤。",
+    "example_en": "Myocardial ischemia occurs when the heart muscle does not receive enough blood.",
+    "example_zh": "心肌缺血是指心肌没有得到足够血液供应的状态。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      32
+    ]
+  },
+  {
+    "id": 9,
+    "word": "angioplasty",
+    "ipa": "/ˈæn.dʒi.oʊ.plæs.ti/",
+    "def_en": "A procedure to mechanically widen a narrowed or obstructed blood vessel, typically using a balloon catheter.",
+    "def_zh": "血管成形术：通过机械方法扩张狭窄或阻塞的血管，通常使用球囊导管。",
+    "example_en": "Coronary angioplasty can restore blood flow to the heart after a vessel is blocked.",
+    "example_zh": "冠状动脉血管成形术可在血管阻塞后恢复心脏血流。",
+    "system_id": 1,
+    "difficulty": 4,
+    "morpheme_ids": [
+      27,
+      40
+    ]
+  },
+  {
+    "id": 10,
+    "word": "cardiomegaly",
+    "ipa": "/ˌkɑːr.di.oʊˈmeg.ə.li/",
+    "def_en": "Abnormal enlargement of the heart, which may be caused by hypertension, heart disease, or other conditions.",
+    "def_zh": "心脏肥大：心脏异常增大，可能由高血压、心脏病或其他疾病引起。",
+    "example_en": "An echocardiogram can detect cardiomegaly and assess heart function.",
+    "example_zh": "超声心动图可以检测心脏肥大并评估心脏功能。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      3,
+      36
+    ]
+  },
+  {
+    "id": 11,
+    "word": "hemoglobin",
+    "ipa": "/ˌhi.məˈgloʊ.bɪn/",
+    "def_en": "The iron-containing protein in red blood cells that binds oxygen for transport throughout the body.",
+    "def_zh": "血红蛋白：红细胞中含铁的蛋白质，与氧气结合并将其输送至全身。",
+    "example_en": "Low hemoglobin levels are the hallmark of anemia.",
+    "example_zh": "血红蛋白水平低是贫血的主要标志。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": [
+      11
+    ]
+  },
+  {
+    "id": 12,
+    "word": "leukemia",
+    "ipa": "/luˈki.mi.ə/",
+    "def_en": "A type of cancer of blood-forming tissues, characterized by the overproduction of abnormal white blood cells.",
+    "def_zh": "白血病：一种造血组织的癌症，以异常白细胞过度增殖为特征。",
+    "example_en": "Acute lymphoblastic leukemia is the most common form of leukemia in children.",
+    "example_zh": "急性淋巴细胞白血病是儿童中最常见的白血病类型。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      15,
+      32
+    ]
+  },
+  {
+    "id": 13,
+    "word": "pneumonia",
+    "ipa": "/njuˈmoʊ.ni.ə/",
+    "def_en": "An infection that inflames the air sacs (alveoli) in one or both lungs, which may fill with fluid.",
+    "def_zh": "肺炎：使一侧或两侧肺部肺泡发炎的感染，肺泡可能充满液体。",
+    "example_en": "Bacterial pneumonia can be treated with antibiotics, while viral pneumonia requires supportive care.",
+    "example_zh": "细菌性肺炎可用抗生素治疗，而病毒性肺炎则需要支持性护理。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": [
+      23
+    ]
+  },
+  {
+    "id": 14,
+    "word": "bronchitis",
+    "ipa": "/brɒŋˈkaɪ.tɪs/",
+    "def_en": "Inflammation of the lining of the bronchial tubes, which carry air to and from the lungs.",
+    "def_zh": "支气管炎：连接肺部的支气管黏膜炎症。",
+    "example_en": "Chronic bronchitis is defined as a productive cough lasting at least three months for two consecutive years.",
+    "example_zh": "慢性支气管炎定义为连续两年每年持续至少三个月的咳嗽咳痰。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": [
+      34
+    ]
+  },
+  {
+    "id": 15,
+    "word": "emphysema",
+    "ipa": "/ˌem.fɪˈsi.mə/",
+    "def_en": "A chronic lung condition in which the alveoli are destroyed and over-inflated, reducing gas exchange capacity.",
+    "def_zh": "肺气肿：一种慢性肺部疾病，肺泡被破坏并过度充气，导致气体交换能力下降。",
+    "example_en": "Long-term smoking is the primary cause of emphysema.",
+    "example_zh": "长期吸烟是肺气肿的主要原因。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 16,
+    "word": "dyspnea",
+    "ipa": "/ˈdɪsp.ni.ə/",
+    "def_en": "Difficult or labored breathing; a subjective sensation of shortness of breath.",
+    "def_zh": "呼吸困难：呼吸费力或窘迫，主观感到气短。",
+    "example_en": "Dyspnea on exertion is an early symptom of heart failure.",
+    "example_zh": "劳力性呼吸困难是心力衰竭的早期症状之一。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      1
+    ]
+  },
+  {
+    "id": 17,
+    "word": "trachea",
+    "ipa": "/ˈtreɪ.ki.ə/",
+    "def_en": "The cartilaginous tube, also called the windpipe, that connects the larynx to the bronchi.",
+    "def_zh": "气管：连接喉部与支气管的软骨管道，俗称\"风管\"。",
+    "example_en": "A tracheostomy creates an opening in the trachea to provide an airway when the upper airway is blocked.",
+    "example_zh": "气管造口术是在气管上开口，在上呼吸道阻塞时提供通气通道。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 18,
+    "word": "bronchiectasis",
+    "ipa": "/ˌbrɒŋ.kiˈek.tə.sɪs/",
+    "def_en": "Permanent abnormal widening of the bronchi, causing them to be flabby and scarred.",
+    "def_zh": "支气管扩张症：支气管永久性异常扩张，使其变得松弛并有瘢痕。",
+    "example_en": "Repeated lung infections are a common cause of bronchiectasis.",
+    "example_zh": "反复肺部感染是支气管扩张症的常见原因。",
+    "system_id": 2,
+    "difficulty": 4,
+    "morpheme_ids": [
+      47
+    ]
+  },
+  {
+    "id": 19,
+    "word": "hemoptysis",
+    "ipa": "/hɪˈmɒp.tɪ.sɪs/",
+    "def_en": "The coughing up of blood or blood-tinged mucus from the lungs or bronchial tubes.",
+    "def_zh": "咯血：从肺部或支气管咳出血液或带血黏液。",
+    "example_en": "Hemoptysis can be a sign of tuberculosis, lung cancer, or pulmonary embolism.",
+    "example_zh": "咯血可能是结核病、肺癌或肺栓塞的征兆。",
+    "system_id": 2,
+    "difficulty": 4,
+    "morpheme_ids": [
+      11
+    ]
+  },
+  {
+    "id": 20,
+    "word": "apnea",
+    "ipa": "/ˈæp.ni.ə/",
+    "def_en": "Temporary cessation of breathing, often occurring during sleep (sleep apnea).",
+    "def_zh": "呼吸暂停：呼吸暂时停止，常发生于睡眠中（睡眠呼吸暂停）。",
+    "example_en": "Obstructive sleep apnea is characterized by repeated episodes of upper airway collapse during sleep.",
+    "example_zh": "阻塞性睡眠呼吸暂停的特征是睡眠中上气道反复塌陷。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": [
+      1
+    ]
+  },
+  {
+    "id": 21,
+    "word": "cyanosis",
+    "ipa": "/ˌsaɪ.əˈnoʊ.sɪs/",
+    "def_en": "Blue or purple discoloration of the skin and mucous membranes due to insufficient oxygen in the blood.",
+    "def_zh": "发绀：血液中氧气不足导致皮肤和黏膜呈蓝紫色。",
+    "example_en": "Peripheral cyanosis, seen in the fingertips, can indicate poor circulation.",
+    "example_zh": "末梢发绀（指尖发蓝）可能提示循环不良。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      38
+    ]
+  },
+  {
+    "id": 22,
+    "word": "alveolus",
+    "ipa": "/ælˈvi.ə.ləs/",
+    "def_en": "A tiny air sac in the lungs (plural: alveoli) where gas exchange between air and blood takes place.",
+    "def_zh": "肺泡：肺中的微小气囊（复数：alveoli），是空气与血液进行气体交换的场所。",
+    "example_en": "The human lungs contain approximately 300 million alveoli, providing a large surface area for gas exchange.",
+    "example_zh": "人体肺部约有3亿个肺泡，为气体交换提供了巨大的表面积。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 23,
+    "word": "spirometry",
+    "ipa": "/spaɪˈrɒm.ɪ.tri/",
+    "def_en": "A pulmonary function test that measures the amount of air a person can inhale and exhale, and how quickly.",
+    "def_zh": "肺活量测定：一种肺功能检查，用于测量吸入和呼出的气体量及速度。",
+    "example_en": "Spirometry is the gold standard for diagnosing and monitoring COPD.",
+    "example_zh": "肺活量测定是诊断和监测慢性阻塞性肺疾病（COPD）的金标准。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 24,
+    "word": "pneumothorax",
+    "ipa": "/ˌnjuː.moʊˈθɔːr.æks/",
+    "def_en": "Abnormal presence of air in the pleural space between the lung and chest wall, causing partial or total lung collapse.",
+    "def_zh": "气胸：肺与胸壁之间的胸膜腔内异常积气，导致肺部部分或完全萎陷。",
+    "example_en": "A spontaneous pneumothorax can occur without obvious cause in tall, young individuals.",
+    "example_zh": "自发性气胸可在无明显诱因的情况下发生在高个子年轻人身上。",
+    "system_id": 2,
+    "difficulty": 4,
+    "morpheme_ids": [
+      23
+    ]
+  },
+  {
+    "id": 25,
+    "word": "neuralgia",
+    "ipa": "/njʊˈræl.dʒi.ə/",
+    "def_en": "Sharp, stabbing, or burning pain along the path of a nerve, without apparent structural damage to the nerve.",
+    "def_zh": "神经痛：沿神经走行出现的剧烈、刺痛或烧灼样疼痛，神经本身无明显结构损伤。",
+    "example_en": "Trigeminal neuralgia affects the facial nerve and causes severe facial pain.",
+    "example_zh": "三叉神经痛累及面部神经，引起严重的面部疼痛。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      18,
+      31
+    ]
+  },
+  {
+    "id": 26,
+    "word": "encephalitis",
+    "ipa": "/ɪnˌsɛf.əˈlaɪ.tɪs/",
+    "def_en": "Inflammation of the brain, typically caused by a viral infection or autoimmune response.",
+    "def_zh": "脑炎：大脑的炎症，通常由病毒感染或自身免疫反应引起。",
+    "example_en": "Viral encephalitis can cause fever, headache, and altered consciousness.",
+    "example_zh": "病毒性脑炎可引起发热、头痛和意识改变。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      7,
+      34
+    ]
+  },
+  {
+    "id": 27,
+    "word": "meningitis",
+    "ipa": "/ˌmen.ɪnˈdʒaɪ.tɪs/",
+    "def_en": "Inflammation of the meninges, the membranes that surround the brain and spinal cord.",
+    "def_zh": "脑膜炎：包绕脑和脊髓的脑膜发生炎症。",
+    "example_en": "Bacterial meningitis is a medical emergency that requires prompt treatment.",
+    "example_zh": "细菌性脑膜炎是需要迅速处理的医疗紧急情况。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      34
+    ]
+  },
+  {
+    "id": 28,
+    "word": "axon",
+    "ipa": "/ˈæk.sɒn/",
+    "def_en": "The long, slender projection of a neuron that conducts electrical impulses away from the cell body.",
+    "def_zh": "轴突：神经元的细长突起，负责将电信号从细胞体传向外周。",
+    "example_en": "The myelin sheath surrounding an axon speeds up signal transmission.",
+    "example_zh": "包裹轴突的髓鞘可以加快信号传导速度。",
+    "system_id": 3,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 29,
+    "word": "synapse",
+    "ipa": "/ˈsɪn.æps/",
+    "def_en": "The junction between two neurons where chemical or electrical signals are transmitted.",
+    "def_zh": "突触：两个神经元之间的连接部位，负责传递化学或电信号。",
+    "example_en": "Neurotransmitters are released across the synapse to communicate between neurons.",
+    "example_zh": "神经递质在突触间隙中释放，以在神经元之间传递信息。",
+    "system_id": 3,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 30,
+    "word": "paraplegia",
+    "ipa": "/ˌpær.əˈpliː.dʒi.ə/",
+    "def_en": "Paralysis of the lower extremities and often the lower trunk, caused by injury or disease of the spinal cord.",
+    "def_zh": "截瘫：因脊髓损伤或疾病引起的下肢（及下躯干）瘫痪。",
+    "example_en": "Spinal cord injuries at the thoracic level often result in paraplegia.",
+    "example_zh": "胸椎水平的脊髓损伤通常导致截瘫。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      41
+    ]
+  },
+  {
+    "id": 31,
+    "word": "epilepsy",
+    "ipa": "/ˈep.ɪ.lep.si/",
+    "def_en": "A neurological disorder characterized by recurrent, unprovoked seizures due to abnormal brain electrical activity.",
+    "def_zh": "癫痫：以反复发作的无诱因癫痫发作为特征的神经系统疾病，由大脑异常放电引起。",
+    "example_en": "Many people with epilepsy achieve good seizure control with antiepileptic medication.",
+    "example_zh": "许多癫痫患者通过服用抗癫痫药物可以较好地控制发作。",
+    "system_id": 3,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 32,
+    "word": "neuropathy",
+    "ipa": "/njʊˈrɒp.ə.θi/",
+    "def_en": "A disease or dysfunction of one or more peripheral nerves, causing weakness, numbness, or pain.",
+    "def_zh": "神经病变：一条或多条周围神经的疾病或功能障碍，引起无力、麻木或疼痛。",
+    "example_en": "Diabetic peripheral neuropathy commonly affects the feet and legs.",
+    "example_zh": "糖尿病周围神经病变通常影响足部和腿部。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      18,
+      39
+    ]
+  },
+  {
+    "id": 33,
+    "word": "dementia",
+    "ipa": "/dɪˈmen.ʃə/",
+    "def_en": "A group of symptoms affecting memory, thinking, and social ability severely enough to interfere with daily functioning.",
+    "def_zh": "痴呆症：一组影响记忆、思维和社交能力的症状，严重到影响日常生活功能。",
+    "example_en": "Alzheimer's disease is the most common cause of dementia.",
+    "example_zh": "阿尔茨海默病是痴呆症最常见的原因。",
+    "system_id": 3,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 34,
+    "word": "myelin",
+    "ipa": "/ˈmaɪ.ə.lɪn/",
+    "def_en": "A fatty, insulating sheath that surrounds the axons of many neurons, dramatically increasing the speed of nerve impulses.",
+    "def_zh": "髓鞘：包绕许多神经元轴突的脂质绝缘鞘，能显著加快神经冲动的传导速度。",
+    "example_en": "Multiple sclerosis is caused by the immune system attacking the myelin sheath.",
+    "example_zh": "多发性硬化症是由免疫系统攻击髓鞘引起的。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      16
+    ]
+  },
+  {
+    "id": 35,
+    "word": "hemiplegia",
+    "ipa": "/ˌhem.ɪˈpliː.dʒi.ə/",
+    "def_en": "Paralysis of one side of the body, typically caused by a stroke or brain injury.",
+    "def_zh": "偏瘫：身体一侧的瘫痪，通常由脑卒中或脑损伤引起。",
+    "example_en": "Left hemiplegia occurs when there is damage to the right side of the brain.",
+    "example_zh": "左侧偏瘫是由右侧大脑受损引起的。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      41
+    ]
+  },
+  {
+    "id": 36,
+    "word": "neurology",
+    "ipa": "/njʊˈrɒl.ə.dʒi/",
+    "def_en": "The medical specialty concerned with the study and treatment of disorders of the nervous system.",
+    "def_zh": "神经病学：研究和治疗神经系统疾病的医学专科。",
+    "example_en": "A neurologist specializes in conditions like epilepsy, stroke, and Parkinson's disease.",
+    "example_zh": "神经科医生专门处理癫痫、脑卒中和帕金森病等疾病。",
+    "system_id": 3,
+    "difficulty": 1,
+    "morpheme_ids": [
+      18,
+      35
+    ]
+  },
+  {
+    "id": 37,
+    "word": "gastritis",
+    "ipa": "/gæˈstraɪ.tɪs/",
+    "def_en": "Inflammation of the stomach lining, which can cause nausea, vomiting, and upper abdominal pain.",
+    "def_zh": "胃炎：胃黏膜炎症，可引起恶心、呕吐和上腹部疼痛。",
+    "example_en": "H. pylori infection is the most common cause of chronic gastritis worldwide.",
+    "example_zh": "幽门螺杆菌感染是全球慢性胃炎最常见的原因。",
+    "system_id": 4,
+    "difficulty": 2,
+    "morpheme_ids": [
+      10,
+      34
+    ]
+  },
+  {
+    "id": 38,
+    "word": "hepatitis",
+    "ipa": "/ˌhep.əˈtaɪ.tɪs/",
+    "def_en": "Inflammation of the liver, most commonly caused by viral infection (hepatitis A, B, or C) or alcohol use.",
+    "def_zh": "肝炎：肝脏炎症，最常由病毒感染（甲、乙、丙型肝炎病毒）或酗酒引起。",
+    "example_en": "Hepatitis B virus can be transmitted through blood and bodily fluids.",
+    "example_zh": "乙型肝炎病毒可通过血液和体液传播。",
+    "system_id": 4,
+    "difficulty": 2,
+    "morpheme_ids": [
+      12,
+      34
+    ]
+  },
+  {
+    "id": 39,
+    "word": "cirrhosis",
+    "ipa": "/sɪˈroʊ.sɪs/",
+    "def_en": "Late-stage scarring (fibrosis) of the liver caused by long-term liver damage, impairing liver function.",
+    "def_zh": "肝硬化：肝脏长期损伤导致的晚期瘢痕（纤维化），使肝功能受损。",
+    "example_en": "Alcohol-related cirrhosis can progress to liver failure if drinking continues.",
+    "example_zh": "酒精相关性肝硬化如继续饮酒可进展为肝功能衰竭。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      38
+    ]
+  },
+  {
+    "id": 40,
+    "word": "cholecystitis",
+    "ipa": "/ˌkoʊ.lɪ.sɪˈstaɪ.tɪs/",
+    "def_en": "Inflammation of the gallbladder, usually caused by gallstones blocking the cystic duct.",
+    "def_zh": "胆囊炎：胆囊的炎症，通常由胆结石阻塞胆囊管引起。",
+    "example_en": "Acute cholecystitis typically presents with right upper quadrant pain following a fatty meal.",
+    "example_zh": "急性胆囊炎通常在进食油腻食物后出现右上腹疼痛。",
+    "system_id": 4,
+    "difficulty": 4,
+    "morpheme_ids": [
+      34
+    ]
+  },
+  {
+    "id": 41,
+    "word": "appendicitis",
+    "ipa": "/əˌpen.dɪˈsaɪ.tɪs/",
+    "def_en": "Inflammation of the appendix, a small finger-shaped pouch attached to the large intestine.",
+    "def_zh": "阑尾炎：阑尾的炎症，阑尾是附着于大肠的小指状囊袋。",
+    "example_en": "The classic symptom of appendicitis is pain that starts around the navel and moves to the lower right abdomen.",
+    "example_zh": "阑尾炎的典型症状是从肚脐周围开始并向右下腹转移的疼痛。",
+    "system_id": 4,
+    "difficulty": 2,
+    "morpheme_ids": [
+      34
+    ]
+  },
+  {
+    "id": 42,
+    "word": "dysphagia",
+    "ipa": "/dɪsˈfeɪ.dʒi.ə/",
+    "def_en": "Difficulty swallowing, which may be caused by structural or neurological problems.",
+    "def_zh": "吞咽困难：吞咽时有困难，可由结构性或神经性问题引起。",
+    "example_en": "Dysphagia after a stroke may require a modified diet or swallowing therapy.",
+    "example_zh": "脑卒中后的吞咽困难可能需要调整饮食或进行吞咽训练。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 43,
+    "word": "peristalsis",
+    "ipa": "/ˌper.ɪˈstɔːl.sɪs/",
+    "def_en": "The wave-like muscular contractions that propel contents through the digestive tract.",
+    "def_zh": "蠕动：推动消化道内容物向前移动的波浪状肌肉收缩运动。",
+    "example_en": "Peristalsis begins in the esophagus and continues throughout the gastrointestinal tract.",
+    "example_zh": "蠕动从食道开始，贯穿整个胃肠道。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      22
+    ]
+  },
+  {
+    "id": 44,
+    "word": "colonoscopy",
+    "ipa": "/ˌkoʊ.ləˈnɒs.kə.pi/",
+    "def_en": "An examination of the inside of the colon using a flexible camera (colonoscope) to detect abnormalities.",
+    "def_zh": "结肠镜检查：使用柔性摄像头（结肠镜）检查结肠内部以发现异常。",
+    "example_en": "Colonoscopy is recommended every 10 years starting at age 45 for colorectal cancer screening.",
+    "example_zh": "建议从45岁开始每10年进行一次结肠镜检查以筛查结直肠癌。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      43
+    ]
+  },
+  {
+    "id": 45,
+    "word": "hepatomegaly",
+    "ipa": "/ˌhep.ə.toʊˈmeg.ə.li/",
+    "def_en": "Abnormal enlargement of the liver beyond its normal size.",
+    "def_zh": "肝肿大：肝脏超过正常大小的异常增大。",
+    "example_en": "Hepatomegaly may be detected by palpation during a physical examination.",
+    "example_zh": "肝肿大可在体格检查时通过触诊发现。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      12,
+      36
+    ]
+  },
+  {
+    "id": 46,
+    "word": "enteritis",
+    "ipa": "/ˌen.təˈraɪ.tɪs/",
+    "def_en": "Inflammation of the small intestine, typically causing diarrhea, abdominal cramps, and nausea.",
+    "def_zh": "小肠炎：小肠的炎症，通常引起腹泻、腹部绞痛和恶心。",
+    "example_en": "Viral enteritis is a common cause of acute gastroenteritis (stomach flu).",
+    "example_zh": "病毒性小肠炎是急性胃肠炎（胃肠型感冒）的常见原因。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      8,
+      34
+    ]
+  },
+  {
+    "id": 47,
+    "word": "gastroenterology",
+    "ipa": "/ˌgæs.troʊ.en.tərˈɒl.ə.dʒi/",
+    "def_en": "The medical specialty focused on the digestive system and its disorders.",
+    "def_zh": "消化内科学：专注于消化系统及其疾病的医学专科。",
+    "example_en": "A gastroenterologist may perform endoscopy to examine the upper gastrointestinal tract.",
+    "example_zh": "消化科医生可进行内窥镜检查以检查上消化道。",
+    "system_id": 4,
+    "difficulty": 4,
+    "morpheme_ids": [
+      10,
+      8,
+      35
+    ]
+  },
+  {
+    "id": 48,
+    "word": "ileostomy",
+    "ipa": "/ˌɪl.iˈɒs.tə.mi/",
+    "def_en": "A surgical procedure that creates an opening in the abdominal wall, through which the end of the ileum is brought to divert waste.",
+    "def_zh": "回肠造口术：将回肠末端引出至腹壁外开口的外科手术，用于转流粪便。",
+    "example_en": "An ileostomy may be necessary following removal of the colon due to severe colitis.",
+    "example_zh": "严重结肠炎切除结肠后可能需要行回肠造口术。",
+    "system_id": 4,
+    "difficulty": 4,
+    "morpheme_ids": [
+      44
+    ]
+  },
+  {
+    "id": 49,
+    "word": "arthritis",
+    "ipa": "/ɑːrˈθraɪ.tɪs/",
+    "def_en": "Inflammation of one or more joints, causing pain, swelling, stiffness, and reduced range of motion.",
+    "def_zh": "关节炎：一个或多个关节的炎症，引起疼痛、肿胀、僵硬和活动受限。",
+    "example_en": "Osteoarthritis and rheumatoid arthritis are the two most common forms of arthritis.",
+    "example_zh": "骨关节炎和类风湿性关节炎是最常见的两种关节炎。",
+    "system_id": 5,
+    "difficulty": 2,
+    "morpheme_ids": [
+      28,
+      34
+    ]
+  },
+  {
+    "id": 50,
+    "word": "osteoporosis",
+    "ipa": "/ˌɒs.ti.oʊ.pəˈroʊ.sɪs/",
+    "def_en": "A condition characterized by decreased bone density and increased fragility, leading to an elevated fracture risk.",
+    "def_zh": "骨质疏松症：以骨密度降低、骨质变脆为特征的疾病，骨折风险显著升高。",
+    "example_en": "Postmenopausal women are at highest risk for osteoporosis due to declining estrogen levels.",
+    "example_zh": "绝经后女性因雌激素水平下降而面临最高的骨质疏松风险。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      20,
+      38
+    ]
+  },
+  {
+    "id": 51,
+    "word": "tendinitis",
+    "ipa": "/ˌten.dɪˈnaɪ.tɪs/",
+    "def_en": "Inflammation of a tendon, the fibrous tissue connecting muscle to bone, causing pain near a joint.",
+    "def_zh": "腱炎：连接肌肉与骨骼的腱（肌腱）发炎，在关节附近引起疼痛。",
+    "example_en": "Tennis elbow is a form of tendinitis affecting the tendons of the elbow.",
+    "example_zh": "网球肘是一种影响肘部肌腱的腱炎。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      34
+    ]
+  },
+  {
+    "id": 52,
+    "word": "myopathy",
+    "ipa": "/maɪˈɒp.ə.θi/",
+    "def_en": "Any disease of muscle tissue, characterized by muscle weakness and may affect muscle structure and function.",
+    "def_zh": "肌病：肌肉组织的任何疾病，以肌无力为特征，可影响肌肉结构和功能。",
+    "example_en": "Duchenne muscular dystrophy is a severe form of inherited myopathy.",
+    "example_zh": "杜氏肌营养不良症是一种严重的遗传性肌病。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      16,
+      39
+    ]
+  },
+  {
+    "id": 53,
+    "word": "osteoarthritis",
+    "ipa": "/ˌɒs.ti.oʊ.ɑːrˈθraɪ.tɪs/",
+    "def_en": "A degenerative joint disease in which the cartilage that cushions the ends of bones wears down over time.",
+    "def_zh": "骨关节炎：一种退行性关节疾病，关节端保护软骨随时间逐渐磨损。",
+    "example_en": "Weight-bearing joints such as the knees and hips are most commonly affected by osteoarthritis.",
+    "example_zh": "膝关节和髋关节等承重关节最常受骨关节炎影响。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      20,
+      28,
+      34
+    ]
+  },
+  {
+    "id": 54,
+    "word": "scoliosis",
+    "ipa": "/ˌskoʊ.liˈoʊ.sɪs/",
+    "def_en": "An abnormal lateral curvature of the spine, most often diagnosed during growth spurts before puberty.",
+    "def_zh": "脊柱侧凸：脊柱异常的侧弯，最常在青春期前的快速生长阶段被诊断。",
+    "example_en": "Most cases of scoliosis are idiopathic, meaning no specific cause is found.",
+    "example_zh": "大多数脊柱侧凸病例是特发性的，即找不到特定原因。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      38
+    ]
+  },
+  {
+    "id": 55,
+    "word": "bursitis",
+    "ipa": "/bɜːrˈsaɪ.tɪs/",
+    "def_en": "Inflammation of a bursa, a small fluid-filled sac that cushions bones, tendons, and muscles near joints.",
+    "def_zh": "滑囊炎：滑囊的炎症，滑囊是关节附近缓冲骨骼、肌腱和肌肉的小型液囊。",
+    "example_en": "Bursitis of the hip is a common cause of outer hip pain, especially in runners.",
+    "example_zh": "髋部滑囊炎是跑步者等人群髋关节外侧疼痛的常见原因。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      34
+    ]
+  },
+  {
+    "id": 56,
+    "word": "cartilage",
+    "ipa": "/ˈkɑːr.tɪ.lɪdʒ/",
+    "def_en": "A firm, flexible connective tissue found in joints, the outer ear, nose, and other structures.",
+    "def_zh": "软骨：一种坚韧而有弹性的结缔组织，存在于关节、外耳、鼻子及其他结构中。",
+    "example_en": "Articular cartilage covers the ends of bones in joints and allows smooth movement.",
+    "example_zh": "关节软骨覆盖关节骨端，使关节运动顺滑。",
+    "system_id": 5,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 57,
+    "word": "atrophy",
+    "ipa": "/ˈæt.rə.fi/",
+    "def_en": "Wasting away or decrease in size of a body part, organ, or tissue due to disease, injury, or lack of use.",
+    "def_zh": "萎缩：因疾病、损伤或废用导致身体部位、器官或组织消瘦或缩小。",
+    "example_en": "Muscle atrophy can occur rapidly when a limb is immobilized, such as in a cast.",
+    "example_zh": "肢体制动（如打石膏）时肌肉萎缩会迅速发生。",
+    "system_id": 5,
+    "difficulty": 2,
+    "morpheme_ids": [
+      49
+    ]
+  },
+  {
+    "id": 58,
+    "word": "arthroscopy",
+    "ipa": "/ɑːrˈθrɒs.kə.pi/",
+    "def_en": "A minimally invasive surgical procedure for diagnosing and treating joint problems using a small camera (arthroscope).",
+    "def_zh": "关节镜检查：使用小型摄像头（关节镜）诊断和治疗关节问题的微创手术。",
+    "example_en": "Arthroscopy is commonly used to diagnose and repair torn cartilage in the knee.",
+    "example_zh": "关节镜检查常用于诊断和修复膝关节撕裂软骨。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      28,
+      43
+    ]
+  },
+  {
+    "id": 59,
+    "word": "osteoma",
+    "ipa": "/ˌɒs.tiˈoʊ.mə/",
+    "def_en": "A benign (non-cancerous) tumor composed of mature bone tissue.",
+    "def_zh": "骨瘤：由成熟骨组织构成的良性（非癌性）肿瘤。",
+    "example_en": "Osteomas are often found in the skull and typically do not require treatment.",
+    "example_zh": "骨瘤常见于颅骨，通常不需要治疗。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      20,
+      37
+    ]
+  },
+  {
+    "id": 60,
+    "word": "rheumatoid",
+    "ipa": "/ˈruː.mə.tɔɪd/",
+    "def_en": "Resembling rheumatism; specifically used in 'rheumatoid arthritis,' an autoimmune inflammatory joint disease.",
+    "def_zh": "类风湿性的：与风湿相似；特指\"类风湿性关节炎\"，一种自身免疫性炎症性关节病。",
+    "example_en": "Rheumatoid arthritis affects the synovial lining of joints, causing painful swelling.",
+    "example_zh": "类风湿性关节炎累及关节滑膜，引起疼痛性肿胀。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 61,
+    "word": "diabetes",
+    "ipa": "/ˌdaɪ.əˈbiː.tiːz/",
+    "def_en": "A metabolic disease in which the body cannot properly regulate blood glucose, either due to insufficient insulin or insulin resistance.",
+    "def_zh": "糖尿病：机体无法正常调控血糖的代谢性疾病，原因是胰岛素不足或胰岛素抵抗。",
+    "example_en": "Type 2 diabetes accounts for 90–95% of all diabetes cases globally.",
+    "example_zh": "2型糖尿病占全球糖尿病病例的90%至95%。",
+    "system_id": 6,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 62,
+    "word": "hyperthyroidism",
+    "ipa": "/ˌhaɪ.pərˈθaɪ.rɔɪ.dɪ.z(ə)m/",
+    "def_en": "A condition in which the thyroid gland produces too much thyroid hormone, accelerating many body functions.",
+    "def_zh": "甲状腺功能亢进：甲状腺分泌过多甲状腺激素，使机体许多功能加速的疾病。",
+    "example_en": "Graves' disease is the most common cause of hyperthyroidism.",
+    "example_zh": "格雷夫斯病是甲状腺功能亢进最常见的原因。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      13
+    ]
+  },
+  {
+    "id": 63,
+    "word": "hypothyroidism",
+    "ipa": "/ˌhaɪ.poʊˈθaɪ.rɔɪ.dɪ.z(ə)m/",
+    "def_en": "A condition in which the thyroid gland does not produce enough thyroid hormone, slowing many body functions.",
+    "def_zh": "甲状腺功能减退：甲状腺分泌的甲状腺激素不足，使机体许多功能减慢的疾病。",
+    "example_en": "Fatigue, weight gain, and cold intolerance are classic symptoms of hypothyroidism.",
+    "example_zh": "疲劳、体重增加和怕冷是甲状腺功能减退的典型症状。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      14
+    ]
+  },
+  {
+    "id": 64,
+    "word": "insulin",
+    "ipa": "/ˈɪn.sj.ʊ.lɪn/",
+    "def_en": "A hormone produced by the beta cells of the pancreas that regulates the uptake of glucose from the blood.",
+    "def_zh": "胰岛素：由胰腺β细胞产生的激素，调节血液中葡萄糖的摄取。",
+    "example_en": "Insulin therapy is essential for people with type 1 diabetes.",
+    "example_zh": "胰岛素治疗对1型糖尿病患者至关重要。",
+    "system_id": 6,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 65,
+    "word": "hyperglycemia",
+    "ipa": "/ˌhaɪ.pər.glaɪˈsiː.mi.ə/",
+    "def_en": "Abnormally high blood glucose level, a hallmark of poorly controlled diabetes.",
+    "def_zh": "高血糖：血糖水平异常升高，是糖尿病控制不佳的标志。",
+    "example_en": "Chronic hyperglycemia can damage blood vessels and nerves throughout the body.",
+    "example_zh": "长期高血糖会损伤全身血管和神经。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      13,
+      32
+    ]
+  },
+  {
+    "id": 66,
+    "word": "hypoglycemia",
+    "ipa": "/ˌhaɪ.poʊ.glaɪˈsiː.mi.ə/",
+    "def_en": "Abnormally low blood glucose level, which can cause shakiness, confusion, and in severe cases, loss of consciousness.",
+    "def_zh": "低血糖：血糖水平异常降低，可引起颤抖、意识模糊，严重时可致失去意识。",
+    "example_en": "Insulin overdose is a common cause of hypoglycemia in patients with diabetes.",
+    "example_zh": "胰岛素过量是糖尿病患者低血糖的常见原因。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      14,
+      32
+    ]
+  },
+  {
+    "id": 67,
+    "word": "thyroiditis",
+    "ipa": "/ˌθaɪ.rɔɪˈdaɪ.tɪs/",
+    "def_en": "Inflammation of the thyroid gland, which can cause temporary hyperthyroidism followed by hypothyroidism.",
+    "def_zh": "甲状腺炎：甲状腺的炎症，可先引起暂时性甲亢，后出现甲减。",
+    "example_en": "Hashimoto's thyroiditis is an autoimmune condition and the most common cause of hypothyroidism.",
+    "example_zh": "桥本甲状腺炎是一种自身免疫性疾病，是甲状腺功能减退最常见的原因。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      34
+    ]
+  },
+  {
+    "id": 68,
+    "word": "cortisol",
+    "ipa": "/ˈkɔːr.tɪ.sɒl/",
+    "def_en": "A steroid hormone released by the adrenal cortex in response to stress; it regulates metabolism, inflammation, and the immune response.",
+    "def_zh": "皮质醇：肾上腺皮质在应激反应下分泌的类固醇激素，调节代谢、炎症和免疫反应。",
+    "example_en": "Chronic stress leads to persistently elevated cortisol, which can impair immune function.",
+    "example_zh": "长期压力导致皮质醇持续升高，会损害免疫功能。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 69,
+    "word": "endocrinology",
+    "ipa": "/ˌen.doʊ.krɪˈnɒl.ə.dʒi/",
+    "def_en": "The medical specialty dealing with the endocrine system, including hormones and their associated glands and disorders.",
+    "def_zh": "内分泌学：研究内分泌系统（包括激素及其相关腺体和疾病）的医学专科。",
+    "example_en": "An endocrinologist manages complex hormonal conditions such as diabetes and thyroid disease.",
+    "example_zh": "内分泌科医生处理糖尿病、甲状腺疾病等复杂激素性疾病。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      29,
+      35
+    ]
+  },
+  {
+    "id": 70,
+    "word": "adrenal",
+    "ipa": "/əˈdriː.nəl/",
+    "def_en": "Relating to the adrenal glands, which sit atop the kidneys and produce hormones such as cortisol, aldosterone, and adrenaline.",
+    "def_zh": "肾上腺的：与肾上腺相关，肾上腺位于肾脏上方，产生皮质醇、醛固酮和肾上腺素等激素。",
+    "example_en": "Adrenal insufficiency can cause fatigue, low blood pressure, and electrolyte imbalances.",
+    "example_zh": "肾上腺功能不全可引起疲劳、低血压和电解质紊乱。",
+    "system_id": 6,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 71,
+    "word": "polycythemia",
+    "ipa": "/ˌpɒl.i.saɪˈθiː.mi.ə/",
+    "def_en": "A condition characterized by an abnormally elevated number of red blood cells, thickening the blood.",
+    "def_zh": "红细胞增多症：红细胞数量异常升高、使血液变稠的状态。",
+    "example_en": "Polycythemia vera is a rare bone marrow disorder causing overproduction of red blood cells.",
+    "example_zh": "真性红细胞增多症是一种导致红细胞过度增殖的罕见骨髓疾病。",
+    "system_id": 6,
+    "difficulty": 4,
+    "morpheme_ids": [
+      24,
+      32
+    ]
+  },
+  {
+    "id": 72,
+    "word": "adenoma",
+    "ipa": "/ˌæd.ɪˈnoʊ.mə/",
+    "def_en": "A benign tumor of epithelial tissue that has glandular origin or characteristics.",
+    "def_zh": "腺瘤：起源于腺体上皮组织的良性肿瘤，具有腺体特征。",
+    "example_en": "Colorectal adenomas are precancerous polyps that can develop into colon cancer over time.",
+    "example_zh": "结直肠腺瘤是癌前息肉，随时间可能发展为结肠癌。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      37
+    ]
+  },
+  {
+    "id": 73,
+    "word": "nephritis",
+    "ipa": "/nɪˈfraɪ.tɪs/",
+    "def_en": "Inflammation of the kidneys, which can impair their ability to filter waste and excess fluids.",
+    "def_zh": "肾炎：肾脏的炎症，可损害肾脏过滤废物和多余液体的功能。",
+    "example_en": "Glomerulonephritis is a type of nephritis affecting the kidney's filtering units.",
+    "example_zh": "肾小球肾炎是一种累及肾脏过滤单元的肾炎。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      17,
+      34
+    ]
+  },
+  {
+    "id": 74,
+    "word": "hematuria",
+    "ipa": "/ˌhem.əˈtjʊər.i.ə/",
+    "def_en": "Presence of blood in the urine, which may be visible (gross) or detectable only by urinalysis (microscopic).",
+    "def_zh": "血尿：尿液中含有血液，可肉眼可见（肉眼血尿）或仅在尿液分析中发现（镜下血尿）。",
+    "example_en": "Hematuria can be caused by urinary tract infections, kidney stones, or more serious conditions.",
+    "example_zh": "血尿可由尿路感染、肾结石或更严重疾病引起。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      11,
+      45
+    ]
+  },
+  {
+    "id": 75,
+    "word": "urinalysis",
+    "ipa": "/ˌjʊər.ɪˈnæl.ɪ.sɪs/",
+    "def_en": "Physical, chemical, and microscopic examination of urine, used to detect a wide range of conditions.",
+    "def_zh": "尿液分析：对尿液进行物理、化学和显微镜检查，用于检测多种疾病。",
+    "example_en": "A routine urinalysis can detect protein, glucose, and blood in the urine.",
+    "example_zh": "常规尿液分析可检测尿液中的蛋白质、葡萄糖和血液。",
+    "system_id": 7,
+    "difficulty": 2,
+    "morpheme_ids": [
+      26
+    ]
+  },
+  {
+    "id": 76,
+    "word": "cystitis",
+    "ipa": "/sɪˈstaɪ.tɪs/",
+    "def_en": "Inflammation of the bladder, most commonly caused by bacterial infection (urinary tract infection).",
+    "def_zh": "膀胱炎：膀胱的炎症，最常由细菌感染（尿路感染）引起。",
+    "example_en": "Cystitis is more common in women due to the shorter length of the female urethra.",
+    "example_zh": "由于女性尿道较短，膀胱炎在女性中更为常见。",
+    "system_id": 7,
+    "difficulty": 2,
+    "morpheme_ids": [
+      34
+    ]
+  },
+  {
+    "id": 77,
+    "word": "proteinuria",
+    "ipa": "/ˌproʊ.tiˈnjʊər.i.ə/",
+    "def_en": "Abnormal presence of protein (especially albumin) in the urine, typically indicating kidney damage.",
+    "def_zh": "蛋白尿：尿液中异常含有蛋白质（尤其是白蛋白），通常提示肾脏损伤。",
+    "example_en": "Persistent proteinuria is a key sign of chronic kidney disease.",
+    "example_zh": "持续性蛋白尿是慢性肾脏病的重要标志。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      45
+    ]
+  },
+  {
+    "id": 78,
+    "word": "glomerulonephritis",
+    "ipa": "/gloʊˌmer.jʊ.loʊ.nɪˈfraɪ.tɪs/",
+    "def_en": "Inflammation of the glomeruli, the tiny filtering units within the kidneys.",
+    "def_zh": "肾小球肾炎：肾脏内微小过滤单位（肾小球）的炎症。",
+    "example_en": "Glomerulonephritis can be caused by autoimmune diseases, infections, or certain medications.",
+    "example_zh": "肾小球肾炎可由自身免疫性疾病、感染或某些药物引起。",
+    "system_id": 7,
+    "difficulty": 5,
+    "morpheme_ids": [
+      17,
+      34
+    ]
+  },
+  {
+    "id": 79,
+    "word": "dialysis",
+    "ipa": "/daɪˈæl.ɪ.sɪs/",
+    "def_en": "A procedure that removes waste products and excess fluid from the blood when the kidneys fail to do so.",
+    "def_zh": "透析：当肾脏功能衰竭时，通过人工方法清除血液中废物和多余液体的治疗。",
+    "example_en": "Patients with end-stage renal disease typically require dialysis three times per week.",
+    "example_zh": "终末期肾病患者通常每周需要透析三次。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 80,
+    "word": "hydronephrosis",
+    "ipa": "/ˌhaɪ.droʊ.nɪˈfroʊ.sɪs/",
+    "def_en": "Distension of the renal pelvis due to urine accumulation from an obstruction in the urinary tract.",
+    "def_zh": "肾积水：因泌尿道梗阻导致尿液积聚，引起肾盂扩张。",
+    "example_en": "A kidney stone can cause hydronephrosis by blocking urine flow from the kidney.",
+    "example_zh": "肾结石可通过阻塞尿液从肾脏流出而引起肾积水。",
+    "system_id": 7,
+    "difficulty": 4,
+    "morpheme_ids": [
+      17,
+      38
+    ]
+  },
+  {
+    "id": 81,
+    "word": "urolithiasis",
+    "ipa": "/ˌjʊər.oʊ.lɪˈθaɪ.ə.sɪs/",
+    "def_en": "The formation of stones (calculi) in the urinary tract, including the kidneys, ureters, or bladder.",
+    "def_zh": "泌尿系结石：在泌尿道（包括肾脏、输尿管或膀胱）内形成结石（钙化物）。",
+    "example_en": "Dehydration is the most significant risk factor for urolithiasis.",
+    "example_zh": "脱水是泌尿系结石最重要的危险因素。",
+    "system_id": 7,
+    "difficulty": 4,
+    "morpheme_ids": [
+      26
+    ]
+  },
+  {
+    "id": 82,
+    "word": "nephrectomy",
+    "ipa": "/nɪˈfrek.tə.mi/",
+    "def_en": "Surgical removal of a kidney, performed for kidney cancer, severe infection, or to obtain an organ for transplantation.",
+    "def_zh": "肾切除术：手术切除肾脏，用于治疗肾癌、严重感染或获取器官进行移植。",
+    "example_en": "A radical nephrectomy removes the entire kidney along with surrounding tissue.",
+    "example_zh": "根治性肾切除术切除整个肾脏及周围组织。",
+    "system_id": 7,
+    "difficulty": 4,
+    "morpheme_ids": [
+      17,
+      33
+    ]
+  },
+  {
+    "id": 83,
+    "word": "uremia",
+    "ipa": "/jʊˈriː.mi.ə/",
+    "def_en": "Accumulation of toxic waste products in the blood due to kidney failure, causing a range of serious symptoms.",
+    "def_zh": "尿毒症：因肾衰竭导致有毒废物在血液中积聚，引起一系列严重症状。",
+    "example_en": "Uremia is a life-threatening complication of end-stage renal disease.",
+    "example_zh": "尿毒症是终末期肾病的危及生命的并发症。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      26,
+      32
+    ]
+  },
+  {
+    "id": 84,
+    "word": "cystoscopy",
+    "ipa": "/sɪˈstɒs.kə.pi/",
+    "def_en": "Examination of the inside of the bladder and urethra using a thin, flexible camera (cystoscope).",
+    "def_zh": "膀胱镜检查：使用细软摄像头（膀胱镜）检查膀胱和尿道内部。",
+    "example_en": "Cystoscopy is used to diagnose bladder cancer, urinary tract abnormalities, and recurrent infections.",
+    "example_zh": "膀胱镜检查用于诊断膀胱癌、泌尿道异常和反复感染。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      43
+    ]
+  },
+  {
+    "id": 85,
+    "word": "dermatitis",
+    "ipa": "/ˌdɜːr.məˈtaɪ.tɪs/",
+    "def_en": "Inflammation of the skin characterized by itching, redness, and a rash; includes eczema and contact dermatitis.",
+    "def_zh": "皮炎：皮肤炎症，以瘙痒、发红和皮疹为特征，包括湿疹和接触性皮炎。",
+    "example_en": "Atopic dermatitis (eczema) is a chronic skin condition common in children.",
+    "example_zh": "特应性皮炎（湿疹）是儿童中常见的慢性皮肤病。",
+    "system_id": 8,
+    "difficulty": 2,
+    "morpheme_ids": [
+      6,
+      34
+    ]
+  },
+  {
+    "id": 86,
+    "word": "melanoma",
+    "ipa": "/ˌmel.əˈnoʊ.mə/",
+    "def_en": "A malignant tumor that develops from melanocytes (pigment-producing cells), most commonly in the skin.",
+    "def_zh": "黑色素瘤：由黑色素细胞（产生色素的细胞）发展而来的恶性肿瘤，最常见于皮肤。",
+    "example_en": "Melanoma is the most dangerous form of skin cancer due to its tendency to spread to other organs.",
+    "example_zh": "黑色素瘤是最危险的皮肤癌，因为它容易向其他器官扩散。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      37
+    ]
+  },
+  {
+    "id": 87,
+    "word": "psoriasis",
+    "ipa": "/səˈraɪ.ə.sɪs/",
+    "def_en": "A chronic autoimmune skin condition causing rapid skin cell buildup, resulting in scaly, itchy patches.",
+    "def_zh": "银屑病（牛皮癣）：一种慢性自身免疫性皮肤病，导致皮肤细胞快速堆积，形成鳞状瘙痒斑块。",
+    "example_en": "Psoriasis can also affect the joints, causing psoriatic arthritis.",
+    "example_zh": "银屑病还可累及关节，导致银屑病关节炎。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      38
+    ]
+  },
+  {
+    "id": 88,
+    "word": "eczema",
+    "ipa": "/ˈek.sɪ.mə/",
+    "def_en": "A condition that makes the skin red, inflamed, and itchy, often triggered by environmental or allergic factors.",
+    "def_zh": "湿疹：使皮肤发红、发炎和瘙痒的疾病，常由环境或过敏因素诱发。",
+    "example_en": "Eczema flares can often be managed with moisturizers and topical steroids.",
+    "example_zh": "湿疹发作通常可通过保湿剂和局部类固醇控制。",
+    "system_id": 8,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 89,
+    "word": "erythema",
+    "ipa": "/ˌer.ɪˈθiː.mə/",
+    "def_en": "Redness of the skin caused by dilation of superficial blood vessels, often in response to infection or irritation.",
+    "def_zh": "红斑：因表浅血管扩张引起的皮肤发红，常为感染或刺激的反应。",
+    "example_en": "Erythema migrans, a bull's-eye rash, is the hallmark of Lyme disease.",
+    "example_zh": "游走性红斑（牛眼状皮疹）是莱姆病的典型标志。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      9
+    ]
+  },
+  {
+    "id": 90,
+    "word": "epidermis",
+    "ipa": "/ˌep.ɪˈdɜːr.mɪs/",
+    "def_en": "The outermost layer of the skin, acting as a protective barrier against the environment.",
+    "def_zh": "表皮：皮肤最外层，作为抵御外界环境的保护屏障。",
+    "example_en": "The epidermis contains melanocytes that produce the pigment melanin.",
+    "example_zh": "表皮含有产生黑色素的黑色素细胞。",
+    "system_id": 8,
+    "difficulty": 2,
+    "morpheme_ids": [
+      6
+    ]
+  },
+  {
+    "id": 91,
+    "word": "dermatology",
+    "ipa": "/ˌdɜːr.məˈtɒl.ə.dʒi/",
+    "def_en": "The medical specialty concerned with the diagnosis and treatment of skin, hair, and nail disorders.",
+    "def_zh": "皮肤科学：研究和治疗皮肤、毛发和指甲疾病的医学专科。",
+    "example_en": "A dermatologist may perform a skin biopsy to diagnose a suspicious lesion.",
+    "example_zh": "皮肤科医生可对可疑皮损进行皮肤活检以明确诊断。",
+    "system_id": 8,
+    "difficulty": 2,
+    "morpheme_ids": [
+      6,
+      35
+    ]
+  },
+  {
+    "id": 92,
+    "word": "cellulitis",
+    "ipa": "/ˌsel.jʊˈlaɪ.tɪs/",
+    "def_en": "A bacterial skin infection causing redness, swelling, warmth, and tenderness, typically of the lower leg.",
+    "def_zh": "蜂窝织炎：细菌性皮肤感染，引起发红、肿胀、发热和压痛，多见于小腿。",
+    "example_en": "Cellulitis can rapidly spread and may require intravenous antibiotics in severe cases.",
+    "example_zh": "蜂窝织炎可迅速扩散，严重时可能需要静脉注射抗生素。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      34
+    ]
+  },
+  {
+    "id": 93,
+    "word": "sebaceous",
+    "ipa": "/sɪˈbeɪ.ʃəs/",
+    "def_en": "Relating to sebum-secreting glands in the skin; sebaceous glands produce oil that lubricates skin and hair.",
+    "def_zh": "皮脂腺的：与皮肤中分泌皮脂的腺体相关；皮脂腺产生润滑皮肤和毛发的油脂。",
+    "example_en": "Sebaceous glands become overactive during puberty, contributing to acne development.",
+    "example_zh": "青春期皮脂腺活性增强，是痤疮形成的原因之一。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 94,
+    "word": "papilloma",
+    "ipa": "/ˌpæp.ɪˈloʊ.mə/",
+    "def_en": "A benign epithelial tumor projecting from the surrounding surface, often caused by human papillomavirus (HPV).",
+    "def_zh": "乳头状瘤：从周围表面突出的良性上皮肿瘤，常由人乳头瘤病毒（HPV）引起。",
+    "example_en": "Genital warts are caused by certain strains of human papillomavirus.",
+    "example_zh": "生殖器疣由某些型别的人乳头瘤病毒引起。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      37
+    ]
+  },
+  {
+    "id": 95,
+    "word": "dermatosis",
+    "ipa": "/ˌdɜːr.məˈtoʊ.sɪs/",
+    "def_en": "A general term for any disease or abnormal condition of the skin.",
+    "def_zh": "皮肤病：皮肤任何疾病或异常状态的统称。",
+    "example_en": "Occupational dermatosis can result from repeated exposure to chemicals or irritants in the workplace.",
+    "example_zh": "职业性皮肤病可由工作场所反复接触化学品或刺激物引起。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      6,
+      38
+    ]
+  },
+  {
+    "id": 96,
+    "word": "carcinoma",
+    "ipa": "/ˌkɑːr.sɪˈnoʊ.mə/",
+    "def_en": "A malignant tumor arising from epithelial cells, the most common type of cancer.",
+    "def_zh": "癌：起源于上皮细胞的恶性肿瘤，是最常见的癌症类型。",
+    "example_en": "Squamous cell carcinoma is the second most common form of skin cancer.",
+    "example_zh": "鳞状细胞癌是第二常见的皮肤癌类型。",
+    "system_id": 8,
+    "difficulty": 4,
+    "morpheme_ids": [
+      37
+    ]
+  },
+  {
+    "id": 97,
+    "word": "pathology",
+    "ipa": "/pəˈθɒl.ə.dʒi/",
+    "def_en": "The scientific study of disease, especially the structural and functional changes caused by disease in the body.",
+    "def_zh": "病理学：研究疾病的科学，尤其是疾病在体内引起的结构和功能变化。",
+    "example_en": "A tissue biopsy is sent to pathology to determine whether cells are cancerous.",
+    "example_zh": "组织活检标本被送至病理科以判断细胞是否为癌变。",
+    "system_id": null,
+    "difficulty": 2,
+    "morpheme_ids": [
+      21,
+      35
+    ]
+  },
+  {
+    "id": 98,
+    "word": "cytology",
+    "ipa": "/saɪˈtɒl.ə.dʒi/",
+    "def_en": "The study of cells, their structure, function, and chemistry, especially in the context of disease diagnosis.",
+    "def_zh": "细胞学：研究细胞的结构、功能和化学特性的学科，尤用于疾病诊断。",
+    "example_en": "A cervical cytology smear (Pap smear) screens for cervical cancer.",
+    "example_zh": "宫颈细胞学涂片（巴氏涂片）用于筛查宫颈癌。",
+    "system_id": null,
+    "difficulty": 3,
+    "morpheme_ids": [
+      5,
+      35
+    ]
+  },
+  {
+    "id": 99,
+    "word": "erythrocyte",
+    "ipa": "/ɪˈrɪθ.rə.saɪt/",
+    "def_en": "A red blood cell; the biconcave disc-shaped cell containing hemoglobin that transports oxygen in the blood.",
+    "def_zh": "红细胞：双凹盘状的红色血细胞，含有血红蛋白，负责在血液中运输氧气。",
+    "example_en": "An erythrocyte has a lifespan of approximately 120 days before being broken down in the spleen.",
+    "example_zh": "红细胞的寿命约为120天，之后在脾脏中被分解。",
+    "system_id": null,
+    "difficulty": 3,
+    "morpheme_ids": [
+      9
+    ]
+  },
+  {
+    "id": 100,
+    "word": "oncology",
+    "ipa": "/ɒŋˈkɒl.ə.dʒi/",
+    "def_en": "The medical specialty focused on the study, diagnosis, and treatment of cancer.",
+    "def_zh": "肿瘤学：专注于癌症研究、诊断和治疗的医学专科。",
+    "example_en": "An oncologist coordinates multimodal cancer treatment including surgery, chemotherapy, and radiation.",
+    "example_zh": "肿瘤科医生协调手术、化疗和放疗等多模式癌症治疗。",
+    "system_id": null,
+    "difficulty": 2,
+    "morpheme_ids": [
+      19,
+      35
+    ]
+  },
+  {
+    "id": 101,
+    "word": "angina",
+    "ipa": "/ænˈdʒaɪnə/",
+    "def_en": "Chest pain caused by reduced blood flow to the heart muscle.",
+    "def_zh": "心绞痛：因心肌供血减少引起的胸痛。",
+    "example_en": "Stable angina is typically triggered by exertion and relieved by rest.",
+    "example_zh": "稳定型心绞痛通常由劳累诱发、休息后缓解。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 102,
+    "word": "infarction",
+    "ipa": "/ɪnˈfɑːrkʃən/",
+    "def_en": "Tissue death (necrosis) caused by a sudden loss of blood supply.",
+    "def_zh": "梗死：因血供突然中断导致的组织坏死。",
+    "example_en": "A myocardial infarction is commonly known as a heart attack.",
+    "example_zh": "心肌梗死即俗称的心脏病发作。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 103,
+    "word": "thrombosis",
+    "ipa": "/θrɒmˈboʊsɪs/",
+    "def_en": "The formation of a blood clot (thrombus) inside a blood vessel.",
+    "def_zh": "血栓形成：血管内形成血凝块（血栓）。",
+    "example_en": "Deep vein thrombosis can occur after long periods of immobility.",
+    "example_zh": "长时间不活动后可能发生深静脉血栓形成。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      53,
+      38
+    ]
+  },
+  {
+    "id": 104,
+    "word": "embolism",
+    "ipa": "/ˈembəlɪzəm/",
+    "def_en": "Blockage of a vessel by a clot or other material carried in the blood.",
+    "def_zh": "栓塞：血液带来的血栓或其他物质阻塞血管。",
+    "example_en": "A pulmonary embolism blocks an artery in the lungs and is life-threatening.",
+    "example_zh": "肺栓塞阻塞肺部动脉，可危及生命。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 105,
+    "word": "aneurysm",
+    "ipa": "/ˈænjərɪzəm/",
+    "def_en": "An abnormal bulge in the wall of a weakened artery.",
+    "def_zh": "动脉瘤：动脉壁薄弱处的异常膨出。",
+    "example_en": "An aortic aneurysm may rupture and cause massive internal bleeding.",
+    "example_zh": "主动脉瘤可能破裂并引起大量内出血。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 106,
+    "word": "endocarditis",
+    "ipa": "/ˌendoʊkɑːrˈdaɪtɪs/",
+    "def_en": "Inflammation of the inner lining of the heart and its valves.",
+    "def_zh": "心内膜炎：心脏内膜及瓣膜的炎症。",
+    "example_en": "Bacterial endocarditis can damage heart valves.",
+    "example_zh": "细菌性心内膜炎可损害心脏瓣膜。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      30,
+      3,
+      34
+    ]
+  },
+  {
+    "id": 107,
+    "word": "pericarditis",
+    "ipa": "/ˌperɪkɑːrˈdaɪtɪs/",
+    "def_en": "Inflammation of the pericardium, the sac surrounding the heart.",
+    "def_zh": "心包炎：包绕心脏的心包的炎症。",
+    "example_en": "Pericarditis often causes sharp chest pain that eases when leaning forward.",
+    "example_zh": "心包炎常引起尖锐胸痛，前倾时可减轻。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      22,
+      3,
+      34
+    ]
+  },
+  {
+    "id": 108,
+    "word": "cardiomyopathy",
+    "ipa": "/ˌkɑːrdioʊmaɪˈɒpəθi/",
+    "def_en": "Disease of the heart muscle that impairs its ability to pump blood.",
+    "def_zh": "心肌病：损害心脏泵血能力的心肌疾病。",
+    "example_en": "Dilated cardiomyopathy enlarges and weakens the heart's chambers.",
+    "example_zh": "扩张型心肌病使心腔扩大、收缩力减弱。",
+    "system_id": 1,
+    "difficulty": 4,
+    "morpheme_ids": [
+      3,
+      16,
+      39
+    ]
+  },
+  {
+    "id": 109,
+    "word": "hypotension",
+    "ipa": "/ˌhaɪpoʊˈtenʃən/",
+    "def_en": "Abnormally low blood pressure.",
+    "def_zh": "低血压：血压异常偏低。",
+    "example_en": "Severe hypotension can cause dizziness and fainting.",
+    "example_zh": "严重低血压可引起头晕和晕厥。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": [
+      14
+    ]
+  },
+  {
+    "id": 110,
+    "word": "palpitation",
+    "ipa": "/ˌpælpɪˈteɪʃən/",
+    "def_en": "A sensation of a rapid, strong, or irregular heartbeat.",
+    "def_zh": "心悸：感到心跳过快、过强或不规则。",
+    "example_en": "She felt palpitations after drinking too much coffee.",
+    "example_zh": "她喝太多咖啡后感到心悸。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 111,
+    "word": "fibrillation",
+    "ipa": "/ˌfɪbrɪˈleɪʃən/",
+    "def_en": "Rapid, disorganized contraction of heart muscle fibers.",
+    "def_zh": "颤动：心肌纤维快速而无序的收缩。",
+    "example_en": "Atrial fibrillation increases the risk of stroke.",
+    "example_zh": "心房颤动会增加卒中的风险。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 112,
+    "word": "vasodilation",
+    "ipa": "/ˌveɪzoʊdaɪˈleɪʃən/",
+    "def_en": "Widening of blood vessels, which lowers blood pressure.",
+    "def_zh": "血管扩张：血管口径增大，使血压下降。",
+    "example_en": "Vasodilation of skin vessels helps release body heat.",
+    "example_zh": "皮肤血管扩张有助于散发体热。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      55
+    ]
+  },
+  {
+    "id": 113,
+    "word": "vasoconstriction",
+    "ipa": "/ˌveɪzoʊkənˈstrɪkʃən/",
+    "def_en": "Narrowing of blood vessels, which raises blood pressure.",
+    "def_zh": "血管收缩：血管口径变窄，使血压升高。",
+    "example_en": "Cold temperatures cause vasoconstriction to conserve heat.",
+    "example_zh": "寒冷使血管收缩以保存热量。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      55
+    ]
+  },
+  {
+    "id": 114,
+    "word": "hyperlipidemia",
+    "ipa": "/ˌhaɪpərlɪpɪˈdiːmiə/",
+    "def_en": "Abnormally high levels of lipids (fats) in the blood.",
+    "def_zh": "高脂血症：血中脂质（脂肪）水平异常升高。",
+    "example_en": "Hyperlipidemia is a major risk factor for atherosclerosis.",
+    "example_zh": "高脂血症是动脉粥样硬化的主要危险因素。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      13,
+      32
+    ]
+  },
+  {
+    "id": 115,
+    "word": "phlebitis",
+    "ipa": "/flɪˈbaɪtɪs/",
+    "def_en": "Inflammation of a vein.",
+    "def_zh": "静脉炎：静脉的炎症。",
+    "example_en": "Phlebitis in a leg vein causes redness and tenderness.",
+    "example_zh": "腿部静脉炎引起发红和压痛。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": [
+      52,
+      34
+    ]
+  },
+  {
+    "id": 116,
+    "word": "thrombophlebitis",
+    "ipa": "/ˌθrɒmboʊflɪˈbaɪtɪs/",
+    "def_en": "Inflammation of a vein associated with a blood clot.",
+    "def_zh": "血栓性静脉炎：伴有血栓的静脉炎症。",
+    "example_en": "Thrombophlebitis often presents as a painful, swollen vein.",
+    "example_zh": "血栓性静脉炎常表现为疼痛、肿胀的静脉。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      53,
+      52,
+      34
+    ]
+  },
+  {
+    "id": 117,
+    "word": "edema",
+    "ipa": "/ɪˈdiːmə/",
+    "def_en": "Swelling caused by excess fluid trapped in body tissues.",
+    "def_zh": "水肿：体液在组织中潴留过多引起的肿胀。",
+    "example_en": "Heart failure can cause edema in the ankles and legs.",
+    "example_zh": "心力衰竭可引起踝部和腿部水肿。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 118,
+    "word": "murmur",
+    "ipa": "/ˈmɜːrmər/",
+    "def_en": "An abnormal sound heard during the heartbeat, often from turbulent blood flow.",
+    "def_zh": "心脏杂音：心跳时听到的异常声音，常因血流湍急所致。",
+    "example_en": "The doctor detected a heart murmur with a stethoscope.",
+    "example_zh": "医生用听诊器发现了心脏杂音。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 119,
+    "word": "systole",
+    "ipa": "/ˈsɪstəli/",
+    "def_en": "The phase of the heartbeat when the ventricles contract and eject blood.",
+    "def_zh": "收缩期：心室收缩并射出血液的心跳阶段。",
+    "example_en": "Systolic pressure is measured during systole.",
+    "example_zh": "收缩压是在收缩期测得的。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 120,
+    "word": "diastole",
+    "ipa": "/daɪˈæstəli/",
+    "def_en": "The phase of the heartbeat when the heart relaxes and fills with blood.",
+    "def_zh": "舒张期：心脏舒张并充盈血液的心跳阶段。",
+    "example_en": "Diastolic pressure reflects the resistance in the arteries during diastole.",
+    "example_zh": "舒张压反映舒张期动脉中的阻力。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 121,
+    "word": "electrocardiogram",
+    "ipa": "/ɪˌlektroʊˈkɑːrdioʊɡræm/",
+    "def_en": "A recording of the electrical activity of the heart (ECG/EKG).",
+    "def_zh": "心电图：记录心脏电活动的图形（ECG/EKG）。",
+    "example_en": "The electrocardiogram showed an irregular rhythm.",
+    "example_zh": "心电图显示节律不齐。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": [
+      3,
+      46
+    ]
+  },
+  {
+    "id": 122,
+    "word": "echocardiography",
+    "ipa": "/ˌekoʊˌkɑːrdiˈɒɡrəfi/",
+    "def_en": "Imaging of the heart using ultrasound waves.",
+    "def_zh": "超声心动图：用超声波对心脏成像的检查。",
+    "example_en": "Echocardiography can measure how well the heart pumps.",
+    "example_zh": "超声心动图可评估心脏泵血功能。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      3
+    ]
+  },
+  {
+    "id": 123,
+    "word": "angiography",
+    "ipa": "/ˌændʒiˈɒɡrəfi/",
+    "def_en": "Imaging of blood vessels using a contrast dye.",
+    "def_zh": "血管造影：用造影剂对血管成像的检查。",
+    "example_en": "Coronary angiography revealed a blocked artery.",
+    "example_zh": "冠状动脉造影发现一条动脉阻塞。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      27
+    ]
+  },
+  {
+    "id": 124,
+    "word": "coronary",
+    "ipa": "/ˈkɔːrəneri/",
+    "def_en": "Relating to the arteries that supply the heart muscle.",
+    "def_zh": "冠状的：与供应心肌的动脉有关。",
+    "example_en": "The coronary arteries branch from the aorta.",
+    "example_zh": "冠状动脉自主动脉分出。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 125,
+    "word": "aorta",
+    "ipa": "/eɪˈɔːrtə/",
+    "def_en": "The largest artery, carrying blood from the heart to the body.",
+    "def_zh": "主动脉：人体最大的动脉，将血液从心脏输送到全身。",
+    "example_en": "The aorta arches over the heart before descending through the chest.",
+    "example_zh": "主动脉在心脏上方形成弓形后下行穿过胸部。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": [
+      56
+    ]
+  },
+  {
+    "id": 126,
+    "word": "ventricle",
+    "ipa": "/ˈventrɪkəl/",
+    "def_en": "One of the two lower pumping chambers of the heart.",
+    "def_zh": "心室：心脏下部两个泵血腔之一。",
+    "example_en": "The left ventricle pumps oxygen-rich blood to the body.",
+    "example_zh": "左心室将富氧血泵送至全身。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 127,
+    "word": "atrium",
+    "ipa": "/ˈeɪtriəm/",
+    "def_en": "One of the two upper receiving chambers of the heart.",
+    "def_zh": "心房：心脏上部两个接收血液的腔之一。",
+    "example_en": "Blood returning to the heart first enters an atrium.",
+    "example_zh": "回流心脏的血液首先进入心房。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 128,
+    "word": "hemostasis",
+    "ipa": "/ˌhiːmoʊˈsteɪsɪs/",
+    "def_en": "The process that stops bleeding, including clot formation.",
+    "def_zh": "止血：使出血停止的过程，包括血凝块形成。",
+    "example_en": "Platelets play a key role in hemostasis.",
+    "example_zh": "血小板在止血中起关键作用。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      11,
+      123
+    ]
+  },
+  {
+    "id": 129,
+    "word": "anticoagulant",
+    "ipa": "/ˌæntikoʊˈæɡjələnt/",
+    "def_en": "A drug that prevents or slows the clotting of blood.",
+    "def_zh": "抗凝剂：预防或减缓血液凝固的药物。",
+    "example_en": "Patients with atrial fibrillation often take an anticoagulant.",
+    "example_zh": "房颤患者常服用抗凝剂。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      124
+    ]
+  },
+  {
+    "id": 130,
+    "word": "tachyarrhythmia",
+    "ipa": "/ˌtækiəˈrɪðmiə/",
+    "def_en": "An abnormally fast and irregular heart rhythm.",
+    "def_zh": "快速性心律失常：心率异常增快且不规则。",
+    "example_en": "The patient's tachyarrhythmia was controlled with medication.",
+    "example_zh": "患者的快速性心律失常通过药物得到控制。",
+    "system_id": 1,
+    "difficulty": 4,
+    "morpheme_ids": [
+      25
+    ]
+  },
+  {
+    "id": 131,
+    "word": "cardiology",
+    "ipa": "/ˌkɑːrdiˈɒlədʒi/",
+    "def_en": "The branch of medicine dealing with the heart.",
+    "def_zh": "心脏病学：研究心脏的医学分支。",
+    "example_en": "She is training in cardiology to treat heart disease.",
+    "example_zh": "她正在心脏病学专业进修以治疗心脏疾病。",
+    "system_id": 1,
+    "difficulty": 2,
+    "morpheme_ids": [
+      3,
+      35
+    ]
+  },
+  {
+    "id": 132,
+    "word": "angioma",
+    "ipa": "/ˌændʒiˈoʊmə/",
+    "def_en": "A benign tumor made of blood or lymph vessels.",
+    "def_zh": "血管瘤：由血管或淋巴管构成的良性肿瘤。",
+    "example_en": "A small angioma on the skin is usually harmless.",
+    "example_zh": "皮肤上的小血管瘤通常无害。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      27,
+      37
+    ]
+  },
+  {
+    "id": 133,
+    "word": "arteriosclerosis",
+    "ipa": "/ɑːrˌtɪərioʊskləˈroʊsɪs/",
+    "def_en": "Thickening and hardening of the walls of arteries.",
+    "def_zh": "动脉硬化：动脉壁增厚变硬。",
+    "example_en": "Arteriosclerosis reduces the elasticity of the arteries.",
+    "example_zh": "动脉硬化使动脉弹性下降。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      51,
+      122
+    ]
+  },
+  {
+    "id": 134,
+    "word": "cardiac arrest",
+    "ipa": "/ˈkɑːrdiæk əˈrest/",
+    "def_en": "Sudden loss of heart function, breathing, and consciousness.",
+    "def_zh": "心搏骤停：心脏功能、呼吸和意识突然丧失。",
+    "example_en": "Cardiac arrest requires immediate CPR and defibrillation.",
+    "example_zh": "心搏骤停需立即进行心肺复苏和电除颤。",
+    "system_id": 1,
+    "difficulty": 3,
+    "morpheme_ids": [
+      3
+    ]
+  },
+  {
+    "id": 135,
+    "word": "bronchospasm",
+    "ipa": "/ˈbrɒŋkoʊspæzəm/",
+    "def_en": "Sudden tightening of the muscles around the bronchi, narrowing the airways.",
+    "def_zh": "支气管痉挛：支气管周围肌肉突然收缩，使气道变窄。",
+    "example_en": "Bronchospasm during an asthma attack makes breathing difficult.",
+    "example_zh": "哮喘发作时的支气管痉挛使呼吸困难。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      57,
+      112
+    ]
+  },
+  {
+    "id": 136,
+    "word": "bronchoscopy",
+    "ipa": "/brɒŋˈkɒskəpi/",
+    "def_en": "Visual examination of the airways using a flexible scope.",
+    "def_zh": "支气管镜检查：用软镜观察气道。",
+    "example_en": "Bronchoscopy can be used to take a lung biopsy.",
+    "example_zh": "支气管镜检查可用于取肺活检。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      57,
+      43
+    ]
+  },
+  {
+    "id": 137,
+    "word": "bronchodilator",
+    "ipa": "/ˌbrɒŋkoʊdaɪˈleɪtər/",
+    "def_en": "A drug that relaxes and widens the airways.",
+    "def_zh": "支气管扩张剂：松弛并扩张气道的药物。",
+    "example_en": "Inhaled bronchodilators relieve wheezing quickly.",
+    "example_zh": "吸入支气管扩张剂能迅速缓解喘鸣。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": [
+      57
+    ]
+  },
+  {
+    "id": 138,
+    "word": "laryngitis",
+    "ipa": "/ˌlærɪnˈdʒaɪtɪs/",
+    "def_en": "Inflammation of the larynx (voice box), often causing hoarseness.",
+    "def_zh": "喉炎：喉（发声器官）的炎症，常引起声音嘶哑。",
+    "example_en": "Laryngitis left the singer unable to perform.",
+    "example_zh": "喉炎使这位歌手无法演出。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": [
+      58,
+      34
+    ]
+  },
+  {
+    "id": 139,
+    "word": "pharyngitis",
+    "ipa": "/ˌfærɪnˈdʒaɪtɪs/",
+    "def_en": "Inflammation of the pharynx (throat); a sore throat.",
+    "def_zh": "咽炎：咽部的炎症，即咽喉痛。",
+    "example_en": "Viral pharyngitis usually resolves without antibiotics.",
+    "example_zh": "病毒性咽炎通常无需抗生素即可痊愈。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": [
+      59,
+      34
+    ]
+  },
+  {
+    "id": 140,
+    "word": "rhinitis",
+    "ipa": "/raɪˈnaɪtɪs/",
+    "def_en": "Inflammation of the lining of the nose.",
+    "def_zh": "鼻炎：鼻黏膜的炎症。",
+    "example_en": "Allergic rhinitis causes sneezing and a runny nose.",
+    "example_zh": "过敏性鼻炎引起打喷嚏和流涕。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": [
+      60,
+      34
+    ]
+  },
+  {
+    "id": 141,
+    "word": "rhinorrhea",
+    "ipa": "/ˌraɪnoʊˈriːə/",
+    "def_en": "A persistent watery discharge from the nose; a runny nose.",
+    "def_zh": "鼻溢液：持续的清水样鼻涕；流涕。",
+    "example_en": "Rhinorrhea is a common symptom of the common cold.",
+    "example_zh": "流涕是普通感冒的常见症状。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": [
+      60,
+      42
+    ]
+  },
+  {
+    "id": 142,
+    "word": "tracheostomy",
+    "ipa": "/ˌtreɪkiˈɒstəmi/",
+    "def_en": "A surgical opening created in the trachea to aid breathing.",
+    "def_zh": "气管造口术：在气管上造口以辅助呼吸。",
+    "example_en": "A tracheostomy may be needed for long-term ventilation.",
+    "example_zh": "长期机械通气可能需要气管造口。",
+    "system_id": 2,
+    "difficulty": 4,
+    "morpheme_ids": [
+      61,
+      117
+    ]
+  },
+  {
+    "id": 143,
+    "word": "thoracotomy",
+    "ipa": "/ˌθɔːrəˈkɒtəmi/",
+    "def_en": "Surgical incision into the chest wall.",
+    "def_zh": "开胸术：切开胸壁的手术。",
+    "example_en": "A thoracotomy gives surgeons access to the lungs.",
+    "example_zh": "开胸术使外科医生能够进入肺部操作。",
+    "system_id": 2,
+    "difficulty": 4,
+    "morpheme_ids": [
+      62,
+      44
+    ]
+  },
+  {
+    "id": 144,
+    "word": "thoracentesis",
+    "ipa": "/ˌθɔːrəsenˈtiːsɪs/",
+    "def_en": "Removal of fluid from the pleural space with a needle.",
+    "def_zh": "胸腔穿刺术：用针抽出胸膜腔积液。",
+    "example_en": "Thoracentesis relieved the patient's breathlessness.",
+    "example_zh": "胸腔穿刺术缓解了患者的呼吸困难。",
+    "system_id": 2,
+    "difficulty": 4,
+    "morpheme_ids": [
+      62,
+      116
+    ]
+  },
+  {
+    "id": 145,
+    "word": "pleurisy",
+    "ipa": "/ˈplʊərɪsi/",
+    "def_en": "Inflammation of the pleura, causing sharp pain when breathing.",
+    "def_zh": "胸膜炎：胸膜的炎症，呼吸时引起尖锐疼痛。",
+    "example_en": "Pleurisy causes pain that worsens with deep breaths.",
+    "example_zh": "胸膜炎引起的疼痛在深呼吸时加重。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      63
+    ]
+  },
+  {
+    "id": 146,
+    "word": "pleural effusion",
+    "ipa": "/ˈplʊərəl ɪˈfjuːʒən/",
+    "def_en": "Buildup of excess fluid between the layers of the pleura.",
+    "def_zh": "胸腔积液：胸膜各层之间积聚过多液体。",
+    "example_en": "A large pleural effusion can compress the lung.",
+    "example_zh": "大量胸腔积液可压迫肺。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      63
+    ]
+  },
+  {
+    "id": 147,
+    "word": "hypoxia",
+    "ipa": "/haɪˈpɒksiə/",
+    "def_en": "A deficiency of oxygen reaching the body's tissues.",
+    "def_zh": "缺氧：到达机体组织的氧气不足。",
+    "example_en": "Severe hypoxia can damage the brain within minutes.",
+    "example_zh": "重度缺氧数分钟内即可损伤大脑。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      14,
+      65
+    ]
+  },
+  {
+    "id": 148,
+    "word": "hypoxemia",
+    "ipa": "/ˌhaɪpɒkˈsiːmiə/",
+    "def_en": "An abnormally low level of oxygen in the blood.",
+    "def_zh": "低氧血症：血液中氧含量异常偏低。",
+    "example_en": "Hypoxemia is measured with a pulse oximeter.",
+    "example_zh": "低氧血症可用脉搏血氧仪测量。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      14,
+      65,
+      32
+    ]
+  },
+  {
+    "id": 149,
+    "word": "tachypnea",
+    "ipa": "/ˌtækɪpˈniːə/",
+    "def_en": "Abnormally rapid breathing.",
+    "def_zh": "呼吸急促：异常加快的呼吸。",
+    "example_en": "Tachypnea may be a sign of respiratory distress.",
+    "example_zh": "呼吸急促可能是呼吸窘迫的征象。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      25,
+      66
+    ]
+  },
+  {
+    "id": 150,
+    "word": "bradypnea",
+    "ipa": "/ˌbreɪdɪpˈniːə/",
+    "def_en": "Abnormally slow breathing.",
+    "def_zh": "呼吸过缓：异常减慢的呼吸。",
+    "example_en": "Certain drugs can cause bradypnea by depressing the brain.",
+    "example_zh": "某些药物可抑制脑部而引起呼吸过缓。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      2,
+      66
+    ]
+  },
+  {
+    "id": 151,
+    "word": "orthopnea",
+    "ipa": "/ɔːrˈθɒpniə/",
+    "def_en": "Shortness of breath that occurs when lying flat.",
+    "def_zh": "端坐呼吸：平躺时出现的呼吸困难。",
+    "example_en": "Orthopnea forces some patients to sleep propped up on pillows.",
+    "example_zh": "端坐呼吸迫使一些患者垫高枕头入睡。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      66
+    ]
+  },
+  {
+    "id": 152,
+    "word": "atelectasis",
+    "ipa": "/ˌætɪˈlektəsɪs/",
+    "def_en": "Partial or complete collapse of a lung or part of it.",
+    "def_zh": "肺不张：肺或其一部分的部分或完全塌陷。",
+    "example_en": "Atelectasis can develop after surgery if breaths are shallow.",
+    "example_zh": "术后呼吸表浅时可发生肺不张。",
+    "system_id": 2,
+    "difficulty": 4,
+    "morpheme_ids": [
+      47
+    ]
+  },
+  {
+    "id": 153,
+    "word": "expectorant",
+    "ipa": "/ɪkˈspektərənt/",
+    "def_en": "A medicine that helps loosen and bring up mucus.",
+    "def_zh": "祛痰药：帮助稀释并咳出黏液的药物。",
+    "example_en": "An expectorant can make a productive cough more effective.",
+    "example_zh": "祛痰药能使咳痰更顺畅。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 154,
+    "word": "sputum",
+    "ipa": "/ˈspjuːtəm/",
+    "def_en": "Mucus coughed up from the lower airways.",
+    "def_zh": "痰：从下气道咳出的黏液。",
+    "example_en": "A sputum sample was sent to test for infection.",
+    "example_zh": "送检痰标本以检测感染。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 155,
+    "word": "wheeze",
+    "ipa": "/wiːz/",
+    "def_en": "A high-pitched whistling sound made while breathing.",
+    "def_zh": "喘鸣：呼吸时发出的高调哨笛样声音。",
+    "example_en": "Wheezing is common in asthma and bronchitis.",
+    "example_zh": "喘鸣常见于哮喘和支气管炎。",
+    "system_id": 2,
+    "difficulty": 1,
+    "morpheme_ids": []
+  },
+  {
+    "id": 156,
+    "word": "hemothorax",
+    "ipa": "/ˌhiːmoʊˈθɔːræks/",
+    "def_en": "A collection of blood in the pleural cavity.",
+    "def_zh": "血胸：胸膜腔内积血。",
+    "example_en": "Chest trauma can cause a hemothorax.",
+    "example_zh": "胸部外伤可导致血胸。",
+    "system_id": 2,
+    "difficulty": 4,
+    "morpheme_ids": [
+      11,
+      62
+    ]
+  },
+  {
+    "id": 157,
+    "word": "pulmonary",
+    "ipa": "/ˈpʌlməneri/",
+    "def_en": "Relating to the lungs.",
+    "def_zh": "肺的：与肺相关的。",
+    "example_en": "The pulmonary arteries carry blood from the heart to the lungs.",
+    "example_zh": "肺动脉将血液从心脏输送到肺。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": [
+      64
+    ]
+  },
+  {
+    "id": 158,
+    "word": "respiration",
+    "ipa": "/ˌrespɪˈreɪʃən/",
+    "def_en": "The process of breathing and exchanging gases.",
+    "def_zh": "呼吸：呼吸并进行气体交换的过程。",
+    "example_en": "Respiration rate is counted as breaths per minute.",
+    "example_zh": "呼吸频率以每分钟呼吸次数计。",
+    "system_id": 2,
+    "difficulty": 1,
+    "morpheme_ids": []
+  },
+  {
+    "id": 159,
+    "word": "alveolitis",
+    "ipa": "/ˌælviəˈlaɪtɪs/",
+    "def_en": "Inflammation of the alveoli in the lungs.",
+    "def_zh": "肺泡炎：肺泡的炎症。",
+    "example_en": "Inhaling certain dusts can trigger alveolitis.",
+    "example_zh": "吸入某些粉尘可诱发肺泡炎。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      34
+    ]
+  },
+  {
+    "id": 160,
+    "word": "cyanosis (respiratory)",
+    "ipa": "/ˌsaɪəˈnoʊsɪs/",
+    "def_en": "Bluish discoloration of skin from low blood oxygen.",
+    "def_zh": "发绀：因血氧偏低使皮肤呈青紫色。",
+    "example_en": "Central cyanosis is best seen on the lips and tongue.",
+    "example_zh": "中心性发绀在唇和舌处最易观察到。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      109,
+      38
+    ]
+  },
+  {
+    "id": 161,
+    "word": "dyspnea (exertional)",
+    "ipa": "/dɪspˈniːə/",
+    "def_en": "Difficult or labored breathing, especially on exertion.",
+    "def_zh": "劳力性呼吸困难：呼吸费力，尤其在用力时。",
+    "example_en": "Exertional dyspnea may signal heart or lung disease.",
+    "example_zh": "劳力性呼吸困难可能提示心肺疾病。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": [
+      125,
+      66
+    ]
+  },
+  {
+    "id": 162,
+    "word": "apnea (sleep)",
+    "ipa": "/ˈæpniə/",
+    "def_en": "A temporary pause in breathing, as in sleep apnea.",
+    "def_zh": "睡眠呼吸暂停：呼吸的暂时停止，如睡眠呼吸暂停。",
+    "example_en": "Sleep apnea causes repeated pauses in breathing at night.",
+    "example_zh": "睡眠呼吸暂停使夜间呼吸反复中断。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": [
+      1,
+      66
+    ]
+  },
+  {
+    "id": 163,
+    "word": "nebulizer",
+    "ipa": "/ˈnebjəlaɪzər/",
+    "def_en": "A device that turns liquid medicine into a fine mist for inhaling.",
+    "def_zh": "雾化器：将液体药物变成细雾以供吸入的装置。",
+    "example_en": "The child received salbutamol through a nebulizer.",
+    "example_zh": "患儿通过雾化器吸入了沙丁胺醇。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 164,
+    "word": "pneumonitis",
+    "ipa": "/ˌnjuːməˈnaɪtɪs/",
+    "def_en": "Inflammation of lung tissue not caused by infection.",
+    "def_zh": "肺炎症（非感染性）：非感染引起的肺组织炎症。",
+    "example_en": "Radiation pneumonitis can follow chest radiotherapy.",
+    "example_zh": "胸部放疗后可发生放射性肺炎。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      23,
+      34
+    ]
+  },
+  {
+    "id": 165,
+    "word": "tuberculosis",
+    "ipa": "/tjuːˌbɜːrkjəˈloʊsɪs/",
+    "def_en": "A contagious bacterial infection that mainly affects the lungs.",
+    "def_zh": "结核病：主要侵犯肺部的传染性细菌感染。",
+    "example_en": "Tuberculosis is treated with a long course of antibiotics.",
+    "example_zh": "结核病需用长疗程抗生素治疗。",
+    "system_id": 2,
+    "difficulty": 3,
+    "morpheme_ids": [
+      38
+    ]
+  },
+  {
+    "id": 166,
+    "word": "hyperventilation",
+    "ipa": "/ˌhaɪpərˌventɪˈleɪʃən/",
+    "def_en": "Breathing that is faster or deeper than the body needs.",
+    "def_zh": "过度通气：呼吸频率或深度超过机体所需。",
+    "example_en": "Anxiety can trigger hyperventilation and tingling fingers.",
+    "example_zh": "焦虑可诱发过度通气和手指麻刺感。",
+    "system_id": 2,
+    "difficulty": 2,
+    "morpheme_ids": [
+      13
+    ]
+  },
+  {
+    "id": 167,
+    "word": "cerebrum",
+    "ipa": "/səˈriːbrəm/",
+    "def_en": "The largest part of the brain, responsible for thought and movement.",
+    "def_zh": "大脑：脑最大的部分，负责思维和运动。",
+    "example_en": "The cerebrum is divided into two hemispheres.",
+    "example_zh": "大脑分为两个半球。",
+    "system_id": 3,
+    "difficulty": 2,
+    "morpheme_ids": [
+      67
+    ]
+  },
+  {
+    "id": 168,
+    "word": "cerebellum",
+    "ipa": "/ˌserəˈbeləm/",
+    "def_en": "The brain region that coordinates movement and balance.",
+    "def_zh": "小脑：协调运动和平衡的脑区。",
+    "example_en": "Damage to the cerebellum causes unsteady movements.",
+    "example_zh": "小脑损伤会导致动作不稳。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 169,
+    "word": "meninges",
+    "ipa": "/məˈnɪndʒiːz/",
+    "def_en": "The three protective membranes covering the brain and spinal cord.",
+    "def_zh": "脑膜：覆盖脑和脊髓的三层保护膜。",
+    "example_en": "Infection of the meninges is called meningitis.",
+    "example_zh": "脑膜的感染称为脑膜炎。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      70
+    ]
+  },
+  {
+    "id": 170,
+    "word": "myelopathy",
+    "ipa": "/ˌmaɪəˈlɒpəθi/",
+    "def_en": "Any disease of the spinal cord.",
+    "def_zh": "脊髓病：脊髓的任何疾病。",
+    "example_en": "Cervical myelopathy can cause weakness in the limbs.",
+    "example_zh": "颈髓病可引起肢体无力。",
+    "system_id": 3,
+    "difficulty": 4,
+    "morpheme_ids": [
+      69,
+      39
+    ]
+  },
+  {
+    "id": 171,
+    "word": "encephalopathy",
+    "ipa": "/enˌsefəˈlɒpəθi/",
+    "def_en": "Any disease or dysfunction of the brain.",
+    "def_zh": "脑病：脑的任何疾病或功能障碍。",
+    "example_en": "Liver failure can lead to hepatic encephalopathy.",
+    "example_zh": "肝衰竭可导致肝性脑病。",
+    "system_id": 3,
+    "difficulty": 4,
+    "morpheme_ids": [
+      7,
+      39
+    ]
+  },
+  {
+    "id": 172,
+    "word": "aphasia",
+    "ipa": "/əˈfeɪʒə/",
+    "def_en": "Loss of the ability to understand or produce speech.",
+    "def_zh": "失语症：理解或表达言语能力的丧失。",
+    "example_en": "Aphasia is a common consequence of a left-sided stroke.",
+    "example_zh": "失语症是左侧卒中的常见后果。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      1,
+      72
+    ]
+  },
+  {
+    "id": 173,
+    "word": "dysphasia",
+    "ipa": "/dɪsˈfeɪʒə/",
+    "def_en": "Impaired but not absent ability to use language.",
+    "def_zh": "言语困难：语言能力受损但未完全丧失。",
+    "example_en": "Mild dysphasia may improve with speech therapy.",
+    "example_zh": "轻度言语困难可通过言语治疗改善。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      125,
+      72
+    ]
+  },
+  {
+    "id": 174,
+    "word": "hemiparesis",
+    "ipa": "/ˌhemipəˈriːsɪs/",
+    "def_en": "Weakness affecting one side of the body.",
+    "def_zh": "偏身轻瘫：一侧身体的肌力减弱。",
+    "example_en": "The stroke left him with hemiparesis on the right.",
+    "example_zh": "卒中使他右侧偏身轻瘫。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      73
+    ]
+  },
+  {
+    "id": 175,
+    "word": "quadriplegia",
+    "ipa": "/ˌkwɒdrɪˈpliːdʒə/",
+    "def_en": "Paralysis of all four limbs.",
+    "def_zh": "四肢瘫：四肢的瘫痪。",
+    "example_en": "A high spinal cord injury can cause quadriplegia.",
+    "example_zh": "高位脊髓损伤可导致四肢瘫。",
+    "system_id": 3,
+    "difficulty": 4,
+    "morpheme_ids": [
+      41
+    ]
+  },
+  {
+    "id": 176,
+    "word": "neuralgia (trigeminal)",
+    "ipa": "/njʊˈrældʒə/",
+    "def_en": "Sharp pain along the course of a nerve.",
+    "def_zh": "神经痛：沿神经走行的尖锐疼痛。",
+    "example_en": "Trigeminal neuralgia causes brief, intense facial pain.",
+    "example_zh": "三叉神经痛引起短暂而剧烈的面部疼痛。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      18,
+      31
+    ]
+  },
+  {
+    "id": 177,
+    "word": "neuritis",
+    "ipa": "/njʊˈraɪtɪs/",
+    "def_en": "Inflammation of a nerve.",
+    "def_zh": "神经炎：神经的炎症。",
+    "example_en": "Optic neuritis can cause sudden vision loss in one eye.",
+    "example_zh": "视神经炎可引起单眼突然视力下降。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      18,
+      34
+    ]
+  },
+  {
+    "id": 178,
+    "word": "neurogenesis",
+    "ipa": "/ˌnjʊəroʊˈdʒenəsɪs/",
+    "def_en": "The formation of new neurons in the brain.",
+    "def_zh": "神经发生：脑内新神经元的生成。",
+    "example_en": "Neurogenesis continues in certain brain regions in adults.",
+    "example_zh": "成人某些脑区仍持续存在神经发生。",
+    "system_id": 3,
+    "difficulty": 4,
+    "morpheme_ids": [
+      18,
+      50
+    ]
+  },
+  {
+    "id": 179,
+    "word": "anesthesia",
+    "ipa": "/ˌænəsˈθiːʒə/",
+    "def_en": "Loss of sensation, often induced for surgery.",
+    "def_zh": "麻醉：感觉的丧失，常为手术而诱导。",
+    "example_en": "General anesthesia renders the patient unconscious.",
+    "example_zh": "全身麻醉使患者失去意识。",
+    "system_id": 3,
+    "difficulty": 2,
+    "morpheme_ids": [
+      1,
+      74
+    ]
+  },
+  {
+    "id": 180,
+    "word": "paresthesia",
+    "ipa": "/ˌpærəsˈθiːʒə/",
+    "def_en": "An abnormal tingling or 'pins and needles' sensation.",
+    "def_zh": "感觉异常：异常的麻刺或「针扎」样感觉。",
+    "example_en": "Paresthesia in the hands may suggest nerve compression.",
+    "example_zh": "手部感觉异常可能提示神经受压。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      74
+    ]
+  },
+  {
+    "id": 181,
+    "word": "convulsion",
+    "ipa": "/kənˈvʌlʃən/",
+    "def_en": "Sudden, violent, involuntary muscle contractions; a seizure.",
+    "def_zh": "惊厥：突然、剧烈、不自主的肌肉收缩；抽搐。",
+    "example_en": "A high fever can trigger convulsions in young children.",
+    "example_zh": "高热可诱发幼儿惊厥。",
+    "system_id": 3,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 182,
+    "word": "seizure",
+    "ipa": "/ˈsiːʒər/",
+    "def_en": "A burst of abnormal electrical activity in the brain.",
+    "def_zh": "癫痫发作：脑内异常电活动的爆发。",
+    "example_en": "Epilepsy is characterized by recurrent seizures.",
+    "example_zh": "癫痫以反复发作为特征。",
+    "system_id": 3,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 183,
+    "word": "Parkinson's disease",
+    "ipa": "/ˈpɑːrkɪnsənz dɪˈziːz/",
+    "def_en": "A progressive disorder causing tremor, stiffness, and slow movement.",
+    "def_zh": "帕金森病：以震颤、僵硬和动作迟缓为特征的进行性疾病。",
+    "example_en": "Parkinson's disease results from loss of dopamine-producing neurons.",
+    "example_zh": "帕金森病源于产生多巴胺的神经元丧失。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 184,
+    "word": "multiple sclerosis",
+    "ipa": "/ˌmʌltɪpəl skləˈroʊsɪs/",
+    "def_en": "An autoimmune disease that damages the myelin of nerves.",
+    "def_zh": "多发性硬化：损害神经髓鞘的自身免疫病。",
+    "example_en": "Multiple sclerosis can cause numbness, weakness, and vision problems.",
+    "example_zh": "多发性硬化可引起麻木、无力和视力问题。",
+    "system_id": 3,
+    "difficulty": 4,
+    "morpheme_ids": [
+      122
+    ]
+  },
+  {
+    "id": 185,
+    "word": "migraine",
+    "ipa": "/ˈmaɪɡreɪn/",
+    "def_en": "A recurrent, often one-sided, throbbing headache.",
+    "def_zh": "偏头痛：反复发作、常为单侧的搏动性头痛。",
+    "example_en": "Migraines are sometimes preceded by visual aura.",
+    "example_zh": "偏头痛有时先有视觉先兆。",
+    "system_id": 3,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 186,
+    "word": "concussion",
+    "ipa": "/kənˈkʌʃən/",
+    "def_en": "A mild brain injury caused by a blow to the head.",
+    "def_zh": "脑震荡：头部受击引起的轻度脑损伤。",
+    "example_en": "A concussion can cause headache, confusion, and dizziness.",
+    "example_zh": "脑震荡可引起头痛、意识模糊和头晕。",
+    "system_id": 3,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 187,
+    "word": "hydrocephalus",
+    "ipa": "/ˌhaɪdroʊˈsefələs/",
+    "def_en": "Buildup of fluid within the cavities of the brain.",
+    "def_zh": "脑积水：脑腔内液体积聚。",
+    "example_en": "Hydrocephalus may enlarge the head in infants.",
+    "example_zh": "脑积水在婴儿可使头部增大。",
+    "system_id": 3,
+    "difficulty": 4,
+    "morpheme_ids": [
+      7
+    ]
+  },
+  {
+    "id": 188,
+    "word": "neuropathy (peripheral)",
+    "ipa": "/njʊˈrɒpəθi/",
+    "def_en": "Damage to the peripheral nerves causing numbness or pain.",
+    "def_zh": "周围神经病：周围神经损伤引起麻木或疼痛。",
+    "example_en": "Diabetic neuropathy often begins in the feet.",
+    "example_zh": "糖尿病周围神经病常起于足部。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      18,
+      39
+    ]
+  },
+  {
+    "id": 189,
+    "word": "reflex",
+    "ipa": "/ˈriːfleks/",
+    "def_en": "An automatic, involuntary response to a stimulus.",
+    "def_zh": "反射：对刺激的自动、不自主反应。",
+    "example_en": "The knee-jerk reflex tests the nervous system.",
+    "example_zh": "膝跳反射用于检查神经系统。",
+    "system_id": 3,
+    "difficulty": 1,
+    "morpheme_ids": []
+  },
+  {
+    "id": 190,
+    "word": "dendrite",
+    "ipa": "/ˈdendraɪt/",
+    "def_en": "A branching extension of a neuron that receives signals.",
+    "def_zh": "树突：神经元接收信号的分支状突起。",
+    "example_en": "Dendrites carry impulses toward the cell body.",
+    "example_zh": "树突将冲动传向胞体。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 191,
+    "word": "neurotransmitter",
+    "ipa": "/ˌnjʊəroʊtrænsˈmɪtər/",
+    "def_en": "A chemical that carries signals across a synapse.",
+    "def_zh": "神经递质：在突触间传递信号的化学物质。",
+    "example_en": "Dopamine and serotonin are well-known neurotransmitters.",
+    "example_zh": "多巴胺和血清素是著名的神经递质。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      18
+    ]
+  },
+  {
+    "id": 192,
+    "word": "comatose",
+    "ipa": "/ˈkoʊmətoʊs/",
+    "def_en": "In a coma; in a state of deep unconsciousness.",
+    "def_zh": "昏迷的：处于深度无意识状态。",
+    "example_en": "The patient remained comatose after the injury.",
+    "example_zh": "患者受伤后持续昏迷。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 193,
+    "word": "vertigo",
+    "ipa": "/ˈvɜːrtɪɡoʊ/",
+    "def_en": "A sensation of spinning or that one's surroundings are spinning.",
+    "def_zh": "眩晕：自身或周围环境旋转的感觉。",
+    "example_en": "Inner-ear problems are a common cause of vertigo.",
+    "example_zh": "内耳问题是眩晕的常见原因。",
+    "system_id": 3,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 194,
+    "word": "syncope",
+    "ipa": "/ˈsɪŋkəpi/",
+    "def_en": "Temporary loss of consciousness; fainting.",
+    "def_zh": "晕厥：短暂的意识丧失；昏厥。",
+    "example_en": "Syncope often results from a brief drop in blood flow to the brain.",
+    "example_zh": "晕厥常因脑供血短暂下降所致。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 195,
+    "word": "polyneuropathy",
+    "ipa": "/ˌpɒlinjʊˈrɒpəθi/",
+    "def_en": "Simultaneous damage to many peripheral nerves.",
+    "def_zh": "多发性神经病：多条周围神经同时受损。",
+    "example_en": "Polyneuropathy can cause symmetrical numbness in the limbs.",
+    "example_zh": "多发性神经病可引起肢体对称性麻木。",
+    "system_id": 3,
+    "difficulty": 4,
+    "morpheme_ids": [
+      24,
+      18,
+      39
+    ]
+  },
+  {
+    "id": 196,
+    "word": "cerebrovascular",
+    "ipa": "/ˌserəbroʊˈvæskjələr/",
+    "def_en": "Relating to the blood vessels of the brain.",
+    "def_zh": "脑血管的：与脑部血管相关的。",
+    "example_en": "A cerebrovascular accident is another name for a stroke.",
+    "example_zh": "脑血管意外是卒中的另一名称。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      67
+    ]
+  },
+  {
+    "id": 197,
+    "word": "ataxia",
+    "ipa": "/əˈtæksiə/",
+    "def_en": "Loss of full control of body movements.",
+    "def_zh": "共济失调：身体动作协调控制的丧失。",
+    "example_en": "Ataxia makes walking unsteady and clumsy.",
+    "example_zh": "共济失调使步态不稳、笨拙。",
+    "system_id": 3,
+    "difficulty": 3,
+    "morpheme_ids": [
+      1
+    ]
+  },
+  {
+    "id": 198,
+    "word": "esophagitis",
+    "ipa": "/ɪˌsɒfəˈdʒaɪtɪs/",
+    "def_en": "Inflammation of the esophagus.",
+    "def_zh": "食管炎：食管的炎症。",
+    "example_en": "Acid reflux is a frequent cause of esophagitis.",
+    "example_zh": "胃酸反流是食管炎的常见原因。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      79,
+      34
+    ]
+  },
+  {
+    "id": 199,
+    "word": "gastroenteritis",
+    "ipa": "/ˌɡæstroʊˌentəˈraɪtɪs/",
+    "def_en": "Inflammation of the stomach and intestines, often from infection.",
+    "def_zh": "胃肠炎：胃和肠的炎症，常由感染引起。",
+    "example_en": "Gastroenteritis causes vomiting, diarrhea, and cramps.",
+    "example_zh": "胃肠炎引起呕吐、腹泻和腹部绞痛。",
+    "system_id": 4,
+    "difficulty": 2,
+    "morpheme_ids": [
+      10,
+      8,
+      34
+    ]
+  },
+  {
+    "id": 200,
+    "word": "colitis",
+    "ipa": "/kəˈlaɪtɪs/",
+    "def_en": "Inflammation of the colon (large intestine).",
+    "def_zh": "结肠炎：结肠（大肠）的炎症。",
+    "example_en": "Ulcerative colitis causes bloody diarrhea.",
+    "example_zh": "溃疡性结肠炎引起血性腹泻。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      75,
+      34
+    ]
+  },
+  {
+    "id": 201,
+    "word": "proctitis",
+    "ipa": "/prɒkˈtaɪtɪs/",
+    "def_en": "Inflammation of the rectum and anus.",
+    "def_zh": "直肠炎：直肠和肛门的炎症。",
+    "example_en": "Proctitis can cause rectal pain and bleeding.",
+    "example_zh": "直肠炎可引起直肠疼痛和出血。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      76,
+      34
+    ]
+  },
+  {
+    "id": 202,
+    "word": "hepatomegaly (alcoholic)",
+    "ipa": "/ˌhepətoʊˈmeɡəli/",
+    "def_en": "Enlargement of the liver.",
+    "def_zh": "肝肿大：肝脏体积增大。",
+    "example_en": "Hepatomegaly may be felt below the right rib cage.",
+    "example_zh": "肝肿大可在右肋缘下触及。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      12,
+      36
+    ]
+  },
+  {
+    "id": 203,
+    "word": "cholelithiasis",
+    "ipa": "/ˌkoʊlɪlɪˈθaɪəsɪs/",
+    "def_en": "The presence of gallstones in the gallbladder.",
+    "def_zh": "胆石症：胆囊内存在胆结石。",
+    "example_en": "Cholelithiasis can block bile flow and cause pain.",
+    "example_zh": "胆石症可阻塞胆汁流出并引起疼痛。",
+    "system_id": 4,
+    "difficulty": 4,
+    "morpheme_ids": [
+      77,
+      102
+    ]
+  },
+  {
+    "id": 204,
+    "word": "cholecystectomy",
+    "ipa": "/ˌkoʊlɪsɪsˈtektəmi/",
+    "def_en": "Surgical removal of the gallbladder.",
+    "def_zh": "胆囊切除术：手术切除胆囊。",
+    "example_en": "Cholecystectomy is a common treatment for gallstones.",
+    "example_zh": "胆囊切除术是胆结石的常见治疗。",
+    "system_id": 4,
+    "difficulty": 4,
+    "morpheme_ids": [
+      77,
+      33
+    ]
+  },
+  {
+    "id": 205,
+    "word": "pancreatitis",
+    "ipa": "/ˌpæŋkriəˈtaɪtɪs/",
+    "def_en": "Inflammation of the pancreas.",
+    "def_zh": "胰腺炎：胰腺的炎症。",
+    "example_en": "Acute pancreatitis causes severe upper abdominal pain.",
+    "example_zh": "急性胰腺炎引起剧烈上腹痛。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      78,
+      34
+    ]
+  },
+  {
+    "id": 206,
+    "word": "gastrectomy",
+    "ipa": "/ɡæsˈtrektəmi/",
+    "def_en": "Surgical removal of part or all of the stomach.",
+    "def_zh": "胃切除术：手术切除部分或全部胃。",
+    "example_en": "A gastrectomy may be needed to treat stomach cancer.",
+    "example_zh": "胃切除术可用于治疗胃癌。",
+    "system_id": 4,
+    "difficulty": 4,
+    "morpheme_ids": [
+      10,
+      33
+    ]
+  },
+  {
+    "id": 207,
+    "word": "colonoscopy (screening)",
+    "ipa": "/ˌkoʊləˈnɒskəpi/",
+    "def_en": "Visual examination of the colon using a flexible scope.",
+    "def_zh": "结肠镜检查：用软镜观察结肠。",
+    "example_en": "Colonoscopy can detect and remove precancerous polyps.",
+    "example_zh": "结肠镜检查可发现并切除癌前息肉。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      75,
+      43
+    ]
+  },
+  {
+    "id": 208,
+    "word": "laparotomy",
+    "ipa": "/ˌlæpəˈrɒtəmi/",
+    "def_en": "Surgical incision into the abdominal wall.",
+    "def_zh": "剖腹术：切开腹壁的手术。",
+    "example_en": "An exploratory laparotomy is done to find the cause of pain.",
+    "example_zh": "探查性剖腹术用于查找疼痛原因。",
+    "system_id": 4,
+    "difficulty": 4,
+    "morpheme_ids": [
+      83,
+      44
+    ]
+  },
+  {
+    "id": 209,
+    "word": "laparoscopy",
+    "ipa": "/ˌlæpəˈrɒskəpi/",
+    "def_en": "Examination of the abdomen through a small scope.",
+    "def_zh": "腹腔镜检查：通过小型内镜检查腹腔。",
+    "example_en": "Laparoscopy allows surgery through tiny incisions.",
+    "example_zh": "腹腔镜可通过微小切口进行手术。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      83,
+      43
+    ]
+  },
+  {
+    "id": 210,
+    "word": "hematemesis",
+    "ipa": "/ˌhiːməˈteməsɪs/",
+    "def_en": "Vomiting of blood.",
+    "def_zh": "呕血：呕吐出血液。",
+    "example_en": "Hematemesis may indicate bleeding in the upper digestive tract.",
+    "example_zh": "呕血可能提示上消化道出血。",
+    "system_id": 4,
+    "difficulty": 4,
+    "morpheme_ids": [
+      11,
+      81
+    ]
+  },
+  {
+    "id": 211,
+    "word": "dyspepsia",
+    "ipa": "/dɪsˈpepsiə/",
+    "def_en": "Indigestion; discomfort in the upper abdomen.",
+    "def_zh": "消化不良：上腹部不适。",
+    "example_en": "Dyspepsia often improves with smaller, slower meals.",
+    "example_zh": "少食慢食常可改善消化不良。",
+    "system_id": 4,
+    "difficulty": 2,
+    "morpheme_ids": [
+      125
+    ]
+  },
+  {
+    "id": 212,
+    "word": "ascites",
+    "ipa": "/əˈsaɪtiːz/",
+    "def_en": "Abnormal buildup of fluid in the abdominal cavity.",
+    "def_zh": "腹水：腹腔内液体异常积聚。",
+    "example_en": "Cirrhosis is a common cause of ascites.",
+    "example_zh": "肝硬化是腹水的常见原因。",
+    "system_id": 4,
+    "difficulty": 4,
+    "morpheme_ids": []
+  },
+  {
+    "id": 213,
+    "word": "jaundice",
+    "ipa": "/ˈdʒɔːndɪs/",
+    "def_en": "Yellowing of the skin and eyes from excess bilirubin.",
+    "def_zh": "黄疸：因胆红素过多使皮肤和眼睛发黄。",
+    "example_en": "Jaundice is often a sign of liver or bile-duct disease.",
+    "example_zh": "黄疸常是肝脏或胆道疾病的征象。",
+    "system_id": 4,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 214,
+    "word": "constipation",
+    "ipa": "/ˌkɒnstɪˈpeɪʃən/",
+    "def_en": "Infrequent or difficult bowel movements.",
+    "def_zh": "便秘：排便次数减少或排便困难。",
+    "example_en": "A high-fiber diet helps relieve constipation.",
+    "example_zh": "高纤维饮食有助于缓解便秘。",
+    "system_id": 4,
+    "difficulty": 1,
+    "morpheme_ids": []
+  },
+  {
+    "id": 215,
+    "word": "diarrhea",
+    "ipa": "/ˌdaɪəˈriːə/",
+    "def_en": "Frequent loose or watery bowel movements.",
+    "def_zh": "腹泻：频繁的稀便或水样便。",
+    "example_en": "Diarrhea can quickly lead to dehydration in children.",
+    "example_zh": "腹泻在儿童可迅速导致脱水。",
+    "system_id": 4,
+    "difficulty": 1,
+    "morpheme_ids": [
+      42
+    ]
+  },
+  {
+    "id": 216,
+    "word": "hemorrhoid",
+    "ipa": "/ˈhemərɔɪd/",
+    "def_en": "A swollen vein in the rectum or anus.",
+    "def_zh": "痔：直肠或肛门处肿胀的静脉。",
+    "example_en": "Hemorrhoids may cause itching and bright-red bleeding.",
+    "example_zh": "痔可引起瘙痒和鲜红色出血。",
+    "system_id": 4,
+    "difficulty": 2,
+    "morpheme_ids": [
+      11
+    ]
+  },
+  {
+    "id": 217,
+    "word": "appendectomy",
+    "ipa": "/ˌæpənˈdektəmi/",
+    "def_en": "Surgical removal of the appendix.",
+    "def_zh": "阑尾切除术：手术切除阑尾。",
+    "example_en": "An appendectomy is the standard treatment for appendicitis.",
+    "example_zh": "阑尾切除术是阑尾炎的标准治疗。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      33
+    ]
+  },
+  {
+    "id": 218,
+    "word": "malabsorption",
+    "ipa": "/ˌmæləbˈzɔːrpʃən/",
+    "def_en": "Impaired absorption of nutrients from the intestine.",
+    "def_zh": "吸收不良：肠道对营养物质吸收障碍。",
+    "example_en": "Celiac disease causes malabsorption of nutrients.",
+    "example_zh": "乳糜泻可引起营养吸收不良。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 219,
+    "word": "reflux",
+    "ipa": "/ˈriːflʌks/",
+    "def_en": "The backward flow of stomach contents into the esophagus.",
+    "def_zh": "反流：胃内容物倒流入食管。",
+    "example_en": "Acid reflux causes a burning sensation called heartburn.",
+    "example_zh": "胃酸反流引起称为烧心的灼热感。",
+    "system_id": 4,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 220,
+    "word": "hepatic",
+    "ipa": "/hɪˈpætɪk/",
+    "def_en": "Relating to the liver.",
+    "def_zh": "肝的：与肝脏相关的。",
+    "example_en": "The hepatic portal vein drains blood from the intestine.",
+    "example_zh": "肝门静脉引流来自肠道的血液。",
+    "system_id": 4,
+    "difficulty": 2,
+    "morpheme_ids": [
+      12
+    ]
+  },
+  {
+    "id": 221,
+    "word": "enteritis (regional)",
+    "ipa": "/ˌentəˈraɪtɪs/",
+    "def_en": "Inflammation of the small intestine.",
+    "def_zh": "肠炎：小肠的炎症。",
+    "example_en": "Crohn's disease can cause regional enteritis.",
+    "example_zh": "克罗恩病可引起局限性肠炎。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      8,
+      34
+    ]
+  },
+  {
+    "id": 222,
+    "word": "stomatitis",
+    "ipa": "/ˌstoʊməˈtaɪtɪs/",
+    "def_en": "Inflammation of the mouth and lips.",
+    "def_zh": "口炎：口腔和唇的炎症。",
+    "example_en": "Chemotherapy can cause painful stomatitis.",
+    "example_zh": "化疗可引起疼痛的口炎。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      34
+    ]
+  },
+  {
+    "id": 223,
+    "word": "glossitis",
+    "ipa": "/ɡlɒˈsaɪtɪs/",
+    "def_en": "Inflammation of the tongue.",
+    "def_zh": "舌炎：舌的炎症。",
+    "example_en": "Vitamin deficiencies can lead to glossitis.",
+    "example_zh": "维生素缺乏可导致舌炎。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      80,
+      34
+    ]
+  },
+  {
+    "id": 224,
+    "word": "ileus",
+    "ipa": "/ˈɪliəs/",
+    "def_en": "A lack of normal intestinal movement, blocking passage of contents.",
+    "def_zh": "肠梗阻（麻痹性）：肠道正常蠕动缺失，致内容物通过受阻。",
+    "example_en": "Paralytic ileus can occur after abdominal surgery.",
+    "example_zh": "麻痹性肠梗阻可发生于腹部手术后。",
+    "system_id": 4,
+    "difficulty": 4,
+    "morpheme_ids": []
+  },
+  {
+    "id": 225,
+    "word": "peritonitis",
+    "ipa": "/ˌperɪtəˈnaɪtɪs/",
+    "def_en": "Inflammation of the peritoneum lining the abdomen.",
+    "def_zh": "腹膜炎：覆盖腹腔的腹膜的炎症。",
+    "example_en": "A ruptured appendix can cause peritonitis.",
+    "example_zh": "阑尾穿孔可引起腹膜炎。",
+    "system_id": 4,
+    "difficulty": 4,
+    "morpheme_ids": [
+      34
+    ]
+  },
+  {
+    "id": 226,
+    "word": "polyp",
+    "ipa": "/ˈpɒlɪp/",
+    "def_en": "A small growth projecting from a mucous membrane.",
+    "def_zh": "息肉：自黏膜突出的小赘生物。",
+    "example_en": "Colon polyps can be removed during colonoscopy.",
+    "example_zh": "结肠息肉可在结肠镜检查时切除。",
+    "system_id": 4,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 227,
+    "word": "dysphagia (esophageal)",
+    "ipa": "/dɪsˈfeɪdʒə/",
+    "def_en": "Difficulty swallowing.",
+    "def_zh": "吞咽困难：吞咽时困难。",
+    "example_en": "Dysphagia may result from a narrowed esophagus.",
+    "example_zh": "吞咽困难可因食管狭窄所致。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      125,
+      82
+    ]
+  },
+  {
+    "id": 228,
+    "word": "gastroscopy",
+    "ipa": "/ɡæsˈtrɒskəpi/",
+    "def_en": "Visual examination of the stomach using a scope.",
+    "def_zh": "胃镜检查：用内镜观察胃。",
+    "example_en": "Gastroscopy can identify ulcers and tumors.",
+    "example_zh": "胃镜检查可发现溃疡和肿瘤。",
+    "system_id": 4,
+    "difficulty": 3,
+    "morpheme_ids": [
+      10,
+      43
+    ]
+  },
+  {
+    "id": 229,
+    "word": "fracture",
+    "ipa": "/ˈfræktʃər/",
+    "def_en": "A break in a bone.",
+    "def_zh": "骨折：骨的断裂。",
+    "example_en": "A fracture is confirmed and classified with an X-ray.",
+    "example_zh": "骨折通过 X 线确诊并分型。",
+    "system_id": 5,
+    "difficulty": 1,
+    "morpheme_ids": []
+  },
+  {
+    "id": 230,
+    "word": "osteomyelitis",
+    "ipa": "/ˌɒstioʊˌmaɪəˈlaɪtɪs/",
+    "def_en": "Infection of bone, usually by bacteria.",
+    "def_zh": "骨髓炎：骨的感染，通常由细菌引起。",
+    "example_en": "Osteomyelitis may require prolonged antibiotics and surgery.",
+    "example_zh": "骨髓炎可能需要长期抗生素和手术治疗。",
+    "system_id": 5,
+    "difficulty": 4,
+    "morpheme_ids": [
+      20,
+      69,
+      34
+    ]
+  },
+  {
+    "id": 231,
+    "word": "osteomalacia",
+    "ipa": "/ˌɒstioʊməˈleɪʃə/",
+    "def_en": "Softening of bones, often from vitamin D deficiency.",
+    "def_zh": "骨软化症：骨骼软化，常因维生素 D 缺乏所致。",
+    "example_en": "Osteomalacia causes bone pain and muscle weakness.",
+    "example_zh": "骨软化症引起骨痛和肌无力。",
+    "system_id": 5,
+    "difficulty": 4,
+    "morpheme_ids": [
+      20,
+      89
+    ]
+  },
+  {
+    "id": 232,
+    "word": "chondritis",
+    "ipa": "/kɒnˈdraɪtɪs/",
+    "def_en": "Inflammation of cartilage.",
+    "def_zh": "软骨炎：软骨的炎症。",
+    "example_en": "Costochondritis is inflammation of rib cartilage.",
+    "example_zh": "肋软骨炎是肋骨软骨的炎症。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      84,
+      34
+    ]
+  },
+  {
+    "id": 233,
+    "word": "chondromalacia",
+    "ipa": "/ˌkɒndroʊməˈleɪʃə/",
+    "def_en": "Softening and breakdown of cartilage, often in the knee.",
+    "def_zh": "软骨软化：软骨的软化与破坏，常见于膝。",
+    "example_en": "Chondromalacia of the kneecap causes pain when climbing stairs.",
+    "example_zh": "髌骨软骨软化在上楼梯时引起疼痛。",
+    "system_id": 5,
+    "difficulty": 4,
+    "morpheme_ids": [
+      84,
+      89
+    ]
+  },
+  {
+    "id": 234,
+    "word": "arthralgia",
+    "ipa": "/ɑːrˈθrældʒə/",
+    "def_en": "Pain in a joint.",
+    "def_zh": "关节痛：关节的疼痛。",
+    "example_en": "Arthralgia can accompany many viral infections.",
+    "example_zh": "关节痛可伴随多种病毒感染。",
+    "system_id": 5,
+    "difficulty": 2,
+    "morpheme_ids": [
+      28,
+      31
+    ]
+  },
+  {
+    "id": 235,
+    "word": "arthroplasty",
+    "ipa": "/ˈɑːrθroʊplæsti/",
+    "def_en": "Surgical reconstruction or replacement of a joint.",
+    "def_zh": "关节成形术：关节的手术重建或置换。",
+    "example_en": "Hip arthroplasty can relieve severe arthritis pain.",
+    "example_zh": "髋关节置换术可缓解严重的关节炎疼痛。",
+    "system_id": 5,
+    "difficulty": 4,
+    "morpheme_ids": [
+      28,
+      40
+    ]
+  },
+  {
+    "id": 236,
+    "word": "arthrodesis",
+    "ipa": "/ɑːrˈθrɒdɪsɪs/",
+    "def_en": "Surgical fusion of a joint to relieve pain.",
+    "def_zh": "关节融合术：手术融合关节以缓解疼痛。",
+    "example_en": "Ankle arthrodesis stiffens the joint to reduce pain.",
+    "example_zh": "踝关节融合术使关节固定以减轻疼痛。",
+    "system_id": 5,
+    "difficulty": 4,
+    "morpheme_ids": [
+      28,
+      90
+    ]
+  },
+  {
+    "id": 237,
+    "word": "myalgia",
+    "ipa": "/maɪˈældʒə/",
+    "def_en": "Muscle pain.",
+    "def_zh": "肌痛：肌肉的疼痛。",
+    "example_en": "Myalgia is a common symptom of influenza.",
+    "example_zh": "肌痛是流感的常见症状。",
+    "system_id": 5,
+    "difficulty": 2,
+    "morpheme_ids": [
+      16,
+      31
+    ]
+  },
+  {
+    "id": 238,
+    "word": "myositis",
+    "ipa": "/ˌmaɪəˈsaɪtɪs/",
+    "def_en": "Inflammation of muscle tissue.",
+    "def_zh": "肌炎：肌肉组织的炎症。",
+    "example_en": "Myositis causes muscle weakness and tenderness.",
+    "example_zh": "肌炎引起肌无力和压痛。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      16,
+      34
+    ]
+  },
+  {
+    "id": 239,
+    "word": "tenosynovitis",
+    "ipa": "/ˌtenoʊˌsaɪnəˈvaɪtɪs/",
+    "def_en": "Inflammation of a tendon and its surrounding sheath.",
+    "def_zh": "腱鞘炎：肌腱及其周围鞘膜的炎症。",
+    "example_en": "Repetitive movements can cause tenosynovitis of the wrist.",
+    "example_zh": "重复动作可引起腕部腱鞘炎。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      85,
+      34
+    ]
+  },
+  {
+    "id": 240,
+    "word": "tenotomy",
+    "ipa": "/teˈnɒtəmi/",
+    "def_en": "Surgical cutting of a tendon.",
+    "def_zh": "肌腱切断术：手术切断肌腱。",
+    "example_en": "Tenotomy can release a tight, contracted tendon.",
+    "example_zh": "肌腱切断术可松解紧张挛缩的肌腱。",
+    "system_id": 5,
+    "difficulty": 4,
+    "morpheme_ids": [
+      85,
+      44
+    ]
+  },
+  {
+    "id": 241,
+    "word": "spondylitis",
+    "ipa": "/ˌspɒndɪˈlaɪtɪs/",
+    "def_en": "Inflammation of the vertebrae of the spine.",
+    "def_zh": "脊椎炎：脊柱椎骨的炎症。",
+    "example_en": "Ankylosing spondylitis can fuse the spine over time.",
+    "example_zh": "强直性脊柱炎日久可使脊柱融合。",
+    "system_id": 5,
+    "difficulty": 4,
+    "morpheme_ids": [
+      86,
+      34
+    ]
+  },
+  {
+    "id": 242,
+    "word": "spondylosis",
+    "ipa": "/ˌspɒndɪˈloʊsɪs/",
+    "def_en": "Age-related degeneration of the spine.",
+    "def_zh": "脊椎病：与年龄相关的脊柱退行性变。",
+    "example_en": "Cervical spondylosis can pinch nerves in the neck.",
+    "example_zh": "颈椎病可压迫颈部神经。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      86,
+      38
+    ]
+  },
+  {
+    "id": 243,
+    "word": "osteotomy",
+    "ipa": "/ˌɒstiˈɒtəmi/",
+    "def_en": "Surgical cutting of bone to realign it.",
+    "def_zh": "截骨术：切开骨以重新对位的手术。",
+    "example_en": "An osteotomy can correct a deformed leg bone.",
+    "example_zh": "截骨术可矫正畸形的腿骨。",
+    "system_id": 5,
+    "difficulty": 4,
+    "morpheme_ids": [
+      20,
+      44
+    ]
+  },
+  {
+    "id": 244,
+    "word": "myopathy (inflammatory)",
+    "ipa": "/maɪˈɒpəθi/",
+    "def_en": "Any disease of muscle tissue.",
+    "def_zh": "肌病：肌肉组织的任何疾病。",
+    "example_en": "Some myopathies are inherited and run in families.",
+    "example_zh": "某些肌病为遗传性，呈家族聚集。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      16,
+      39
+    ]
+  },
+  {
+    "id": 245,
+    "word": "luxation",
+    "ipa": "/lʌkˈseɪʃən/",
+    "def_en": "Complete dislocation of a joint.",
+    "def_zh": "脱位：关节的完全脱位。",
+    "example_en": "Shoulder luxation often follows a fall on an outstretched arm.",
+    "example_zh": "肩关节脱位常因手臂伸直跌倒所致。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 246,
+    "word": "subluxation",
+    "ipa": "/ˌsʌblʌkˈseɪʃən/",
+    "def_en": "A partial dislocation of a joint.",
+    "def_zh": "半脱位：关节的部分脱位。",
+    "example_en": "A subluxation leaves the joint partly out of place.",
+    "example_zh": "半脱位使关节部分错位。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      128
+    ]
+  },
+  {
+    "id": 247,
+    "word": "sprain",
+    "ipa": "/spreɪn/",
+    "def_en": "An injury to a ligament from overstretching or tearing.",
+    "def_zh": "扭伤：韧带因过度拉伸或撕裂而受伤。",
+    "example_en": "An ankle sprain is treated with rest, ice, and elevation.",
+    "example_zh": "踝关节扭伤以休息、冰敷和抬高处理。",
+    "system_id": 5,
+    "difficulty": 1,
+    "morpheme_ids": []
+  },
+  {
+    "id": 248,
+    "word": "strain",
+    "ipa": "/streɪn/",
+    "def_en": "An injury to a muscle or tendon from overuse or overstretching.",
+    "def_zh": "拉伤：肌肉或肌腱因过用或过度拉伸而受伤。",
+    "example_en": "A hamstring strain is common in sprinters.",
+    "example_zh": "腘绳肌拉伤在短跑运动员中常见。",
+    "system_id": 5,
+    "difficulty": 1,
+    "morpheme_ids": []
+  },
+  {
+    "id": 249,
+    "word": "kyphosis",
+    "ipa": "/kaɪˈfoʊsɪs/",
+    "def_en": "Excessive outward curvature of the upper spine; hunchback.",
+    "def_zh": "脊柱后凸：上段脊柱向后过度弯曲；驼背。",
+    "example_en": "Osteoporosis can lead to kyphosis in older adults.",
+    "example_zh": "骨质疏松可导致老年人脊柱后凸。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      38
+    ]
+  },
+  {
+    "id": 250,
+    "word": "lordosis",
+    "ipa": "/lɔːrˈdoʊsɪs/",
+    "def_en": "Excessive inward curvature of the lower spine.",
+    "def_zh": "脊柱前凸：下段脊柱向前过度弯曲。",
+    "example_en": "Pregnancy can temporarily increase lordosis.",
+    "example_zh": "妊娠可暂时加重脊柱前凸。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      38
+    ]
+  },
+  {
+    "id": 251,
+    "word": "osteopenia",
+    "ipa": "/ˌɒstioʊˈpiːniə/",
+    "def_en": "Lower-than-normal bone density, milder than osteoporosis.",
+    "def_zh": "骨量减少：骨密度低于正常，程度轻于骨质疏松。",
+    "example_en": "Osteopenia may progress to osteoporosis if untreated.",
+    "example_zh": "骨量减少若不治疗可发展为骨质疏松。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      20,
+      110
+    ]
+  },
+  {
+    "id": 252,
+    "word": "rhabdomyolysis",
+    "ipa": "/ˌræbdoʊmaɪˈɒlɪsɪs/",
+    "def_en": "Breakdown of muscle tissue that releases harmful contents into blood.",
+    "def_zh": "横纹肌溶解：肌肉组织分解并将有害物质释入血液。",
+    "example_en": "Severe rhabdomyolysis can damage the kidneys.",
+    "example_zh": "重度横纹肌溶解可损伤肾脏。",
+    "system_id": 5,
+    "difficulty": 4,
+    "morpheme_ids": [
+      16,
+      111
+    ]
+  },
+  {
+    "id": 253,
+    "word": "fasciitis",
+    "ipa": "/ˌfæʃiˈaɪtɪs/",
+    "def_en": "Inflammation of the fascia, connective tissue beneath the skin.",
+    "def_zh": "筋膜炎：皮下结缔组织（筋膜）的炎症。",
+    "example_en": "Plantar fasciitis causes heel pain with the first steps of the day.",
+    "example_zh": "足底筋膜炎在清晨起步时引起足跟痛。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      34
+    ]
+  },
+  {
+    "id": 254,
+    "word": "ligament",
+    "ipa": "/ˈlɪɡəmənt/",
+    "def_en": "A band of tissue connecting bones at a joint.",
+    "def_zh": "韧带：在关节处连接骨与骨的组织带。",
+    "example_en": "The anterior cruciate ligament stabilizes the knee.",
+    "example_zh": "前交叉韧带稳定膝关节。",
+    "system_id": 5,
+    "difficulty": 1,
+    "morpheme_ids": []
+  },
+  {
+    "id": 255,
+    "word": "tendon",
+    "ipa": "/ˈtendən/",
+    "def_en": "A cord of tissue that attaches muscle to bone.",
+    "def_zh": "肌腱：将肌肉连于骨的索状组织。",
+    "example_en": "The Achilles tendon connects the calf muscle to the heel.",
+    "example_zh": "跟腱将小腿肌连于足跟。",
+    "system_id": 5,
+    "difficulty": 1,
+    "morpheme_ids": [
+      85
+    ]
+  },
+  {
+    "id": 256,
+    "word": "orthopedics",
+    "ipa": "/ˌɔːrθəˈpiːdɪks/",
+    "def_en": "The branch of medicine dealing with the musculoskeletal system.",
+    "def_zh": "骨科：处理肌肉骨骼系统的医学分支。",
+    "example_en": "She saw an orthopedics specialist about her knee.",
+    "example_zh": "她因膝盖问题就诊于骨科专家。",
+    "system_id": 5,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 257,
+    "word": "dystrophy",
+    "ipa": "/ˈdɪstrəfi/",
+    "def_en": "Progressive weakening and degeneration, as of muscle.",
+    "def_zh": "营养不良/萎缩症：进行性的衰弱和退变，如肌肉。",
+    "example_en": "Muscular dystrophy progressively weakens the muscles.",
+    "example_zh": "肌营养不良症使肌肉进行性无力。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": [
+      125,
+      49
+    ]
+  },
+  {
+    "id": 258,
+    "word": "crepitus",
+    "ipa": "/ˈkrepɪtəs/",
+    "def_en": "A grating sound or sensation from bone or joint movement.",
+    "def_zh": "骨擦音/捻发感：骨或关节活动时的摩擦声或感觉。",
+    "example_en": "Crepitus is often felt in osteoarthritic joints.",
+    "example_zh": "骨关节炎的关节常可触及捻发感。",
+    "system_id": 5,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 259,
+    "word": "hormone",
+    "ipa": "/ˈhɔːrmoʊn/",
+    "def_en": "A chemical messenger released by a gland into the blood.",
+    "def_zh": "激素：腺体释放入血的化学信使。",
+    "example_en": "Insulin is a hormone made by the pancreas.",
+    "example_zh": "胰岛素是胰腺分泌的一种激素。",
+    "system_id": 6,
+    "difficulty": 1,
+    "morpheme_ids": []
+  },
+  {
+    "id": 260,
+    "word": "endocrine",
+    "ipa": "/ˈendoʊkrɪn/",
+    "def_en": "Relating to glands that secrete hormones into the blood.",
+    "def_zh": "内分泌的：与将激素分泌入血的腺体相关。",
+    "example_en": "The endocrine system controls metabolism and growth.",
+    "example_zh": "内分泌系统调控代谢和生长。",
+    "system_id": 6,
+    "difficulty": 2,
+    "morpheme_ids": [
+      30
+    ]
+  },
+  {
+    "id": 261,
+    "word": "hyperglycemia (fasting)",
+    "ipa": "/ˌhaɪpərɡlaɪˈsiːmiə/",
+    "def_en": "Abnormally high blood glucose.",
+    "def_zh": "高血糖：血糖异常升高。",
+    "example_en": "Persistent hyperglycemia damages blood vessels.",
+    "example_zh": "持续高血糖会损伤血管。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      13,
+      93,
+      32
+    ]
+  },
+  {
+    "id": 262,
+    "word": "glycosuria",
+    "ipa": "/ˌɡlaɪkoʊˈsjʊəriə/",
+    "def_en": "The presence of glucose in the urine.",
+    "def_zh": "糖尿：尿中出现葡萄糖。",
+    "example_en": "Glycosuria occurs when blood sugar exceeds the kidney's threshold.",
+    "example_zh": "当血糖超过肾阈值时出现糖尿。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      93,
+      45
+    ]
+  },
+  {
+    "id": 263,
+    "word": "polydipsia",
+    "ipa": "/ˌpɒliˈdɪpsiə/",
+    "def_en": "Excessive thirst.",
+    "def_zh": "多饮：异常口渴、饮水过多。",
+    "example_en": "Polydipsia and frequent urination are early signs of diabetes.",
+    "example_zh": "多饮和尿频是糖尿病的早期征象。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      24,
+      95
+    ]
+  },
+  {
+    "id": 264,
+    "word": "polyuria",
+    "ipa": "/ˌpɒliˈjʊəriə/",
+    "def_en": "Production of abnormally large amounts of urine.",
+    "def_zh": "多尿：尿量异常增多。",
+    "example_en": "Polyuria can lead to dehydration if fluids are not replaced.",
+    "example_zh": "多尿若不补液可导致脱水。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      24,
+      45
+    ]
+  },
+  {
+    "id": 265,
+    "word": "goiter",
+    "ipa": "/ˈɡɔɪtər/",
+    "def_en": "An abnormal enlargement of the thyroid gland.",
+    "def_zh": "甲状腺肿：甲状腺的异常增大。",
+    "example_en": "Iodine deficiency is a classic cause of goiter.",
+    "example_zh": "碘缺乏是甲状腺肿的典型病因。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 266,
+    "word": "thyromegaly",
+    "ipa": "/ˌθaɪroʊˈmeɡəli/",
+    "def_en": "Enlargement of the thyroid gland.",
+    "def_zh": "甲状腺肿大：甲状腺的增大。",
+    "example_en": "Thyromegaly may be visible as a swelling in the neck.",
+    "example_zh": "甲状腺肿大可表现为颈部肿胀。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      91,
+      36
+    ]
+  },
+  {
+    "id": 267,
+    "word": "thyroidectomy",
+    "ipa": "/ˌθaɪrɔɪˈdektəmi/",
+    "def_en": "Surgical removal of the thyroid gland.",
+    "def_zh": "甲状腺切除术：手术切除甲状腺。",
+    "example_en": "Thyroidectomy may be used to treat thyroid cancer.",
+    "example_zh": "甲状腺切除术可用于治疗甲状腺癌。",
+    "system_id": 6,
+    "difficulty": 4,
+    "morpheme_ids": [
+      91,
+      33
+    ]
+  },
+  {
+    "id": 268,
+    "word": "adrenaline",
+    "ipa": "/əˈdrenəlɪn/",
+    "def_en": "A hormone that prepares the body for 'fight or flight'.",
+    "def_zh": "肾上腺素：使机体准备「战或逃」反应的激素。",
+    "example_en": "Adrenaline raises heart rate and opens the airways.",
+    "example_zh": "肾上腺素提高心率并扩张气道。",
+    "system_id": 6,
+    "difficulty": 2,
+    "morpheme_ids": [
+      92
+    ]
+  },
+  {
+    "id": 269,
+    "word": "adrenalectomy",
+    "ipa": "/əˌdriːnəˈlektəmi/",
+    "def_en": "Surgical removal of an adrenal gland.",
+    "def_zh": "肾上腺切除术：手术切除肾上腺。",
+    "example_en": "Adrenalectomy may treat a hormone-secreting tumor.",
+    "example_zh": "肾上腺切除术可治疗分泌激素的肿瘤。",
+    "system_id": 6,
+    "difficulty": 4,
+    "morpheme_ids": [
+      92,
+      33
+    ]
+  },
+  {
+    "id": 270,
+    "word": "adenopathy",
+    "ipa": "/ˌædɪˈnɒpəθi/",
+    "def_en": "Disease or enlargement of glands, especially lymph nodes.",
+    "def_zh": "腺病：腺体（尤其淋巴结）的疾病或肿大。",
+    "example_en": "Cervical adenopathy means swollen glands in the neck.",
+    "example_zh": "颈部腺病指颈部淋巴结肿大。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      94,
+      39
+    ]
+  },
+  {
+    "id": 271,
+    "word": "hypersecretion",
+    "ipa": "/ˌhaɪpərsɪˈkriːʃən/",
+    "def_en": "Excessive secretion of a substance such as a hormone.",
+    "def_zh": "分泌过多：某物质（如激素）的过度分泌。",
+    "example_en": "Hypersecretion of growth hormone can cause acromegaly.",
+    "example_zh": "生长激素分泌过多可引起肢端肥大症。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      13
+    ]
+  },
+  {
+    "id": 272,
+    "word": "hyposecretion",
+    "ipa": "/ˌhaɪpoʊsɪˈkriːʃən/",
+    "def_en": "Deficient secretion of a substance such as a hormone.",
+    "def_zh": "分泌不足：某物质（如激素）的分泌减少。",
+    "example_en": "Hyposecretion of insulin contributes to diabetes.",
+    "example_zh": "胰岛素分泌不足是糖尿病的成因之一。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      14
+    ]
+  },
+  {
+    "id": 273,
+    "word": "acromegaly",
+    "ipa": "/ˌækroʊˈmeɡəli/",
+    "def_en": "Enlargement of the hands, feet, and face from excess growth hormone.",
+    "def_zh": "肢端肥大症：生长激素过多使手、足和面部增大。",
+    "example_en": "Acromegaly develops slowly in adults over many years.",
+    "example_zh": "肢端肥大症在成人中历经多年缓慢进展。",
+    "system_id": 6,
+    "difficulty": 4,
+    "morpheme_ids": [
+      36
+    ]
+  },
+  {
+    "id": 274,
+    "word": "Cushing's syndrome",
+    "ipa": "/ˈkʊʃɪŋz ˈsɪndroʊm/",
+    "def_en": "A disorder caused by prolonged exposure to high cortisol.",
+    "def_zh": "库欣综合征：长期高皮质醇暴露所致的疾病。",
+    "example_en": "Cushing's syndrome causes weight gain and a rounded face.",
+    "example_zh": "库欣综合征引起体重增加和满月脸。",
+    "system_id": 6,
+    "difficulty": 4,
+    "morpheme_ids": []
+  },
+  {
+    "id": 275,
+    "word": "Addison's disease",
+    "ipa": "/ˈædɪsənz dɪˈziːz/",
+    "def_en": "A disorder in which the adrenal glands produce too little hormone.",
+    "def_zh": "艾迪生病：肾上腺激素生成过少的疾病。",
+    "example_en": "Addison's disease causes fatigue, low blood pressure, and skin darkening.",
+    "example_zh": "艾迪生病引起乏力、低血压和皮肤变黑。",
+    "system_id": 6,
+    "difficulty": 4,
+    "morpheme_ids": []
+  },
+  {
+    "id": 276,
+    "word": "hypopituitarism",
+    "ipa": "/ˌhaɪpoʊpɪˈtjuːɪtərɪzəm/",
+    "def_en": "Reduced hormone production by the pituitary gland.",
+    "def_zh": "垂体功能减退：垂体激素生成减少。",
+    "example_en": "Hypopituitarism may affect growth, metabolism, and reproduction.",
+    "example_zh": "垂体功能减退可影响生长、代谢和生殖。",
+    "system_id": 6,
+    "difficulty": 4,
+    "morpheme_ids": [
+      14
+    ]
+  },
+  {
+    "id": 277,
+    "word": "metabolism",
+    "ipa": "/məˈtæbəlɪzəm/",
+    "def_en": "All the chemical processes that maintain life in the body.",
+    "def_zh": "代谢：维持机体生命的全部化学过程。",
+    "example_en": "Thyroid hormones set the body's basal metabolism.",
+    "example_zh": "甲状腺激素设定机体的基础代谢。",
+    "system_id": 6,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 278,
+    "word": "electrolyte",
+    "ipa": "/ɪˈlektrəlaɪt/",
+    "def_en": "A mineral in body fluids that carries an electric charge.",
+    "def_zh": "电解质：体液中带电荷的矿物质。",
+    "example_en": "Sodium and potassium are important electrolytes.",
+    "example_zh": "钠和钾是重要的电解质。",
+    "system_id": 6,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 279,
+    "word": "hyperkalemia",
+    "ipa": "/ˌhaɪpərkəˈliːmiə/",
+    "def_en": "Abnormally high level of potassium in the blood.",
+    "def_zh": "高钾血症：血钾水平异常升高。",
+    "example_en": "Severe hyperkalemia can cause dangerous heart rhythms.",
+    "example_zh": "重度高钾血症可引起危险的心律失常。",
+    "system_id": 6,
+    "difficulty": 4,
+    "morpheme_ids": [
+      13,
+      32
+    ]
+  },
+  {
+    "id": 280,
+    "word": "hypokalemia",
+    "ipa": "/ˌhaɪpoʊkəˈliːmiə/",
+    "def_en": "Abnormally low level of potassium in the blood.",
+    "def_zh": "低钾血症：血钾水平异常偏低。",
+    "example_en": "Hypokalemia can cause muscle weakness and cramps.",
+    "example_zh": "低钾血症可引起肌无力和痉挛。",
+    "system_id": 6,
+    "difficulty": 4,
+    "morpheme_ids": [
+      14,
+      32
+    ]
+  },
+  {
+    "id": 281,
+    "word": "hypercalcemia",
+    "ipa": "/ˌhaɪpərkælˈsiːmiə/",
+    "def_en": "Abnormally high level of calcium in the blood.",
+    "def_zh": "高钙血症：血钙水平异常升高。",
+    "example_en": "Hypercalcemia may cause kidney stones and confusion.",
+    "example_zh": "高钙血症可引起肾结石和意识模糊。",
+    "system_id": 6,
+    "difficulty": 4,
+    "morpheme_ids": [
+      13,
+      32
+    ]
+  },
+  {
+    "id": 282,
+    "word": "euthyroid",
+    "ipa": "/juːˈθaɪrɔɪd/",
+    "def_en": "Having a normally functioning thyroid gland.",
+    "def_zh": "甲状腺功能正常：甲状腺功能处于正常状态。",
+    "example_en": "After treatment, the patient became euthyroid.",
+    "example_zh": "治疗后患者甲状腺功能恢复正常。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      91
+    ]
+  },
+  {
+    "id": 283,
+    "word": "ketoacidosis",
+    "ipa": "/ˌkiːtoʊˌæsɪˈdoʊsɪs/",
+    "def_en": "A dangerous buildup of acids when the body breaks down fat for fuel.",
+    "def_zh": "酮症酸中毒：机体分解脂肪供能时酸性物质危险性积聚。",
+    "example_en": "Diabetic ketoacidosis is a medical emergency.",
+    "example_zh": "糖尿病酮症酸中毒是急症。",
+    "system_id": 6,
+    "difficulty": 4,
+    "morpheme_ids": [
+      38
+    ]
+  },
+  {
+    "id": 284,
+    "word": "glucagon",
+    "ipa": "/ˈɡluːkəɡɒn/",
+    "def_en": "A pancreatic hormone that raises blood glucose.",
+    "def_zh": "胰高血糖素：升高血糖的胰腺激素。",
+    "example_en": "Glucagon is released when blood sugar falls too low.",
+    "example_zh": "血糖过低时释放胰高血糖素。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      93
+    ]
+  },
+  {
+    "id": 285,
+    "word": "insulin resistance",
+    "ipa": "/ˈɪnsəlɪn rɪˈzɪstəns/",
+    "def_en": "Reduced response of cells to insulin.",
+    "def_zh": "胰岛素抵抗：细胞对胰岛素的反应减弱。",
+    "example_en": "Insulin resistance is central to type 2 diabetes.",
+    "example_zh": "胰岛素抵抗是 2 型糖尿病的核心机制。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 286,
+    "word": "pituitary",
+    "ipa": "/pɪˈtjuːɪtəri/",
+    "def_en": "The 'master gland' that controls other endocrine glands.",
+    "def_zh": "垂体：调控其他内分泌腺的「主腺」。",
+    "example_en": "The pituitary releases hormones that direct the thyroid and adrenals.",
+    "example_zh": "垂体释放激素以指挥甲状腺和肾上腺。",
+    "system_id": 6,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 287,
+    "word": "hypothalamus",
+    "ipa": "/ˌhaɪpoʊˈθæləməs/",
+    "def_en": "A brain region linking the nervous and endocrine systems.",
+    "def_zh": "下丘脑：连接神经系统与内分泌系统的脑区。",
+    "example_en": "The hypothalamus signals the pituitary to release hormones.",
+    "example_zh": "下丘脑发出信号促使垂体释放激素。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      14
+    ]
+  },
+  {
+    "id": 288,
+    "word": "hyperthyroid (state)",
+    "ipa": "/ˌhaɪpərˈθaɪrɔɪd/",
+    "def_en": "Relating to an overactive thyroid gland.",
+    "def_zh": "甲状腺功能亢进的：与甲状腺功能过度活跃相关。",
+    "example_en": "A hyperthyroid patient may lose weight despite eating well.",
+    "example_zh": "甲亢患者尽管进食良好仍可体重下降。",
+    "system_id": 6,
+    "difficulty": 3,
+    "morpheme_ids": [
+      13,
+      91
+    ]
+  },
+  {
+    "id": 289,
+    "word": "nephron",
+    "ipa": "/ˈnefrɒn/",
+    "def_en": "The microscopic filtering unit of the kidney.",
+    "def_zh": "肾单位：肾脏的微观过滤单元。",
+    "example_en": "Each kidney contains about a million nephrons.",
+    "example_zh": "每个肾脏约含一百万个肾单位。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      17
+    ]
+  },
+  {
+    "id": 290,
+    "word": "nephrolithiasis",
+    "ipa": "/ˌnefroʊlɪˈθaɪəsɪs/",
+    "def_en": "The presence of stones in the kidney.",
+    "def_zh": "肾结石症：肾脏内存在结石。",
+    "example_en": "Nephrolithiasis can cause severe flank pain.",
+    "example_zh": "肾结石症可引起剧烈的腰侧疼痛。",
+    "system_id": 7,
+    "difficulty": 4,
+    "morpheme_ids": [
+      17,
+      102
+    ]
+  },
+  {
+    "id": 291,
+    "word": "pyelonephritis",
+    "ipa": "/ˌpaɪɪloʊnɪˈfraɪtɪs/",
+    "def_en": "Infection and inflammation of the kidney, often from a UTI.",
+    "def_zh": "肾盂肾炎：肾脏的感染和炎症，常源于尿路感染。",
+    "example_en": "Pyelonephritis causes fever, chills, and back pain.",
+    "example_zh": "肾盂肾炎引起发热、寒战和腰背痛。",
+    "system_id": 7,
+    "difficulty": 4,
+    "morpheme_ids": [
+      98,
+      17,
+      34
+    ]
+  },
+  {
+    "id": 292,
+    "word": "pyuria",
+    "ipa": "/paɪˈjʊəriə/",
+    "def_en": "The presence of pus (white blood cells) in the urine.",
+    "def_zh": "脓尿：尿中出现脓液（白细胞）。",
+    "example_en": "Pyuria suggests a urinary tract infection.",
+    "example_zh": "脓尿提示尿路感染。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      45
+    ]
+  },
+  {
+    "id": 293,
+    "word": "dysuria",
+    "ipa": "/dɪsˈjʊəriə/",
+    "def_en": "Painful or difficult urination.",
+    "def_zh": "排尿困难/尿痛：排尿疼痛或困难。",
+    "example_en": "Dysuria is a common symptom of cystitis.",
+    "example_zh": "尿痛是膀胱炎的常见症状。",
+    "system_id": 7,
+    "difficulty": 2,
+    "morpheme_ids": [
+      125,
+      45
+    ]
+  },
+  {
+    "id": 294,
+    "word": "oliguria",
+    "ipa": "/ˌɒlɪˈɡjʊəriə/",
+    "def_en": "Production of an abnormally small amount of urine.",
+    "def_zh": "少尿：尿量异常减少。",
+    "example_en": "Oliguria can be an early sign of kidney failure.",
+    "example_zh": "少尿可能是肾衰竭的早期征象。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      103,
+      45
+    ]
+  },
+  {
+    "id": 295,
+    "word": "anuria",
+    "ipa": "/əˈnjʊəriə/",
+    "def_en": "Failure of the kidneys to produce urine.",
+    "def_zh": "无尿：肾脏不能产生尿液。",
+    "example_en": "Anuria indicates a severe loss of kidney function.",
+    "example_zh": "无尿提示肾功能严重丧失。",
+    "system_id": 7,
+    "difficulty": 4,
+    "morpheme_ids": [
+      1,
+      45
+    ]
+  },
+  {
+    "id": 296,
+    "word": "nocturia",
+    "ipa": "/nɒkˈtjʊəriə/",
+    "def_en": "The need to wake and urinate during the night.",
+    "def_zh": "夜尿症：夜间需醒来排尿。",
+    "example_en": "Nocturia can disrupt sleep in older adults.",
+    "example_zh": "夜尿症可扰乱老年人的睡眠。",
+    "system_id": 7,
+    "difficulty": 2,
+    "morpheme_ids": [
+      45
+    ]
+  },
+  {
+    "id": 297,
+    "word": "cystoscopy (diagnostic)",
+    "ipa": "/sɪsˈtɒskəpi/",
+    "def_en": "Visual examination of the bladder using a scope.",
+    "def_zh": "膀胱镜检查：用内镜观察膀胱。",
+    "example_en": "Cystoscopy can find tumors and stones in the bladder.",
+    "example_zh": "膀胱镜检查可发现膀胱内的肿瘤和结石。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      97,
+      43
+    ]
+  },
+  {
+    "id": 298,
+    "word": "cystectomy",
+    "ipa": "/sɪsˈtektəmi/",
+    "def_en": "Surgical removal of all or part of the bladder.",
+    "def_zh": "膀胱切除术：手术切除全部或部分膀胱。",
+    "example_en": "Cystectomy may be required for invasive bladder cancer.",
+    "example_zh": "浸润性膀胱癌可能需要膀胱切除术。",
+    "system_id": 7,
+    "difficulty": 4,
+    "morpheme_ids": [
+      97,
+      33
+    ]
+  },
+  {
+    "id": 299,
+    "word": "ureteritis",
+    "ipa": "/jʊˌriːtəˈraɪtɪs/",
+    "def_en": "Inflammation of a ureter.",
+    "def_zh": "输尿管炎：输尿管的炎症。",
+    "example_en": "Ureteritis may accompany a urinary tract infection.",
+    "example_zh": "输尿管炎可伴随尿路感染。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      99,
+      34
+    ]
+  },
+  {
+    "id": 300,
+    "word": "urethritis",
+    "ipa": "/ˌjʊərɪˈθraɪtɪs/",
+    "def_en": "Inflammation of the urethra.",
+    "def_zh": "尿道炎：尿道的炎症。",
+    "example_en": "Urethritis causes burning during urination.",
+    "example_zh": "尿道炎引起排尿灼痛。",
+    "system_id": 7,
+    "difficulty": 2,
+    "morpheme_ids": [
+      100,
+      34
+    ]
+  },
+  {
+    "id": 301,
+    "word": "nephrotic syndrome",
+    "ipa": "/nɪˈfrɒtɪk ˈsɪndroʊm/",
+    "def_en": "A kidney disorder causing heavy protein loss in urine and swelling.",
+    "def_zh": "肾病综合征：以尿中大量蛋白丢失和水肿为特征的肾病。",
+    "example_en": "Nephrotic syndrome causes foamy urine and body swelling.",
+    "example_zh": "肾病综合征引起泡沫尿和全身水肿。",
+    "system_id": 7,
+    "difficulty": 4,
+    "morpheme_ids": [
+      17
+    ]
+  },
+  {
+    "id": 302,
+    "word": "renal failure",
+    "ipa": "/ˈriːnəl ˈfeɪljər/",
+    "def_en": "Loss of the kidneys' ability to filter waste from the blood.",
+    "def_zh": "肾衰竭：肾脏过滤血液废物能力的丧失。",
+    "example_en": "Chronic renal failure may eventually require dialysis.",
+    "example_zh": "慢性肾衰竭最终可能需要透析。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      96
+    ]
+  },
+  {
+    "id": 303,
+    "word": "hemodialysis",
+    "ipa": "/ˌhiːmoʊdaɪˈælɪsɪs/",
+    "def_en": "Filtering the blood with a machine when the kidneys fail.",
+    "def_zh": "血液透析：肾衰竭时用机器过滤血液。",
+    "example_en": "He undergoes hemodialysis three times a week.",
+    "example_zh": "他每周接受三次血液透析。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      11,
+      111
+    ]
+  },
+  {
+    "id": 304,
+    "word": "incontinence",
+    "ipa": "/ɪnˈkɒntɪnəns/",
+    "def_en": "Inability to control urination.",
+    "def_zh": "尿失禁：不能控制排尿。",
+    "example_en": "Stress incontinence can occur when coughing or laughing.",
+    "example_zh": "压力性尿失禁可在咳嗽或大笑时发生。",
+    "system_id": 7,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 305,
+    "word": "urology",
+    "ipa": "/jʊˈrɒlədʒi/",
+    "def_en": "The branch of medicine dealing with the urinary tract.",
+    "def_zh": "泌尿外科学：处理泌尿系统的医学分支。",
+    "example_en": "He was referred to urology for kidney stones.",
+    "example_zh": "他因肾结石被转诊至泌尿外科。",
+    "system_id": 7,
+    "difficulty": 2,
+    "morpheme_ids": [
+      26,
+      35
+    ]
+  },
+  {
+    "id": 306,
+    "word": "urolithiasis (recurrent)",
+    "ipa": "/ˌjʊəroʊlɪˈθaɪəsɪs/",
+    "def_en": "The formation of stones anywhere in the urinary tract.",
+    "def_zh": "尿石症：泌尿系统任何部位结石的形成。",
+    "example_en": "Drinking more water helps prevent urolithiasis.",
+    "example_zh": "多饮水有助于预防尿石症。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      26,
+      102
+    ]
+  },
+  {
+    "id": 307,
+    "word": "nephropathy",
+    "ipa": "/nɪˈfrɒpəθi/",
+    "def_en": "Any disease of the kidneys.",
+    "def_zh": "肾病：肾脏的任何疾病。",
+    "example_en": "Diabetic nephropathy is a leading cause of kidney failure.",
+    "example_zh": "糖尿病肾病是肾衰竭的主要原因之一。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      17,
+      39
+    ]
+  },
+  {
+    "id": 308,
+    "word": "nephrostomy",
+    "ipa": "/nɪˈfrɒstəmi/",
+    "def_en": "A surgical opening into the kidney to drain urine.",
+    "def_zh": "肾造瘘术：在肾脏造口以引流尿液。",
+    "example_en": "A nephrostomy tube can drain an obstructed kidney.",
+    "example_zh": "肾造瘘管可引流梗阻的肾脏。",
+    "system_id": 7,
+    "difficulty": 4,
+    "morpheme_ids": [
+      17,
+      117
+    ]
+  },
+  {
+    "id": 309,
+    "word": "lithotripsy",
+    "ipa": "/ˈlɪθoʊtrɪpsi/",
+    "def_en": "Breaking up stones using shock waves.",
+    "def_zh": "碎石术：用冲击波击碎结石。",
+    "example_en": "Lithotripsy can shatter kidney stones without surgery.",
+    "example_zh": "碎石术可在无需手术的情况下击碎肾结石。",
+    "system_id": 7,
+    "difficulty": 4,
+    "morpheme_ids": [
+      102
+    ]
+  },
+  {
+    "id": 310,
+    "word": "hematuria (gross)",
+    "ipa": "/ˌhiːməˈtjʊəriə/",
+    "def_en": "The presence of blood in the urine.",
+    "def_zh": "血尿：尿中出现血液。",
+    "example_en": "Painless hematuria should always be investigated.",
+    "example_zh": "无痛性血尿应始终进一步检查。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      11,
+      45
+    ]
+  },
+  {
+    "id": 311,
+    "word": "glomerulus",
+    "ipa": "/ɡlɒˈmerjələs/",
+    "def_en": "A tuft of capillaries in the nephron where blood is filtered.",
+    "def_zh": "肾小球：肾单位中过滤血液的毛细血管丛。",
+    "example_en": "Damage to the glomerulus lets protein leak into urine.",
+    "example_zh": "肾小球损伤会使蛋白漏入尿中。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": [
+      101
+    ]
+  },
+  {
+    "id": 312,
+    "word": "renal",
+    "ipa": "/ˈriːnəl/",
+    "def_en": "Relating to the kidneys.",
+    "def_zh": "肾的：与肾脏相关的。",
+    "example_en": "Renal arteries deliver blood to the kidneys.",
+    "example_zh": "肾动脉将血液输送到肾脏。",
+    "system_id": 7,
+    "difficulty": 2,
+    "morpheme_ids": [
+      96
+    ]
+  },
+  {
+    "id": 313,
+    "word": "micturition",
+    "ipa": "/ˌmɪktjʊˈrɪʃən/",
+    "def_en": "The act of urinating.",
+    "def_zh": "排尿：排出尿液的动作。",
+    "example_en": "Micturition is controlled by muscles of the bladder.",
+    "example_zh": "排尿由膀胱肌肉控制。",
+    "system_id": 7,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 314,
+    "word": "cystocele",
+    "ipa": "/ˈsɪstoʊsiːl/",
+    "def_en": "A bulging of the bladder into the vaginal wall.",
+    "def_zh": "膀胱膨出：膀胱向阴道壁膨出。",
+    "example_en": "A cystocele can cause a feeling of pelvic pressure.",
+    "example_zh": "膀胱膨出可引起盆腔坠胀感。",
+    "system_id": 7,
+    "difficulty": 4,
+    "morpheme_ids": [
+      97,
+      120
+    ]
+  },
+  {
+    "id": 315,
+    "word": "uremia (chronic)",
+    "ipa": "/jʊˈriːmiə/",
+    "def_en": "A toxic buildup of waste in the blood from kidney failure.",
+    "def_zh": "尿毒症：肾衰竭使废物在血中蓄积的中毒状态。",
+    "example_en": "Uremia causes nausea, fatigue, and confusion.",
+    "example_zh": "尿毒症引起恶心、乏力和意识模糊。",
+    "system_id": 7,
+    "difficulty": 4,
+    "morpheme_ids": [
+      26,
+      32
+    ]
+  },
+  {
+    "id": 316,
+    "word": "polycystic kidney",
+    "ipa": "/ˌpɒliˈsɪstɪk ˈkɪdni/",
+    "def_en": "An inherited disease in which cysts fill the kidneys.",
+    "def_zh": "多囊肾：囊肿充满肾脏的遗传性疾病。",
+    "example_en": "Polycystic kidney disease can gradually impair kidney function.",
+    "example_zh": "多囊肾病可逐渐损害肾功能。",
+    "system_id": 7,
+    "difficulty": 4,
+    "morpheme_ids": [
+      24,
+      97
+    ]
+  },
+  {
+    "id": 317,
+    "word": "diuretic",
+    "ipa": "/ˌdaɪjʊˈretɪk/",
+    "def_en": "A drug that increases the production of urine.",
+    "def_zh": "利尿剂：增加尿液生成的药物。",
+    "example_en": "Diuretics help reduce swelling in heart failure.",
+    "example_zh": "利尿剂有助于减轻心力衰竭的水肿。",
+    "system_id": 7,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 318,
+    "word": "urinary catheter",
+    "ipa": "/ˈjʊərɪneri ˈkæθɪtər/",
+    "def_en": "A tube inserted to drain urine from the bladder.",
+    "def_zh": "导尿管：插入以从膀胱引流尿液的管子。",
+    "example_en": "A urinary catheter may be placed after surgery.",
+    "example_zh": "术后可能留置导尿管。",
+    "system_id": 7,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 319,
+    "word": "furuncle",
+    "ipa": "/ˈfjʊərʌŋkəl/",
+    "def_en": "A painful, pus-filled infection of a hair follicle; a boil.",
+    "def_zh": "疖：毛囊的疼痛性化脓感染；俗称疖子。",
+    "example_en": "A furuncle usually drains and heals once it comes to a head.",
+    "example_zh": "疖通常在成熟出头后引流并愈合。",
+    "system_id": 8,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 320,
+    "word": "dermatomycosis",
+    "ipa": "/ˌdɜːrmətoʊmaɪˈkoʊsɪs/",
+    "def_en": "A fungal infection of the skin.",
+    "def_zh": "皮肤真菌病：皮肤的真菌感染。",
+    "example_en": "Dermatomycosis often appears as itchy, scaly patches.",
+    "example_zh": "皮肤真菌病常表现为瘙痒、脱屑的斑片。",
+    "system_id": 8,
+    "difficulty": 4,
+    "morpheme_ids": [
+      6,
+      38
+    ]
+  },
+  {
+    "id": 321,
+    "word": "keratosis",
+    "ipa": "/ˌkerəˈtoʊsɪs/",
+    "def_en": "A thickened, horny growth of the skin.",
+    "def_zh": "角化病：皮肤增厚的角质性赘生。",
+    "example_en": "Actinic keratosis is caused by long-term sun exposure.",
+    "example_zh": "光化性角化病由长期日晒引起。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      104,
+      38
+    ]
+  },
+  {
+    "id": 322,
+    "word": "melanocyte",
+    "ipa": "/məˈlænoʊsaɪt/",
+    "def_en": "A skin cell that produces the pigment melanin.",
+    "def_zh": "黑素细胞：产生黑色素的皮肤细胞。",
+    "example_en": "Melanocytes give skin and hair their color.",
+    "example_zh": "黑素细胞赋予皮肤和毛发颜色。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      105,
+      5
+    ]
+  },
+  {
+    "id": 323,
+    "word": "onychomycosis",
+    "ipa": "/ˌɒnɪkoʊmaɪˈkoʊsɪs/",
+    "def_en": "A fungal infection of the nails.",
+    "def_zh": "甲真菌病：指（趾）甲的真菌感染。",
+    "example_en": "Onychomycosis thickens and discolors the nails.",
+    "example_zh": "甲真菌病使指甲增厚、变色。",
+    "system_id": 8,
+    "difficulty": 4,
+    "morpheme_ids": [
+      106,
+      38
+    ]
+  },
+  {
+    "id": 324,
+    "word": "onycholysis",
+    "ipa": "/ˌɒnɪˈkɒlɪsɪs/",
+    "def_en": "Separation of a nail from its bed.",
+    "def_zh": "甲剥离：甲与甲床的分离。",
+    "example_en": "Onycholysis can follow injury or a fungal infection.",
+    "example_zh": "甲剥离可继发于外伤或真菌感染。",
+    "system_id": 8,
+    "difficulty": 4,
+    "morpheme_ids": [
+      106,
+      111
+    ]
+  },
+  {
+    "id": 325,
+    "word": "trichosis",
+    "ipa": "/trɪˈkoʊsɪs/",
+    "def_en": "Any abnormal condition or disease of the hair.",
+    "def_zh": "毛发病：毛发的任何异常或疾病。",
+    "example_en": "Trichosis is a general term for hair disorders.",
+    "example_zh": "毛发病是毛发疾病的统称。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      107,
+      38
+    ]
+  },
+  {
+    "id": 326,
+    "word": "alopecia",
+    "ipa": "/ˌæləˈpiːʃə/",
+    "def_en": "Partial or complete loss of hair.",
+    "def_zh": "脱发：毛发的部分或完全丧失。",
+    "example_en": "Alopecia areata causes patchy hair loss.",
+    "example_zh": "斑秃引起片状脱发。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 327,
+    "word": "xeroderma",
+    "ipa": "/ˌzɪəroʊˈdɜːrmə/",
+    "def_en": "Abnormally dry skin.",
+    "def_zh": "皮肤干燥症：皮肤异常干燥。",
+    "example_en": "Xeroderma is common in cold, dry weather.",
+    "example_zh": "皮肤干燥症在寒冷干燥的天气常见。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      108,
+      6
+    ]
+  },
+  {
+    "id": 328,
+    "word": "erythroderma",
+    "ipa": "/ɪˌrɪθroʊˈdɜːrmə/",
+    "def_en": "Widespread redness of the skin over most of the body.",
+    "def_zh": "红皮病：皮肤大面积广泛发红。",
+    "example_en": "Erythroderma can be a sign of a severe skin reaction.",
+    "example_zh": "红皮病可能是严重皮肤反应的征象。",
+    "system_id": 8,
+    "difficulty": 4,
+    "morpheme_ids": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": 329,
+    "word": "pruritus",
+    "ipa": "/prʊˈraɪtəs/",
+    "def_en": "Severe itching of the skin.",
+    "def_zh": "瘙痒：皮肤的剧烈痒感。",
+    "example_en": "Pruritus can disturb sleep and lead to scratching.",
+    "example_zh": "瘙痒可扰乱睡眠并导致搔抓。",
+    "system_id": 8,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 330,
+    "word": "urticaria",
+    "ipa": "/ˌɜːrtɪˈkeəriə/",
+    "def_en": "Raised, itchy welts on the skin; hives.",
+    "def_zh": "荨麻疹：皮肤上凸起、瘙痒的风团。",
+    "example_en": "Urticaria is often an allergic reaction.",
+    "example_zh": "荨麻疹常为过敏反应。",
+    "system_id": 8,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 331,
+    "word": "abscess",
+    "ipa": "/ˈæbses/",
+    "def_en": "A localized collection of pus within tissue.",
+    "def_zh": "脓肿：组织内局限性脓液积聚。",
+    "example_en": "A skin abscess usually needs to be drained.",
+    "example_zh": "皮肤脓肿通常需要切开引流。",
+    "system_id": 8,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 332,
+    "word": "impetigo",
+    "ipa": "/ˌɪmpɪˈtaɪɡoʊ/",
+    "def_en": "A contagious bacterial skin infection with honey-colored crusts.",
+    "def_zh": "脓疱病：以蜜黄色结痂为特征的传染性细菌性皮肤感染。",
+    "example_en": "Impetigo is common in young children.",
+    "example_zh": "脓疱病在幼儿中常见。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 333,
+    "word": "petechiae",
+    "ipa": "/pɪˈtiːkii/",
+    "def_en": "Tiny red or purple spots caused by minor bleeding under the skin.",
+    "def_zh": "瘀点：皮下少量出血引起的微小红色或紫色斑点。",
+    "example_en": "Petechiae may appear when platelet counts are low.",
+    "example_zh": "血小板减少时可出现瘀点。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 334,
+    "word": "ecchymosis",
+    "ipa": "/ˌekɪˈmoʊsɪs/",
+    "def_en": "A bruise; discoloration from bleeding under the skin.",
+    "def_zh": "瘀斑：皮下出血引起的变色；青肿。",
+    "example_en": "Ecchymosis spreads and changes color as it heals.",
+    "example_zh": "瘀斑在愈合过程中扩散并变色。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      38
+    ]
+  },
+  {
+    "id": 335,
+    "word": "cyanotic",
+    "ipa": "/ˌsaɪəˈnɒtɪk/",
+    "def_en": "Showing a bluish skin color from lack of oxygen.",
+    "def_zh": "发绀的：因缺氧而呈青紫色的。",
+    "example_en": "The newborn's lips looked cyanotic at birth.",
+    "example_zh": "新生儿出生时口唇呈发绀。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      109
+    ]
+  },
+  {
+    "id": 336,
+    "word": "subcutaneous",
+    "ipa": "/ˌsʌbkjuːˈteɪniəs/",
+    "def_en": "Located or introduced beneath the skin.",
+    "def_zh": "皮下的：位于或注入皮肤之下。",
+    "example_en": "Insulin is given by subcutaneous injection.",
+    "example_zh": "胰岛素通过皮下注射给药。",
+    "system_id": 8,
+    "difficulty": 2,
+    "morpheme_ids": [
+      128
+    ]
+  },
+  {
+    "id": 337,
+    "word": "epidermal",
+    "ipa": "/ˌepɪˈdɜːrməl/",
+    "def_en": "Relating to the epidermis, the outer layer of skin.",
+    "def_zh": "表皮的：与皮肤外层（表皮）相关。",
+    "example_en": "Epidermal cells are constantly shed and replaced.",
+    "example_zh": "表皮细胞不断脱落并被替换。",
+    "system_id": 8,
+    "difficulty": 2,
+    "morpheme_ids": [
+      6
+    ]
+  },
+  {
+    "id": 338,
+    "word": "dermatologist",
+    "ipa": "/ˌdɜːrməˈtɒlədʒɪst/",
+    "def_en": "A doctor who specializes in skin diseases.",
+    "def_zh": "皮肤科医生：专门诊治皮肤疾病的医生。",
+    "example_en": "A dermatologist examined the suspicious mole.",
+    "example_zh": "皮肤科医生检查了那颗可疑的痣。",
+    "system_id": 8,
+    "difficulty": 2,
+    "morpheme_ids": [
+      6,
+      35
+    ]
+  },
+  {
+    "id": 339,
+    "word": "dermatoplasty",
+    "ipa": "/ˈdɜːrmətoʊplæsti/",
+    "def_en": "Surgical repair or grafting of the skin.",
+    "def_zh": "皮肤成形术：皮肤的手术修复或移植。",
+    "example_en": "Dermatoplasty may be needed after a severe burn.",
+    "example_zh": "严重烧伤后可能需要皮肤成形术。",
+    "system_id": 8,
+    "difficulty": 4,
+    "morpheme_ids": [
+      6,
+      40
+    ]
+  },
+  {
+    "id": 340,
+    "word": "cellulitis (spreading)",
+    "ipa": "/ˌseljəˈlaɪtɪs/",
+    "def_en": "A bacterial infection of the deep layers of the skin.",
+    "def_zh": "蜂窝织炎：皮肤深层的细菌感染。",
+    "example_en": "Cellulitis causes a warm, red, tender area of skin.",
+    "example_zh": "蜂窝织炎引起皮肤温热、发红、压痛。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      34
+    ]
+  },
+  {
+    "id": 341,
+    "word": "ulcer (pressure)",
+    "ipa": "/ˈʌlsər/",
+    "def_en": "An open sore on the skin or a mucous membrane.",
+    "def_zh": "溃疡：皮肤或黏膜上的开放性创面。",
+    "example_en": "A pressure ulcer can form over a bony area in bedridden patients.",
+    "example_zh": "压疮可在卧床患者骨突部位形成。",
+    "system_id": 8,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 342,
+    "word": "scabies",
+    "ipa": "/ˈskeɪbiːz/",
+    "def_en": "A contagious skin infestation by tiny mites causing intense itching.",
+    "def_zh": "疥疮：由微小螨虫引起的传染性皮肤侵染，剧烈瘙痒。",
+    "example_en": "Scabies spreads through close skin contact.",
+    "example_zh": "疥疮通过密切皮肤接触传播。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 343,
+    "word": "verruca",
+    "ipa": "/vəˈruːkə/",
+    "def_en": "A wart, caused by a viral skin infection.",
+    "def_zh": "疣：由病毒性皮肤感染引起。",
+    "example_en": "A verruca on the sole of the foot can be painful.",
+    "example_zh": "足底的疣可引起疼痛。",
+    "system_id": 8,
+    "difficulty": 2,
+    "morpheme_ids": []
+  },
+  {
+    "id": 344,
+    "word": "nevus",
+    "ipa": "/ˈniːvəs/",
+    "def_en": "A mole; a usually benign pigmented spot on the skin.",
+    "def_zh": "痣：皮肤上通常良性的色素斑。",
+    "example_en": "A changing nevus should be checked for skin cancer.",
+    "example_zh": "发生变化的痣应检查是否为皮肤癌。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 345,
+    "word": "seborrhea",
+    "ipa": "/ˌsebəˈriːə/",
+    "def_en": "Excessive discharge of oil (sebum) from the skin.",
+    "def_zh": "皮脂溢出：皮肤油脂（皮脂）的过度分泌。",
+    "example_en": "Seborrhea can lead to oily skin and dandruff.",
+    "example_zh": "皮脂溢出可导致油性皮肤和头皮屑。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      42
+    ]
+  },
+  {
+    "id": 346,
+    "word": "keloid",
+    "ipa": "/ˈkiːlɔɪd/",
+    "def_en": "An overgrowth of scar tissue beyond the original wound.",
+    "def_zh": "瘢痕疙瘩：超出原创面范围的瘢痕组织过度增生。",
+    "example_en": "Keloids can form after ear piercing or surgery.",
+    "example_zh": "瘢痕疙瘩可在穿耳或手术后形成。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": []
+  },
+  {
+    "id": 347,
+    "word": "melanoma (malignant)",
+    "ipa": "/ˌmeləˈnoʊmə/",
+    "def_en": "A dangerous skin cancer arising from melanocytes.",
+    "def_zh": "黑色素瘤：源于黑素细胞的危险皮肤癌。",
+    "example_en": "Early melanoma is highly treatable when caught quickly.",
+    "example_zh": "早期黑色素瘤若及时发现高度可治。",
+    "system_id": 8,
+    "difficulty": 4,
+    "morpheme_ids": [
+      105,
+      37
+    ]
+  },
+  {
+    "id": 348,
+    "word": "psoriasis (plaque)",
+    "ipa": "/səˈraɪəsɪs/",
+    "def_en": "A chronic disease causing red, scaly skin plaques.",
+    "def_zh": "银屑病：以红色、鳞屑性皮肤斑块为特征的慢性病。",
+    "example_en": "Plaque psoriasis often affects the elbows and knees.",
+    "example_zh": "斑块型银屑病常累及肘部和膝部。",
+    "system_id": 8,
+    "difficulty": 3,
+    "morpheme_ids": [
+      38
+    ]
+  }
+]
