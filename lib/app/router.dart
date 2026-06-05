@@ -10,8 +10,10 @@ import '../features/flashcard/presentation/screens/session_complete_screen.dart'
 import '../features/knowledge/presentation/screens/systems_grid_screen.dart';
 import '../features/knowledge/presentation/screens/article_list_screen.dart';
 import '../features/knowledge/presentation/screens/article_detail_screen.dart';
+import '../features/quiz/presentation/screens/quiz_hub_screen.dart';
 import '../features/quiz/presentation/screens/quiz_session_screen.dart';
 import '../features/quiz/presentation/screens/quiz_result_screen.dart';
+import '../features/quiz/presentation/screens/wrong_questions_screen.dart';
 import '../features/notebook/presentation/screens/notebook_list_screen.dart';
 import '../features/settings/presentation/screens/about_screen.dart';
 import 'shell_scaffold.dart';
@@ -103,7 +105,8 @@ final appRouter = GoRouter(
       ],
     ),
 
-    // Full-screen routes (shown outside the shell / no bottom nav)
+    // ── Full-screen routes (outside the shell / no bottom nav) ────────────
+
     GoRoute(
       parentNavigatorKey: _rootNavigatorKey,
       path: '/flashcard',
@@ -125,11 +128,41 @@ final appRouter = GoRouter(
         );
       },
     ),
+
+    // ── Quiz routes ───────────────────────────────────────────────────────
+
+    // Hub: choose between starting a quiz and reviewing wrong questions.
     GoRoute(
       parentNavigatorKey: _rootNavigatorKey,
       path: '/quiz',
+      builder: (context, state) => const QuizHubScreen(),
+    ),
+
+    // Normal quiz session (random questions from the active domain).
+    GoRoute(
+      parentNavigatorKey: _rootNavigatorKey,
+      path: '/quiz/session',
       builder: (context, state) => const QuizSessionScreen(),
     ),
+
+    // Review session (redo specific wrong questions).
+    GoRoute(
+      parentNavigatorKey: _rootNavigatorKey,
+      path: '/quiz/session/review',
+      builder: (context, state) {
+        final ids = (state.extra as List).cast<int>();
+        return QuizSessionScreen(questionIds: ids);
+      },
+    ),
+
+    // Wrong-question book.
+    GoRoute(
+      parentNavigatorKey: _rootNavigatorKey,
+      path: '/quiz/wrong',
+      builder: (context, state) => const WrongQuestionsScreen(),
+    ),
+
+    // Quiz results.
     GoRoute(
       parentNavigatorKey: _rootNavigatorKey,
       path: '/quiz/result',
@@ -142,6 +175,7 @@ final appRouter = GoRouter(
         );
       },
     ),
+
     GoRoute(
       parentNavigatorKey: _rootNavigatorKey,
       path: '/about',

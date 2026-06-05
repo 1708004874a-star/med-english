@@ -38,7 +38,7 @@ class _ArticleDetailScreenState extends ConsumerState<ArticleDetailScreen> {
             return Center(child: Text(l10n.noResults));
           }
 
-          final idx = (article.systemId - 1).clamp(0, 7);
+          final idx = (article.systemId - 1).clamp(0, AppColors.systemColors.length - 1);
           final color = AppColors.systemColors[idx];
           final difficulty = Difficulty.fromValue(article.difficulty);
 

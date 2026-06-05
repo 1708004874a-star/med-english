@@ -6,4 +6,5 @@ class BodySystems extends Table {
   TextColumn get nameZh => text()();
   TextColumn get iconName => text()();
   TextColumn get colorHex => text()();
+  TextColumn get domain => text().withDefault(const Constant('macro'))();
 }

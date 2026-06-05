@@ -172,7 +172,7 @@ class _SystemChipRow extends StatelessWidget {
             return _FilterChip(
               label: label,
               selected: selectedId == s.id,
-              color: AppColors.systemColors[idx.clamp(0, 7)],
+              color: AppColors.systemColors[idx.clamp(0, AppColors.systemColors.length - 1)],
               onTap: () => onSelect(selectedId == s.id ? null : s.id),
             );
           }),

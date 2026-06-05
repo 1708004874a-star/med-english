@@ -182,13 +182,18 @@ NEW_ARTICLES = [
 import random
 
 
-def build_quiz(vocab, morphemes, seed=42):
+def build_quiz(vocab, morphemes, domain, seed=42, start_id=1):
     """Generate a quiz pool from vocab (definition-match) and morphemes
     (meaning-match). Answers and distractors come straight from the data, so
-    every question is guaranteed correct."""
+    every question is guaranteed correct.
+
+    All inputs must already be filtered to a single domain; *domain* is
+    written verbatim onto every generated question so downstream consumers
+    can partition by domain without inspecting vocab/morpheme references.
+    """
     rng = random.Random(seed)
     questions = []
-    qid = 1
+    qid = start_id
 
     by_system = {}
     for v in vocab:
@@ -216,6 +221,7 @@ def build_quiz(vocab, morphemes, seed=42):
             "explanation_zh": f'{v["word"]}——{v["def_zh"]}',
             "vocab_id": v["id"],
             "morpheme_id": None,
+            "domain": domain,
         })
         qid += 1
 
@@ -242,6 +248,7 @@ def build_quiz(vocab, morphemes, seed=42):
             "explanation_zh": f'{m["morpheme"]} 意为「{m["meaning_zh"]}」。',
             "vocab_id": None,
             "morpheme_id": m["id"],
+            "domain": domain,
         })
         qid += 1
 

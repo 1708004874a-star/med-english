@@ -7,8 +7,11 @@ import 'package:med_english/l10n/app_localizations.dart';
 import '../../../../core/constants/db_constants.dart';
 import '../../../../core/theme/app_colors.dart';
 import '../../../../core/theme/app_typography.dart';
+import '../../../../core/theme/domain_palette.dart';
 import '../../../../core/widgets/disclaimer_banner.dart';
 import '../../../../core/widgets/language_picker.dart';
+import '../../../../data/settings_providers.dart';
+import '../../../vocabulary/presentation/viewmodels/vocab_providers.dart';
 
 class HomeScreen extends ConsumerStatefulWidget {
   const HomeScreen({super.key});
@@ -60,7 +63,13 @@ class _HomeScreenState extends ConsumerState<HomeScreen>
   @override
   Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context)!;
+    final palette = ref.watch(domainPaletteProvider);
+    final domain = ref.watch(domainProvider);
     final topPad = MediaQuery.of(context).padding.top;
+
+    // Dynamic counts for the vocabulary card subtitle.
+    final vocabCount = ref.watch(domainVocabCountProvider).valueOrNull ?? 0;
+    final systemCount = ref.watch(domainSystemCountProvider).valueOrNull ?? 0;
 
     return Scaffold(
       backgroundColor: AppColors.background,
@@ -72,13 +81,15 @@ class _HomeScreenState extends ConsumerState<HomeScreen>
             child: _Header(
               topPad: topPad,
               l10n: l10n,
+              palette: palette,
+              domain: domain,
               onLanguageTap: () => showLanguagePicker(context, ref),
             ),
           ),
 
           // ── Flashcard Quick-Start Banner ──────────────────────────────────
           SliverToBoxAdapter(
-            child: _FlashcardBanner(l10n: l10n),
+            child: _FlashcardBanner(l10n: l10n, palette: palette),
           ),
 
           // ── Module Grid ───────────────────────────────────────────────────
@@ -105,7 +116,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen>
                   color: AppColors.systemColors[1],
                   colorLight: AppColors.systemColorsLight[1],
                   title: l10n.moduleVocabTitle,
-                  subtitle: l10n.moduleVocabSubtitle(348, 8),
+                  subtitle: l10n.moduleVocabSubtitle(vocabCount, systemCount),
                   onTap: () => context.go('/vocabulary'),
                 ),
                 _ModuleCard(
@@ -141,22 +152,34 @@ class _Header extends StatelessWidget {
   const _Header({
     required this.topPad,
     required this.l10n,
+    required this.palette,
+    required this.domain,
     required this.onLanguageTap,
   });
 
   final double topPad;
   final AppLocalizations l10n;
+  final DomainPalette palette;
+  final AppDomain domain;
   final VoidCallback onLanguageTap;
 
   @override
   Widget build(BuildContext context) {
+    final isMicro = domain == AppDomain.micro;
+    final tagline = isMicro ? l10n.appTaglineMicro : l10n.appTagline;
+
+    // Preview morpheme chips — different set per domain for flavour.
+    final macroChips = const ['cardio-', '-itis', 'neuro-', '-ology', 'hepat-'];
+    final microChips = const ['cyto-', '-blast', 'karyo-', '-some', 'geno-'];
+    final chips = isMicro ? microChips : macroChips;
+
     return Container(
       padding: EdgeInsets.fromLTRB(24, topPad + 18, 20, 28),
-      decoration: const BoxDecoration(
+      decoration: BoxDecoration(
         gradient: LinearGradient(
           begin: Alignment.topLeft,
           end: Alignment.bottomRight,
-          colors: [Color(0xFF0F766E), Color(0xFF134E4A)],
+          colors: [palette.gradientStart, palette.gradientEnd],
         ),
       ),
       child: Column(
@@ -181,7 +204,7 @@ class _Header extends StatelessWidget {
                     ),
                     const SizedBox(height: 4),
                     Text(
-                      l10n.appTagline,
+                      tagline,
                       style: GoogleFonts.dmSans(
                         fontSize: 13,
                         color: Colors.white.withValues(alpha: 0.72),
@@ -207,25 +230,113 @@ class _Header extends StatelessWidget {
             ],
           ),
 
-          const SizedBox(height: 20),
+          const SizedBox(height: 16),
+
+          // ── Domain Switcher ───────────────────────────────────────────
+          _DomainSwitcher(palette: palette),
+
+          const SizedBox(height: 16),
 
           // Decorative morpheme chip row
           Wrap(
             spacing: 8,
             runSpacing: 6,
-            children: const [
-              _MorphemePreviewChip('cardio-'),
-              _MorphemePreviewChip('-itis'),
-              _MorphemePreviewChip('neuro-'),
-              _MorphemePreviewChip('-ology'),
-              _MorphemePreviewChip('hepat-'),
-            ],
+            children: chips
+                .map((label) => _MorphemePreviewChip(label))
+                .toList(),
           ),
         ],
       ),
     );
   }
 }
+
+// ── Domain Switcher ─────────────────────────────────────────────────────────
+
+class _DomainSwitcher extends ConsumerWidget {
+  const _DomainSwitcher({required this.palette});
+
+  final DomainPalette palette;
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final l10n = AppLocalizations.of(context)!;
+    final domain = ref.watch(domainProvider);
+
+    return Container(
+      height: 40,
+      decoration: BoxDecoration(
+        color: Colors.white.withValues(alpha: 0.18),
+        borderRadius: BorderRadius.circular(22),
+      ),
+      child: Row(
+        children: [
+          _SwitcherSegment(
+            label: l10n.systemSwitcherMacro,
+            selected: domain == AppDomain.macro,
+            palette: palette,
+            onTap: () {
+              ref.read(domainProvider.notifier).setDomain(AppDomain.macro);
+              // Reset system filter when switching domain.
+              ref.read(selectedSystemProvider.notifier).state = null;
+            },
+          ),
+          _SwitcherSegment(
+            label: l10n.systemSwitcherMicro,
+            selected: domain == AppDomain.micro,
+            palette: palette,
+            onTap: () {
+              ref.read(domainProvider.notifier).setDomain(AppDomain.micro);
+              ref.read(selectedSystemProvider.notifier).state = null;
+            },
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class _SwitcherSegment extends StatelessWidget {
+  const _SwitcherSegment({
+    required this.label,
+    required this.selected,
+    required this.palette,
+    required this.onTap,
+  });
+
+  final String label;
+  final bool selected;
+  final DomainPalette palette;
+  final VoidCallback onTap;
+
+  @override
+  Widget build(BuildContext context) {
+    return Expanded(
+      child: GestureDetector(
+        onTap: onTap,
+        child: AnimatedContainer(
+          duration: const Duration(milliseconds: 200),
+          margin: const EdgeInsets.all(3),
+          decoration: BoxDecoration(
+            color: selected ? palette.primary : Colors.transparent,
+            borderRadius: BorderRadius.circular(20),
+          ),
+          alignment: Alignment.center,
+          child: Text(
+            label,
+            style: GoogleFonts.dmSans(
+              fontSize: 13,
+              fontWeight: selected ? FontWeight.w600 : FontWeight.w400,
+              color: Colors.white,
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+// ── Preview Chip ────────────────────────────────────────────────────────────
 
 class _MorphemePreviewChip extends StatelessWidget {
   const _MorphemePreviewChip(this.label);
@@ -255,18 +366,19 @@ class _MorphemePreviewChip extends StatelessWidget {
 // ── Flashcard Quick-Start Banner ────────────────────────────────────────────
 
 class _FlashcardBanner extends StatelessWidget {
-  const _FlashcardBanner({required this.l10n});
+  const _FlashcardBanner({required this.l10n, required this.palette});
 
   final AppLocalizations l10n;
+  final DomainPalette palette;
 
   @override
   Widget build(BuildContext context) {
     return Container(
       margin: const EdgeInsets.fromLTRB(16, 16, 16, 4),
       decoration: BoxDecoration(
-        color: AppColors.primaryLight,
+        color: palette.primaryLight,
         borderRadius: BorderRadius.circular(14),
-        border: Border.all(color: AppColors.primary.withValues(alpha: 0.25)),
+        border: Border.all(color: palette.primary.withValues(alpha: 0.25)),
       ),
       child: InkWell(
         onTap: () => context.push('/flashcard'),
@@ -279,7 +391,7 @@ class _FlashcardBanner extends StatelessWidget {
                 width: 40,
                 height: 40,
                 decoration: BoxDecoration(
-                  color: AppColors.primary,
+                  color: palette.primary,
                   borderRadius: BorderRadius.circular(10),
                 ),
                 child:
@@ -294,20 +406,20 @@ class _FlashcardBanner extends StatelessWidget {
                       l10n.flashcardTitle,
                       style: AppTypography.title.copyWith(
                         fontSize: 15,
-                        color: AppColors.primaryDark,
+                        color: palette.primaryDark,
                       ),
                     ),
                     Text(
                       l10n.startSession,
                       style: AppTypography.caption.copyWith(
-                        color: AppColors.primary,
+                        color: palette.primary,
                       ),
                     ),
                   ],
                 ),
               ),
               Icon(Icons.arrow_forward_ios,
-                  size: 14, color: AppColors.primary),
+                  size: 14, color: palette.primary),
             ],
           ),
         ),

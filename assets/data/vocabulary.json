@@ -13,7 +13,8 @@
       16,
       3,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 2,
@@ -27,7 +28,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 3,
@@ -42,7 +44,8 @@
     "morpheme_ids": [
       25,
       3
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 4,
@@ -57,7 +60,8 @@
     "morpheme_ids": [
       2,
       3
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 5,
@@ -71,7 +75,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       13
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 6,
@@ -86,7 +91,8 @@
     "morpheme_ids": [
       22,
       3
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 7,
@@ -100,7 +106,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       1
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 8,
@@ -114,7 +121,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       32
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 9,
@@ -129,7 +137,8 @@
     "morpheme_ids": [
       27,
       40
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 10,
@@ -144,7 +153,8 @@
     "morpheme_ids": [
       3,
       36
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 11,
@@ -158,7 +168,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       11
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 12,
@@ -173,7 +184,8 @@
     "morpheme_ids": [
       15,
       32
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 13,
@@ -187,7 +199,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       23
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 14,
@@ -201,7 +214,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 15,
@@ -213,7 +227,8 @@
     "example_zh": "长期吸烟是肺气肿的主要原因。",
     "system_id": 2,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 16,
@@ -227,7 +242,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       1
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 17,
@@ -239,7 +255,8 @@
     "example_zh": "气管造口术是在气管上开口，在上呼吸道阻塞时提供通气通道。",
     "system_id": 2,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 18,
@@ -253,7 +270,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       47
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 19,
@@ -267,7 +285,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       11
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 20,
@@ -281,7 +300,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       1
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 21,
@@ -295,7 +315,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 22,
@@ -307,7 +328,8 @@
     "example_zh": "人体肺部约有3亿个肺泡，为气体交换提供了巨大的表面积。",
     "system_id": 2,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 23,
@@ -319,7 +341,8 @@
     "example_zh": "肺活量测定是诊断和监测慢性阻塞性肺疾病（COPD）的金标准。",
     "system_id": 2,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 24,
@@ -333,7 +356,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       23
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 25,
@@ -348,7 +372,8 @@
     "morpheme_ids": [
       18,
       31
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 26,
@@ -363,7 +388,8 @@
     "morpheme_ids": [
       7,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 27,
@@ -377,7 +403,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 28,
@@ -389,7 +416,8 @@
     "example_zh": "包裹轴突的髓鞘可以加快信号传导速度。",
     "system_id": 3,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 29,
@@ -401,7 +429,8 @@
     "example_zh": "神经递质在突触间隙中释放，以在神经元之间传递信息。",
     "system_id": 3,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 30,
@@ -415,7 +444,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       41
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 31,
@@ -427,7 +457,8 @@
     "example_zh": "许多癫痫患者通过服用抗癫痫药物可以较好地控制发作。",
     "system_id": 3,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 32,
@@ -442,7 +473,8 @@
     "morpheme_ids": [
       18,
       39
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 33,
@@ -454,7 +486,8 @@
     "example_zh": "阿尔茨海默病是痴呆症最常见的原因。",
     "system_id": 3,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 34,
@@ -468,7 +501,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       16
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 35,
@@ -482,7 +516,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       41
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 36,
@@ -497,7 +532,8 @@
     "morpheme_ids": [
       18,
       35
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 37,
@@ -512,7 +548,8 @@
     "morpheme_ids": [
       10,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 38,
@@ -527,7 +564,8 @@
     "morpheme_ids": [
       12,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 39,
@@ -541,7 +579,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 40,
@@ -555,7 +594,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 41,
@@ -569,7 +609,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 42,
@@ -581,7 +622,8 @@
     "example_zh": "脑卒中后的吞咽困难可能需要调整饮食或进行吞咽训练。",
     "system_id": 4,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 43,
@@ -595,7 +637,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       22
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 44,
@@ -609,7 +652,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       43
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 45,
@@ -624,7 +668,8 @@
     "morpheme_ids": [
       12,
       36
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 46,
@@ -639,7 +684,8 @@
     "morpheme_ids": [
       8,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 47,
@@ -655,7 +701,8 @@
       10,
       8,
       35
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 48,
@@ -669,7 +716,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       44
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 49,
@@ -684,7 +732,8 @@
     "morpheme_ids": [
       28,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 50,
@@ -699,7 +748,8 @@
     "morpheme_ids": [
       20,
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 51,
@@ -713,7 +763,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 52,
@@ -728,7 +779,8 @@
     "morpheme_ids": [
       16,
       39
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 53,
@@ -744,7 +796,8 @@
       20,
       28,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 54,
@@ -758,7 +811,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 55,
@@ -772,7 +826,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 56,
@@ -784,7 +839,8 @@
     "example_zh": "关节软骨覆盖关节骨端，使关节运动顺滑。",
     "system_id": 5,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 57,
@@ -798,7 +854,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       49
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 58,
@@ -813,7 +870,8 @@
     "morpheme_ids": [
       28,
       43
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 59,
@@ -828,7 +886,8 @@
     "morpheme_ids": [
       20,
       37
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 60,
@@ -840,7 +899,8 @@
     "example_zh": "类风湿性关节炎累及关节滑膜，引起疼痛性肿胀。",
     "system_id": 5,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 61,
@@ -852,7 +912,8 @@
     "example_zh": "2型糖尿病占全球糖尿病病例的90%至95%。",
     "system_id": 6,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 62,
@@ -866,7 +927,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       13
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 63,
@@ -880,7 +942,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       14
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 64,
@@ -892,7 +955,8 @@
     "example_zh": "胰岛素治疗对1型糖尿病患者至关重要。",
     "system_id": 6,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 65,
@@ -907,7 +971,8 @@
     "morpheme_ids": [
       13,
       32
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 66,
@@ -922,7 +987,8 @@
     "morpheme_ids": [
       14,
       32
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 67,
@@ -936,7 +1002,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 68,
@@ -948,7 +1015,8 @@
     "example_zh": "长期压力导致皮质醇持续升高，会损害免疫功能。",
     "system_id": 6,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 69,
@@ -963,7 +1031,8 @@
     "morpheme_ids": [
       29,
       35
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 70,
@@ -975,7 +1044,8 @@
     "example_zh": "肾上腺功能不全可引起疲劳、低血压和电解质紊乱。",
     "system_id": 6,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 71,
@@ -990,7 +1060,8 @@
     "morpheme_ids": [
       24,
       32
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 72,
@@ -1004,7 +1075,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       37
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 73,
@@ -1019,7 +1091,8 @@
     "morpheme_ids": [
       17,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 74,
@@ -1034,7 +1107,8 @@
     "morpheme_ids": [
       11,
       45
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 75,
@@ -1048,7 +1122,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       26
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 76,
@@ -1062,7 +1137,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 77,
@@ -1076,7 +1152,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       45
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 78,
@@ -1091,7 +1168,8 @@
     "morpheme_ids": [
       17,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 79,
@@ -1103,7 +1181,8 @@
     "example_zh": "终末期肾病患者通常每周需要透析三次。",
     "system_id": 7,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 80,
@@ -1118,7 +1197,8 @@
     "morpheme_ids": [
       17,
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 81,
@@ -1132,7 +1212,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       26
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 82,
@@ -1147,7 +1228,8 @@
     "morpheme_ids": [
       17,
       33
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 83,
@@ -1162,7 +1244,8 @@
     "morpheme_ids": [
       26,
       32
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 84,
@@ -1176,7 +1259,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       43
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 85,
@@ -1191,7 +1275,8 @@
     "morpheme_ids": [
       6,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 86,
@@ -1205,7 +1290,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       37
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 87,
@@ -1219,7 +1305,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 88,
@@ -1231,7 +1318,8 @@
     "example_zh": "湿疹发作通常可通过保湿剂和局部类固醇控制。",
     "system_id": 8,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 89,
@@ -1245,7 +1333,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       9
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 90,
@@ -1259,7 +1348,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       6
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 91,
@@ -1274,7 +1364,8 @@
     "morpheme_ids": [
       6,
       35
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 92,
@@ -1288,7 +1379,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 93,
@@ -1300,7 +1392,8 @@
     "example_zh": "青春期皮脂腺活性增强，是痤疮形成的原因之一。",
     "system_id": 8,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 94,
@@ -1314,7 +1407,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       37
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 95,
@@ -1329,7 +1423,8 @@
     "morpheme_ids": [
       6,
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 96,
@@ -1343,7 +1438,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       37
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 97,
@@ -1358,7 +1454,8 @@
     "morpheme_ids": [
       21,
       35
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 98,
@@ -1373,7 +1470,8 @@
     "morpheme_ids": [
       5,
       35
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 99,
@@ -1387,7 +1485,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       9
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 100,
@@ -1402,7 +1501,8 @@
     "morpheme_ids": [
       19,
       35
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 101,
@@ -1414,7 +1514,8 @@
     "example_zh": "稳定型心绞痛通常由劳累诱发、休息后缓解。",
     "system_id": 1,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 102,
@@ -1426,7 +1527,8 @@
     "example_zh": "心肌梗死即俗称的心脏病发作。",
     "system_id": 1,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 103,
@@ -1441,7 +1543,8 @@
     "morpheme_ids": [
       53,
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 104,
@@ -1453,7 +1556,8 @@
     "example_zh": "肺栓塞阻塞肺部动脉，可危及生命。",
     "system_id": 1,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 105,
@@ -1465,7 +1569,8 @@
     "example_zh": "主动脉瘤可能破裂并引起大量内出血。",
     "system_id": 1,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 106,
@@ -1481,7 +1586,8 @@
       30,
       3,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 107,
@@ -1497,7 +1603,8 @@
       22,
       3,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 108,
@@ -1513,7 +1620,8 @@
       3,
       16,
       39
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 109,
@@ -1527,7 +1635,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       14
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 110,
@@ -1539,7 +1648,8 @@
     "example_zh": "她喝太多咖啡后感到心悸。",
     "system_id": 1,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 111,
@@ -1551,7 +1661,8 @@
     "example_zh": "心房颤动会增加卒中的风险。",
     "system_id": 1,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 112,
@@ -1565,7 +1676,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       55
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 113,
@@ -1579,7 +1691,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       55
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 114,
@@ -1594,7 +1707,8 @@
     "morpheme_ids": [
       13,
       32
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 115,
@@ -1609,7 +1723,8 @@
     "morpheme_ids": [
       52,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 116,
@@ -1625,7 +1740,8 @@
       53,
       52,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 117,
@@ -1637,7 +1753,8 @@
     "example_zh": "心力衰竭可引起踝部和腿部水肿。",
     "system_id": 1,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 118,
@@ -1649,7 +1766,8 @@
     "example_zh": "医生用听诊器发现了心脏杂音。",
     "system_id": 1,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 119,
@@ -1661,7 +1779,8 @@
     "example_zh": "收缩压是在收缩期测得的。",
     "system_id": 1,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 120,
@@ -1673,7 +1792,8 @@
     "example_zh": "舒张压反映舒张期动脉中的阻力。",
     "system_id": 1,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 121,
@@ -1688,7 +1808,8 @@
     "morpheme_ids": [
       3,
       46
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 122,
@@ -1702,7 +1823,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       3
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 123,
@@ -1716,7 +1838,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       27
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 124,
@@ -1728,7 +1851,8 @@
     "example_zh": "冠状动脉自主动脉分出。",
     "system_id": 1,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 125,
@@ -1742,7 +1866,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       56
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 126,
@@ -1754,7 +1879,8 @@
     "example_zh": "左心室将富氧血泵送至全身。",
     "system_id": 1,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 127,
@@ -1766,7 +1892,8 @@
     "example_zh": "回流心脏的血液首先进入心房。",
     "system_id": 1,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 128,
@@ -1781,7 +1908,8 @@
     "morpheme_ids": [
       11,
       123
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 129,
@@ -1795,7 +1923,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       124
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 130,
@@ -1809,7 +1938,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       25
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 131,
@@ -1824,7 +1954,8 @@
     "morpheme_ids": [
       3,
       35
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 132,
@@ -1839,7 +1970,8 @@
     "morpheme_ids": [
       27,
       37
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 133,
@@ -1854,7 +1986,8 @@
     "morpheme_ids": [
       51,
       122
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 134,
@@ -1868,7 +2001,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       3
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 135,
@@ -1883,7 +2017,8 @@
     "morpheme_ids": [
       57,
       112
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 136,
@@ -1898,7 +2033,8 @@
     "morpheme_ids": [
       57,
       43
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 137,
@@ -1912,7 +2048,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       57
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 138,
@@ -1927,7 +2064,8 @@
     "morpheme_ids": [
       58,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 139,
@@ -1942,7 +2080,8 @@
     "morpheme_ids": [
       59,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 140,
@@ -1957,7 +2096,8 @@
     "morpheme_ids": [
       60,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 141,
@@ -1972,7 +2112,8 @@
     "morpheme_ids": [
       60,
       42
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 142,
@@ -1987,7 +2128,8 @@
     "morpheme_ids": [
       61,
       117
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 143,
@@ -2002,7 +2144,8 @@
     "morpheme_ids": [
       62,
       44
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 144,
@@ -2017,7 +2160,8 @@
     "morpheme_ids": [
       62,
       116
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 145,
@@ -2031,7 +2175,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       63
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 146,
@@ -2045,7 +2190,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       63
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 147,
@@ -2060,7 +2206,8 @@
     "morpheme_ids": [
       14,
       65
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 148,
@@ -2076,7 +2223,8 @@
       14,
       65,
       32
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 149,
@@ -2091,7 +2239,8 @@
     "morpheme_ids": [
       25,
       66
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 150,
@@ -2106,7 +2255,8 @@
     "morpheme_ids": [
       2,
       66
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 151,
@@ -2120,7 +2270,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       66
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 152,
@@ -2134,7 +2285,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       47
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 153,
@@ -2146,7 +2298,8 @@
     "example_zh": "祛痰药能使咳痰更顺畅。",
     "system_id": 2,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 154,
@@ -2158,7 +2311,8 @@
     "example_zh": "送检痰标本以检测感染。",
     "system_id": 2,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 155,
@@ -2170,7 +2324,8 @@
     "example_zh": "喘鸣常见于哮喘和支气管炎。",
     "system_id": 2,
     "difficulty": 1,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 156,
@@ -2185,7 +2340,8 @@
     "morpheme_ids": [
       11,
       62
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 157,
@@ -2199,7 +2355,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       64
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 158,
@@ -2211,7 +2368,8 @@
     "example_zh": "呼吸频率以每分钟呼吸次数计。",
     "system_id": 2,
     "difficulty": 1,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 159,
@@ -2225,7 +2383,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 160,
@@ -2240,7 +2399,8 @@
     "morpheme_ids": [
       109,
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 161,
@@ -2255,7 +2415,8 @@
     "morpheme_ids": [
       125,
       66
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 162,
@@ -2270,7 +2431,8 @@
     "morpheme_ids": [
       1,
       66
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 163,
@@ -2282,7 +2444,8 @@
     "example_zh": "患儿通过雾化器吸入了沙丁胺醇。",
     "system_id": 2,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 164,
@@ -2297,7 +2460,8 @@
     "morpheme_ids": [
       23,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 165,
@@ -2311,7 +2475,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 166,
@@ -2325,7 +2490,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       13
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 167,
@@ -2339,7 +2505,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       67
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 168,
@@ -2351,7 +2518,8 @@
     "example_zh": "小脑损伤会导致动作不稳。",
     "system_id": 3,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 169,
@@ -2365,7 +2533,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       70
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 170,
@@ -2380,7 +2549,8 @@
     "morpheme_ids": [
       69,
       39
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 171,
@@ -2395,7 +2565,8 @@
     "morpheme_ids": [
       7,
       39
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 172,
@@ -2410,7 +2581,8 @@
     "morpheme_ids": [
       1,
       72
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 173,
@@ -2425,7 +2597,8 @@
     "morpheme_ids": [
       125,
       72
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 174,
@@ -2439,7 +2612,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       73
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 175,
@@ -2453,7 +2627,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       41
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 176,
@@ -2468,7 +2643,8 @@
     "morpheme_ids": [
       18,
       31
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 177,
@@ -2483,7 +2659,8 @@
     "morpheme_ids": [
       18,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 178,
@@ -2498,7 +2675,8 @@
     "morpheme_ids": [
       18,
       50
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 179,
@@ -2513,7 +2691,8 @@
     "morpheme_ids": [
       1,
       74
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 180,
@@ -2527,7 +2706,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       74
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 181,
@@ -2539,7 +2719,8 @@
     "example_zh": "高热可诱发幼儿惊厥。",
     "system_id": 3,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 182,
@@ -2551,7 +2732,8 @@
     "example_zh": "癫痫以反复发作为特征。",
     "system_id": 3,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 183,
@@ -2563,7 +2745,8 @@
     "example_zh": "帕金森病源于产生多巴胺的神经元丧失。",
     "system_id": 3,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 184,
@@ -2577,7 +2760,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       122
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 185,
@@ -2589,7 +2773,8 @@
     "example_zh": "偏头痛有时先有视觉先兆。",
     "system_id": 3,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 186,
@@ -2601,7 +2786,8 @@
     "example_zh": "脑震荡可引起头痛、意识模糊和头晕。",
     "system_id": 3,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 187,
@@ -2615,7 +2801,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       7
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 188,
@@ -2630,7 +2817,8 @@
     "morpheme_ids": [
       18,
       39
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 189,
@@ -2642,7 +2830,8 @@
     "example_zh": "膝跳反射用于检查神经系统。",
     "system_id": 3,
     "difficulty": 1,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 190,
@@ -2654,7 +2843,8 @@
     "example_zh": "树突将冲动传向胞体。",
     "system_id": 3,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 191,
@@ -2668,7 +2858,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       18
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 192,
@@ -2680,7 +2871,8 @@
     "example_zh": "患者受伤后持续昏迷。",
     "system_id": 3,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 193,
@@ -2692,7 +2884,8 @@
     "example_zh": "内耳问题是眩晕的常见原因。",
     "system_id": 3,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 194,
@@ -2704,7 +2897,8 @@
     "example_zh": "晕厥常因脑供血短暂下降所致。",
     "system_id": 3,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 195,
@@ -2720,7 +2914,8 @@
       24,
       18,
       39
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 196,
@@ -2734,7 +2929,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       67
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 197,
@@ -2748,7 +2944,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       1
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 198,
@@ -2763,7 +2960,8 @@
     "morpheme_ids": [
       79,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 199,
@@ -2779,7 +2977,8 @@
       10,
       8,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 200,
@@ -2794,7 +2993,8 @@
     "morpheme_ids": [
       75,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 201,
@@ -2809,7 +3009,8 @@
     "morpheme_ids": [
       76,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 202,
@@ -2824,7 +3025,8 @@
     "morpheme_ids": [
       12,
       36
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 203,
@@ -2839,7 +3041,8 @@
     "morpheme_ids": [
       77,
       102
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 204,
@@ -2854,7 +3057,8 @@
     "morpheme_ids": [
       77,
       33
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 205,
@@ -2869,7 +3073,8 @@
     "morpheme_ids": [
       78,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 206,
@@ -2884,7 +3089,8 @@
     "morpheme_ids": [
       10,
       33
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 207,
@@ -2899,7 +3105,8 @@
     "morpheme_ids": [
       75,
       43
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 208,
@@ -2914,7 +3121,8 @@
     "morpheme_ids": [
       83,
       44
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 209,
@@ -2929,7 +3137,8 @@
     "morpheme_ids": [
       83,
       43
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 210,
@@ -2944,7 +3153,8 @@
     "morpheme_ids": [
       11,
       81
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 211,
@@ -2958,7 +3168,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       125
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 212,
@@ -2970,7 +3181,8 @@
     "example_zh": "肝硬化是腹水的常见原因。",
     "system_id": 4,
     "difficulty": 4,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 213,
@@ -2982,7 +3194,8 @@
     "example_zh": "黄疸常是肝脏或胆道疾病的征象。",
     "system_id": 4,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 214,
@@ -2994,7 +3207,8 @@
     "example_zh": "高纤维饮食有助于缓解便秘。",
     "system_id": 4,
     "difficulty": 1,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 215,
@@ -3008,7 +3222,8 @@
     "difficulty": 1,
     "morpheme_ids": [
       42
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 216,
@@ -3022,7 +3237,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       11
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 217,
@@ -3036,7 +3252,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       33
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 218,
@@ -3048,7 +3265,8 @@
     "example_zh": "乳糜泻可引起营养吸收不良。",
     "system_id": 4,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 219,
@@ -3060,7 +3278,8 @@
     "example_zh": "胃酸反流引起称为烧心的灼热感。",
     "system_id": 4,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 220,
@@ -3074,7 +3293,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       12
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 221,
@@ -3089,7 +3309,8 @@
     "morpheme_ids": [
       8,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 222,
@@ -3103,7 +3324,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 223,
@@ -3118,7 +3340,8 @@
     "morpheme_ids": [
       80,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 224,
@@ -3130,7 +3353,8 @@
     "example_zh": "麻痹性肠梗阻可发生于腹部手术后。",
     "system_id": 4,
     "difficulty": 4,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 225,
@@ -3144,7 +3368,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 226,
@@ -3156,7 +3381,8 @@
     "example_zh": "结肠息肉可在结肠镜检查时切除。",
     "system_id": 4,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 227,
@@ -3171,7 +3397,8 @@
     "morpheme_ids": [
       125,
       82
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 228,
@@ -3186,7 +3413,8 @@
     "morpheme_ids": [
       10,
       43
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 229,
@@ -3198,7 +3426,8 @@
     "example_zh": "骨折通过 X 线确诊并分型。",
     "system_id": 5,
     "difficulty": 1,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 230,
@@ -3214,7 +3443,8 @@
       20,
       69,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 231,
@@ -3229,7 +3459,8 @@
     "morpheme_ids": [
       20,
       89
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 232,
@@ -3244,7 +3475,8 @@
     "morpheme_ids": [
       84,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 233,
@@ -3259,7 +3491,8 @@
     "morpheme_ids": [
       84,
       89
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 234,
@@ -3274,7 +3507,8 @@
     "morpheme_ids": [
       28,
       31
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 235,
@@ -3289,7 +3523,8 @@
     "morpheme_ids": [
       28,
       40
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 236,
@@ -3304,7 +3539,8 @@
     "morpheme_ids": [
       28,
       90
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 237,
@@ -3319,7 +3555,8 @@
     "morpheme_ids": [
       16,
       31
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 238,
@@ -3334,7 +3571,8 @@
     "morpheme_ids": [
       16,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 239,
@@ -3349,7 +3587,8 @@
     "morpheme_ids": [
       85,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 240,
@@ -3364,7 +3603,8 @@
     "morpheme_ids": [
       85,
       44
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 241,
@@ -3379,7 +3619,8 @@
     "morpheme_ids": [
       86,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 242,
@@ -3394,7 +3635,8 @@
     "morpheme_ids": [
       86,
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 243,
@@ -3409,7 +3651,8 @@
     "morpheme_ids": [
       20,
       44
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 244,
@@ -3424,7 +3667,8 @@
     "morpheme_ids": [
       16,
       39
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 245,
@@ -3436,7 +3680,8 @@
     "example_zh": "肩关节脱位常因手臂伸直跌倒所致。",
     "system_id": 5,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 246,
@@ -3450,7 +3695,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       128
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 247,
@@ -3462,7 +3708,8 @@
     "example_zh": "踝关节扭伤以休息、冰敷和抬高处理。",
     "system_id": 5,
     "difficulty": 1,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 248,
@@ -3474,7 +3721,8 @@
     "example_zh": "腘绳肌拉伤在短跑运动员中常见。",
     "system_id": 5,
     "difficulty": 1,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 249,
@@ -3488,7 +3736,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 250,
@@ -3502,7 +3751,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 251,
@@ -3517,7 +3767,8 @@
     "morpheme_ids": [
       20,
       110
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 252,
@@ -3532,7 +3783,8 @@
     "morpheme_ids": [
       16,
       111
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 253,
@@ -3546,7 +3798,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 254,
@@ -3558,7 +3811,8 @@
     "example_zh": "前交叉韧带稳定膝关节。",
     "system_id": 5,
     "difficulty": 1,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 255,
@@ -3572,7 +3826,8 @@
     "difficulty": 1,
     "morpheme_ids": [
       85
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 256,
@@ -3584,7 +3839,8 @@
     "example_zh": "她因膝盖问题就诊于骨科专家。",
     "system_id": 5,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 257,
@@ -3599,7 +3855,8 @@
     "morpheme_ids": [
       125,
       49
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 258,
@@ -3611,7 +3868,8 @@
     "example_zh": "骨关节炎的关节常可触及捻发感。",
     "system_id": 5,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 259,
@@ -3623,7 +3881,8 @@
     "example_zh": "胰岛素是胰腺分泌的一种激素。",
     "system_id": 6,
     "difficulty": 1,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 260,
@@ -3637,7 +3896,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       30
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 261,
@@ -3653,7 +3913,8 @@
       13,
       93,
       32
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 262,
@@ -3668,7 +3929,8 @@
     "morpheme_ids": [
       93,
       45
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 263,
@@ -3683,7 +3945,8 @@
     "morpheme_ids": [
       24,
       95
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 264,
@@ -3698,7 +3961,8 @@
     "morpheme_ids": [
       24,
       45
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 265,
@@ -3710,7 +3974,8 @@
     "example_zh": "碘缺乏是甲状腺肿的典型病因。",
     "system_id": 6,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 266,
@@ -3725,7 +3990,8 @@
     "morpheme_ids": [
       91,
       36
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 267,
@@ -3740,7 +4006,8 @@
     "morpheme_ids": [
       91,
       33
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 268,
@@ -3754,7 +4021,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       92
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 269,
@@ -3769,7 +4037,8 @@
     "morpheme_ids": [
       92,
       33
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 270,
@@ -3784,7 +4053,8 @@
     "morpheme_ids": [
       94,
       39
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 271,
@@ -3798,7 +4068,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       13
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 272,
@@ -3812,7 +4083,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       14
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 273,
@@ -3826,7 +4098,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       36
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 274,
@@ -3838,7 +4111,8 @@
     "example_zh": "库欣综合征引起体重增加和满月脸。",
     "system_id": 6,
     "difficulty": 4,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 275,
@@ -3850,7 +4124,8 @@
     "example_zh": "艾迪生病引起乏力、低血压和皮肤变黑。",
     "system_id": 6,
     "difficulty": 4,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 276,
@@ -3864,7 +4139,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       14
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 277,
@@ -3876,7 +4152,8 @@
     "example_zh": "甲状腺激素设定机体的基础代谢。",
     "system_id": 6,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 278,
@@ -3888,7 +4165,8 @@
     "example_zh": "钠和钾是重要的电解质。",
     "system_id": 6,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 279,
@@ -3903,7 +4181,8 @@
     "morpheme_ids": [
       13,
       32
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 280,
@@ -3918,7 +4197,8 @@
     "morpheme_ids": [
       14,
       32
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 281,
@@ -3933,7 +4213,8 @@
     "morpheme_ids": [
       13,
       32
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 282,
@@ -3947,7 +4228,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       91
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 283,
@@ -3961,7 +4243,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 284,
@@ -3975,7 +4258,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       93
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 285,
@@ -3987,7 +4271,8 @@
     "example_zh": "胰岛素抵抗是 2 型糖尿病的核心机制。",
     "system_id": 6,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 286,
@@ -3999,7 +4284,8 @@
     "example_zh": "垂体释放激素以指挥甲状腺和肾上腺。",
     "system_id": 6,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 287,
@@ -4013,7 +4299,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       14
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 288,
@@ -4028,7 +4315,8 @@
     "morpheme_ids": [
       13,
       91
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 289,
@@ -4042,7 +4330,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       17
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 290,
@@ -4057,7 +4346,8 @@
     "morpheme_ids": [
       17,
       102
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 291,
@@ -4073,7 +4363,8 @@
       98,
       17,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 292,
@@ -4087,7 +4378,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       45
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 293,
@@ -4102,7 +4394,8 @@
     "morpheme_ids": [
       125,
       45
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 294,
@@ -4117,7 +4410,8 @@
     "morpheme_ids": [
       103,
       45
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 295,
@@ -4132,7 +4426,8 @@
     "morpheme_ids": [
       1,
       45
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 296,
@@ -4146,7 +4441,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       45
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 297,
@@ -4161,7 +4457,8 @@
     "morpheme_ids": [
       97,
       43
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 298,
@@ -4176,7 +4473,8 @@
     "morpheme_ids": [
       97,
       33
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 299,
@@ -4191,7 +4489,8 @@
     "morpheme_ids": [
       99,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 300,
@@ -4206,7 +4505,8 @@
     "morpheme_ids": [
       100,
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 301,
@@ -4220,7 +4520,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       17
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 302,
@@ -4234,7 +4535,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       96
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 303,
@@ -4249,7 +4551,8 @@
     "morpheme_ids": [
       11,
       111
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 304,
@@ -4261,7 +4564,8 @@
     "example_zh": "压力性尿失禁可在咳嗽或大笑时发生。",
     "system_id": 7,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 305,
@@ -4276,7 +4580,8 @@
     "morpheme_ids": [
       26,
       35
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 306,
@@ -4291,7 +4596,8 @@
     "morpheme_ids": [
       26,
       102
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 307,
@@ -4306,7 +4612,8 @@
     "morpheme_ids": [
       17,
       39
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 308,
@@ -4321,7 +4628,8 @@
     "morpheme_ids": [
       17,
       117
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 309,
@@ -4335,7 +4643,8 @@
     "difficulty": 4,
     "morpheme_ids": [
       102
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 310,
@@ -4350,7 +4659,8 @@
     "morpheme_ids": [
       11,
       45
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 311,
@@ -4364,7 +4674,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       101
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 312,
@@ -4378,7 +4689,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       96
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 313,
@@ -4390,7 +4702,8 @@
     "example_zh": "排尿由膀胱肌肉控制。",
     "system_id": 7,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 314,
@@ -4405,7 +4718,8 @@
     "morpheme_ids": [
       97,
       120
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 315,
@@ -4420,7 +4734,8 @@
     "morpheme_ids": [
       26,
       32
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 316,
@@ -4435,7 +4750,8 @@
     "morpheme_ids": [
       24,
       97
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 317,
@@ -4447,7 +4763,8 @@
     "example_zh": "利尿剂有助于减轻心力衰竭的水肿。",
     "system_id": 7,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 318,
@@ -4459,7 +4776,8 @@
     "example_zh": "术后可能留置导尿管。",
     "system_id": 7,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 319,
@@ -4471,7 +4789,8 @@
     "example_zh": "疖通常在成熟出头后引流并愈合。",
     "system_id": 8,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 320,
@@ -4486,7 +4805,8 @@
     "morpheme_ids": [
       6,
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 321,
@@ -4501,7 +4821,8 @@
     "morpheme_ids": [
       104,
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 322,
@@ -4516,7 +4837,8 @@
     "morpheme_ids": [
       105,
       5
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 323,
@@ -4531,7 +4853,8 @@
     "morpheme_ids": [
       106,
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 324,
@@ -4546,7 +4869,8 @@
     "morpheme_ids": [
       106,
       111
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 325,
@@ -4561,7 +4885,8 @@
     "morpheme_ids": [
       107,
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 326,
@@ -4573,7 +4898,8 @@
     "example_zh": "斑秃引起片状脱发。",
     "system_id": 8,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 327,
@@ -4588,7 +4914,8 @@
     "morpheme_ids": [
       108,
       6
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 328,
@@ -4603,7 +4930,8 @@
     "morpheme_ids": [
       9,
       6
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 329,
@@ -4615,7 +4943,8 @@
     "example_zh": "瘙痒可扰乱睡眠并导致搔抓。",
     "system_id": 8,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 330,
@@ -4627,7 +4956,8 @@
     "example_zh": "荨麻疹常为过敏反应。",
     "system_id": 8,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 331,
@@ -4639,7 +4969,8 @@
     "example_zh": "皮肤脓肿通常需要切开引流。",
     "system_id": 8,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 332,
@@ -4651,7 +4982,8 @@
     "example_zh": "脓疱病在幼儿中常见。",
     "system_id": 8,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 333,
@@ -4663,7 +4995,8 @@
     "example_zh": "血小板减少时可出现瘀点。",
     "system_id": 8,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 334,
@@ -4677,7 +5010,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       38
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 335,
@@ -4691,7 +5025,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       109
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 336,
@@ -4705,7 +5040,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       128
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 337,
@@ -4719,7 +5055,8 @@
     "difficulty": 2,
     "morpheme_ids": [
       6
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 338,
@@ -4734,7 +5071,8 @@
     "morpheme_ids": [
       6,
       35
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 339,
@@ -4749,7 +5087,8 @@
     "morpheme_ids": [
       6,
       40
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 340,
@@ -4763,7 +5102,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       34
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 341,
@@ -4775,7 +5115,8 @@
     "example_zh": "压疮可在卧床患者骨突部位形成。",
     "system_id": 8,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 342,
@@ -4787,7 +5128,8 @@
     "example_zh": "疥疮通过密切皮肤接触传播。",
     "system_id": 8,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 343,
@@ -4799,7 +5141,8 @@
     "example_zh": "足底的疣可引起疼痛。",
     "system_id": 8,
     "difficulty": 2,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 344,
@@ -4811,7 +5154,8 @@
     "example_zh": "发生变化的痣应检查是否为皮肤癌。",
     "system_id": 8,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 345,
@@ -4825,7 +5169,8 @@
     "difficulty": 3,
     "morpheme_ids": [
       42
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 346,
@@ -4837,7 +5182,8 @@
     "example_zh": "瘢痕疙瘩可在穿耳或手术后形成。",
     "system_id": 8,
     "difficulty": 3,
-    "morpheme_ids": []
+    "morpheme_ids": [],
+    "domain": "macro"
   },
   {
     "id": 347,
@@ -4852,7 +5198,8 @@
     "morpheme_ids": [
       105,
       37
-    ]
+    ],
+    "domain": "macro"
   },
   {
     "id": 348,
@@ -4866,6 +5213,2592 @@
     "difficulty": 3,
     "morpheme_ids": [
       38
-    ]
+    ],
+    "domain": "macro"
+  },
+  {
+    "id": 349,
+    "word": "cell",
+    "ipa": "/sel/",
+    "def_en": "The basic structural and functional unit of all living organisms.",
+    "def_zh": "细胞：一切生物体最基本的结构与功能单位。",
+    "example_en": "The human body is built from trillions of cells.",
+    "example_zh": "人体由数以万亿计的细胞构成。",
+    "system_id": 9,
+    "difficulty": 1,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 350,
+    "word": "cytology",
+    "ipa": "/saɪˈtɒlədʒi/",
+    "def_en": "The branch of biology that studies the structure and function of cells.",
+    "def_zh": "细胞学：研究细胞结构与功能的生物学分支。",
+    "example_en": "Cytology uses microscopes to examine individual cells.",
+    "example_zh": "细胞学借助显微镜检查单个细胞。",
+    "system_id": 9,
+    "difficulty": 2,
+    "morpheme_ids": [
+      132,
+      176
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 351,
+    "word": "organelle",
+    "ipa": "/ˌɔːrɡəˈnel/",
+    "def_en": "A specialized structure within a cell that performs a specific function.",
+    "def_zh": "细胞器：细胞内执行特定功能的专门结构。",
+    "example_en": "The mitochondrion is the organelle that produces most of the cell's energy.",
+    "example_zh": "线粒体是产生细胞大部分能量的细胞器。",
+    "system_id": 9,
+    "difficulty": 2,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 352,
+    "word": "nucleus",
+    "ipa": "/ˈnjuːkliəs/",
+    "def_en": "The membrane-bound organelle that contains the cell's genetic material.",
+    "def_zh": "细胞核：含有细胞遗传物质的有膜细胞器。",
+    "example_en": "The nucleus directs the cell's activities through its DNA.",
+    "example_zh": "细胞核通过其 DNA 指挥细胞的活动。",
+    "system_id": 9,
+    "difficulty": 2,
+    "morpheme_ids": [
+      133
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 353,
+    "word": "nucleolus",
+    "ipa": "/njuːˈkliːələs/",
+    "def_en": "A dense region within the nucleus where ribosomes are assembled.",
+    "def_zh": "核仁：核内合成核糖体的致密区域。",
+    "example_en": "The nucleolus produces the RNA and proteins that form ribosomes.",
+    "example_zh": "核仁产生构成核糖体的 RNA 和蛋白质。",
+    "system_id": 9,
+    "difficulty": 3,
+    "morpheme_ids": [
+      133
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 354,
+    "word": "cytoplasm",
+    "ipa": "/ˈsaɪtoʊplæzəm/",
+    "def_en": "The gel-like substance enclosed by the cell membrane, excluding the nucleus.",
+    "def_zh": "细胞质：细胞膜内除细胞核以外的凝胶状物质。",
+    "example_en": "Most metabolic reactions take place in the cytoplasm.",
+    "example_zh": "大多数代谢反应发生在细胞质中。",
+    "system_id": 9,
+    "difficulty": 2,
+    "morpheme_ids": [
+      132,
+      134
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 355,
+    "word": "cytosol",
+    "ipa": "/ˈsaɪtoʊsɒl/",
+    "def_en": "The fluid portion of the cytoplasm in which organelles are suspended.",
+    "def_zh": "胞质溶胶：细胞质中悬浮各种细胞器的液体部分。",
+    "example_en": "Glycolysis occurs in the cytosol.",
+    "example_zh": "糖酵解发生在胞质溶胶中。",
+    "system_id": 9,
+    "difficulty": 3,
+    "morpheme_ids": [
+      132
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 356,
+    "word": "plasma membrane",
+    "ipa": "/ˈplæzmə ˈmembreɪn/",
+    "def_en": "The thin barrier that surrounds the cell and controls what enters and leaves.",
+    "def_zh": "质膜（细胞膜）：包绕细胞、控制物质进出的薄屏障。",
+    "example_en": "The plasma membrane is made of a phospholipid bilayer.",
+    "example_zh": "质膜由磷脂双分子层构成。",
+    "system_id": 9,
+    "difficulty": 2,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 357,
+    "word": "phospholipid",
+    "ipa": "/ˌfɒsfoʊˈlɪpɪd/",
+    "def_en": "A lipid molecule that forms the double layer of cell membranes.",
+    "def_zh": "磷脂：构成细胞膜双分子层的脂质分子。",
+    "example_en": "Each phospholipid has a water-loving head and water-fearing tails.",
+    "example_zh": "每个磷脂分子具有亲水的头部和疏水的尾部。",
+    "system_id": 9,
+    "difficulty": 3,
+    "morpheme_ids": [
+      170
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 358,
+    "word": "glycocalyx",
+    "ipa": "/ˌɡlaɪkoʊˈkeɪlɪks/",
+    "def_en": "The sugar-rich coating on the outer surface of the cell membrane.",
+    "def_zh": "糖萼：细胞膜外表面富含糖类的包被。",
+    "example_en": "The glycocalyx helps cells recognize one another.",
+    "example_zh": "糖萼有助于细胞之间相互识别。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [
+      172
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 359,
+    "word": "mitochondrion",
+    "ipa": "/ˌmaɪtoʊˈkɒndriən/",
+    "def_en": "The organelle that generates most of the cell's ATP through respiration.",
+    "def_zh": "线粒体：通过呼吸作用产生细胞大部分 ATP 的细胞器。",
+    "example_en": "Cells with high energy needs contain many mitochondria.",
+    "example_zh": "能量需求高的细胞含有大量线粒体。",
+    "system_id": 9,
+    "difficulty": 3,
+    "morpheme_ids": [
+      135
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 360,
+    "word": "cristae",
+    "ipa": "/ˈkrɪstiː/",
+    "def_en": "The inner folds of the mitochondrial membrane where ATP is made.",
+    "def_zh": "嵴：线粒体内膜的褶皱，是生成 ATP 的部位。",
+    "example_en": "The cristae increase the surface area for energy production.",
+    "example_zh": "嵴增大了能量生产的表面积。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 361,
+    "word": "ribosome",
+    "ipa": "/ˈraɪbəsoʊm/",
+    "def_en": "The cellular structure that builds proteins by linking amino acids.",
+    "def_zh": "核糖体：通过连接氨基酸合成蛋白质的细胞结构。",
+    "example_en": "Ribosomes read messenger RNA to assemble proteins.",
+    "example_zh": "核糖体读取信使 RNA 来组装蛋白质。",
+    "system_id": 9,
+    "difficulty": 3,
+    "morpheme_ids": [
+      138,
+      137
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 362,
+    "word": "endoplasmic reticulum",
+    "ipa": "/ˌendoʊˈplæzmɪk rɪˈtɪkjələm/",
+    "def_en": "A network of membranes that makes proteins and lipids.",
+    "def_zh": "内质网：合成蛋白质和脂质的膜网状系统。",
+    "example_en": "Rough endoplasmic reticulum is studded with ribosomes.",
+    "example_zh": "粗面内质网表面附着核糖体。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [
+      142,
+      134
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 363,
+    "word": "Golgi apparatus",
+    "ipa": "/ˈɡɔːldʒi ˌæpəˈreɪtəs/",
+    "def_en": "The organelle that modifies, sorts, and packages proteins for export.",
+    "def_zh": "高尔基体：对蛋白质进行修饰、分选和包装以供输出的细胞器。",
+    "example_en": "The Golgi apparatus packages proteins into vesicles.",
+    "example_zh": "高尔基体将蛋白质包装入囊泡。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 364,
+    "word": "lysosome",
+    "ipa": "/ˈlaɪsəsoʊm/",
+    "def_en": "An organelle filled with enzymes that digest waste and worn-out parts.",
+    "def_zh": "溶酶体：含有消化废物和老化结构的酶的细胞器。",
+    "example_en": "Lysosomes break down material brought in by the cell.",
+    "example_zh": "溶酶体分解细胞摄入的物质。",
+    "system_id": 9,
+    "difficulty": 3,
+    "morpheme_ids": [
+      139,
+      137
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 365,
+    "word": "peroxisome",
+    "ipa": "/pəˈrɒksɪsoʊm/",
+    "def_en": "An organelle that breaks down fatty acids and detoxifies harmful substances.",
+    "def_zh": "过氧化物酶体：分解脂肪酸并对有害物质解毒的细胞器。",
+    "example_en": "Peroxisomes neutralize hydrogen peroxide in the cell.",
+    "example_zh": "过氧化物酶体可中和细胞内的过氧化氢。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [
+      137
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 366,
+    "word": "vacuole",
+    "ipa": "/ˈvækjuoʊl/",
+    "def_en": "A membrane-bound sac used for storage of water, nutrients, or waste.",
+    "def_zh": "液泡：用于储存水分、养分或废物的有膜囊。",
+    "example_en": "Vacuoles help maintain the cell's internal pressure.",
+    "example_zh": "液泡有助于维持细胞的内部压力。",
+    "system_id": 9,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 367,
+    "word": "vesicle",
+    "ipa": "/ˈvesɪkəl/",
+    "def_en": "A small membrane sac that transports materials within or out of the cell.",
+    "def_zh": "囊泡：在细胞内或向细胞外运输物质的小膜囊。",
+    "example_en": "Transport vesicles carry proteins to the cell membrane.",
+    "example_zh": "运输囊泡将蛋白质送往细胞膜。",
+    "system_id": 9,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 368,
+    "word": "centriole",
+    "ipa": "/ˈsentrioʊl/",
+    "def_en": "A cylindrical structure that helps organize the spindle during cell division.",
+    "def_zh": "中心粒：在细胞分裂时帮助组织纺锤体的圆柱状结构。",
+    "example_en": "Centrioles move to opposite poles before mitosis.",
+    "example_zh": "中心粒在有丝分裂前移向两极。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 369,
+    "word": "centrosome",
+    "ipa": "/ˈsentrəsoʊm/",
+    "def_en": "The region near the nucleus that organizes microtubules.",
+    "def_zh": "中心体：核附近组织微管的区域。",
+    "example_en": "The centrosome contains a pair of centrioles.",
+    "example_zh": "中心体含有一对中心粒。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [
+      137
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 370,
+    "word": "cytoskeleton",
+    "ipa": "/ˌsaɪtoʊˈskelɪtən/",
+    "def_en": "The network of protein fibers that gives a cell its shape and support.",
+    "def_zh": "细胞骨架：赋予细胞形状和支撑的蛋白纤维网络。",
+    "example_en": "The cytoskeleton enables cell movement and division.",
+    "example_zh": "细胞骨架使细胞能够运动和分裂。",
+    "system_id": 9,
+    "difficulty": 3,
+    "morpheme_ids": [
+      132
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 371,
+    "word": "microtubule",
+    "ipa": "/ˌmaɪkroʊˈtjuːbjuːl/",
+    "def_en": "A hollow protein tube that supports the cell and guides transport.",
+    "def_zh": "微管：支撑细胞并引导物质运输的中空蛋白管。",
+    "example_en": "Microtubules form the tracks along which vesicles travel.",
+    "example_zh": "微管形成囊泡移动的轨道。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [
+      154
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 372,
+    "word": "microfilament",
+    "ipa": "/ˌmaɪkroʊˈfɪləmənt/",
+    "def_en": "A thin actin fiber involved in cell shape and movement.",
+    "def_zh": "微丝：参与细胞形态和运动的细肌动蛋白纤维。",
+    "example_en": "Microfilaments allow the cell to change shape.",
+    "example_zh": "微丝使细胞能够改变形状。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [
+      154
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 373,
+    "word": "intermediate filament",
+    "ipa": "/ˌɪntərˈmiːdiət ˈfɪləmənt/",
+    "def_en": "A rope-like fiber that provides mechanical strength to cells.",
+    "def_zh": "中间丝：为细胞提供机械强度的绳索状纤维。",
+    "example_en": "Intermediate filaments anchor organelles in place.",
+    "example_zh": "中间丝将细胞器固定在适当位置。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [
+      174
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 374,
+    "word": "chromatin",
+    "ipa": "/ˈkroʊmətɪn/",
+    "def_en": "The loosely packed combination of DNA and proteins inside the nucleus.",
+    "def_zh": "染色质：细胞核内 DNA 与蛋白质疏松结合的形式。",
+    "example_en": "Chromatin condenses into chromosomes before cell division.",
+    "example_zh": "染色质在细胞分裂前凝缩为染色体。",
+    "system_id": 9,
+    "difficulty": 3,
+    "morpheme_ids": [
+      136
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 375,
+    "word": "chromosome",
+    "ipa": "/ˈkroʊməsoʊm/",
+    "def_en": "A condensed structure of DNA that carries genetic information.",
+    "def_zh": "染色体：携带遗传信息的 DNA 凝缩结构。",
+    "example_en": "Humans normally have 46 chromosomes in each cell.",
+    "example_zh": "人体每个细胞通常有 46 条染色体。",
+    "system_id": 9,
+    "difficulty": 2,
+    "morpheme_ids": [
+      136,
+      137
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 376,
+    "word": "nuclear envelope",
+    "ipa": "/ˈnjuːkliər ˈenvəloʊp/",
+    "def_en": "The double membrane that surrounds and protects the nucleus.",
+    "def_zh": "核膜：包绕并保护细胞核的双层膜。",
+    "example_en": "The nuclear envelope separates DNA from the cytoplasm.",
+    "example_zh": "核膜将 DNA 与细胞质分隔开。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [
+      133
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 377,
+    "word": "nuclear pore",
+    "ipa": "/ˈnjuːkliər pɔːr/",
+    "def_en": "A channel in the nuclear envelope that lets molecules pass in and out.",
+    "def_zh": "核孔：核膜上允许分子进出的通道。",
+    "example_en": "Messenger RNA leaves the nucleus through nuclear pores.",
+    "example_zh": "信使 RNA 通过核孔离开细胞核。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [
+      133
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 378,
+    "word": "cilium",
+    "ipa": "/ˈsɪliəm/",
+    "def_en": "A short hair-like projection that moves fluid or particles across a cell surface.",
+    "def_zh": "纤毛：细胞表面短小的毛状突起，可推动液体或颗粒。",
+    "example_en": "Cilia in the airways sweep mucus upward.",
+    "example_zh": "气道中的纤毛将黏液向上清扫。",
+    "system_id": 9,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 379,
+    "word": "flagellum",
+    "ipa": "/fləˈdʒeləm/",
+    "def_en": "A long whip-like structure that propels a cell.",
+    "def_zh": "鞭毛：推动细胞运动的细长鞭状结构。",
+    "example_en": "A sperm cell swims using its flagellum.",
+    "example_zh": "精子借助鞭毛游动。",
+    "system_id": 9,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 380,
+    "word": "microvillus",
+    "ipa": "/ˌmaɪkroʊˈvɪləs/",
+    "def_en": "A tiny finger-like projection that increases a cell's surface area.",
+    "def_zh": "微绒毛：增大细胞表面积的微小指状突起。",
+    "example_en": "Microvilli line the small intestine to aid absorption.",
+    "example_zh": "微绒毛排列于小肠以促进吸收。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [
+      154
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 381,
+    "word": "eukaryote",
+    "ipa": "/juːˈkærioʊt/",
+    "def_en": "An organism whose cells contain a true membrane-bound nucleus.",
+    "def_zh": "真核生物：细胞含有真正有膜细胞核的生物。",
+    "example_en": "Animals, plants, and fungi are all eukaryotes.",
+    "example_zh": "动物、植物和真菌都是真核生物。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [
+      133
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 382,
+    "word": "prokaryote",
+    "ipa": "/proʊˈkærioʊt/",
+    "def_en": "An organism whose cells lack a membrane-bound nucleus, such as bacteria.",
+    "def_zh": "原核生物：细胞缺乏有膜细胞核的生物，如细菌。",
+    "example_en": "Bacteria are prokaryotes with no internal organelles.",
+    "example_zh": "细菌是没有内膜细胞器的原核生物。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [
+      159,
+      133
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 383,
+    "word": "cytoplasmic membrane",
+    "ipa": "/ˌsaɪtoʊˈplæzmɪk ˈmembreɪn/",
+    "def_en": "Another name for the plasma membrane surrounding the cytoplasm.",
+    "def_zh": "胞质膜：包绕细胞质的质膜的别称。",
+    "example_en": "The cytoplasmic membrane regulates the cell's internal environment.",
+    "example_zh": "胞质膜调节细胞的内环境。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [
+      132,
+      134
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 384,
+    "word": "inclusion",
+    "ipa": "/ɪnˈkluːʒən/",
+    "def_en": "A non-living particle stored in the cytoplasm, such as glycogen or fat.",
+    "def_zh": "包涵物：储存于细胞质中的非生命颗粒，如糖原或脂肪。",
+    "example_en": "Lipid inclusions store energy within the cell.",
+    "example_zh": "脂质包涵物在细胞内储存能量。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 385,
+    "word": "cell junction",
+    "ipa": "/sel ˈdʒʌŋkʃən/",
+    "def_en": "A point of contact that connects neighboring cells.",
+    "def_zh": "细胞连接：连接相邻细胞的接触点。",
+    "example_en": "Tight cell junctions seal the gaps between intestinal cells.",
+    "example_zh": "紧密细胞连接封闭肠细胞之间的间隙。",
+    "system_id": 9,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 386,
+    "word": "phagocyte",
+    "ipa": "/ˈfæɡəsaɪt/",
+    "def_en": "A cell that engulfs and digests particles or microbes.",
+    "def_zh": "吞噬细胞：吞入并消化颗粒或微生物的细胞。",
+    "example_en": "Phagocytes are an important part of the immune defense.",
+    "example_zh": "吞噬细胞是免疫防御的重要组成部分。",
+    "system_id": 9,
+    "difficulty": 3,
+    "morpheme_ids": [
+      140,
+      132
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 387,
+    "word": "diffusion",
+    "ipa": "/dɪˈfjuːʒən/",
+    "def_en": "The movement of molecules from high to low concentration.",
+    "def_zh": "扩散：分子从高浓度向低浓度移动的过程。",
+    "example_en": "Oxygen enters cells by diffusion across the membrane.",
+    "example_zh": "氧气通过跨膜扩散进入细胞。",
+    "system_id": 10,
+    "difficulty": 2,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 388,
+    "word": "osmosis",
+    "ipa": "/ɒzˈmoʊsɪs/",
+    "def_en": "The diffusion of water across a selectively permeable membrane.",
+    "def_zh": "渗透：水分子跨选择性通透膜的扩散。",
+    "example_en": "Osmosis moves water toward the side with more solute.",
+    "example_zh": "渗透使水向溶质更多的一侧移动。",
+    "system_id": 10,
+    "difficulty": 3,
+    "morpheme_ids": [
+      177
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 389,
+    "word": "passive transport",
+    "ipa": "/ˈpæsɪv ˈtrænspɔːrt/",
+    "def_en": "Movement of substances across a membrane without using energy.",
+    "def_zh": "被动运输：物质不消耗能量跨膜移动。",
+    "example_en": "Passive transport follows the concentration gradient.",
+    "example_zh": "被动运输顺浓度梯度进行。",
+    "system_id": 10,
+    "difficulty": 3,
+    "morpheme_ids": [
+      173
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 390,
+    "word": "active transport",
+    "ipa": "/ˈæktɪv ˈtrænspɔːrt/",
+    "def_en": "Movement of substances across a membrane using cellular energy.",
+    "def_zh": "主动运输：物质消耗细胞能量逆向跨膜移动。",
+    "example_en": "Active transport can move ions against their gradient.",
+    "example_zh": "主动运输可使离子逆浓度梯度移动。",
+    "system_id": 10,
+    "difficulty": 3,
+    "morpheme_ids": [
+      173
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 391,
+    "word": "facilitated diffusion",
+    "ipa": "/fəˈsɪlɪteɪtɪd dɪˈfjuːʒən/",
+    "def_en": "Passive movement of molecules through membrane proteins.",
+    "def_zh": "易化扩散：分子借助膜蛋白进行的被动移动。",
+    "example_en": "Glucose enters many cells by facilitated diffusion.",
+    "example_zh": "葡萄糖通过易化扩散进入许多细胞。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 392,
+    "word": "endocytosis",
+    "ipa": "/ˌendoʊsaɪˈtoʊsɪs/",
+    "def_en": "The process by which a cell takes in material by engulfing it.",
+    "def_zh": "胞吞作用：细胞通过包裹方式摄入物质的过程。",
+    "example_en": "Endocytosis brings large particles into the cell.",
+    "example_zh": "胞吞作用将大颗粒带入细胞。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      142,
+      132,
+      177
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 393,
+    "word": "exocytosis",
+    "ipa": "/ˌeksoʊsaɪˈtoʊsɪs/",
+    "def_en": "The process by which a cell releases material in vesicles.",
+    "def_zh": "胞吐作用：细胞以囊泡形式向外释放物质的过程。",
+    "example_en": "Neurons use exocytosis to release neurotransmitters.",
+    "example_zh": "神经元通过胞吐作用释放神经递质。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      143,
+      132,
+      177
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 394,
+    "word": "phagocytosis",
+    "ipa": "/ˌfæɡoʊsaɪˈtoʊsɪs/",
+    "def_en": "The engulfing of large particles or cells by a cell.",
+    "def_zh": "吞噬作用：细胞吞入大颗粒或其他细胞。",
+    "example_en": "White blood cells destroy bacteria by phagocytosis.",
+    "example_zh": "白细胞通过吞噬作用消灭细菌。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      140,
+      132,
+      177
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 395,
+    "word": "pinocytosis",
+    "ipa": "/ˌpɪnoʊsaɪˈtoʊsɪs/",
+    "def_en": "The uptake of fluid and dissolved substances by a cell.",
+    "def_zh": "胞饮作用：细胞摄入液体及其中溶解物质的过程。",
+    "example_en": "Pinocytosis is sometimes called cell drinking.",
+    "example_zh": "胞饮作用有时被称为「细胞饮水」。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      141,
+      132,
+      177
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 396,
+    "word": "ion channel",
+    "ipa": "/ˈaɪɒn ˈtʃænəl/",
+    "def_en": "A membrane protein that lets specific ions pass through.",
+    "def_zh": "离子通道：允许特定离子通过的膜蛋白。",
+    "example_en": "Ion channels open and close to control ion flow.",
+    "example_zh": "离子通道通过开闭来控制离子流动。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 397,
+    "word": "carrier protein",
+    "ipa": "/ˈkæriər ˈproʊtiːn/",
+    "def_en": "A membrane protein that binds and moves molecules across the membrane.",
+    "def_zh": "载体蛋白：结合并转运分子跨膜的膜蛋白。",
+    "example_en": "Carrier proteins change shape to move glucose inward.",
+    "example_zh": "载体蛋白通过改变构象将葡萄糖运入细胞。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      171
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 398,
+    "word": "concentration gradient",
+    "ipa": "/ˌkɒnsənˈtreɪʃən ˈɡreɪdiənt/",
+    "def_en": "A difference in the amount of a substance between two regions.",
+    "def_zh": "浓度梯度：某物质在两个区域之间的含量差异。",
+    "example_en": "Molecules diffuse down a concentration gradient.",
+    "example_zh": "分子顺浓度梯度扩散。",
+    "system_id": 10,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 399,
+    "word": "isotonic",
+    "ipa": "/ˌaɪsoʊˈtɒnɪk/",
+    "def_en": "Having the same solute concentration as another solution.",
+    "def_zh": "等渗的：与另一溶液溶质浓度相同。",
+    "example_en": "Cells keep their normal shape in an isotonic solution.",
+    "example_zh": "细胞在等渗溶液中保持正常形态。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      156,
+      175
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 400,
+    "word": "hypotonic",
+    "ipa": "/ˌhaɪpoʊˈtɒnɪk/",
+    "def_en": "Having a lower solute concentration than another solution.",
+    "def_zh": "低渗的：溶质浓度低于另一溶液。",
+    "example_en": "A cell in a hypotonic solution swells as water enters.",
+    "example_zh": "细胞在低渗溶液中因水分进入而肿胀。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      178,
+      175
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 401,
+    "word": "hypertonic",
+    "ipa": "/ˌhaɪpərˈtɒnɪk/",
+    "def_en": "Having a higher solute concentration than another solution.",
+    "def_zh": "高渗的：溶质浓度高于另一溶液。",
+    "example_en": "A cell in a hypertonic solution shrinks as water leaves.",
+    "example_zh": "细胞在高渗溶液中因水分流失而皱缩。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      179,
+      175
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 402,
+    "word": "membrane potential",
+    "ipa": "/ˈmembreɪn pəˈtenʃəl/",
+    "def_en": "The voltage difference across a cell's membrane.",
+    "def_zh": "膜电位：细胞膜两侧的电压差。",
+    "example_en": "Nerve cells use changes in membrane potential to signal.",
+    "example_zh": "神经细胞利用膜电位的变化传递信号。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 403,
+    "word": "ATP",
+    "ipa": "/ˌeɪ tiː ˈpiː/",
+    "def_en": "Adenosine triphosphate, the main energy-carrying molecule of cells.",
+    "def_zh": "ATP（三磷酸腺苷）：细胞主要的能量载体分子。",
+    "example_en": "ATP releases energy when one of its phosphate bonds breaks.",
+    "example_zh": "ATP 在一个磷酸键断裂时释放能量。",
+    "system_id": 10,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 404,
+    "word": "metabolism",
+    "ipa": "/məˈtæbəlɪzəm/",
+    "def_en": "All the chemical reactions that occur within a cell or organism.",
+    "def_zh": "代谢：细胞或机体内发生的全部化学反应。",
+    "example_en": "Metabolism includes both building and breaking down molecules.",
+    "example_zh": "代谢既包括合成也包括分解分子。",
+    "system_id": 10,
+    "difficulty": 2,
+    "morpheme_ids": [
+      160
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 405,
+    "word": "anabolism",
+    "ipa": "/əˈnæbəlɪzəm/",
+    "def_en": "The metabolic building of complex molecules from simpler ones.",
+    "def_zh": "合成代谢：由简单分子构建复杂分子的代谢过程。",
+    "example_en": "Anabolism requires energy to build tissues.",
+    "example_zh": "合成代谢需要能量来构建组织。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      161
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 406,
+    "word": "catabolism",
+    "ipa": "/kəˈtæbəlɪzəm/",
+    "def_en": "The metabolic breakdown of molecules to release energy.",
+    "def_zh": "分解代谢：分解分子以释放能量的代谢过程。",
+    "example_en": "Catabolism breaks glucose down to release ATP.",
+    "example_zh": "分解代谢分解葡萄糖以释放 ATP。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 407,
+    "word": "enzyme",
+    "ipa": "/ˈenzaɪm/",
+    "def_en": "A protein that speeds up a specific chemical reaction.",
+    "def_zh": "酶：加速特定化学反应的蛋白质。",
+    "example_en": "Each enzyme acts on a particular substrate.",
+    "example_zh": "每种酶作用于特定的底物。",
+    "system_id": 10,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 408,
+    "word": "substrate",
+    "ipa": "/ˈsʌbstreɪt/",
+    "def_en": "The molecule on which an enzyme acts.",
+    "def_zh": "底物：酶所作用的分子。",
+    "example_en": "The substrate binds to the active site of the enzyme.",
+    "example_zh": "底物结合到酶的活性位点。",
+    "system_id": 10,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 409,
+    "word": "glycolysis",
+    "ipa": "/ɡlaɪˈkɒlɪsɪs/",
+    "def_en": "The breakdown of glucose into pyruvate, releasing some energy.",
+    "def_zh": "糖酵解：将葡萄糖分解为丙酮酸并释放少量能量的过程。",
+    "example_en": "Glycolysis takes place in the cytosol without oxygen.",
+    "example_zh": "糖酵解在胞质溶胶中无氧条件下进行。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      172,
+      180
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 410,
+    "word": "cellular respiration",
+    "ipa": "/ˈseljələr ˌrespəˈreɪʃən/",
+    "def_en": "The process that converts nutrients into ATP using oxygen.",
+    "def_zh": "细胞呼吸：利用氧气将养分转化为 ATP 的过程。",
+    "example_en": "Cellular respiration mostly occurs in the mitochondria.",
+    "example_zh": "细胞呼吸主要在线粒体内进行。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 411,
+    "word": "oxidative phosphorylation",
+    "ipa": "/ˈɒksɪdeɪtɪv ˌfɒsfɔːrɪˈleɪʃən/",
+    "def_en": "The mitochondrial process that produces most ATP using oxygen.",
+    "def_zh": "氧化磷酸化：线粒体利用氧气生成大部分 ATP 的过程。",
+    "example_en": "Oxidative phosphorylation yields far more ATP than glycolysis.",
+    "example_zh": "氧化磷酸化产生的 ATP 远多于糖酵解。",
+    "system_id": 10,
+    "difficulty": 5,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 412,
+    "word": "signal transduction",
+    "ipa": "/ˈsɪɡnəl trænzˈdʌkʃən/",
+    "def_en": "The relay of a signal from outside the cell to a response inside.",
+    "def_zh": "信号转导：将细胞外信号传递为细胞内反应的过程。",
+    "example_en": "Signal transduction lets hormones change a cell's behavior.",
+    "example_zh": "信号转导使激素能够改变细胞的行为。",
+    "system_id": 10,
+    "difficulty": 5,
+    "morpheme_ids": [
+      173
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 413,
+    "word": "receptor",
+    "ipa": "/rɪˈseptər/",
+    "def_en": "A protein that binds a specific molecule and triggers a response.",
+    "def_zh": "受体：结合特定分子并引发反应的蛋白质。",
+    "example_en": "A hormone must fit its receptor like a key in a lock.",
+    "example_zh": "激素必须像钥匙配锁那样与其受体匹配。",
+    "system_id": 10,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 414,
+    "word": "ligand",
+    "ipa": "/ˈlɪɡənd/",
+    "def_en": "A molecule that binds to a receptor to produce an effect.",
+    "def_zh": "配体：与受体结合以产生效应的分子。",
+    "example_en": "When a ligand binds, the receptor changes shape.",
+    "example_zh": "配体结合时，受体随之改变构象。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 415,
+    "word": "apoptosis",
+    "ipa": "/ˌæpəpˈtoʊsɪs/",
+    "def_en": "Programmed cell death that removes unwanted or damaged cells.",
+    "def_zh": "细胞凋亡：清除不需要或受损细胞的程序性细胞死亡。",
+    "example_en": "Apoptosis shapes tissues during development.",
+    "example_zh": "细胞凋亡在发育过程中塑造组织。",
+    "system_id": 10,
+    "difficulty": 5,
+    "morpheme_ids": [
+      163,
+      164
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 416,
+    "word": "autophagy",
+    "ipa": "/ɔːˈtɒfədʒi/",
+    "def_en": "The process by which a cell digests its own worn-out components.",
+    "def_zh": "自噬：细胞消化自身老化组分的过程。",
+    "example_en": "Autophagy recycles damaged organelles for reuse.",
+    "example_zh": "自噬将受损细胞器回收再利用。",
+    "system_id": 10,
+    "difficulty": 5,
+    "morpheme_ids": [
+      162,
+      140
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 417,
+    "word": "cell cycle",
+    "ipa": "/sel ˈsaɪkəl/",
+    "def_en": "The ordered series of stages a cell passes through to divide.",
+    "def_zh": "细胞周期：细胞为分裂而经历的有序阶段序列。",
+    "example_en": "The cell cycle includes interphase and mitosis.",
+    "example_zh": "细胞周期包括间期和有丝分裂。",
+    "system_id": 10,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 418,
+    "word": "interphase",
+    "ipa": "/ˈɪntərfeɪz/",
+    "def_en": "The phase of the cell cycle when a cell grows and copies its DNA.",
+    "def_zh": "间期：细胞生长并复制 DNA 的细胞周期阶段。",
+    "example_en": "A cell spends most of its life in interphase.",
+    "example_zh": "细胞一生大部分时间处于间期。",
+    "system_id": 10,
+    "difficulty": 3,
+    "morpheme_ids": [
+      174
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 419,
+    "word": "mitosis",
+    "ipa": "/maɪˈtoʊsɪs/",
+    "def_en": "The division of the nucleus that produces two identical cells.",
+    "def_zh": "有丝分裂：产生两个完全相同细胞的核分裂过程。",
+    "example_en": "Mitosis allows the body to grow and replace cells.",
+    "example_zh": "有丝分裂使机体得以生长并替换细胞。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      135,
+      177
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 420,
+    "word": "cytokinesis",
+    "ipa": "/ˌsaɪtoʊkɪˈniːsɪs/",
+    "def_en": "The division of the cytoplasm that completes cell division.",
+    "def_zh": "胞质分裂：完成细胞分裂的细胞质分裂过程。",
+    "example_en": "Cytokinesis splits one cell into two daughter cells.",
+    "example_zh": "胞质分裂将一个细胞分为两个子细胞。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      132
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 421,
+    "word": "prophase",
+    "ipa": "/ˈproʊfeɪz/",
+    "def_en": "The first stage of mitosis, when chromosomes condense.",
+    "def_zh": "前期：有丝分裂的第一阶段，染色体凝缩。",
+    "example_en": "During prophase the spindle fibers begin to form.",
+    "example_zh": "前期纺锤丝开始形成。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      159
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 422,
+    "word": "metaphase",
+    "ipa": "/ˈmetəfeɪz/",
+    "def_en": "The stage of mitosis when chromosomes line up at the cell's center.",
+    "def_zh": "中期：染色体排列在细胞中央的有丝分裂阶段。",
+    "example_en": "In metaphase the chromosomes align along the equator.",
+    "example_zh": "中期染色体沿赤道板排列。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      160
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 423,
+    "word": "anaphase",
+    "ipa": "/ˈænəfeɪz/",
+    "def_en": "The stage of mitosis when sister chromatids separate.",
+    "def_zh": "后期：姐妹染色单体分离的有丝分裂阶段。",
+    "example_en": "Anaphase pulls the chromatids to opposite poles.",
+    "example_zh": "后期将染色单体拉向两极。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      161
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 424,
+    "word": "telophase",
+    "ipa": "/ˈteləfeɪz/",
+    "def_en": "The final stage of mitosis, when two new nuclei form.",
+    "def_zh": "末期：有丝分裂的最后阶段，形成两个新核。",
+    "example_en": "By telophase the nuclear envelope reappears.",
+    "example_zh": "到末期核膜重新出现。",
+    "system_id": 10,
+    "difficulty": 4,
+    "morpheme_ids": [
+      157
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 425,
+    "word": "DNA",
+    "ipa": "/ˌdiː en ˈeɪ/",
+    "def_en": "Deoxyribonucleic acid, the molecule that stores genetic information.",
+    "def_zh": "DNA（脱氧核糖核酸）：储存遗传信息的分子。",
+    "example_en": "DNA is shaped like a twisted ladder called a double helix.",
+    "example_zh": "DNA 呈称为双螺旋的扭曲梯状结构。",
+    "system_id": 11,
+    "difficulty": 2,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 426,
+    "word": "RNA",
+    "ipa": "/ˌɑːr en ˈeɪ/",
+    "def_en": "Ribonucleic acid, a molecule that helps carry out genetic instructions.",
+    "def_zh": "RNA（核糖核酸）：协助执行遗传指令的分子。",
+    "example_en": "RNA carries the message from DNA to the ribosome.",
+    "example_zh": "RNA 将信息从 DNA 带到核糖体。",
+    "system_id": 11,
+    "difficulty": 2,
+    "morpheme_ids": [
+      138
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 427,
+    "word": "nucleotide",
+    "ipa": "/ˈnjuːkliətaɪd/",
+    "def_en": "The basic building block of DNA and RNA.",
+    "def_zh": "核苷酸：DNA 和 RNA 的基本结构单元。",
+    "example_en": "Each nucleotide contains a sugar, a phosphate, and a base.",
+    "example_zh": "每个核苷酸含有一个糖、一个磷酸和一个碱基。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      133
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 428,
+    "word": "nucleic acid",
+    "ipa": "/njuːˈkleɪɪk ˈæsɪd/",
+    "def_en": "A large molecule, such as DNA or RNA, made of nucleotides.",
+    "def_zh": "核酸：由核苷酸构成的大分子，如 DNA 或 RNA。",
+    "example_en": "Nucleic acids store and transmit genetic information.",
+    "example_zh": "核酸储存并传递遗传信息。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      133
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 429,
+    "word": "gene",
+    "ipa": "/dʒiːn/",
+    "def_en": "A segment of DNA that codes for a particular protein or trait.",
+    "def_zh": "基因：编码特定蛋白质或性状的 DNA 片段。",
+    "example_en": "A single gene can determine eye color.",
+    "example_zh": "单个基因即可决定眼睛的颜色。",
+    "system_id": 11,
+    "difficulty": 2,
+    "morpheme_ids": [
+      152
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 430,
+    "word": "genome",
+    "ipa": "/ˈdʒiːnoʊm/",
+    "def_en": "The complete set of genetic material in an organism.",
+    "def_zh": "基因组：一个生物体全部遗传物质的总和。",
+    "example_en": "The human genome contains about 20,000 genes.",
+    "example_zh": "人类基因组约含两万个基因。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      152
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 431,
+    "word": "allele",
+    "ipa": "/əˈliːl/",
+    "def_en": "One of the alternative forms of a gene.",
+    "def_zh": "等位基因：一个基因的不同形式之一。",
+    "example_en": "A person inherits one allele of each gene from each parent.",
+    "example_zh": "每个基因的一个等位基因分别来自父母双方。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 432,
+    "word": "chromatid",
+    "ipa": "/ˈkroʊmətɪd/",
+    "def_en": "One of the two identical halves of a duplicated chromosome.",
+    "def_zh": "染色单体：已复制染色体的两个相同部分之一。",
+    "example_en": "Sister chromatids are joined at the centromere.",
+    "example_zh": "姐妹染色单体在着丝粒处相连。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      136
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 433,
+    "word": "centromere",
+    "ipa": "/ˈsentrəmɪr/",
+    "def_en": "The region that joins two sister chromatids together.",
+    "def_zh": "着丝粒：连接两条姐妹染色单体的区域。",
+    "example_en": "Spindle fibers attach to the chromosome at the centromere.",
+    "example_zh": "纺锤丝在着丝粒处与染色体相连。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      158
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 434,
+    "word": "telomere",
+    "ipa": "/ˈteləmɪr/",
+    "def_en": "A protective cap at the end of a chromosome.",
+    "def_zh": "端粒：染色体末端的保护性结构。",
+    "example_en": "Telomeres shorten each time a cell divides.",
+    "example_zh": "细胞每分裂一次，端粒就缩短一些。",
+    "system_id": 11,
+    "difficulty": 5,
+    "morpheme_ids": [
+      157,
+      158
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 435,
+    "word": "codon",
+    "ipa": "/ˈkoʊdɒn/",
+    "def_en": "A sequence of three bases that codes for one amino acid.",
+    "def_zh": "密码子：编码一个氨基酸的三个碱基序列。",
+    "example_en": "Each codon on mRNA specifies a single amino acid.",
+    "example_zh": "mRNA 上的每个密码子指定一个氨基酸。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 436,
+    "word": "transcription",
+    "ipa": "/trænˈskrɪpʃən/",
+    "def_en": "The process of copying DNA into messenger RNA.",
+    "def_zh": "转录：将 DNA 拷贝为信使 RNA 的过程。",
+    "example_en": "Transcription takes place inside the nucleus.",
+    "example_zh": "转录在细胞核内进行。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      173
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 437,
+    "word": "translation",
+    "ipa": "/trænzˈleɪʃən/",
+    "def_en": "The process of building a protein from a messenger RNA sequence.",
+    "def_zh": "翻译：依据信使 RNA 序列合成蛋白质的过程。",
+    "example_en": "Translation occurs on ribosomes in the cytoplasm.",
+    "example_zh": "翻译在细胞质的核糖体上进行。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      173
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 438,
+    "word": "replication",
+    "ipa": "/ˌreplɪˈkeɪʃən/",
+    "def_en": "The copying of a DNA molecule before cell division.",
+    "def_zh": "复制：细胞分裂前对 DNA 分子的拷贝。",
+    "example_en": "DNA replication ensures each new cell gets a full copy.",
+    "example_zh": "DNA 复制确保每个新细胞都获得完整拷贝。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 439,
+    "word": "mutation",
+    "ipa": "/mjuːˈteɪʃən/",
+    "def_en": "A change in the DNA sequence of a gene.",
+    "def_zh": "突变：基因 DNA 序列的改变。",
+    "example_en": "A mutation can alter the protein a gene produces.",
+    "example_zh": "突变可改变基因所产生的蛋白质。",
+    "system_id": 11,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 440,
+    "word": "messenger RNA",
+    "ipa": "/ˈmesɪndʒər ˌɑːr en ˈeɪ/",
+    "def_en": "The RNA that carries genetic instructions from DNA to the ribosome.",
+    "def_zh": "信使 RNA：将遗传指令从 DNA 带到核糖体的 RNA。",
+    "example_en": "Messenger RNA is read in groups of three bases.",
+    "example_zh": "信使 RNA 以每三个碱基为一组被读取。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      138
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 441,
+    "word": "transfer RNA",
+    "ipa": "/ˈtrænsfɜːr ˌɑːr en ˈeɪ/",
+    "def_en": "The RNA that brings amino acids to the ribosome during translation.",
+    "def_zh": "转运 RNA：翻译时将氨基酸带到核糖体的 RNA。",
+    "example_en": "Each transfer RNA carries one specific amino acid.",
+    "example_zh": "每个转运 RNA 携带一种特定氨基酸。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      173,
+      138
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 442,
+    "word": "ribosomal RNA",
+    "ipa": "/ˌraɪbəˈsoʊməl ˌɑːr en ˈeɪ/",
+    "def_en": "The RNA that forms part of the structure of ribosomes.",
+    "def_zh": "核糖体 RNA：构成核糖体结构一部分的 RNA。",
+    "example_en": "Ribosomal RNA helps catalyze protein assembly.",
+    "example_zh": "核糖体 RNA 协助催化蛋白质组装。",
+    "system_id": 11,
+    "difficulty": 5,
+    "morpheme_ids": [
+      138,
+      137
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 443,
+    "word": "polymerase",
+    "ipa": "/pəˈlɪməreɪs/",
+    "def_en": "An enzyme that builds nucleic acids by linking nucleotides.",
+    "def_zh": "聚合酶：通过连接核苷酸合成核酸的酶。",
+    "example_en": "DNA polymerase adds new bases during replication.",
+    "example_zh": "DNA 聚合酶在复制时添加新碱基。",
+    "system_id": 11,
+    "difficulty": 5,
+    "morpheme_ids": [
+      167,
+      169
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 444,
+    "word": "helicase",
+    "ipa": "/ˈhelɪkeɪs/",
+    "def_en": "An enzyme that unwinds the DNA double helix.",
+    "def_zh": "解旋酶：解开 DNA 双螺旋的酶。",
+    "example_en": "Helicase separates the two DNA strands for copying.",
+    "example_zh": "解旋酶将两条 DNA 链分开以供复制。",
+    "system_id": 11,
+    "difficulty": 5,
+    "morpheme_ids": [
+      169
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 445,
+    "word": "base pair",
+    "ipa": "/beɪs peər/",
+    "def_en": "Two complementary bases joined across the DNA strands.",
+    "def_zh": "碱基对：DNA 两条链间互补配对的两个碱基。",
+    "example_en": "Adenine and thymine form one base pair.",
+    "example_zh": "腺嘌呤与胸腺嘧啶组成一个碱基对。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 446,
+    "word": "double helix",
+    "ipa": "/ˈdʌbəl ˈhiːlɪks/",
+    "def_en": "The twisted-ladder shape of the DNA molecule.",
+    "def_zh": "双螺旋：DNA 分子的扭曲梯状结构。",
+    "example_en": "Watson and Crick described DNA's double helix in 1953.",
+    "example_zh": "沃森和克里克于 1953 年描述了 DNA 的双螺旋。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 447,
+    "word": "genotype",
+    "ipa": "/ˈdʒiːnoʊtaɪp/",
+    "def_en": "The genetic makeup of an organism.",
+    "def_zh": "基因型：生物体的遗传组成。",
+    "example_en": "Genotype interacts with the environment to shape traits.",
+    "example_zh": "基因型与环境相互作用塑造性状。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      152
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 448,
+    "word": "phenotype",
+    "ipa": "/ˈfiːnoʊtaɪp/",
+    "def_en": "The observable characteristics of an organism.",
+    "def_zh": "表型：生物体可观察到的性状特征。",
+    "example_en": "Height is a phenotype influenced by many genes.",
+    "example_zh": "身高是受许多基因影响的表型。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 449,
+    "word": "dominant",
+    "ipa": "/ˈdɒmɪnənt/",
+    "def_en": "Describing an allele that is expressed even when only one copy is present.",
+    "def_zh": "显性的：只需一个拷贝即可表达的等位基因。",
+    "example_en": "Brown eye color is a dominant trait.",
+    "example_zh": "棕色眼睛是显性性状。",
+    "system_id": 11,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 450,
+    "word": "recessive",
+    "ipa": "/rɪˈsesɪv/",
+    "def_en": "Describing an allele expressed only when two copies are present.",
+    "def_zh": "隐性的：需两个拷贝才能表达的等位基因。",
+    "example_en": "A recessive trait appears only without a dominant allele.",
+    "example_zh": "隐性性状只有在没有显性等位基因时才出现。",
+    "system_id": 11,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 451,
+    "word": "heterozygous",
+    "ipa": "/ˌhetəroʊˈzaɪɡəs/",
+    "def_en": "Having two different alleles for a particular gene.",
+    "def_zh": "杂合的：某基因具有两个不同等位基因。",
+    "example_en": "A heterozygous individual carries one of each allele.",
+    "example_zh": "杂合个体各携带一个不同的等位基因。",
+    "system_id": 11,
+    "difficulty": 5,
+    "morpheme_ids": [
+      149
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 452,
+    "word": "homozygous",
+    "ipa": "/ˌhoʊmoʊˈzaɪɡəs/",
+    "def_en": "Having two identical alleles for a particular gene.",
+    "def_zh": "纯合的：某基因具有两个相同等位基因。",
+    "example_en": "A homozygous plant breeds true for that trait.",
+    "example_zh": "纯合植株在该性状上能稳定遗传。",
+    "system_id": 11,
+    "difficulty": 5,
+    "morpheme_ids": [
+      149
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 453,
+    "word": "diploid",
+    "ipa": "/ˈdɪplɔɪd/",
+    "def_en": "Having two complete sets of chromosomes.",
+    "def_zh": "二倍体：具有两套完整染色体。",
+    "example_en": "Human body cells are diploid, with 46 chromosomes.",
+    "example_zh": "人体体细胞为二倍体，含 46 条染色体。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      166
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 454,
+    "word": "haploid",
+    "ipa": "/ˈhæplɔɪd/",
+    "def_en": "Having a single set of chromosomes, as in gametes.",
+    "def_zh": "单倍体：仅有一套染色体，如配子。",
+    "example_en": "Sperm and egg cells are haploid.",
+    "example_zh": "精子和卵细胞为单倍体。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 455,
+    "word": "gene expression",
+    "ipa": "/dʒiːn ɪkˈspreʃən/",
+    "def_en": "The process by which a gene's information is used to make a product.",
+    "def_zh": "基因表达：利用基因信息生成产物的过程。",
+    "example_en": "Gene expression determines which proteins a cell makes.",
+    "example_zh": "基因表达决定细胞制造哪些蛋白质。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      152
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 456,
+    "word": "polypeptide",
+    "ipa": "/ˌpɒliˈpeptaɪd/",
+    "def_en": "A chain of many amino acids linked together.",
+    "def_zh": "多肽：由许多氨基酸连接而成的链。",
+    "example_en": "A protein may be made of one or more polypeptides.",
+    "example_zh": "一种蛋白质可由一条或多条多肽构成。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      167
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 457,
+    "word": "amino acid",
+    "ipa": "/əˈmiːnoʊ ˈæsɪd/",
+    "def_en": "The building block of proteins.",
+    "def_zh": "氨基酸：蛋白质的结构单元。",
+    "example_en": "There are twenty common amino acids in proteins.",
+    "example_zh": "蛋白质中常见的氨基酸有二十种。",
+    "system_id": 11,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 458,
+    "word": "protein synthesis",
+    "ipa": "/ˈproʊtiːn ˈsɪnθəsɪs/",
+    "def_en": "The cellular process of building proteins from amino acids.",
+    "def_zh": "蛋白质合成：细胞由氨基酸构建蛋白质的过程。",
+    "example_en": "Protein synthesis involves transcription and translation.",
+    "example_zh": "蛋白质合成包括转录和翻译。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      171
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 459,
+    "word": "monomer",
+    "ipa": "/ˈmɒnəmər/",
+    "def_en": "A small molecule that can join others to form a polymer.",
+    "def_zh": "单体：能与其他分子连接形成聚合物的小分子。",
+    "example_en": "Glucose is the monomer that makes up starch.",
+    "example_zh": "葡萄糖是构成淀粉的单体。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      165,
+      158
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 460,
+    "word": "polymer",
+    "ipa": "/ˈpɒlɪmər/",
+    "def_en": "A large molecule made of many repeating subunits.",
+    "def_zh": "聚合物：由许多重复亚基构成的大分子。",
+    "example_en": "DNA is a polymer of nucleotides.",
+    "example_zh": "DNA 是核苷酸的聚合物。",
+    "system_id": 11,
+    "difficulty": 4,
+    "morpheme_ids": [
+      167,
+      158
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 461,
+    "word": "deoxyribose",
+    "ipa": "/diˌɒksɪˈraɪboʊs/",
+    "def_en": "The five-carbon sugar found in DNA.",
+    "def_zh": "脱氧核糖：DNA 中的五碳糖。",
+    "example_en": "Deoxyribose forms the backbone of the DNA strand.",
+    "example_zh": "脱氧核糖构成 DNA 链的骨架。",
+    "system_id": 11,
+    "difficulty": 5,
+    "morpheme_ids": [
+      138,
+      168
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 462,
+    "word": "tissue",
+    "ipa": "/ˈtɪʃuː/",
+    "def_en": "A group of similar cells that work together to perform a function.",
+    "def_zh": "组织：一群协同执行某种功能的相似细胞。",
+    "example_en": "Muscle is a tissue specialized for contraction.",
+    "example_zh": "肌肉是专门用于收缩的组织。",
+    "system_id": 12,
+    "difficulty": 2,
+    "morpheme_ids": [
+      151
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 463,
+    "word": "histology",
+    "ipa": "/hɪˈstɒlədʒi/",
+    "def_en": "The microscopic study of the structure of tissues.",
+    "def_zh": "组织学：在显微镜下研究组织结构的学科。",
+    "example_en": "Histology reveals how cells are arranged within a tissue.",
+    "example_zh": "组织学揭示细胞在组织内的排列方式。",
+    "system_id": 12,
+    "difficulty": 2,
+    "morpheme_ids": [
+      151,
+      176
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 464,
+    "word": "epithelium",
+    "ipa": "/ˌepɪˈθiːliəm/",
+    "def_en": "The tissue that covers body surfaces and lines cavities.",
+    "def_zh": "上皮：覆盖体表并衬于体腔内表面的组织。",
+    "example_en": "The epithelium of the skin protects against water loss.",
+    "example_zh": "皮肤的上皮可防止水分流失。",
+    "system_id": 12,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 465,
+    "word": "epithelial tissue",
+    "ipa": "/ˌepɪˈθiːliəl ˈtɪʃuː/",
+    "def_en": "A tissue type forming protective layers and linings.",
+    "def_zh": "上皮组织：形成保护性覆盖层和衬里的组织类型。",
+    "example_en": "Epithelial tissue lines the digestive tract.",
+    "example_zh": "上皮组织衬于消化道内表面。",
+    "system_id": 12,
+    "difficulty": 3,
+    "morpheme_ids": [
+      151
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 466,
+    "word": "connective tissue",
+    "ipa": "/kəˈnektɪv ˈtɪʃuː/",
+    "def_en": "A tissue that supports, binds, or separates other tissues.",
+    "def_zh": "结缔组织：支持、连接或分隔其他组织的组织。",
+    "example_en": "Bone and blood are types of connective tissue.",
+    "example_zh": "骨和血液都属于结缔组织。",
+    "system_id": 12,
+    "difficulty": 3,
+    "morpheme_ids": [
+      151
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 467,
+    "word": "muscle tissue",
+    "ipa": "/ˈmʌsəl ˈtɪʃuː/",
+    "def_en": "A tissue specialized to contract and produce movement.",
+    "def_zh": "肌组织：专门用于收缩并产生运动的组织。",
+    "example_en": "Muscle tissue can be skeletal, cardiac, or smooth.",
+    "example_zh": "肌组织可分为骨骼肌、心肌和平滑肌。",
+    "system_id": 12,
+    "difficulty": 3,
+    "morpheme_ids": [
+      151
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 468,
+    "word": "nervous tissue",
+    "ipa": "/ˈnɜːrvəs ˈtɪʃuː/",
+    "def_en": "A tissue that transmits electrical signals through the body.",
+    "def_zh": "神经组织：在体内传导电信号的组织。",
+    "example_en": "Nervous tissue makes up the brain and nerves.",
+    "example_zh": "神经组织构成脑和神经。",
+    "system_id": 12,
+    "difficulty": 3,
+    "morpheme_ids": [
+      151
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 469,
+    "word": "squamous",
+    "ipa": "/ˈskweɪməs/",
+    "def_en": "Describing flat, scale-like epithelial cells.",
+    "def_zh": "鳞状的：形容扁平、鳞片状的上皮细胞。",
+    "example_en": "Squamous cells line the air sacs of the lungs.",
+    "example_zh": "鳞状细胞衬于肺的气囊内表面。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 470,
+    "word": "cuboidal",
+    "ipa": "/kjuːˈbɔɪdəl/",
+    "def_en": "Describing cube-shaped epithelial cells.",
+    "def_zh": "立方的：形容立方体形状的上皮细胞。",
+    "example_en": "Cuboidal cells line many glands and kidney tubules.",
+    "example_zh": "立方细胞衬于许多腺体和肾小管。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 471,
+    "word": "columnar",
+    "ipa": "/kəˈlʌmnər/",
+    "def_en": "Describing tall, column-shaped epithelial cells.",
+    "def_zh": "柱状的：形容高柱形的上皮细胞。",
+    "example_en": "Columnar cells absorb nutrients in the intestine.",
+    "example_zh": "柱状细胞在肠道吸收养分。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 472,
+    "word": "basement membrane",
+    "ipa": "/ˈbeɪsmənt ˈmembreɪn/",
+    "def_en": "A thin layer that anchors epithelium to underlying tissue.",
+    "def_zh": "基膜：将上皮固定于下层组织的薄层。",
+    "example_en": "The basement membrane supports the epithelial cells above it.",
+    "example_zh": "基膜支撑其上方的上皮细胞。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 473,
+    "word": "gland",
+    "ipa": "/ɡlænd/",
+    "def_en": "A structure that produces and releases a substance.",
+    "def_zh": "腺体：产生并释放某种物质的结构。",
+    "example_en": "A sweat gland releases fluid onto the skin.",
+    "example_zh": "汗腺将液体释放到皮肤表面。",
+    "system_id": 12,
+    "difficulty": 2,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 474,
+    "word": "exocrine gland",
+    "ipa": "/ˈeksoʊkrɪn ɡlænd/",
+    "def_en": "A gland that releases its product through a duct.",
+    "def_zh": "外分泌腺：通过导管释放分泌物的腺体。",
+    "example_en": "Salivary glands are exocrine glands.",
+    "example_zh": "唾液腺属于外分泌腺。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [
+      143
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 475,
+    "word": "endocrine gland",
+    "ipa": "/ˈendoʊkrɪn ɡlænd/",
+    "def_en": "A gland that releases hormones directly into the blood.",
+    "def_zh": "内分泌腺：将激素直接释放入血的腺体。",
+    "example_en": "The thyroid is an endocrine gland.",
+    "example_zh": "甲状腺是一种内分泌腺。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [
+      142
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 476,
+    "word": "collagen",
+    "ipa": "/ˈkɒlədʒən/",
+    "def_en": "A strong fibrous protein that gives connective tissue strength.",
+    "def_zh": "胶原蛋白：赋予结缔组织强度的强韧纤维蛋白。",
+    "example_en": "Collagen provides tensile strength to tendons.",
+    "example_zh": "胶原蛋白为肌腱提供抗拉强度。",
+    "system_id": 12,
+    "difficulty": 3,
+    "morpheme_ids": [
+      171
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 477,
+    "word": "elastin",
+    "ipa": "/ɪˈlæstɪn/",
+    "def_en": "A protein that lets tissues stretch and return to shape.",
+    "def_zh": "弹性蛋白：使组织能够伸展并回弹的蛋白质。",
+    "example_en": "Elastin makes skin and arteries flexible.",
+    "example_zh": "弹性蛋白使皮肤和动脉富有弹性。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [
+      171
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 478,
+    "word": "fibroblast",
+    "ipa": "/ˈfaɪbroʊblæst/",
+    "def_en": "A connective tissue cell that produces collagen and fibers.",
+    "def_zh": "成纤维细胞：产生胶原和纤维的结缔组织细胞。",
+    "example_en": "Fibroblasts help wounds heal by laying down new matrix.",
+    "example_zh": "成纤维细胞通过铺设新基质帮助伤口愈合。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [
+      147
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 479,
+    "word": "adipose tissue",
+    "ipa": "/ˈædɪpoʊs ˈtɪʃuː/",
+    "def_en": "Connective tissue that stores energy as fat.",
+    "def_zh": "脂肪组织：以脂肪形式储存能量的结缔组织。",
+    "example_en": "Adipose tissue also insulates the body.",
+    "example_zh": "脂肪组织还对身体起保温作用。",
+    "system_id": 12,
+    "difficulty": 3,
+    "morpheme_ids": [
+      151
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 480,
+    "word": "areolar tissue",
+    "ipa": "/əˈriːələr ˈtɪʃuː/",
+    "def_en": "A loose connective tissue that holds organs in place.",
+    "def_zh": "疏松结缔组织：将器官固定在适当位置的疏松组织。",
+    "example_en": "Areolar tissue surrounds blood vessels and nerves.",
+    "example_zh": "疏松结缔组织包绕血管和神经。",
+    "system_id": 12,
+    "difficulty": 5,
+    "morpheme_ids": [
+      151
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 481,
+    "word": "extracellular matrix",
+    "ipa": "/ˌekstrəˈseljələr ˈmeɪtrɪks/",
+    "def_en": "The network of molecules outside cells that supports tissue.",
+    "def_zh": "细胞外基质：细胞外支撑组织的分子网络。",
+    "example_en": "The extracellular matrix gives tissue its structure.",
+    "example_zh": "细胞外基质赋予组织其结构。",
+    "system_id": 12,
+    "difficulty": 5,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 482,
+    "word": "keratinocyte",
+    "ipa": "/kəˈrætɪnoʊsaɪt/",
+    "def_en": "The main cell type of the epidermis, producing keratin.",
+    "def_zh": "角质形成细胞：表皮的主要细胞类型，产生角蛋白。",
+    "example_en": "Keratinocytes form a tough protective surface on the skin.",
+    "example_zh": "角质形成细胞在皮肤表面形成坚韧的保护层。",
+    "system_id": 12,
+    "difficulty": 5,
+    "morpheme_ids": [
+      132
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 483,
+    "word": "goblet cell",
+    "ipa": "/ˈɡɒblɪt sel/",
+    "def_en": "A column-shaped cell that secretes protective mucus.",
+    "def_zh": "杯状细胞：分泌保护性黏液的柱状细胞。",
+    "example_en": "Goblet cells keep the intestinal lining moist.",
+    "example_zh": "杯状细胞使肠道内壁保持湿润。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 484,
+    "word": "stratified epithelium",
+    "ipa": "/ˈstrætɪfaɪd ˌepɪˈθiːliəm/",
+    "def_en": "Epithelium arranged in multiple cell layers.",
+    "def_zh": "复层上皮：由多层细胞排列而成的上皮。",
+    "example_en": "Stratified epithelium protects areas exposed to wear.",
+    "example_zh": "复层上皮保护易受磨损的部位。",
+    "system_id": 12,
+    "difficulty": 5,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 485,
+    "word": "simple epithelium",
+    "ipa": "/ˈsɪmpəl ˌepɪˈθiːliəm/",
+    "def_en": "Epithelium made of a single layer of cells.",
+    "def_zh": "单层上皮：由单层细胞构成的上皮。",
+    "example_en": "Simple epithelium allows for easy absorption and diffusion.",
+    "example_zh": "单层上皮便于吸收和扩散。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 486,
+    "word": "endothelium",
+    "ipa": "/ˌendoʊˈθiːliəm/",
+    "def_en": "The thin epithelium lining blood vessels and the heart.",
+    "def_zh": "内皮：衬于血管和心脏内表面的薄上皮。",
+    "example_en": "The endothelium controls exchange between blood and tissue.",
+    "example_zh": "内皮控制血液与组织之间的物质交换。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [
+      142
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 487,
+    "word": "mesothelium",
+    "ipa": "/ˌmesoʊˈθiːliəm/",
+    "def_en": "The epithelium that lines body cavities such as the abdomen.",
+    "def_zh": "间皮：衬于腹腔等体腔内表面的上皮。",
+    "example_en": "The mesothelium reduces friction between organs.",
+    "example_zh": "间皮减少器官之间的摩擦。",
+    "system_id": 12,
+    "difficulty": 5,
+    "morpheme_ids": [
+      145
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 488,
+    "word": "macrophage",
+    "ipa": "/ˈmækroʊfeɪdʒ/",
+    "def_en": "A large immune cell that engulfs pathogens and debris.",
+    "def_zh": "巨噬细胞：吞噬病原体和碎屑的大型免疫细胞。",
+    "example_en": "Macrophages clear dead cells from tissues.",
+    "example_zh": "巨噬细胞清除组织中的死细胞。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [
+      155,
+      140
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 489,
+    "word": "mast cell",
+    "ipa": "/mæst sel/",
+    "def_en": "A connective tissue cell that releases histamine in allergic responses.",
+    "def_zh": "肥大细胞：在过敏反应中释放组胺的结缔组织细胞。",
+    "example_en": "Mast cells trigger inflammation when activated.",
+    "example_zh": "肥大细胞被激活时引发炎症。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 490,
+    "word": "plasma cell",
+    "ipa": "/ˈplæzmə sel/",
+    "def_en": "An immune cell that produces antibodies.",
+    "def_zh": "浆细胞：产生抗体的免疫细胞。",
+    "example_en": "Plasma cells develop from activated B lymphocytes.",
+    "example_zh": "浆细胞由活化的 B 淋巴细胞发育而来。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [
+      134
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 491,
+    "word": "ground substance",
+    "ipa": "/ɡraʊnd ˈsʌbstəns/",
+    "def_en": "The gel-like material filling the space between cells and fibers.",
+    "def_zh": "基质：填充于细胞与纤维间隙的凝胶状物质。",
+    "example_en": "Ground substance lets nutrients diffuse through tissue.",
+    "example_zh": "基质使养分能够在组织中扩散。",
+    "system_id": 12,
+    "difficulty": 5,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 492,
+    "word": "reticular fiber",
+    "ipa": "/rɪˈtɪkjələr ˈfaɪbər/",
+    "def_en": "A fine collagen fiber that forms supporting networks in organs.",
+    "def_zh": "网状纤维：在器官中形成支持网络的细胶原纤维。",
+    "example_en": "Reticular fibers support the soft tissue of the spleen.",
+    "example_zh": "网状纤维支持脾脏的软组织。",
+    "system_id": 12,
+    "difficulty": 5,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 493,
+    "word": "pseudostratified epithelium",
+    "ipa": "/ˌsuːdoʊˈstrætɪfaɪd ˌepɪˈθiːliəm/",
+    "def_en": "Epithelium that appears layered but is a single layer.",
+    "def_zh": "假复层上皮：看似分层、实为单层的上皮。",
+    "example_en": "Pseudostratified epithelium lines much of the airway.",
+    "example_zh": "假复层上皮衬于大部分气道。",
+    "system_id": 12,
+    "difficulty": 5,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 494,
+    "word": "melanocyte",
+    "ipa": "/məˈlænoʊsaɪt/",
+    "def_en": "A skin cell that produces the pigment melanin.",
+    "def_zh": "黑素细胞：产生黑色素的皮肤细胞。",
+    "example_en": "Melanocytes give skin and hair their color.",
+    "example_zh": "黑素细胞赋予皮肤和毛发颜色。",
+    "system_id": 12,
+    "difficulty": 4,
+    "morpheme_ids": [
+      182,
+      132
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 495,
+    "word": "zygote",
+    "ipa": "/ˈzaɪɡoʊt/",
+    "def_en": "The single cell formed when a sperm fertilizes an egg.",
+    "def_zh": "受精卵（合子）：精子使卵子受精后形成的单个细胞。",
+    "example_en": "The zygote begins to divide soon after fertilization.",
+    "example_zh": "受精卵在受精后不久即开始分裂。",
+    "system_id": 13,
+    "difficulty": 3,
+    "morpheme_ids": [
+      149
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 496,
+    "word": "gamete",
+    "ipa": "/ˈɡæmiːt/",
+    "def_en": "A reproductive cell, such as a sperm or egg.",
+    "def_zh": "配子：生殖细胞，如精子或卵子。",
+    "example_en": "Gametes carry half the normal number of chromosomes.",
+    "example_zh": "配子携带正常染色体数目的一半。",
+    "system_id": 13,
+    "difficulty": 3,
+    "morpheme_ids": [
+      148
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 497,
+    "word": "fertilization",
+    "ipa": "/ˌfɜːrtɪlaɪˈzeɪʃən/",
+    "def_en": "The fusion of a sperm and an egg to form a zygote.",
+    "def_zh": "受精：精子与卵子融合形成受精卵。",
+    "example_en": "Fertilization usually occurs in the fallopian tube.",
+    "example_zh": "受精通常发生在输卵管内。",
+    "system_id": 13,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 498,
+    "word": "embryo",
+    "ipa": "/ˈembrioʊ/",
+    "def_en": "An organism in its earliest stage of development.",
+    "def_zh": "胚胎：处于发育最早阶段的生物体。",
+    "example_en": "In humans, the embryo stage lasts about eight weeks.",
+    "example_zh": "人类的胚胎期约持续八周。",
+    "system_id": 13,
+    "difficulty": 2,
+    "morpheme_ids": [
+      147
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 499,
+    "word": "fetus",
+    "ipa": "/ˈfiːtəs/",
+    "def_en": "An unborn offspring in the later stages of development.",
+    "def_zh": "胎儿：发育后期尚未出生的后代。",
+    "example_en": "By the fetal stage all major organs have formed.",
+    "example_zh": "到胎儿期，所有主要器官都已形成。",
+    "system_id": 13,
+    "difficulty": 2,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 500,
+    "word": "blastocyst",
+    "ipa": "/ˈblæstoʊsɪst/",
+    "def_en": "An early embryo consisting of a hollow ball of cells.",
+    "def_zh": "囊胚：由中空细胞球构成的早期胚胎。",
+    "example_en": "The blastocyst implants into the wall of the uterus.",
+    "example_zh": "囊胚植入子宫壁。",
+    "system_id": 13,
+    "difficulty": 4,
+    "morpheme_ids": [
+      147,
+      181
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 501,
+    "word": "morula",
+    "ipa": "/ˈmɔːrjələ/",
+    "def_en": "A solid ball of cells formed by early divisions of the zygote.",
+    "def_zh": "桑椹胚：受精卵早期分裂形成的实心细胞球。",
+    "example_en": "The morula forms a few days after fertilization.",
+    "example_zh": "桑椹胚在受精后数天形成。",
+    "system_id": 13,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 502,
+    "word": "cleavage",
+    "ipa": "/ˈkliːvɪdʒ/",
+    "def_en": "The series of rapid cell divisions after fertilization.",
+    "def_zh": "卵裂：受精后一系列快速的细胞分裂。",
+    "example_en": "Cleavage divides the zygote without increasing its size.",
+    "example_zh": "卵裂使受精卵分裂而总体积不增大。",
+    "system_id": 13,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 503,
+    "word": "implantation",
+    "ipa": "/ˌɪmplænˈteɪʃən/",
+    "def_en": "The attachment of the embryo to the wall of the uterus.",
+    "def_zh": "着床：胚胎附着于子宫壁的过程。",
+    "example_en": "Implantation occurs about a week after fertilization.",
+    "example_zh": "着床约在受精一周后发生。",
+    "system_id": 13,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 504,
+    "word": "gastrulation",
+    "ipa": "/ˌɡæstruˈleɪʃən/",
+    "def_en": "The process that forms the three germ layers of the embryo.",
+    "def_zh": "原肠胚形成：形成胚胎三个胚层的过程。",
+    "example_en": "Gastrulation rearranges cells into distinct layers.",
+    "example_zh": "原肠胚形成将细胞重新排列为不同的层。",
+    "system_id": 13,
+    "difficulty": 5,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 505,
+    "word": "germ layer",
+    "ipa": "/dʒɜːrm ˈleɪər/",
+    "def_en": "One of the three primary cell layers of the early embryo.",
+    "def_zh": "胚层：早期胚胎三个主要细胞层之一。",
+    "example_en": "Each germ layer gives rise to specific organs.",
+    "example_zh": "每个胚层发育成特定的器官。",
+    "system_id": 13,
+    "difficulty": 4,
+    "morpheme_ids": [
+      146
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 506,
+    "word": "ectoderm",
+    "ipa": "/ˈektoʊdɜːrm/",
+    "def_en": "The outer germ layer that forms skin and nervous tissue.",
+    "def_zh": "外胚层：形成皮肤和神经组织的外层胚层。",
+    "example_en": "The ectoderm develops into the brain and spinal cord.",
+    "example_zh": "外胚层发育成脑和脊髓。",
+    "system_id": 13,
+    "difficulty": 4,
+    "morpheme_ids": [
+      144,
+      146
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 507,
+    "word": "mesoderm",
+    "ipa": "/ˈmesoʊdɜːrm/",
+    "def_en": "The middle germ layer that forms muscle, bone, and blood.",
+    "def_zh": "中胚层：形成肌肉、骨骼和血液的中层胚层。",
+    "example_en": "The mesoderm gives rise to the heart and skeleton.",
+    "example_zh": "中胚层发育成心脏和骨骼。",
+    "system_id": 13,
+    "difficulty": 4,
+    "morpheme_ids": [
+      145,
+      146
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 508,
+    "word": "endoderm",
+    "ipa": "/ˈendoʊdɜːrm/",
+    "def_en": "The inner germ layer that forms the lining of internal organs.",
+    "def_zh": "内胚层：形成内脏器官内衬的内层胚层。",
+    "example_en": "The endoderm forms the lining of the digestive tract.",
+    "example_zh": "内胚层形成消化道的内衬。",
+    "system_id": 13,
+    "difficulty": 4,
+    "morpheme_ids": [
+      142,
+      146
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 509,
+    "word": "differentiation",
+    "ipa": "/ˌdɪfəˌrenʃiˈeɪʃən/",
+    "def_en": "The process by which cells become specialized.",
+    "def_zh": "分化：细胞变得专门化的过程。",
+    "example_en": "Differentiation turns stem cells into specific cell types.",
+    "example_zh": "分化使干细胞转变为特定的细胞类型。",
+    "system_id": 13,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 510,
+    "word": "stem cell",
+    "ipa": "/stem sel/",
+    "def_en": "An unspecialized cell that can develop into many cell types.",
+    "def_zh": "干细胞：能发育为多种细胞类型的未分化细胞。",
+    "example_en": "Stem cells can renew themselves and differentiate.",
+    "example_zh": "干细胞能够自我更新并分化。",
+    "system_id": 13,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 511,
+    "word": "totipotent",
+    "ipa": "/toʊˈtɪpətənt/",
+    "def_en": "Able to develop into any cell type, including a whole organism.",
+    "def_zh": "全能的：能发育为任何细胞类型乃至完整个体。",
+    "example_en": "The zygote is totipotent.",
+    "example_zh": "受精卵是全能的。",
+    "system_id": 13,
+    "difficulty": 5,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 512,
+    "word": "pluripotent",
+    "ipa": "/plʊˈrɪpətənt/",
+    "def_en": "Able to develop into nearly any cell type of the body.",
+    "def_zh": "多能的：能发育为机体几乎任何细胞类型。",
+    "example_en": "Pluripotent stem cells can form all tissue types.",
+    "example_zh": "多能干细胞可形成所有组织类型。",
+    "system_id": 13,
+    "difficulty": 5,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 513,
+    "word": "organogenesis",
+    "ipa": "/ˌɔːrɡənoʊˈdʒenəsɪs/",
+    "def_en": "The formation of organs during embryonic development.",
+    "def_zh": "器官发生：胚胎发育期间器官的形成。",
+    "example_en": "Organogenesis takes place mainly in the embryonic period.",
+    "example_zh": "器官发生主要发生在胚胎期。",
+    "system_id": 13,
+    "difficulty": 5,
+    "morpheme_ids": [
+      153
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 514,
+    "word": "notochord",
+    "ipa": "/ˈnoʊtəkɔːrd/",
+    "def_en": "A flexible rod that defines the body axis in the early embryo.",
+    "def_zh": "脊索：早期胚胎中确定身体轴线的柔韧索状结构。",
+    "example_en": "The notochord signals the formation of the neural tube.",
+    "example_zh": "脊索诱导神经管的形成。",
+    "system_id": 13,
+    "difficulty": 5,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 515,
+    "word": "neural tube",
+    "ipa": "/ˈnjʊərəl tjuːb/",
+    "def_en": "The embryonic structure that becomes the brain and spinal cord.",
+    "def_zh": "神经管：发育为脑和脊髓的胚胎结构。",
+    "example_en": "The neural tube closes during the fourth week.",
+    "example_zh": "神经管在第四周闭合。",
+    "system_id": 13,
+    "difficulty": 4,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 516,
+    "word": "somite",
+    "ipa": "/ˈsoʊmaɪt/",
+    "def_en": "A block of mesoderm that forms muscle and vertebrae.",
+    "def_zh": "体节：形成肌肉和椎骨的中胚层块。",
+    "example_en": "Somites appear in pairs along the embryo's axis.",
+    "example_zh": "体节沿胚胎轴线成对出现。",
+    "system_id": 13,
+    "difficulty": 5,
+    "morpheme_ids": [
+      137
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 517,
+    "word": "placenta",
+    "ipa": "/pləˈsentə/",
+    "def_en": "The organ that supplies the fetus with nutrients and oxygen.",
+    "def_zh": "胎盘：向胎儿供应养分和氧气的器官。",
+    "example_en": "The placenta connects the fetus to the uterine wall.",
+    "example_zh": "胎盘将胎儿与子宫壁相连。",
+    "system_id": 13,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 518,
+    "word": "umbilical cord",
+    "ipa": "/ʌmˈbɪlɪkəl kɔːrd/",
+    "def_en": "The cord that links the fetus to the placenta.",
+    "def_zh": "脐带：连接胎儿与胎盘的索带。",
+    "example_en": "The umbilical cord carries blood between fetus and placenta.",
+    "example_zh": "脐带在胎儿与胎盘之间输送血液。",
+    "system_id": 13,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 519,
+    "word": "amnion",
+    "ipa": "/ˈæmniɒn/",
+    "def_en": "The fluid-filled membrane that surrounds and protects the embryo.",
+    "def_zh": "羊膜：包绕并保护胚胎的充液膜。",
+    "example_en": "The amnion cushions the developing fetus.",
+    "example_zh": "羊膜对发育中的胎儿起缓冲作用。",
+    "system_id": 13,
+    "difficulty": 5,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 520,
+    "word": "chorion",
+    "ipa": "/ˈkɔːriɒn/",
+    "def_en": "The outer membrane that helps form the placenta.",
+    "def_zh": "绒毛膜：协助形成胎盘的外膜。",
+    "example_en": "The chorion surrounds the amnion and embryo.",
+    "example_zh": "绒毛膜包绕羊膜和胚胎。",
+    "system_id": 13,
+    "difficulty": 5,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 521,
+    "word": "yolk sac",
+    "ipa": "/joʊk sæk/",
+    "def_en": "An early membrane that provides nourishment to the embryo.",
+    "def_zh": "卵黄囊：为胚胎提供营养的早期膜结构。",
+    "example_en": "The yolk sac is one of the first structures to form.",
+    "example_zh": "卵黄囊是最早形成的结构之一。",
+    "system_id": 13,
+    "difficulty": 5,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 522,
+    "word": "trophoblast",
+    "ipa": "/ˈtrɒfoʊblæst/",
+    "def_en": "The outer cell layer of the blastocyst that forms the placenta.",
+    "def_zh": "滋养层：囊胚的外层细胞，形成胎盘。",
+    "example_en": "The trophoblast helps the embryo implant in the uterus.",
+    "example_zh": "滋养层帮助胚胎在子宫内着床。",
+    "system_id": 13,
+    "difficulty": 5,
+    "morpheme_ids": [
+      147
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 523,
+    "word": "blastomere",
+    "ipa": "/ˈblæstoʊmɪr/",
+    "def_en": "One of the cells produced by cleavage of the zygote.",
+    "def_zh": "卵裂球：受精卵卵裂产生的细胞之一。",
+    "example_en": "Each blastomere can give rise to part of the embryo.",
+    "example_zh": "每个卵裂球都可发育为胚胎的一部分。",
+    "system_id": 13,
+    "difficulty": 5,
+    "morpheme_ids": [
+      147,
+      158
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 524,
+    "word": "embryogenesis",
+    "ipa": "/ˌembrioʊˈdʒenəsɪs/",
+    "def_en": "The formation and development of an embryo.",
+    "def_zh": "胚胎发生：胚胎的形成与发育。",
+    "example_en": "Embryogenesis begins with the first cell division.",
+    "example_zh": "胚胎发生始于第一次细胞分裂。",
+    "system_id": 13,
+    "difficulty": 5,
+    "morpheme_ids": [
+      147,
+      153
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 525,
+    "word": "teratogen",
+    "ipa": "/ˈterətədʒən/",
+    "def_en": "An agent that causes malformations in a developing embryo.",
+    "def_zh": "致畸物：导致发育中胚胎畸形的因素。",
+    "example_en": "Alcohol is a well-known teratogen.",
+    "example_zh": "酒精是一种众所周知的致畸物。",
+    "system_id": 13,
+    "difficulty": 5,
+    "morpheme_ids": [
+      152
+    ],
+    "domain": "micro"
+  },
+  {
+    "id": 526,
+    "word": "gestation",
+    "ipa": "/dʒeˈsteɪʃən/",
+    "def_en": "The period of development from conception to birth.",
+    "def_zh": "妊娠期：从受孕到出生的发育时期。",
+    "example_en": "Human gestation lasts about forty weeks.",
+    "example_zh": "人类妊娠期约为四十周。",
+    "system_id": 13,
+    "difficulty": 3,
+    "morpheme_ids": [],
+    "domain": "micro"
+  },
+  {
+    "id": 527,
+    "word": "congenital",
+    "ipa": "/kənˈdʒenɪtəl/",
+    "def_en": "Present from birth, often describing a condition or defect.",
+    "def_zh": "先天的：出生时即存在，常用于描述某种状况或缺陷。",
+    "example_en": "A congenital heart defect is present at birth.",
+    "example_zh": "先天性心脏缺陷在出生时即存在。",
+    "system_id": 13,
+    "difficulty": 4,
+    "morpheme_ids": [
+      152
+    ],
+    "domain": "micro"
   }
 ]

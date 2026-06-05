@@ -11,10 +11,20 @@ class QuizDao extends DatabaseAccessor<AppDatabase> with _$QuizDaoMixin {
   Future<List<QuizQuestion>> getAllQuestions() =>
       select(quizQuestions).get();
 
-  Future<List<QuizQuestion>> getRandomQuestions({int count = 10}) async {
-    final all = await select(quizQuestions).get();
+  Future<List<QuizQuestion>> getRandomQuestions(
+      {int count = 10, String? domain}) async {
+    final query = select(quizQuestions);
+    if (domain != null) {
+      query.where((t) => t.domain.equals(domain));
+    }
+    final all = await query.get();
     all.shuffle();
     return all.take(count).toList();
+  }
+
+  Future<List<QuizQuestion>> getQuestionsByIds(List<int> ids) async {
+    if (ids.isEmpty) return [];
+    return (select(quizQuestions)..where((t) => t.id.isIn(ids))).get();
   }
 
   Future<List<QuizQuestion>> getQuestionsForVocab(int vocabId) =>

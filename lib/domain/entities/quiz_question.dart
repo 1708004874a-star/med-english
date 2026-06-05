@@ -13,6 +13,7 @@ class QuizQuestion {
     required this.explanationZh,
     this.vocabId,
     this.morphemeId,
+    this.domain = 'macro',
   });
 
   final int id;
@@ -26,6 +27,7 @@ class QuizQuestion {
   final String explanationZh;
   final int? vocabId;
   final int? morphemeId;
+  final String domain;
 
   String get correctAnswerEn => optionsEn[correctIndex];
   String get correctAnswerZh => optionsZh[correctIndex];

@@ -16,6 +16,18 @@ class VocabularyDao extends DatabaseAccessor<AppDatabase>
   Stream<List<VocabularyWord>> watchAllVocab() =>
       select(vocabularyWords).watch();
 
+  Future<List<VocabularyWord>> getVocabByDomain(String domain) =>
+      (select(vocabularyWords)..where((t) => t.domain.equals(domain))).get();
+
+  Future<int> countVocabByDomain(String domain) async {
+    final count = vocabularyWords.id.count();
+    final query = selectOnly(vocabularyWords)
+      ..addColumns([count])
+      ..where(vocabularyWords.domain.equals(domain));
+    final row = await query.getSingle();
+    return row.read(count) ?? 0;
+  }
+
   Future<List<VocabularyWord>> getVocabBySystem(int systemId) =>
       (select(vocabularyWords)
             ..where((t) => t.systemId.equals(systemId)))
@@ -25,14 +37,16 @@ class VocabularyDao extends DatabaseAccessor<AppDatabase>
       (select(vocabularyWords)..where((t) => t.id.equals(id)))
           .getSingleOrNull();
 
-  Future<List<VocabularyWord>> searchVocab(String query) =>
-      (select(vocabularyWords)
-            ..where(
-              (t) =>
-                  t.word.like('%$query%') |
-                  t.definitionEn.like('%$query%'),
-            ))
-          .get();
+  Future<List<VocabularyWord>> searchVocab(String query, {String? domain}) {
+    final q = select(vocabularyWords)
+      ..where(
+        (t) => t.word.like('%$query%') | t.definitionEn.like('%$query%'),
+      );
+    if (domain != null) {
+      q.where((t) => t.domain.equals(domain));
+    }
+    return q.get();
+  }
 
   Future<List<VocabularyWord>> getVocabForFlashcards({int limit = 20}) =>
       (select(vocabularyWords)..limit(limit)).get();
@@ -47,6 +61,9 @@ class VocabularyDao extends DatabaseAccessor<AppDatabase>
 
   Future<List<BodySystem>> getAllSystems() =>
       select(bodySystems).get();
+
+  Future<List<BodySystem>> getSystemsByDomain(String domain) =>
+      (select(bodySystems)..where((t) => t.domain.equals(domain))).get();
 
   Future<void> batchInsertSystems(
       List<BodySystemsCompanion> companions) async {

@@ -12,4 +12,5 @@ class VocabularyWords extends Table {
   IntColumn get systemId =>
       integer().nullable().references(BodySystems, #id)();
   IntColumn get difficulty => integer().withDefault(const Constant(1))();
+  TextColumn get domain => text().withDefault(const Constant('macro'))();
 }

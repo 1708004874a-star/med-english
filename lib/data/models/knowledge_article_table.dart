@@ -9,4 +9,5 @@ class KnowledgeArticles extends Table {
   TextColumn get contentEn => text()();
   TextColumn get contentZh => text()();
   IntColumn get difficulty => integer().withDefault(const Constant(1))();
+  TextColumn get domain => text().withDefault(const Constant('macro'))();
 }

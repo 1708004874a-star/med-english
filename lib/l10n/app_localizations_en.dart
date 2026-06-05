@@ -15,6 +15,15 @@ class AppLocalizationsEn extends AppLocalizations {
   String get appTagline => 'Master Medical English';
 
   @override
+  String get appTaglineMicro => 'Explore Cellular Worlds';
+
+  @override
+  String get systemSwitcherMacro => 'Clinical';
+
+  @override
+  String get systemSwitcherMicro => 'Micro';
+
+  @override
   String get disclaimerTitle => 'Educational Use Only';
 
   @override
@@ -172,6 +181,58 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get retakeQuiz => 'Retake Quiz';
+
+  @override
+  String get quizStart => 'Start Self-Test';
+
+  @override
+  String get quizStartDesc => 'Random questions from the current domain';
+
+  @override
+  String get quizWrongBook => 'Wrong Question Book';
+
+  @override
+  String wrongBookSummary(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count questions to review',
+      one: '1 question to review',
+      zero: 'No questions to review',
+    );
+    return '$_temp0';
+  }
+
+  @override
+  String get wrongBookEmpty => 'No wrong questions yet!';
+
+  @override
+  String get quizWrongRedo => 'Review Wrong Questions';
+
+  @override
+  String redoWrong(int count) {
+    return 'Redo $count To-Review';
+  }
+
+  @override
+  String get toReviewLabel => 'To Review';
+
+  @override
+  String get masteredLabel => 'Mastered';
+
+  @override
+  String wrongCountLabel(int count) {
+    return 'Wrong $count×';
+  }
+
+  @override
+  String get resetMastered => 'Reset to Review';
+
+  @override
+  String get markNotMastered => 'Mark for Review';
+
+  @override
+  String get removeEntry => 'Remove';
 
   @override
   String get notebookTitle => 'My Notebook';

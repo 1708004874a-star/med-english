@@ -17,6 +17,16 @@ class VocabularyRepositoryImpl implements IVocabularyRepository {
   }
 
   @override
+  Future<List<Vocabulary>> getVocabByDomain(String domain) async {
+    final rows = await _db.vocabularyDao.getVocabByDomain(domain);
+    return Future.wait(rows.map(_toEntity));
+  }
+
+  @override
+  Future<int> countVocabByDomain(String domain) =>
+      _db.vocabularyDao.countVocabByDomain(domain);
+
+  @override
   Future<List<Vocabulary>> getVocabBySystem(int systemId) async {
     final rows = await _db.vocabularyDao.getVocabBySystem(systemId);
     return Future.wait(rows.map(_toEntity));
@@ -30,19 +40,25 @@ class VocabularyRepositoryImpl implements IVocabularyRepository {
   }
 
   @override
-  Future<List<Vocabulary>> searchVocab(String query) async {
-    final rows = await _db.vocabularyDao.searchVocab(query);
+  Future<List<Vocabulary>> searchVocab(String query, {String? domain}) async {
+    final rows = await _db.vocabularyDao.searchVocab(query, domain: domain);
     return Future.wait(rows.map(_toEntity));
   }
 
   @override
   Future<List<Vocabulary>> getFlashcardBatch({
     int? systemId,
+    String? domain,
     int count = 20,
   }) async {
-    final rows = systemId != null
-        ? await _db.vocabularyDao.getVocabBySystem(systemId)
-        : await _db.vocabularyDao.getAllVocab();
+    final List<VocabularyWord> rows;
+    if (systemId != null) {
+      rows = await _db.vocabularyDao.getVocabBySystem(systemId);
+    } else if (domain != null) {
+      rows = await _db.vocabularyDao.getVocabByDomain(domain);
+    } else {
+      rows = await _db.vocabularyDao.getAllVocab();
+    }
     final shuffled = List.of(rows)..shuffle();
     final batch = shuffled.take(count).toList();
     return Future.wait(batch.map(_toEntity));
@@ -57,6 +73,12 @@ class VocabularyRepositoryImpl implements IVocabularyRepository {
   @override
   Future<List<entity.BodySystem>> getAllSystems() async {
     final rows = await _db.vocabularyDao.getAllSystems();
+    return rows.map(_systemToEntity).toList();
+  }
+
+  @override
+  Future<List<entity.BodySystem>> getSystemsByDomain(String domain) async {
+    final rows = await _db.vocabularyDao.getSystemsByDomain(domain);
     return rows.map(_systemToEntity).toList();
   }
 

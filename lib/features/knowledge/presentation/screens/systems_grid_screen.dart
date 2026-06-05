@@ -19,6 +19,12 @@ final _iconMap = <String, IconData>{
   'gland': Icons.biotech,
   'kidney': Icons.water_drop,
   'skin': Icons.spa,
+  // Micro (cellular) categories
+  'cell': Icons.bubble_chart,
+  'molecule': Icons.hub,
+  'dna': Icons.science,
+  'tissue': Icons.grid_view,
+  'embryo': Icons.egg_alt,
 };
 
 class SystemsGridScreen extends ConsumerWidget {
@@ -63,7 +69,7 @@ class _SystemCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final idx = (system.id - 1).clamp(0, 7);
+    final idx = (system.id - 1).clamp(0, AppColors.systemColors.length - 1);
     final color = AppColors.systemColors[idx];
     final bgColor = AppColors.systemColorsLight[idx];
     final icon = _iconMap[system.iconName] ?? Icons.medical_services;

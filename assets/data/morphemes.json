@@ -5,7 +5,8 @@
     "type": "prefix",
     "meaning_zh": "无，缺乏",
     "meaning_en": "without, no, not",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "type": "prefix",
     "meaning_zh": "慢",
     "meaning_en": "slow",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "type": "prefix",
     "meaning_zh": "心脏",
     "meaning_en": "heart, cardiac",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "type": "prefix",
     "meaning_zh": "头，头部",
     "meaning_en": "head",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "type": "prefix",
     "meaning_zh": "细胞",
     "meaning_en": "cell",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "type": "prefix",
     "meaning_zh": "皮肤",
     "meaning_en": "skin",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "type": "prefix",
     "meaning_zh": "脑，大脑",
     "meaning_en": "brain",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "type": "prefix",
     "meaning_zh": "肠",
     "meaning_en": "intestine",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "type": "prefix",
     "meaning_zh": "红色，红细胞",
     "meaning_en": "red, red blood cells",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 10,
@@ -77,7 +86,8 @@
     "type": "prefix",
     "meaning_zh": "胃",
     "meaning_en": "stomach",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 11,
@@ -85,7 +95,8 @@
     "type": "prefix",
     "meaning_zh": "血液",
     "meaning_en": "blood",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 12,
@@ -93,7 +104,8 @@
     "type": "prefix",
     "meaning_zh": "肝脏",
     "meaning_en": "liver",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 13,
@@ -101,7 +113,8 @@
     "type": "prefix",
     "meaning_zh": "过高，超过正常",
     "meaning_en": "excessive, above normal",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 14,
@@ -109,7 +122,8 @@
     "type": "prefix",
     "meaning_zh": "过低，低于正常",
     "meaning_en": "deficient, below normal",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 15,
@@ -117,7 +131,8 @@
     "type": "prefix",
     "meaning_zh": "白色，白细胞",
     "meaning_en": "white, white blood cells",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 16,
@@ -125,7 +140,8 @@
     "type": "prefix",
     "meaning_zh": "肌肉",
     "meaning_en": "muscle",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 17,
@@ -133,7 +149,8 @@
     "type": "prefix",
     "meaning_zh": "肾脏",
     "meaning_en": "kidney",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 18,
@@ -141,7 +158,8 @@
     "type": "prefix",
     "meaning_zh": "神经",
     "meaning_en": "nerve",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 19,
@@ -149,7 +167,8 @@
     "type": "prefix",
     "meaning_zh": "肿瘤，肿块",
     "meaning_en": "tumor, mass",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 20,
@@ -157,7 +176,8 @@
     "type": "prefix",
     "meaning_zh": "骨骼",
     "meaning_en": "bone",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 21,
@@ -165,7 +185,8 @@
     "type": "prefix",
     "meaning_zh": "疾病",
     "meaning_en": "disease",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 22,
@@ -173,7 +194,8 @@
     "type": "prefix",
     "meaning_zh": "周围，环绕",
     "meaning_en": "around, surrounding",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 23,
@@ -181,7 +203,8 @@
     "type": "prefix",
     "meaning_zh": "肺，空气",
     "meaning_en": "lung, air",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 24,
@@ -189,7 +212,8 @@
     "type": "prefix",
     "meaning_zh": "多，多种",
     "meaning_en": "many, multiple",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 25,
@@ -197,7 +221,8 @@
     "type": "prefix",
     "meaning_zh": "快速，急速",
     "meaning_en": "rapid, fast",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 26,
@@ -205,7 +230,8 @@
     "type": "prefix",
     "meaning_zh": "尿液，泌尿道",
     "meaning_en": "urine, urinary tract",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 27,
@@ -213,7 +239,8 @@
     "type": "prefix",
     "meaning_zh": "血管",
     "meaning_en": "blood vessel",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 28,
@@ -221,7 +248,8 @@
     "type": "prefix",
     "meaning_zh": "关节",
     "meaning_en": "joint",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 29,
@@ -229,7 +257,8 @@
     "type": "prefix",
     "meaning_zh": "生命",
     "meaning_en": "life",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 30,
@@ -237,7 +266,8 @@
     "type": "prefix",
     "meaning_zh": "内部，内层",
     "meaning_en": "within, inner",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 31,
@@ -245,7 +275,8 @@
     "type": "suffix",
     "meaning_zh": "疼痛",
     "meaning_en": "pain",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 32,
@@ -253,7 +284,8 @@
     "type": "suffix",
     "meaning_zh": "血液状态",
     "meaning_en": "blood condition",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 33,
@@ -261,7 +293,8 @@
     "type": "suffix",
     "meaning_zh": "外科切除术",
     "meaning_en": "surgical removal",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 34,
@@ -269,7 +302,8 @@
     "type": "suffix",
     "meaning_zh": "炎症",
     "meaning_en": "inflammation",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 35,
@@ -277,7 +311,8 @@
     "type": "suffix",
     "meaning_zh": "…学，研究",
     "meaning_en": "study of",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 36,
@@ -285,7 +320,8 @@
     "type": "suffix",
     "meaning_zh": "肥大，扩大",
     "meaning_en": "enlargement",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 37,
@@ -293,7 +329,8 @@
     "type": "suffix",
     "meaning_zh": "肿瘤，瘤",
     "meaning_en": "tumor, mass",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 38,
@@ -301,7 +338,8 @@
     "type": "suffix",
     "meaning_zh": "病症，异常过程",
     "meaning_en": "condition, abnormal process",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 39,
@@ -309,7 +347,8 @@
     "type": "suffix",
     "meaning_zh": "疾病，病变",
     "meaning_en": "disease, suffering",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 40,
@@ -317,7 +356,8 @@
     "type": "suffix",
     "meaning_zh": "外科修复术，成形术",
     "meaning_en": "surgical repair, reconstruction",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 41,
@@ -325,7 +365,8 @@
     "type": "suffix",
     "meaning_zh": "瘫痪",
     "meaning_en": "paralysis",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 42,
@@ -333,7 +374,8 @@
     "type": "suffix",
     "meaning_zh": "流出，分泌",
     "meaning_en": "flow, discharge",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 43,
@@ -341,7 +383,8 @@
     "type": "suffix",
     "meaning_zh": "内窥镜检查，目视检查",
     "meaning_en": "visual examination",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 44,
@@ -349,7 +392,8 @@
     "type": "suffix",
     "meaning_zh": "切开术，切口",
     "meaning_en": "cutting, incision",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 45,
@@ -357,7 +401,8 @@
     "type": "suffix",
     "meaning_zh": "尿液状态",
     "meaning_en": "urine condition",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 46,
@@ -365,7 +410,8 @@
     "type": "suffix",
     "meaning_zh": "记录，影像",
     "meaning_en": "record, image produced",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 47,
@@ -373,7 +419,8 @@
     "type": "suffix",
     "meaning_zh": "异常扩张",
     "meaning_en": "abnormal dilation",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 48,
@@ -381,7 +428,8 @@
     "type": "suffix",
     "meaning_zh": "狭窄，收缩",
     "meaning_en": "narrowing, constriction",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 49,
@@ -389,7 +437,8 @@
     "type": "suffix",
     "meaning_zh": "营养，生长",
     "meaning_en": "nourishment, growth",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 50,
@@ -397,7 +446,8 @@
     "type": "suffix",
     "meaning_zh": "起源，产生",
     "meaning_en": "origin, production",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 51,
@@ -405,7 +455,8 @@
     "type": "root",
     "meaning_zh": "动脉",
     "meaning_en": "artery",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 52,
@@ -413,7 +464,8 @@
     "type": "root",
     "meaning_zh": "静脉",
     "meaning_en": "vein",
-    "origin": "Greek/Latin"
+    "origin": "Greek/Latin",
+    "domain": "macro"
   },
   {
     "id": 53,
@@ -421,7 +473,8 @@
     "type": "root",
     "meaning_zh": "血栓、血凝块",
     "meaning_en": "clot, thrombus",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 54,
@@ -429,7 +482,8 @@
     "type": "root",
     "meaning_zh": "脂肪斑块",
     "meaning_en": "fatty plaque",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 55,
@@ -437,7 +491,8 @@
     "type": "root",
     "meaning_zh": "血管",
     "meaning_en": "vessel",
-    "origin": "Latin"
+    "origin": "Latin",
+    "domain": "macro"
   },
   {
     "id": 56,
@@ -445,7 +500,8 @@
     "type": "root",
     "meaning_zh": "主动脉",
     "meaning_en": "aorta",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 57,
@@ -453,7 +509,8 @@
     "type": "root",
     "meaning_zh": "支气管",
     "meaning_en": "bronchus",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 58,
@@ -461,7 +518,8 @@
     "type": "root",
     "meaning_zh": "喉",
     "meaning_en": "larynx",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 59,
@@ -469,7 +527,8 @@
     "type": "root",
     "meaning_zh": "咽",
     "meaning_en": "pharynx",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 60,
@@ -477,7 +536,8 @@
     "type": "root",
     "meaning_zh": "鼻",
     "meaning_en": "nose",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 61,
@@ -485,7 +545,8 @@
     "type": "root",
     "meaning_zh": "气管",
     "meaning_en": "trachea",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 62,
@@ -493,7 +554,8 @@
     "type": "root",
     "meaning_zh": "胸、胸腔",
     "meaning_en": "chest, thorax",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 63,
@@ -501,7 +563,8 @@
     "type": "root",
     "meaning_zh": "胸膜",
     "meaning_en": "pleura",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 64,
@@ -509,7 +572,8 @@
     "type": "root",
     "meaning_zh": "肺",
     "meaning_en": "lung",
-    "origin": "Latin"
+    "origin": "Latin",
+    "domain": "macro"
   },
   {
     "id": 65,
@@ -517,7 +581,8 @@
     "type": "root",
     "meaning_zh": "氧",
     "meaning_en": "oxygen",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 66,
@@ -525,7 +590,8 @@
     "type": "suffix",
     "meaning_zh": "呼吸",
     "meaning_en": "breathing",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 67,
@@ -533,7 +599,8 @@
     "type": "root",
     "meaning_zh": "大脑",
     "meaning_en": "cerebrum",
-    "origin": "Latin"
+    "origin": "Latin",
+    "domain": "macro"
   },
   {
     "id": 68,
@@ -541,7 +608,8 @@
     "type": "root",
     "meaning_zh": "颅、头骨",
     "meaning_en": "skull",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 69,
@@ -549,7 +617,8 @@
     "type": "root",
     "meaning_zh": "脊髓、骨髓",
     "meaning_en": "spinal cord, marrow",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 70,
@@ -557,7 +626,8 @@
     "type": "root",
     "meaning_zh": "脑膜",
     "meaning_en": "meninges",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 71,
@@ -565,7 +635,8 @@
     "type": "root",
     "meaning_zh": "精神、心理",
     "meaning_en": "mind",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 72,
@@ -573,7 +644,8 @@
     "type": "suffix",
     "meaning_zh": "言语（能力）",
     "meaning_en": "speech",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 73,
@@ -581,7 +653,8 @@
     "type": "suffix",
     "meaning_zh": "轻瘫",
     "meaning_en": "slight paralysis",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 74,
@@ -589,7 +662,8 @@
     "type": "root",
     "meaning_zh": "感觉",
     "meaning_en": "sensation",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 75,
@@ -597,7 +671,8 @@
     "type": "root",
     "meaning_zh": "结肠",
     "meaning_en": "colon",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 76,
@@ -605,7 +680,8 @@
     "type": "root",
     "meaning_zh": "直肠、肛门",
     "meaning_en": "rectum, anus",
-    "origin": "Greek/Latin"
+    "origin": "Greek/Latin",
+    "domain": "macro"
   },
   {
     "id": 77,
@@ -613,7 +689,8 @@
     "type": "root",
     "meaning_zh": "胆汁、胆囊",
     "meaning_en": "bile, gallbladder",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 78,
@@ -621,7 +698,8 @@
     "type": "root",
     "meaning_zh": "胰腺",
     "meaning_en": "pancreas",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 79,
@@ -629,7 +707,8 @@
     "type": "root",
     "meaning_zh": "食管",
     "meaning_en": "esophagus",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 80,
@@ -637,7 +716,8 @@
     "type": "root",
     "meaning_zh": "舌",
     "meaning_en": "tongue",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 81,
@@ -645,7 +725,8 @@
     "type": "suffix",
     "meaning_zh": "呕吐",
     "meaning_en": "vomiting",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 82,
@@ -653,7 +734,8 @@
     "type": "suffix",
     "meaning_zh": "吞咽、进食",
     "meaning_en": "eating, swallowing",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 83,
@@ -661,7 +743,8 @@
     "type": "root",
     "meaning_zh": "腹部",
     "meaning_en": "abdomen",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 84,
@@ -669,7 +752,8 @@
     "type": "root",
     "meaning_zh": "软骨",
     "meaning_en": "cartilage",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 85,
@@ -677,7 +761,8 @@
     "type": "root",
     "meaning_zh": "肌腱",
     "meaning_en": "tendon",
-    "origin": "Greek/Latin"
+    "origin": "Greek/Latin",
+    "domain": "macro"
   },
   {
     "id": 86,
@@ -685,7 +770,8 @@
     "type": "root",
     "meaning_zh": "椎骨",
     "meaning_en": "vertebra",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 87,
@@ -693,7 +779,8 @@
     "type": "root",
     "meaning_zh": "肋骨",
     "meaning_en": "rib",
-    "origin": "Latin"
+    "origin": "Latin",
+    "domain": "macro"
   },
   {
     "id": 88,
@@ -701,7 +788,8 @@
     "type": "root",
     "meaning_zh": "运动",
     "meaning_en": "movement",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 89,
@@ -709,7 +797,8 @@
     "type": "suffix",
     "meaning_zh": "软化",
     "meaning_en": "softening",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 90,
@@ -717,7 +806,8 @@
     "type": "suffix",
     "meaning_zh": "融合、固定",
     "meaning_en": "fusion",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 91,
@@ -725,7 +815,8 @@
     "type": "root",
     "meaning_zh": "甲状腺",
     "meaning_en": "thyroid",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 92,
@@ -733,7 +824,8 @@
     "type": "root",
     "meaning_zh": "肾上腺",
     "meaning_en": "adrenal gland",
-    "origin": "Latin"
+    "origin": "Latin",
+    "domain": "macro"
   },
   {
     "id": 93,
@@ -741,7 +833,8 @@
     "type": "root",
     "meaning_zh": "糖、葡萄糖",
     "meaning_en": "sugar, glucose",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 94,
@@ -749,7 +842,8 @@
     "type": "root",
     "meaning_zh": "腺",
     "meaning_en": "gland",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 95,
@@ -757,7 +851,8 @@
     "type": "suffix",
     "meaning_zh": "渴",
     "meaning_en": "thirst",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 96,
@@ -765,7 +860,8 @@
     "type": "root",
     "meaning_zh": "肾",
     "meaning_en": "kidney",
-    "origin": "Latin"
+    "origin": "Latin",
+    "domain": "macro"
   },
   {
     "id": 97,
@@ -773,7 +869,8 @@
     "type": "root",
     "meaning_zh": "膀胱、囊",
     "meaning_en": "bladder, sac",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 98,
@@ -781,7 +878,8 @@
     "type": "root",
     "meaning_zh": "肾盂",
     "meaning_en": "renal pelvis",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 99,
@@ -789,7 +887,8 @@
     "type": "root",
     "meaning_zh": "输尿管",
     "meaning_en": "ureter",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 100,
@@ -797,7 +896,8 @@
     "type": "root",
     "meaning_zh": "尿道",
     "meaning_en": "urethra",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 101,
@@ -805,7 +905,8 @@
     "type": "root",
     "meaning_zh": "肾小球",
     "meaning_en": "glomerulus",
-    "origin": "Latin"
+    "origin": "Latin",
+    "domain": "macro"
   },
   {
     "id": 102,
@@ -813,7 +914,8 @@
     "type": "root",
     "meaning_zh": "结石",
     "meaning_en": "stone",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 103,
@@ -821,7 +923,8 @@
     "type": "root",
     "meaning_zh": "少",
     "meaning_en": "scanty, few",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 104,
@@ -829,7 +932,8 @@
     "type": "root",
     "meaning_zh": "角质、角膜",
     "meaning_en": "horny tissue, cornea",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 105,
@@ -837,7 +941,8 @@
     "type": "root",
     "meaning_zh": "黑色",
     "meaning_en": "black",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 106,
@@ -845,7 +950,8 @@
     "type": "root",
     "meaning_zh": "甲、指甲",
     "meaning_en": "nail",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 107,
@@ -853,7 +959,8 @@
     "type": "root",
     "meaning_zh": "毛发",
     "meaning_en": "hair",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 108,
@@ -861,7 +968,8 @@
     "type": "root",
     "meaning_zh": "干燥",
     "meaning_en": "dry",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 109,
@@ -869,7 +977,8 @@
     "type": "root",
     "meaning_zh": "蓝色、青紫",
     "meaning_en": "blue",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 110,
@@ -877,7 +986,8 @@
     "type": "suffix",
     "meaning_zh": "减少、缺乏",
     "meaning_en": "deficiency",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 111,
@@ -885,7 +995,8 @@
     "type": "suffix",
     "meaning_zh": "分解、破坏",
     "meaning_en": "breakdown, dissolution",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 112,
@@ -893,7 +1004,8 @@
     "type": "suffix",
     "meaning_zh": "痉挛",
     "meaning_en": "involuntary contraction",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 113,
@@ -901,7 +1013,8 @@
     "type": "suffix",
     "meaning_zh": "下垂",
     "meaning_en": "drooping, prolapse",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 114,
@@ -909,7 +1022,8 @@
     "type": "suffix",
     "meaning_zh": "出血、大量流出",
     "meaning_en": "bursting forth, hemorrhage",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 115,
@@ -917,7 +1031,8 @@
     "type": "suffix",
     "meaning_zh": "缝合",
     "meaning_en": "suture",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 116,
@@ -925,7 +1040,8 @@
     "type": "suffix",
     "meaning_zh": "穿刺抽液",
     "meaning_en": "surgical puncture",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 117,
@@ -933,7 +1049,8 @@
     "type": "suffix",
     "meaning_zh": "造口、造瘘",
     "meaning_en": "surgical opening",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 118,
@@ -941,7 +1058,8 @@
     "type": "suffix",
     "meaning_zh": "固定术",
     "meaning_en": "surgical fixation",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 119,
@@ -949,7 +1067,8 @@
     "type": "suffix",
     "meaning_zh": "生成",
     "meaning_en": "formation, production",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 120,
@@ -957,7 +1076,8 @@
     "type": "suffix",
     "meaning_zh": "疝、膨出",
     "meaning_en": "hernia, protrusion",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 121,
@@ -965,7 +1085,8 @@
     "type": "suffix",
     "meaning_zh": "形成、发育",
     "meaning_en": "formation, development",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 122,
@@ -973,7 +1094,8 @@
     "type": "suffix",
     "meaning_zh": "硬化",
     "meaning_en": "hardening",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 123,
@@ -981,7 +1103,8 @@
     "type": "suffix",
     "meaning_zh": "停止、控制",
     "meaning_en": "stopping, controlling",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 124,
@@ -989,7 +1112,8 @@
     "type": "prefix",
     "meaning_zh": "对抗、抗",
     "meaning_en": "against",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 125,
@@ -997,7 +1121,8 @@
     "type": "prefix",
     "meaning_zh": "困难、异常",
     "meaning_en": "difficult, abnormal",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 126,
@@ -1005,7 +1130,8 @@
     "type": "prefix",
     "meaning_zh": "在……之间",
     "meaning_en": "between",
-    "origin": "Latin"
+    "origin": "Latin",
+    "domain": "macro"
   },
   {
     "id": 127,
@@ -1013,7 +1139,8 @@
     "type": "prefix",
     "meaning_zh": "在……之内",
     "meaning_en": "within",
-    "origin": "Latin"
+    "origin": "Latin",
+    "domain": "macro"
   },
   {
     "id": 128,
@@ -1021,7 +1148,8 @@
     "type": "prefix",
     "meaning_zh": "在……之下",
     "meaning_en": "under, below",
-    "origin": "Latin"
+    "origin": "Latin",
+    "domain": "macro"
   },
   {
     "id": 129,
@@ -1029,7 +1157,8 @@
     "type": "prefix",
     "meaning_zh": "穿过、转移",
     "meaning_en": "across, through",
-    "origin": "Latin"
+    "origin": "Latin",
+    "domain": "macro"
   },
   {
     "id": 130,
@@ -1037,7 +1166,8 @@
     "type": "prefix",
     "meaning_zh": "新",
     "meaning_en": "new",
-    "origin": "Greek"
+    "origin": "Greek",
+    "domain": "macro"
   },
   {
     "id": 131,
@@ -1045,6 +1175,466 @@
     "type": "prefix",
     "meaning_zh": "在……之后",
     "meaning_en": "after, behind",
-    "origin": "Latin"
+    "origin": "Latin",
+    "domain": "macro"
+  },
+  {
+    "id": 132,
+    "morpheme": "cyto-/-cyte",
+    "type": "root",
+    "meaning_zh": "细胞",
+    "meaning_en": "cell",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 133,
+    "morpheme": "karyo-/nucleo-",
+    "type": "root",
+    "meaning_zh": "细胞核",
+    "meaning_en": "nucleus",
+    "origin": "Greek/Latin",
+    "domain": "micro"
+  },
+  {
+    "id": 134,
+    "morpheme": "-plasm/plasmo-",
+    "type": "root",
+    "meaning_zh": "（细胞）质、形成物",
+    "meaning_en": "formed material, cytoplasm",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 135,
+    "morpheme": "mito-",
+    "type": "root",
+    "meaning_zh": "线、丝",
+    "meaning_en": "thread",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 136,
+    "morpheme": "chromo-/chromato-",
+    "type": "root",
+    "meaning_zh": "颜色（染色质/体）",
+    "meaning_en": "color",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 137,
+    "morpheme": "-some/somato-",
+    "type": "root",
+    "meaning_zh": "体",
+    "meaning_en": "body",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 138,
+    "morpheme": "ribo-",
+    "type": "root",
+    "meaning_zh": "核糖",
+    "meaning_en": "ribose",
+    "origin": "English",
+    "domain": "micro"
+  },
+  {
+    "id": 139,
+    "morpheme": "lyso-",
+    "type": "root",
+    "meaning_zh": "溶解、分解",
+    "meaning_en": "dissolution, splitting",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 140,
+    "morpheme": "phago-/-phage",
+    "type": "root",
+    "meaning_zh": "吞噬、进食",
+    "meaning_en": "eating, devouring",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 141,
+    "morpheme": "pino-",
+    "type": "root",
+    "meaning_zh": "饮、摄入液体",
+    "meaning_en": "drinking",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 142,
+    "morpheme": "endo-",
+    "type": "prefix",
+    "meaning_zh": "内、在……之内",
+    "meaning_en": "within, inner",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 143,
+    "morpheme": "exo-",
+    "type": "prefix",
+    "meaning_zh": "外、在……之外",
+    "meaning_en": "outside, outer",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 144,
+    "morpheme": "ecto-",
+    "type": "prefix",
+    "meaning_zh": "外、外层",
+    "meaning_en": "outer, external",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 145,
+    "morpheme": "meso-",
+    "type": "prefix",
+    "meaning_zh": "中、中间",
+    "meaning_en": "middle",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 146,
+    "morpheme": "-derm/dermo-",
+    "type": "root",
+    "meaning_zh": "（胚）层、皮",
+    "meaning_en": "layer, skin",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 147,
+    "morpheme": "blasto-/-blast",
+    "type": "root",
+    "meaning_zh": "胚、原始（未成熟）细胞",
+    "meaning_en": "germ, immature cell",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 148,
+    "morpheme": "gameto-",
+    "type": "root",
+    "meaning_zh": "生殖细胞、配子",
+    "meaning_en": "reproductive cell, gamete",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 149,
+    "morpheme": "zygo-",
+    "type": "root",
+    "meaning_zh": "结合、合",
+    "meaning_en": "joined, yoke",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 150,
+    "morpheme": "morpho-",
+    "type": "root",
+    "meaning_zh": "形态",
+    "meaning_en": "form, shape",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 151,
+    "morpheme": "histo-",
+    "type": "root",
+    "meaning_zh": "组织",
+    "meaning_en": "tissue",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 152,
+    "morpheme": "geno-/gen-",
+    "type": "root",
+    "meaning_zh": "基因、起源",
+    "meaning_en": "gene, origin",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 153,
+    "morpheme": "-genesis",
+    "type": "suffix",
+    "meaning_zh": "发生、形成",
+    "meaning_en": "origin, formation",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 154,
+    "morpheme": "micro-",
+    "type": "prefix",
+    "meaning_zh": "微、小",
+    "meaning_en": "small",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 155,
+    "morpheme": "macro-",
+    "type": "prefix",
+    "meaning_zh": "大、巨",
+    "meaning_en": "large",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 156,
+    "morpheme": "iso-",
+    "type": "prefix",
+    "meaning_zh": "等、相同",
+    "meaning_en": "equal",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 157,
+    "morpheme": "telo-",
+    "type": "root",
+    "meaning_zh": "末端",
+    "meaning_en": "end",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 158,
+    "morpheme": "-mere/mero-",
+    "type": "root",
+    "meaning_zh": "部分、节段",
+    "meaning_en": "part",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 159,
+    "morpheme": "pro-",
+    "type": "prefix",
+    "meaning_zh": "前、之前",
+    "meaning_en": "before",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 160,
+    "morpheme": "meta-",
+    "type": "prefix",
+    "meaning_zh": "变化、之后",
+    "meaning_en": "change, after",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 161,
+    "morpheme": "ana-",
+    "type": "prefix",
+    "meaning_zh": "向上、分开",
+    "meaning_en": "up, apart",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 162,
+    "morpheme": "auto-",
+    "type": "prefix",
+    "meaning_zh": "自身",
+    "meaning_en": "self",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 163,
+    "morpheme": "apo-",
+    "type": "prefix",
+    "meaning_zh": "离开、脱去",
+    "meaning_en": "away, off",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 164,
+    "morpheme": "-ptosis",
+    "type": "suffix",
+    "meaning_zh": "脱落、下降",
+    "meaning_en": "falling",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 165,
+    "morpheme": "mono-",
+    "type": "prefix",
+    "meaning_zh": "单、一",
+    "meaning_en": "one, single",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 166,
+    "morpheme": "di-",
+    "type": "prefix",
+    "meaning_zh": "二、双",
+    "meaning_en": "two",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 167,
+    "morpheme": "poly-",
+    "type": "prefix",
+    "meaning_zh": "多",
+    "meaning_en": "many",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 168,
+    "morpheme": "-ose",
+    "type": "suffix",
+    "meaning_zh": "糖",
+    "meaning_en": "sugar",
+    "origin": "English",
+    "domain": "micro"
+  },
+  {
+    "id": 169,
+    "morpheme": "-ase",
+    "type": "suffix",
+    "meaning_zh": "酶",
+    "meaning_en": "enzyme",
+    "origin": "English",
+    "domain": "micro"
+  },
+  {
+    "id": 170,
+    "morpheme": "lipo-",
+    "type": "root",
+    "meaning_zh": "脂、脂肪",
+    "meaning_en": "fat, lipid",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 171,
+    "morpheme": "proteo-",
+    "type": "root",
+    "meaning_zh": "蛋白质",
+    "meaning_en": "protein",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 172,
+    "morpheme": "glyco-",
+    "type": "root",
+    "meaning_zh": "糖、葡萄糖",
+    "meaning_en": "sugar, glucose",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 173,
+    "morpheme": "trans-",
+    "type": "prefix",
+    "meaning_zh": "跨过、转移",
+    "meaning_en": "across, through",
+    "origin": "Latin",
+    "domain": "micro"
+  },
+  {
+    "id": 174,
+    "morpheme": "inter-",
+    "type": "prefix",
+    "meaning_zh": "在……之间",
+    "meaning_en": "between",
+    "origin": "Latin",
+    "domain": "micro"
+  },
+  {
+    "id": 175,
+    "morpheme": "tono-/-tonic",
+    "type": "root",
+    "meaning_zh": "张力、渗透压",
+    "meaning_en": "tension, tone",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 176,
+    "morpheme": "-logy/-ology",
+    "type": "suffix",
+    "meaning_zh": "……学、研究",
+    "meaning_en": "study of",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 177,
+    "morpheme": "-osis",
+    "type": "suffix",
+    "meaning_zh": "状态、过程、异常",
+    "meaning_en": "condition, process",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 178,
+    "morpheme": "hypo-",
+    "type": "prefix",
+    "meaning_zh": "低、不足、在……之下",
+    "meaning_en": "under, below, deficient",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 179,
+    "morpheme": "hyper-",
+    "type": "prefix",
+    "meaning_zh": "超过、过多、在上",
+    "meaning_en": "above, excessive",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 180,
+    "morpheme": "-lysis",
+    "type": "suffix",
+    "meaning_zh": "分解、破坏、溶解",
+    "meaning_en": "breakdown, dissolution",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 181,
+    "morpheme": "cysto-/-cyst",
+    "type": "root",
+    "meaning_zh": "囊、膀胱",
+    "meaning_en": "sac, bladder",
+    "origin": "Greek",
+    "domain": "micro"
+  },
+  {
+    "id": 182,
+    "morpheme": "melano-",
+    "type": "root",
+    "meaning_zh": "黑色",
+    "meaning_en": "black",
+    "origin": "Greek",
+    "domain": "micro"
   }
 ]

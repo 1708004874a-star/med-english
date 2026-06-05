@@ -38,3 +38,27 @@ class LocaleNotifier extends Notifier<Locale?> {
     state = locale;
   }
 }
+
+// ── Domain ────────────────────────────────────────────────────────────────────
+
+/// Holds the currently active knowledge domain (macro or micro).
+///
+/// Persisted in SharedPreferences so the selection survives restarts. Defaults
+/// to [AppDomain.macro] on first launch.
+final domainProvider =
+    NotifierProvider<DomainNotifier, AppDomain>(DomainNotifier.new);
+
+class DomainNotifier extends Notifier<AppDomain> {
+  @override
+  AppDomain build() {
+    final prefs = ref.watch(sharedPreferencesProvider);
+    return AppDomain.fromStorage(prefs.getString(kDomainKey));
+  }
+
+  /// Switches the active domain and persists the choice.
+  Future<void> setDomain(AppDomain domain) async {
+    final prefs = ref.read(sharedPreferencesProvider);
+    await prefs.setString(kDomainKey, domain.storageValue);
+    state = domain;
+  }
+}

@@ -15,6 +15,15 @@ class AppLocalizationsZh extends AppLocalizations {
   String get appTagline => '掌握医学英语';
 
   @override
+  String get appTaglineMicro => '探索微观世界';
+
+  @override
+  String get systemSwitcherMacro => '临床宏观';
+
+  @override
+  String get systemSwitcherMicro => '医用微观';
+
+  @override
   String get disclaimerTitle => '仅供教育用途';
 
   @override
@@ -172,6 +181,51 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get retakeQuiz => '重新测试';
+
+  @override
+  String get quizStart => '开始自测';
+
+  @override
+  String get quizStartDesc => '从当前系统随机出题';
+
+  @override
+  String get quizWrongBook => '错题本';
+
+  @override
+  String wrongBookSummary(int count) {
+    return '$count 题待复习';
+  }
+
+  @override
+  String get wrongBookEmpty => '暂无错题！';
+
+  @override
+  String get quizWrongRedo => '错题重做';
+
+  @override
+  String redoWrong(int count) {
+    return '重做 $count 道待复习题';
+  }
+
+  @override
+  String get toReviewLabel => '待复习';
+
+  @override
+  String get masteredLabel => '已掌握';
+
+  @override
+  String wrongCountLabel(int count) {
+    return '错误 $count 次';
+  }
+
+  @override
+  String get resetMastered => '重置为待复习';
+
+  @override
+  String get markNotMastered => '标记为待复习';
+
+  @override
+  String get removeEntry => '移除';
 
   @override
   String get notebookTitle => '我的生词本';

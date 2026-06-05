@@ -7,6 +7,15 @@
   "appTagline": "Master Medical English",
   "@appTagline": { "description": "Short tagline shown on home screen" },
 
+  "appTaglineMicro": "Explore Cellular Worlds",
+  "@appTaglineMicro": { "description": "Home screen tagline when Micro domain is active" },
+
+  "systemSwitcherMacro": "Clinical",
+  "@systemSwitcherMacro": { "description": "Segmented control label for Macro domain" },
+
+  "systemSwitcherMicro": "Micro",
+  "@systemSwitcherMicro": { "description": "Segmented control label for Micro domain" },
+
   "disclaimerTitle": "Educational Use Only",
   "@disclaimerTitle": { "description": "Title of the first-launch disclaimer dialog" },
 
@@ -179,6 +188,60 @@
 
   "retakeQuiz": "Retake Quiz",
   "@retakeQuiz": { "description": "Button to restart the same quiz" },
+
+  "quizStart": "Start Self-Test",
+  "@quizStart": { "description": "Quiz hub card title for starting a quiz" },
+
+  "quizStartDesc": "Random questions from the current domain",
+  "@quizStartDesc": { "description": "Quiz hub card subtitle" },
+
+  "quizWrongBook": "Wrong Question Book",
+  "@quizWrongBook": { "description": "Quiz hub card title for wrong question review" },
+
+  "wrongBookSummary": "{count, plural, =0{No questions to review} =1{1 question to review} other{{count} questions to review}}",
+  "@wrongBookSummary": {
+    "description": "Summary of wrong question count on quiz hub",
+    "placeholders": {
+      "count": { "type": "int", "example": "5" }
+    }
+  },
+
+  "wrongBookEmpty": "No wrong questions yet!",
+  "@wrongBookEmpty": { "description": "Empty state for wrong question book" },
+
+  "quizWrongRedo": "Review Wrong Questions",
+  "@quizWrongRedo": { "description": "App bar title when redoing wrong questions" },
+
+  "redoWrong": "Redo {count} To-Review",
+  "@redoWrong": {
+    "description": "Button to redo wrong questions",
+    "placeholders": {
+      "count": { "type": "int", "example": "5" }
+    }
+  },
+
+  "toReviewLabel": "To Review",
+  "@toReviewLabel": { "description": "Section header for questions still needing review" },
+
+  "masteredLabel": "Mastered",
+  "@masteredLabel": { "description": "Section header for mastered questions" },
+
+  "wrongCountLabel": "Wrong {count}×",
+  "@wrongCountLabel": {
+    "description": "Label showing how many times a question was answered wrong",
+    "placeholders": {
+      "count": { "type": "int", "example": "3" }
+    }
+  },
+
+  "resetMastered": "Reset to Review",
+  "@resetMastered": { "description": "Button to move a mastered question back to review" },
+
+  "markNotMastered": "Mark for Review",
+  "@markNotMastered": { "description": "Button to mark a question as needing review" },
+
+  "removeEntry": "Remove",
+  "@removeEntry": { "description": "Button to remove a wrong question entry" },
 
   "notebookTitle": "My Notebook",
   "@notebookTitle": { "description": "App bar title for notebook/saved words screen" },

@@ -16,8 +16,16 @@ class QuizRepositoryImpl implements IQuizRepository {
   }
 
   @override
-  Future<List<entity.QuizQuestion>> getRandomQuestions({int count = 10}) async {
-    final rows = await _db.quizDao.getRandomQuestions(count: count);
+  Future<List<entity.QuizQuestion>> getRandomQuestions(
+      {int count = 10, String? domain}) async {
+    final rows =
+        await _db.quizDao.getRandomQuestions(count: count, domain: domain);
+    return rows.map(_toEntity).toList();
+  }
+
+  @override
+  Future<List<entity.QuizQuestion>> getQuestionsByIds(List<int> ids) async {
+    final rows = await _db.quizDao.getQuestionsByIds(ids);
     return rows.map(_toEntity).toList();
   }
 
@@ -45,5 +53,6 @@ class QuizRepositoryImpl implements IQuizRepository {
         explanationZh: row.explanationZh,
         vocabId: row.vocabId,
         morphemeId: row.morphemeId,
+        domain: row.domain,
       );
 }

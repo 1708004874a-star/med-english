@@ -16,8 +16,17 @@ class MorphemeRepositoryImpl implements IMorphemeRepository {
   }
 
   @override
-  Future<List<Morpheme>> getMorphemesByType(String type) async {
-    final rows = await _db.morphemeDao.getMorphemesByType(type);
+  Future<List<Morpheme>> getMorphemesByDomain(String domain) async {
+    final rows = await _db.morphemeDao.getMorphemesByDomain(domain);
+    return rows.map(_toEntity).toList();
+  }
+
+  @override
+  Future<List<Morpheme>> getMorphemesByType(String type,
+      {String? domain}) async {
+    final rows = domain == null
+        ? await _db.morphemeDao.getMorphemesByType(type)
+        : await _db.morphemeDao.getMorphemesByTypeAndDomain(type, domain);
     return rows.map(_toEntity).toList();
   }
 

@@ -110,6 +110,24 @@ abstract class AppLocalizations {
   /// **'Master Medical English'**
   String get appTagline;
 
+  /// Home screen tagline when Micro domain is active
+  ///
+  /// In en, this message translates to:
+  /// **'Explore Cellular Worlds'**
+  String get appTaglineMicro;
+
+  /// Segmented control label for Macro domain
+  ///
+  /// In en, this message translates to:
+  /// **'Clinical'**
+  String get systemSwitcherMacro;
+
+  /// Segmented control label for Micro domain
+  ///
+  /// In en, this message translates to:
+  /// **'Micro'**
+  String get systemSwitcherMicro;
+
   /// Title of the first-launch disclaimer dialog
   ///
   /// In en, this message translates to:
@@ -409,6 +427,84 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Retake Quiz'**
   String get retakeQuiz;
+
+  /// Quiz hub card title for starting a quiz
+  ///
+  /// In en, this message translates to:
+  /// **'Start Self-Test'**
+  String get quizStart;
+
+  /// Quiz hub card subtitle
+  ///
+  /// In en, this message translates to:
+  /// **'Random questions from the current domain'**
+  String get quizStartDesc;
+
+  /// Quiz hub card title for wrong question review
+  ///
+  /// In en, this message translates to:
+  /// **'Wrong Question Book'**
+  String get quizWrongBook;
+
+  /// Summary of wrong question count on quiz hub
+  ///
+  /// In en, this message translates to:
+  /// **'{count, plural, =0{No questions to review} =1{1 question to review} other{{count} questions to review}}'**
+  String wrongBookSummary(int count);
+
+  /// Empty state for wrong question book
+  ///
+  /// In en, this message translates to:
+  /// **'No wrong questions yet!'**
+  String get wrongBookEmpty;
+
+  /// App bar title when redoing wrong questions
+  ///
+  /// In en, this message translates to:
+  /// **'Review Wrong Questions'**
+  String get quizWrongRedo;
+
+  /// Button to redo wrong questions
+  ///
+  /// In en, this message translates to:
+  /// **'Redo {count} To-Review'**
+  String redoWrong(int count);
+
+  /// Section header for questions still needing review
+  ///
+  /// In en, this message translates to:
+  /// **'To Review'**
+  String get toReviewLabel;
+
+  /// Section header for mastered questions
+  ///
+  /// In en, this message translates to:
+  /// **'Mastered'**
+  String get masteredLabel;
+
+  /// Label showing how many times a question was answered wrong
+  ///
+  /// In en, this message translates to:
+  /// **'Wrong {count}×'**
+  String wrongCountLabel(int count);
+
+  /// Button to move a mastered question back to review
+  ///
+  /// In en, this message translates to:
+  /// **'Reset to Review'**
+  String get resetMastered;
+
+  /// Button to mark a question as needing review
+  ///
+  /// In en, this message translates to:
+  /// **'Mark for Review'**
+  String get markNotMastered;
+
+  /// Button to remove a wrong question entry
+  ///
+  /// In en, this message translates to:
+  /// **'Remove'**
+  String get removeEntry;
 
   /// App bar title for notebook/saved words screen
   ///

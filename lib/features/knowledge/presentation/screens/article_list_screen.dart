@@ -66,7 +66,7 @@ class _ArticleCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context)!;
-    final idx = systemIndex.clamp(0, 7);
+    final idx = systemIndex.clamp(0, AppColors.systemColors.length - 1);
     final color = AppColors.systemColors[idx];
     final title = LocaleUtils.pick(context,
         en: article.titleEn, zh: article.titleZh);

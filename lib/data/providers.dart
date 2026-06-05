@@ -6,11 +6,13 @@ import 'repositories/morpheme_repository_impl.dart';
 import 'repositories/knowledge_repository_impl.dart';
 import 'repositories/notebook_repository_impl.dart';
 import 'repositories/quiz_repository_impl.dart';
+import 'repositories/wrong_question_repository_impl.dart';
 import '../domain/repositories/i_vocabulary_repository.dart';
 import '../domain/repositories/i_morpheme_repository.dart';
 import '../domain/repositories/i_knowledge_repository.dart';
 import '../domain/repositories/i_notebook_repository.dart';
 import '../domain/repositories/i_quiz_repository.dart';
+import '../domain/repositories/i_wrong_question_repository.dart';
 
 // ── Database ──────────────────────────────────────────────────────────────────
 
@@ -42,6 +44,10 @@ final notebookRepositoryProvider = Provider<INotebookRepository>(
 
 final quizRepositoryProvider = Provider<IQuizRepository>(
   (ref) => QuizRepositoryImpl(ref.watch(appDatabaseProvider)),
+);
+
+final wrongQuestionRepositoryProvider = Provider<IWrongQuestionRepository>(
+  (ref) => WrongQuestionRepositoryImpl(ref.watch(appDatabaseProvider)),
 );
 
 // ── App Initialization ────────────────────────────────────────────────────────

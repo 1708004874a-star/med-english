@@ -6,7 +6,8 @@
     "title_zh": "心脏如何泵血",
     "difficulty": 1,
     "content_en": "The heart is a muscular pump about the size of a fist, located in the center of the chest slightly to the left. It works continuously to circulate blood throughout the body. The heart has four chambers: two upper chambers called the atria (singular: atrium) and two lower chambers called the ventricles. The right side of the heart receives oxygen-poor blood returning from the body and pumps it to the lungs, where it picks up oxygen and releases carbon dioxide. The left side receives this oxygen-rich blood from the lungs and pumps it out to the rest of the body through the aorta, the body's largest artery. This cycle—right heart to lungs, then left heart to body—is the basis of the cardiovascular circuit. The heart's rhythmic contractions are coordinated by an electrical conduction system, ensuring the atria contract first to fill the ventricles, then the ventricles contract to pump blood outward. In a healthy adult, the heart beats about 60–100 times per minute.",
-    "content_zh": "心脏是一个大约拳头大小的肌肉泵，位于胸腔中央略偏左侧。它持续不断地工作，将血液循环至全身。心脏有四个腔室：上面两个称为心房（单数：atrium），下面两个称为心室。心脏右侧接收来自全身返回的贫氧血，并将其泵向肺部，在那里摄取氧气并释放二氧化碳。心脏左侧接收来自肺部富含氧气的血液，通过主动脉（人体最大的动脉）将其泵向全身其余部位。这一循环——右心到肺，再到左心到全身——是心血管循环的基础。心脏的有节律收缩由电传导系统协调，确保心房先收缩以充盈心室，再由心室收缩将血液泵出。健康成人的心脏每分钟跳动约60至100次。"
+    "content_zh": "心脏是一个大约拳头大小的肌肉泵，位于胸腔中央略偏左侧。它持续不断地工作，将血液循环至全身。心脏有四个腔室：上面两个称为心房（单数：atrium），下面两个称为心室。心脏右侧接收来自全身返回的贫氧血，并将其泵向肺部，在那里摄取氧气并释放二氧化碳。心脏左侧接收来自肺部富含氧气的血液，通过主动脉（人体最大的动脉）将其泵向全身其余部位。这一循环——右心到肺，再到左心到全身——是心血管循环的基础。心脏的有节律收缩由电传导系统协调，确保心房先收缩以充盈心室，再由心室收缩将血液泵出。健康成人的心脏每分钟跳动约60至100次。",
+    "domain": "macro"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "title_zh": "理解血压",
     "difficulty": 2,
     "content_en": "Blood pressure (BP) is the force that circulating blood exerts against the walls of blood vessels. It is recorded as two numbers: systolic pressure (the higher number, representing pressure when the heart contracts) over diastolic pressure (the lower number, representing pressure when the heart rests between beats). A normal reading is below 120/80 mmHg. The unit 'mmHg' stands for millimeters of mercury, the traditional unit of pressure measurement. Blood pressure is regulated by multiple mechanisms, including the volume of blood in circulation, the heart's pumping strength, the resistance of blood vessels, and hormones such as aldosterone and angiotensin. Consistently elevated blood pressure—hypertension—forces the heart to work harder and damages blood vessel walls, increasing the risk of atherosclerosis, heart attack, stroke, and kidney disease. Lifestyle factors such as diet, physical activity, body weight, and smoking all influence blood pressure. Healthcare providers classify BP into categories: normal, elevated, Stage 1 hypertension (130–139/80–89), and Stage 2 hypertension (≥140/90).",
-    "content_zh": "血压（BP）是循环血液对血管壁施加的压力。它以两个数字表示：收缩压（较大数字，代表心脏收缩时的压力）除以舒张压（较小数字，代表两次心跳之间心脏休息时的压力）。正常血压低于120/80 mmHg。\"mmHg\"是毫米汞柱，是传统的压力测量单位。血压受多种机制调节，包括循环血容量、心脏泵血强度、血管阻力以及醛固酮和血管紧张素等激素。持续升高的血压（高血压）迫使心脏超负荷工作，损伤血管壁，增加动脉粥样硬化、心脏病发作、脑卒中和肾脏病的风险。饮食、体力活动、体重和吸烟等生活方式因素均会影响血压。医疗机构将血压分类为：正常、升高、1期高血压（130–139/80–89）和2期高血压（≥140/90）。"
+    "content_zh": "血压（BP）是循环血液对血管壁施加的压力。它以两个数字表示：收缩压（较大数字，代表心脏收缩时的压力）除以舒张压（较小数字，代表两次心跳之间心脏休息时的压力）。正常血压低于120/80 mmHg。\"mmHg\"是毫米汞柱，是传统的压力测量单位。血压受多种机制调节，包括循环血容量、心脏泵血强度、血管阻力以及醛固酮和血管紧张素等激素。持续升高的血压（高血压）迫使心脏超负荷工作，损伤血管壁，增加动脉粥样硬化、心脏病发作、脑卒中和肾脏病的风险。饮食、体力活动、体重和吸烟等生活方式因素均会影响血压。医疗机构将血压分类为：正常、升高、1期高血压（130–139/80–89）和2期高血压（≥140/90）。",
+    "domain": "macro"
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "title_zh": "心血管英语核心术语",
     "difficulty": 3,
     "content_en": "Mastering cardiovascular terminology requires understanding several recurring word roots. The prefix 'cardio-' (Greek: kardia) means heart and appears in cardiomyopathy (heart muscle disease), cardiology, and electrocardiogram (ECG). 'Angio-' refers to blood vessels, seen in angiography (imaging of blood vessels) and angioplasty (vessel repair). The suffix '-emia' denotes a blood condition: anemia means deficiency of red blood cells, leukemia denotes overproduction of abnormal white blood cells. The suffix '-itis' means inflammation; thus myocarditis is inflammation of the heart muscle. 'Tachy-' means fast (tachycardia = fast heart rate) while 'brady-' means slow (bradycardia = slow heart rate). The prefix 'hyper-' indicates excess (hypertension = high blood pressure) and 'hypo-' indicates deficiency (hypotension = low blood pressure). Understanding these building blocks allows clinicians and students to decode unfamiliar terms. For example, 'pericarditis' can be decoded as peri- (around) + cardi- (heart) + -itis (inflammation), meaning inflammation of the pericardium (the sac surrounding the heart).",
-    "content_zh": "掌握心血管术语需要理解几个反复出现的词根。前缀\"cardio-\"（希腊语：kardia）意为心脏，出现在心肌病（cardiomyopathy）、心脏病学（cardiology）和心电图（electrocardiogram/ECG）等词中。\"angio-\"指血管，见于血管造影（angiography，血管成像）和血管成形术（angioplasty，血管修复）。后缀\"-emia\"表示血液状态：贫血（anemia）意为红细胞不足，白血病（leukemia）表示异常白细胞过度增殖。后缀\"-itis\"意为炎症，因此心肌炎（myocarditis）是心肌的炎症。\"tachy-\"意为快速（心动过速=快速心率），而\"brady-\"意为缓慢（心动过缓=缓慢心率）。前缀\"hyper-\"表示过多（高血压=血压升高），\"hypo-\"表示不足（低血压=血压降低）。理解这些构词模块有助于解码陌生术语。例如，\"pericarditis\"可拆解为peri-（周围）+cardi-（心脏）+-itis（炎症），意为心包（环绕心脏的囊袋）的炎症。"
+    "content_zh": "掌握心血管术语需要理解几个反复出现的词根。前缀\"cardio-\"（希腊语：kardia）意为心脏，出现在心肌病（cardiomyopathy）、心脏病学（cardiology）和心电图（electrocardiogram/ECG）等词中。\"angio-\"指血管，见于血管造影（angiography，血管成像）和血管成形术（angioplasty，血管修复）。后缀\"-emia\"表示血液状态：贫血（anemia）意为红细胞不足，白血病（leukemia）表示异常白细胞过度增殖。后缀\"-itis\"意为炎症，因此心肌炎（myocarditis）是心肌的炎症。\"tachy-\"意为快速（心动过速=快速心率），而\"brady-\"意为缓慢（心动过缓=缓慢心率）。前缀\"hyper-\"表示过多（高血压=血压升高），\"hypo-\"表示不足（低血压=血压降低）。理解这些构词模块有助于解码陌生术语。例如，\"pericarditis\"可拆解为peri-（周围）+cardi-（心脏）+-itis（炎症），意为心包（环绕心脏的囊袋）的炎症。",
+    "domain": "macro"
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "title_zh": "一次呼吸的旅程",
     "difficulty": 1,
     "content_en": "Every breath you take follows a carefully designed pathway. Air enters through the nose or mouth, where it is filtered, warmed, and humidified. It then passes through the pharynx (throat) and larynx (voice box), which also contains the vocal cords. From the larynx, air flows into the trachea, the rigid cartilage-reinforced tube commonly called the windpipe. The trachea divides into two main bronchi, one leading to each lung. Inside the lungs, the bronchi branch repeatedly into smaller tubes—bronchioles—much like the branches of a tree. At the very end of this branching network are the alveoli, tiny grape-like air sacs where gas exchange happens. Oxygen from inhaled air diffuses across the thin walls of the alveoli into surrounding capillaries, entering the bloodstream. At the same time, carbon dioxide from the blood diffuses into the alveoli and is exhaled. This entire process—breathing in oxygen and breathing out carbon dioxide—is called external respiration. The lungs contain approximately 300 million alveoli, providing a total surface area roughly the size of a tennis court.",
-    "content_zh": "每一次呼吸都遵循一条精心设计的路径。空气从鼻子或口腔进入，在那里被过滤、加温和湿润。然后经过咽部（喉咙）和喉部（包含声带的发音器官）。从喉部，气流进入气管——一根由软骨加固的硬管，通常称为\"风管\"。气管分为两条主支气管，各通向一侧肺。在肺内，支气管反复分支形成更细的支气管，像树枝一样越分越细。在这一分支网络的末端是肺泡——微小的葡萄串状气囊，是气体交换发生的场所。吸入空气中的氧气透过肺泡薄壁扩散进入周围毛细血管，进入血液循环；同时，血液中的二氧化碳扩散进入肺泡并随呼气排出。这一完整过程——吸入氧气、呼出二氧化碳——称为外呼吸。肺部约有3亿个肺泡，总表面积大约相当于一个网球场的大小。"
+    "content_zh": "每一次呼吸都遵循一条精心设计的路径。空气从鼻子或口腔进入，在那里被过滤、加温和湿润。然后经过咽部（喉咙）和喉部（包含声带的发音器官）。从喉部，气流进入气管——一根由软骨加固的硬管，通常称为\"风管\"。气管分为两条主支气管，各通向一侧肺。在肺内，支气管反复分支形成更细的支气管，像树枝一样越分越细。在这一分支网络的末端是肺泡——微小的葡萄串状气囊，是气体交换发生的场所。吸入空气中的氧气透过肺泡薄壁扩散进入周围毛细血管，进入血液循环；同时，血液中的二氧化碳扩散进入肺泡并随呼气排出。这一完整过程——吸入氧气、呼出二氧化碳——称为外呼吸。肺部约有3亿个肺泡，总表面积大约相当于一个网球场的大小。",
+    "domain": "macro"
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "title_zh": "肺部结构与气体交换",
     "difficulty": 2,
     "content_en": "The lungs are paired organs that occupy most of the thoracic (chest) cavity, protected by the ribcage. The right lung has three lobes (superior, middle, inferior), while the left lung has only two lobes (superior and inferior) to accommodate the heart. Each lung is enclosed in a double-layered membrane called the pleura. The inner layer (visceral pleura) adheres to the lung surface; the outer layer (parietal pleura) lines the chest wall. Between these layers is a thin film of pleural fluid that reduces friction during breathing. Gas exchange occurs in the alveoli, where the blood-air barrier is extraordinarily thin—only 0.5 micrometers. This barrier consists of the alveolar epithelial cell, its basement membrane, and the endothelial cell of the capillary. Oxygen's partial pressure gradient drives it from alveolar air into capillary blood; carbon dioxide moves in the opposite direction. Surfactant, a mixture of lipids and proteins secreted by type II alveolar cells, lines the inner surface of alveoli, reducing surface tension and preventing collapse during exhalation. Respiratory failure can result when alveolar gas exchange is severely impaired by disease or injury.",
-    "content_zh": "肺是成对的器官，占据胸腔大部分空间，受肋骨保护。右肺有三个肺叶（上、中、下），左肺仅有两叶（上、下），为心脏腾出空间。每侧肺外覆双层膜，称为胸膜：内层（脏胸膜）贴附于肺表面，外层（壁胸膜）衬于胸壁内侧。两层之间有薄层胸膜液，减少呼吸时的摩擦。气体交换发生在肺泡中，血气屏障极薄，仅约0.5微米，由肺泡上皮细胞、其基底膜和毛细血管内皮细胞组成。氧气的分压梯度驱使其从肺泡气扩散进入毛细血管血液，二氧化碳则反向移动。肺表面活性物质是由II型肺泡细胞分泌的脂质与蛋白质混合物，覆盖肺泡内表面，降低表面张力，防止呼气时肺泡萎陷。当疾病或损伤严重损害肺泡气体交换时，可发生呼吸衰竭。"
+    "content_zh": "肺是成对的器官，占据胸腔大部分空间，受肋骨保护。右肺有三个肺叶（上、中、下），左肺仅有两叶（上、下），为心脏腾出空间。每侧肺外覆双层膜，称为胸膜：内层（脏胸膜）贴附于肺表面，外层（壁胸膜）衬于胸壁内侧。两层之间有薄层胸膜液，减少呼吸时的摩擦。气体交换发生在肺泡中，血气屏障极薄，仅约0.5微米，由肺泡上皮细胞、其基底膜和毛细血管内皮细胞组成。氧气的分压梯度驱使其从肺泡气扩散进入毛细血管血液，二氧化碳则反向移动。肺表面活性物质是由II型肺泡细胞分泌的脂质与蛋白质混合物，覆盖肺泡内表面，降低表面张力，防止呼气时肺泡萎陷。当疾病或损伤严重损害肺泡气体交换时，可发生呼吸衰竭。",
+    "domain": "macro"
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@
     "title_zh": "呼吸系统医学词汇",
     "difficulty": 3,
     "content_en": "The prefix 'pneumo-' (from Greek pneumon, lung) is central to respiratory vocabulary. Pneumonia means lung inflammation; pneumothorax describes air in the pleural space causing lung collapse. 'Bronch-' refers to the bronchial tubes: bronchitis is bronchial inflammation, bronchiectasis (bronch- + -ectasis, dilation) is permanent bronchial widening. The Latin root 'pulmo-' also means lung, giving us pulmonary (relating to lungs) and pulmonologist. The prefix 'a-' creates negation: apnea (a- + -pnea, breathing) means cessation of breathing. Dyspnea (dys-, difficulty + -pnea) means labored breathing. Hemoptysis combines hemo- (blood) and -ptysis (spitting), describing blood coughed from the airways. The suffix '-scopy' (to examine) gives us bronchoscopy: visual examination of the bronchi using an endoscope. 'Spirometry' derives from Latin spiro (to breathe) and Greek metron (measure). Cyanosis (-osis, condition) refers to the bluish skin discoloration from low blood oxygen. Understanding these roots and suffixes lets medical students and learners decode complex terms: for instance, 'tracheobronchitis' immediately communicates inflammation of both the trachea and bronchi.",
-    "content_zh": "前缀\"pneumo-\"（源自希腊语pneumon，肺）是呼吸系统词汇的核心。Pneumonia意为肺部炎症；pneumothorax描述胸膜腔内积气导致肺萎陷。\"bronch-\"指支气管：bronchitis是支气管炎，bronchiectasis（bronch-+ectasis，扩张）是支气管永久性扩张。拉丁语词根\"pulmo-\"也意为肺，派生出pulmonary（肺部的）和pulmonologist（肺科医生）。前缀\"a-\"表示否定：apnea（a-+-pnea，呼吸）意为呼吸停止；dyspnea（dys-，困难+-pnea）意为呼吸困难。Hemoptysis结合了hemo-（血液）和-ptysis（咳出），描述从气道咳出血液。后缀\"-scopy\"（检查）派生出bronchoscopy——使用内窥镜目视检查支气管。\"Spirometry\"来自拉丁语spiro（呼吸）和希腊语metron（测量）。Cyanosis（-osis，状态）指血氧不足引起的皮肤发蓝。理解这些词根和后缀可帮助医学生解读复杂术语：例如，\"tracheobronchitis\"直接传达了气管和支气管同时发炎的含义。"
+    "content_zh": "前缀\"pneumo-\"（源自希腊语pneumon，肺）是呼吸系统词汇的核心。Pneumonia意为肺部炎症；pneumothorax描述胸膜腔内积气导致肺萎陷。\"bronch-\"指支气管：bronchitis是支气管炎，bronchiectasis（bronch-+ectasis，扩张）是支气管永久性扩张。拉丁语词根\"pulmo-\"也意为肺，派生出pulmonary（肺部的）和pulmonologist（肺科医生）。前缀\"a-\"表示否定：apnea（a-+-pnea，呼吸）意为呼吸停止；dyspnea（dys-，困难+-pnea）意为呼吸困难。Hemoptysis结合了hemo-（血液）和-ptysis（咳出），描述从气道咳出血液。后缀\"-scopy\"（检查）派生出bronchoscopy——使用内窥镜目视检查支气管。\"Spirometry\"来自拉丁语spiro（呼吸）和希腊语metron（测量）。Cyanosis（-osis，状态）指血氧不足引起的皮肤发蓝。理解这些词根和后缀可帮助医学生解读复杂术语：例如，\"tracheobronchitis\"直接传达了气管和支气管同时发炎的含义。",
+    "domain": "macro"
   },
   {
     "id": 7,
@@ -60,7 +66,8 @@
     "title_zh": "神经元：神经系统的基本单位",
     "difficulty": 1,
     "content_en": "The nervous system is built from specialized cells called neurons. Each neuron has three main parts: the cell body (soma), which contains the nucleus; dendrites, branching projections that receive signals from other neurons; and an axon, a long single projection that transmits signals away from the cell body toward other neurons or muscles. Signals travel along neurons as electrical impulses called action potentials. When an action potential reaches the end of an axon (the axon terminal), it triggers the release of chemical messengers called neurotransmitters into the synapse—the small gap between neurons. Neurotransmitters cross the synapse and bind to receptors on the next neuron, either exciting or inhibiting it. Many axons are wrapped in myelin, a fatty insulating sheath produced by glial cells. Myelin speeds up signal transmission dramatically and gives the brain's 'white matter' its characteristic color. The nervous system contains approximately 86 billion neurons. In addition to neurons, glial cells (including astrocytes, oligodendrocytes, and microglia) provide structural support, produce myelin, and maintain the brain's environment.",
-    "content_zh": "神经系统由称为神经元的特化细胞构成。每个神经元有三个主要部分：含有细胞核的细胞体（胞体）；树突，接收来自其他神经元信号的树状突起；以及轴突，一个将信号从细胞体向外传向其他神经元或肌肉的长突起。信号以称为动作电位的电冲动沿神经元传导。当动作电位到达轴突末端（轴突终扣）时，会触发化学信使——神经递质——释放到突触（神经元之间的微小间隙）中。神经递质穿越突触并与下一个神经元上的受体结合，发挥兴奋性或抑制性作用。许多轴突被髓鞘包裹，这是由胶质细胞产生的脂质绝缘鞘。髓鞘能显著加快信号传导速度，并赋予大脑\"白质\"其特有的颜色。神经系统约含860亿个神经元。除神经元外，胶质细胞（包括星形胶质细胞、少突胶质细胞和小胶质细胞）提供结构支持、产生髓鞘并维持大脑环境。"
+    "content_zh": "神经系统由称为神经元的特化细胞构成。每个神经元有三个主要部分：含有细胞核的细胞体（胞体）；树突，接收来自其他神经元信号的树状突起；以及轴突，一个将信号从细胞体向外传向其他神经元或肌肉的长突起。信号以称为动作电位的电冲动沿神经元传导。当动作电位到达轴突末端（轴突终扣）时，会触发化学信使——神经递质——释放到突触（神经元之间的微小间隙）中。神经递质穿越突触并与下一个神经元上的受体结合，发挥兴奋性或抑制性作用。许多轴突被髓鞘包裹，这是由胶质细胞产生的脂质绝缘鞘。髓鞘能显著加快信号传导速度，并赋予大脑\"白质\"其特有的颜色。神经系统约含860亿个神经元。除神经元外，胶质细胞（包括星形胶质细胞、少突胶质细胞和小胶质细胞）提供结构支持、产生髓鞘并维持大脑环境。",
+    "domain": "macro"
   },
   {
     "id": 8,
@@ -69,7 +76,8 @@
     "title_zh": "中枢神经系统与周围神经系统",
     "difficulty": 2,
     "content_en": "The nervous system is divided into two major parts. The central nervous system (CNS) consists of the brain and spinal cord, enclosed and protected by bone (the skull and vertebral column) and three layers of membrane called meninges. The brain is responsible for processing sensory information, generating thoughts and emotions, coordinating movement, and regulating bodily functions. The spinal cord serves as the communication highway between the brain and the rest of the body, and also mediates reflexes independent of the brain. The peripheral nervous system (PNS) includes all neural tissue outside the CNS—the cranial nerves and spinal nerves that branch throughout the body. The PNS is further divided into the somatic nervous system, which controls voluntary muscle movement and carries sensory information; and the autonomic nervous system (ANS), which regulates involuntary functions such as heart rate, digestion, and breathing. The ANS has two branches: the sympathetic system ('fight or flight'), which prepares the body for stress, and the parasympathetic system ('rest and digest'), which promotes recovery and energy conservation.",
-    "content_zh": "神经系统分为两大部分。中枢神经系统（CNS）由脑和脊髓组成，被骨骼（颅骨和脊椎）以及称为脑膜的三层膜包裹保护。大脑负责处理感觉信息、产生思维和情感、协调运动及调节身体功能。脊髓是大脑与全身之间的通信高速公路，也介导独立于大脑的反射活动。周围神经系统（PNS）包括CNS以外的所有神经组织——遍布全身的脑神经和脊神经。PNS进一步分为躯体神经系统（控制随意肌运动并传递感觉信息）和自主神经系统（ANS，调节心率、消化和呼吸等不随意功能）。ANS有两个分支：交感神经系统（\"战斗或逃跑\"，使机体为应激做好准备）和副交感神经系统（\"休息与消化\"，促进恢复和节约能量）。"
+    "content_zh": "神经系统分为两大部分。中枢神经系统（CNS）由脑和脊髓组成，被骨骼（颅骨和脊椎）以及称为脑膜的三层膜包裹保护。大脑负责处理感觉信息、产生思维和情感、协调运动及调节身体功能。脊髓是大脑与全身之间的通信高速公路，也介导独立于大脑的反射活动。周围神经系统（PNS）包括CNS以外的所有神经组织——遍布全身的脑神经和脊神经。PNS进一步分为躯体神经系统（控制随意肌运动并传递感觉信息）和自主神经系统（ANS，调节心率、消化和呼吸等不随意功能）。ANS有两个分支：交感神经系统（\"战斗或逃跑\"，使机体为应激做好准备）和副交感神经系统（\"休息与消化\"，促进恢复和节约能量）。",
+    "domain": "macro"
   },
   {
     "id": 9,
@@ -78,7 +86,8 @@
     "title_zh": "神经系统医学词汇",
     "difficulty": 3,
     "content_en": "The prefix 'neuro-' (Greek: neuron, nerve) underpins much of neurological vocabulary. Neurology is the study of nervous system disorders; a neurologist is the physician specialist. Neuropathy (-pathy, disease) refers to peripheral nerve disease. Neuralgia (neuro- + -algia, pain) is nerve pain. 'Encephalo-' (Greek: enkephalos, brain) appears in encephalitis (brain inflammation) and electroencephalogram (EEG), the brain's electrical recording. The prefix 'myelo-' refers to bone marrow or the spinal cord: myelopathy is spinal cord disease. '-Plegia' denotes paralysis: hemiplegia (hemi-, half) is one-sided paralysis, paraplegia (para-, beside) is lower-body paralysis, and quadriplegia (quadri-, four) is all four limbs. 'Meninges' are the brain's protective membranes; meningitis is their inflammation. 'Cerebro-' refers to the cerebrum: cerebrovascular disease affects brain blood vessels. The combining form '-sclerosis' (hardening) appears in multiple sclerosis (MS), a disease where the myelin sheaths of neurons are progressively damaged. Dementia describes cognitive decline; its most common form, Alzheimer's disease, involves accumulation of abnormal protein plaques in the brain.",
-    "content_zh": "前缀\"neuro-\"（希腊语：neuron，神经）是神经病学词汇的基础。Neurology是研究神经系统疾病的学科，neurologist是神经病学专科医生。Neuropathy（-pathy，疾病）指周围神经疾病；neuralgia（neuro-+-algia，疼痛）是神经痛。\"Encephalo-\"（希腊语：enkephalos，脑）出现在脑炎（encephalitis）和脑电图（electroencephalogram，EEG）中。前缀\"myelo-\"指骨髓或脊髓：myelopathy是脊髓疾病。\"-plegia\"表示瘫痪：hemiplegia（hemi-，半）是单侧瘫痪，paraplegia（para-，旁边）是下半身瘫痪，quadriplegia（quadri-，四）是四肢瘫痪。\"Meninges\"是大脑的保护膜，meningitis是其炎症。\"Cerebro-\"指大脑：脑血管疾病影响脑内血管。组合形式\"-sclerosis\"（硬化）出现在多发性硬化（MS）中，这是一种神经元髓鞘进行性受损的疾病。痴呆症描述认知功能下降，其最常见形式阿尔茨海默病涉及脑内异常蛋白质斑块的积聚。"
+    "content_zh": "前缀\"neuro-\"（希腊语：neuron，神经）是神经病学词汇的基础。Neurology是研究神经系统疾病的学科，neurologist是神经病学专科医生。Neuropathy（-pathy，疾病）指周围神经疾病；neuralgia（neuro-+-algia，疼痛）是神经痛。\"Encephalo-\"（希腊语：enkephalos，脑）出现在脑炎（encephalitis）和脑电图（electroencephalogram，EEG）中。前缀\"myelo-\"指骨髓或脊髓：myelopathy是脊髓疾病。\"-plegia\"表示瘫痪：hemiplegia（hemi-，半）是单侧瘫痪，paraplegia（para-，旁边）是下半身瘫痪，quadriplegia（quadri-，四）是四肢瘫痪。\"Meninges\"是大脑的保护膜，meningitis是其炎症。\"Cerebro-\"指大脑：脑血管疾病影响脑内血管。组合形式\"-sclerosis\"（硬化）出现在多发性硬化（MS）中，这是一种神经元髓鞘进行性受损的疾病。痴呆症描述认知功能下降，其最常见形式阿尔茨海默病涉及脑内异常蛋白质斑块的积聚。",
+    "domain": "macro"
   },
   {
     "id": 10,
@@ -87,7 +96,8 @@
     "title_zh": "从口腔到结肠：消化旅程",
     "difficulty": 1,
     "content_en": "Digestion is the process of breaking down food into nutrients the body can absorb and use. The journey begins in the mouth, where teeth mechanically crush food and salivary amylase begins breaking down starches. After swallowing, food travels through the esophagus via peristalsis—wave-like muscular contractions—into the stomach. The stomach's acid environment (pH 1.5–3.5) denatures proteins and activates digestive enzymes. The semi-liquid mixture, called chyme, then passes through the pyloric valve into the small intestine, the primary site of digestion and nutrient absorption. The small intestine has three sections: the duodenum, jejunum, and ileum. Here, bile from the liver and enzymes from the pancreas complete the breakdown of fats, proteins, and carbohydrates. Nutrients are absorbed through the intestinal lining into the bloodstream. The remaining undigested material enters the large intestine (colon), where water and electrolytes are reabsorbed. Bacteria in the colon further process material, producing some vitamins. The final waste product (feces) is stored in the rectum and eliminated through the anus.",
-    "content_zh": "消化是将食物分解为机体可吸收利用的营养素的过程。这一旅程从口腔开始——牙齿机械性地咀嚼食物，唾液淀粉酶开始分解淀粉。吞咽后，食物通过蠕动（波浪状肌肉收缩运动）沿食管进入胃部。胃的酸性环境（pH 1.5–3.5）使蛋白质变性并激活消化酶。这种半液态混合物（称为食糜）随后通过幽门瓣进入小肠——消化和营养吸收的主要部位。小肠分三段：十二指肠、空肠和回肠。在这里，来自肝脏的胆汁和来自胰腺的酶完成脂肪、蛋白质和碳水化合物的分解。营养素通过肠黏膜吸收进入血液。剩余未消化物质进入大肠（结肠），在那里水和电解质被重新吸收。结肠中的细菌进一步处理这些物质，产生一些维生素。最终废物（粪便）储存在直肠中并通过肛门排出。"
+    "content_zh": "消化是将食物分解为机体可吸收利用的营养素的过程。这一旅程从口腔开始——牙齿机械性地咀嚼食物，唾液淀粉酶开始分解淀粉。吞咽后，食物通过蠕动（波浪状肌肉收缩运动）沿食管进入胃部。胃的酸性环境（pH 1.5–3.5）使蛋白质变性并激活消化酶。这种半液态混合物（称为食糜）随后通过幽门瓣进入小肠——消化和营养吸收的主要部位。小肠分三段：十二指肠、空肠和回肠。在这里，来自肝脏的胆汁和来自胰腺的酶完成脂肪、蛋白质和碳水化合物的分解。营养素通过肠黏膜吸收进入血液。剩余未消化物质进入大肠（结肠），在那里水和电解质被重新吸收。结肠中的细菌进一步处理这些物质，产生一些维生素。最终废物（粪便）储存在直肠中并通过肛门排出。",
+    "domain": "macro"
   },
   {
     "id": 11,
@@ -96,7 +106,8 @@
     "title_zh": "肝脏的功能",
     "difficulty": 2,
     "content_en": "The liver is the largest internal organ, weighing approximately 1.4 kilograms in adults, and performs over 500 essential functions. It is located in the upper right abdomen, beneath the diaphragm. Among its key roles: metabolism regulation—the liver processes carbohydrates, fats, and proteins; it converts excess glucose to glycogen for storage (glycogenesis) and releases it back as needed (glycogenolysis). Protein synthesis—the liver produces many important plasma proteins, including albumin, clotting factors, and immune proteins. Detoxification—the liver filters toxins, drugs, and metabolic waste products from the blood, converting them into less harmful forms for excretion. Bile production—the liver produces bile, a digestive fluid stored in the gallbladder and released into the duodenum to emulsify fats. Storage—the liver stores vitamins A, D, E, K, and B12, as well as iron and copper. The liver receives a dual blood supply: oxygenated blood from the hepatic artery and nutrient-rich blood from the portal vein. Liver disease can range from fatty liver (hepatic steatosis) and viral hepatitis to cirrhosis and hepatocellular carcinoma (liver cancer).",
-    "content_zh": "肝脏是最大的内脏器官，成人约重1.4公斤，执行500多种重要功能。它位于右上腹，横膈膜下方。其主要功能包括：代谢调节——肝脏处理碳水化合物、脂肪和蛋白质；将多余葡萄糖转化为糖原储存（糖原合成），并在需要时释放回来（糖原分解）。蛋白质合成——肝脏产生许多重要的血浆蛋白，包括白蛋白、凝血因子和免疫蛋白。解毒——肝脏过滤血液中的毒素、药物和代谢废物，将其转化为危害较小的形式以便排泄。胆汁生成——肝脏产生胆汁，这是一种储存在胆囊中并释放到十二指肠以乳化脂肪的消化液。储存功能——肝脏储存维生素A、D、E、K和B12，以及铁和铜。肝脏接受双重血液供应：来自肝动脉的含氧血和来自门静脉的富含营养的血液。肝脏疾病范围从脂肪肝（肝脂肪变性）和病毒性肝炎到肝硬化和肝细胞癌（肝癌）。"
+    "content_zh": "肝脏是最大的内脏器官，成人约重1.4公斤，执行500多种重要功能。它位于右上腹，横膈膜下方。其主要功能包括：代谢调节——肝脏处理碳水化合物、脂肪和蛋白质；将多余葡萄糖转化为糖原储存（糖原合成），并在需要时释放回来（糖原分解）。蛋白质合成——肝脏产生许多重要的血浆蛋白，包括白蛋白、凝血因子和免疫蛋白。解毒——肝脏过滤血液中的毒素、药物和代谢废物，将其转化为危害较小的形式以便排泄。胆汁生成——肝脏产生胆汁，这是一种储存在胆囊中并释放到十二指肠以乳化脂肪的消化液。储存功能——肝脏储存维生素A、D、E、K和B12，以及铁和铜。肝脏接受双重血液供应：来自肝动脉的含氧血和来自门静脉的富含营养的血液。肝脏疾病范围从脂肪肝（肝脂肪变性）和病毒性肝炎到肝硬化和肝细胞癌（肝癌）。",
+    "domain": "macro"
   },
   {
     "id": 12,
@@ -105,7 +116,8 @@
     "title_zh": "消化系统医学词汇",
     "difficulty": 3,
     "content_en": "The digestive system has a rich vocabulary drawn from Greek and Latin roots. 'Gastro-' (stomach): gastritis (stomach inflammation), gastroenterology (study of the digestive system), gastrectomy (-ectomy, removal) is surgical removal of the stomach. 'Hepato-' (liver): hepatitis, hepatomegaly (liver enlargement), hepatocellular (relating to liver cells). 'Entero-' (intestine): enteritis, enteroscopy, parenteral (par- + enteral, bypassing the intestine—referring to intravenous nutrition). 'Colo-' or 'colono-' (colon): colonoscopy, colitis, colostomy (-ostomy, creating an artificial opening). '-Phagia' (eating or swallowing): dysphagia (difficult swallowing), odynophagia (painful swallowing). '-Emesis' (vomiting): hematemesis (vomiting blood). 'Bili-' (bile): bilirubin (the yellow pigment from hemoglobin breakdown, elevated in jaundice), biliary (relating to bile ducts). 'Chol-' or 'cholecyst-' (bile, gallbladder): cholelithiasis (gallstones), cholecystectomy (gallbladder removal). The suffix '-scopy' is critical: gastroscopy, colonoscopy, and proctoscopy all refer to endoscopic examination of different sections of the GI tract.",
-    "content_zh": "消化系统有丰富的来自希腊语和拉丁语词根的词汇。\"Gastro-\"（胃）：胃炎（gastritis）、消化内科学（gastroenterology）、胃切除术（gastrectomy，-ectomy，切除）是手术切除胃。\"Hepato-\"（肝）：肝炎（hepatitis）、肝肿大（hepatomegaly）、肝细胞的（hepatocellular）。\"Entero-\"（肠）：小肠炎（enteritis）、小肠镜检查（enteroscopy）、胃肠外的（parenteral，par-+enteral，绕过肠道，指静脉营养）。\"Colo-\"或\"colono-\"（结肠）：结肠镜（colonoscopy）、结肠炎（colitis）、结肠造口术（colostomy，-ostomy，人工开口）。\"-Phagia\"（进食或吞咽）：吞咽困难（dysphagia）、吞咽疼痛（odynophagia）。\"-Emesis\"（呕吐）：呕血（hematemesis）。\"Bili-\"（胆）：胆红素（bilirubin，来自血红蛋白分解的黄色色素，黄疸时升高）、胆道的（biliary）。\"Chol-\"或\"cholecyst-\"（胆汁，胆囊）：胆石症（cholelithiasis）、胆囊切除术（cholecystectomy）。后缀\"-scopy\"至关重要：胃镜检查（gastroscopy）、结肠镜检查（colonoscopy）和直肠镜检查（proctoscopy）均指不同消化道节段的内窥镜检查。"
+    "content_zh": "消化系统有丰富的来自希腊语和拉丁语词根的词汇。\"Gastro-\"（胃）：胃炎（gastritis）、消化内科学（gastroenterology）、胃切除术（gastrectomy，-ectomy，切除）是手术切除胃。\"Hepato-\"（肝）：肝炎（hepatitis）、肝肿大（hepatomegaly）、肝细胞的（hepatocellular）。\"Entero-\"（肠）：小肠炎（enteritis）、小肠镜检查（enteroscopy）、胃肠外的（parenteral，par-+enteral，绕过肠道，指静脉营养）。\"Colo-\"或\"colono-\"（结肠）：结肠镜（colonoscopy）、结肠炎（colitis）、结肠造口术（colostomy，-ostomy，人工开口）。\"-Phagia\"（进食或吞咽）：吞咽困难（dysphagia）、吞咽疼痛（odynophagia）。\"-Emesis\"（呕吐）：呕血（hematemesis）。\"Bili-\"（胆）：胆红素（bilirubin，来自血红蛋白分解的黄色色素，黄疸时升高）、胆道的（biliary）。\"Chol-\"或\"cholecyst-\"（胆汁，胆囊）：胆石症（cholelithiasis）、胆囊切除术（cholecystectomy）。后缀\"-scopy\"至关重要：胃镜检查（gastroscopy）、结肠镜检查（colonoscopy）和直肠镜检查（proctoscopy）均指不同消化道节段的内窥镜检查。",
+    "domain": "macro"
   },
   {
     "id": 13,
@@ -114,7 +126,8 @@
     "title_zh": "骨骼与肌肉如何协同工作",
     "difficulty": 1,
     "content_en": "The musculoskeletal system provides the framework that supports the body, enables movement, protects internal organs, and produces blood cells. The adult human skeleton contains 206 bones, which are living tissues constantly being remodeled through the activity of bone-forming cells (osteoblasts) and bone-resorbing cells (osteoclasts). Bones are connected to each other at joints, which can be fixed (like skull sutures), slightly movable (like between vertebrae), or freely movable (synovial joints, like the knee). Skeletal muscles attach to bones via tendons. When a muscle contracts, it pulls on the bone, creating movement. Most movements require pairs of muscles working in opposition: while one muscle (the agonist) contracts, the opposing muscle (the antagonist) relaxes. The biceps and triceps are a classic example—when you bend your elbow, the biceps contracts and the triceps relaxes. Ligaments are tough fibrous bands that connect bone to bone at joints, providing stability. Cartilage covers the articular (joint) surfaces of bones, absorbing shock and allowing smooth, low-friction movement. Regular physical activity strengthens both bone and muscle tissue.",
-    "content_zh": "肌肉骨骼系统提供支撑身体的框架，使运动成为可能，保护内脏器官并产生血细胞。成人骨架含206块骨，它们是活体组织，通过成骨细胞（osteoblasts）和破骨细胞（osteoclasts）的活动不断被重塑。骨骼通过关节相互连接，关节可以是固定的（如颅骨缝）、微动的（如椎间关节）或可自由活动的（滑膜关节，如膝关节）。骨骼肌通过肌腱附着于骨骼。当肌肉收缩时，它牵拉骨骼产生运动。大多数运动需要一对肌肉相互对抗：当一块肌肉（主动肌）收缩时，对侧肌肉（拮抗肌）放松。肱二头肌和肱三头肌是经典例子——弯曲肘关节时，肱二头肌收缩，肱三头肌放松。韧带是将关节处骨骼相互连接的坚韧纤维带，提供稳定性。软骨覆盖骨骼的关节面，吸收冲击并使关节运动顺畅低摩擦。规律的体力活动能增强骨骼和肌肉组织。"
+    "content_zh": "肌肉骨骼系统提供支撑身体的框架，使运动成为可能，保护内脏器官并产生血细胞。成人骨架含206块骨，它们是活体组织，通过成骨细胞（osteoblasts）和破骨细胞（osteoclasts）的活动不断被重塑。骨骼通过关节相互连接，关节可以是固定的（如颅骨缝）、微动的（如椎间关节）或可自由活动的（滑膜关节，如膝关节）。骨骼肌通过肌腱附着于骨骼。当肌肉收缩时，它牵拉骨骼产生运动。大多数运动需要一对肌肉相互对抗：当一块肌肉（主动肌）收缩时，对侧肌肉（拮抗肌）放松。肱二头肌和肱三头肌是经典例子——弯曲肘关节时，肱二头肌收缩，肱三头肌放松。韧带是将关节处骨骼相互连接的坚韧纤维带，提供稳定性。软骨覆盖骨骼的关节面，吸收冲击并使关节运动顺畅低摩擦。规律的体力活动能增强骨骼和肌肉组织。",
+    "domain": "macro"
   },
   {
     "id": 14,
@@ -123,7 +136,8 @@
     "title_zh": "滑膜关节的类型",
     "difficulty": 2,
     "content_en": "Synovial joints are the most common and most mobile type of joint in the body. They are characterized by a joint cavity filled with synovial fluid, which lubricates and nourishes the cartilage. The six main types of synovial joints are classified by the shape of their articulating surfaces and the movements they permit. Ball-and-socket joints (e.g., hip, shoulder) allow the greatest range of movement in all planes. Hinge joints (e.g., elbow, knee) allow flexion and extension in one plane only. Pivot joints (e.g., the joint between the first two cervical vertebrae) allow rotation. Condyloid (ellipsoid) joints (e.g., wrist, metacarpophalangeal joints of the fingers) permit flexion, extension, and circumduction. Saddle joints (e.g., the thumb's carpometacarpal joint) allow movement in two planes. Plane (gliding) joints (e.g., between carpal bones of the wrist) allow small gliding movements. Synovial joints are stabilized by ligaments and surrounding muscles. Damage to a joint's cartilage (as in osteoarthritis) or its synovial lining (as in rheumatoid arthritis) leads to pain and reduced mobility. Joint replacements (arthroplasty) are surgical procedures that replace damaged joint surfaces.",
-    "content_zh": "滑膜关节是体内最常见、活动度最大的关节类型。其特征是充满滑液的关节腔——滑液对软骨起润滑和营养作用。根据关节面形状和允许的运动类型，滑膜关节分为六种主要类型。球窝关节（如髋关节、肩关节）允许各个方向最大范围的运动。铰链关节（如肘关节、膝关节）仅允许在一个平面内屈伸。枢轴关节（如第一、二颈椎之间的关节）允许旋转。髁状（椭圆）关节（如腕关节、指掌关节）允许屈伸和环转。鞍状关节（如拇指腕掌关节）允许两个平面的运动。平面（滑动）关节（如腕骨间关节）允许小幅滑动。滑膜关节由韧带和周围肌肉稳定。关节软骨损伤（如骨关节炎）或滑膜损伤（如类风湿关节炎）导致疼痛和活动受限。关节置换术（arthroplasty）是替换受损关节面的外科手术。"
+    "content_zh": "滑膜关节是体内最常见、活动度最大的关节类型。其特征是充满滑液的关节腔——滑液对软骨起润滑和营养作用。根据关节面形状和允许的运动类型，滑膜关节分为六种主要类型。球窝关节（如髋关节、肩关节）允许各个方向最大范围的运动。铰链关节（如肘关节、膝关节）仅允许在一个平面内屈伸。枢轴关节（如第一、二颈椎之间的关节）允许旋转。髁状（椭圆）关节（如腕关节、指掌关节）允许屈伸和环转。鞍状关节（如拇指腕掌关节）允许两个平面的运动。平面（滑动）关节（如腕骨间关节）允许小幅滑动。滑膜关节由韧带和周围肌肉稳定。关节软骨损伤（如骨关节炎）或滑膜损伤（如类风湿关节炎）导致疼痛和活动受限。关节置换术（arthroplasty）是替换受损关节面的外科手术。",
+    "domain": "macro"
   },
   {
     "id": 15,
@@ -132,7 +146,8 @@
     "title_zh": "肌肉骨骼系统术语",
     "difficulty": 3,
     "content_en": "The prefix 'osteo-' (Greek: osteon, bone) appears throughout orthopedic vocabulary. Osteology is the study of bones; an osteoblast builds bone while an osteoclast breaks it down; osteoporosis (-porosis, porous) is loss of bone density; osteoma is a benign bone tumor. 'Arthro-' (Greek: arthron, joint) gives us arthrology, arthritis, arthroscopy (joint camera examination), and arthroplasty (surgical joint reconstruction). 'Myo-' or 'my-' (Greek: mys, muscle) appears in myopathy (muscle disease), myalgia (muscle pain), and myositis (muscle inflammation). Tendons connect muscle to bone (tendinitis = tendon inflammation); ligaments connect bone to bone (from Latin ligare, to bind). Key movement terms: flexion reduces a joint angle; extension increases it. Abduction moves a limb away from the body's midline; adduction moves it toward the midline. Pronation turns the forearm palms-down; supination turns them palms-up. The suffix '-trophy' describes growth or nourishment: hypertrophy is increase in muscle size (from training); atrophy is wasting due to disuse or disease. 'Scoliosis' (Greek: skolios, crooked) is lateral spinal curvature.",
-    "content_zh": "前缀\"osteo-\"（希腊语：osteon，骨）贯穿骨科词汇。Osteology是骨骼研究；成骨细胞（osteoblast）构建骨骼，而破骨细胞（osteoclast）分解骨骼；骨质疏松症（osteoporosis，-porosis，多孔）是骨密度下降；骨瘤（osteoma）是良性骨肿瘤。\"Arthro-\"（希腊语：arthron，关节）派生出关节学（arthrology）、关节炎（arthritis）、关节镜检查（arthroscopy，关节摄像检查）和关节成形术（arthroplasty，外科关节重建）。\"Myo-\"或\"my-\"（希腊语：mys，肌肉）出现在肌病（myopathy）、肌痛（myalgia）和肌炎（myositis）中。肌腱将肌肉连接到骨骼（腱炎=腱炎），韧带将骨骼连接到骨骼（来自拉丁语ligare，绑定）。关键运动术语：屈曲减小关节角度；伸展增大角度。外展使肢体远离身体中线；内收使其靠近中线。旋前使前臂掌心朝下；旋后使掌心朝上。后缀\"-trophy\"描述生长或营养：肥大（hypertrophy）是肌肉体积增加（由训练引起）；萎缩（atrophy）是由废用或疾病引起的消耗。\"脊柱侧凸\"（scoliosis，希腊语：skolios，弯曲）是脊柱侧向弯曲。"
+    "content_zh": "前缀\"osteo-\"（希腊语：osteon，骨）贯穿骨科词汇。Osteology是骨骼研究；成骨细胞（osteoblast）构建骨骼，而破骨细胞（osteoclast）分解骨骼；骨质疏松症（osteoporosis，-porosis，多孔）是骨密度下降；骨瘤（osteoma）是良性骨肿瘤。\"Arthro-\"（希腊语：arthron，关节）派生出关节学（arthrology）、关节炎（arthritis）、关节镜检查（arthroscopy，关节摄像检查）和关节成形术（arthroplasty，外科关节重建）。\"Myo-\"或\"my-\"（希腊语：mys，肌肉）出现在肌病（myopathy）、肌痛（myalgia）和肌炎（myositis）中。肌腱将肌肉连接到骨骼（腱炎=腱炎），韧带将骨骼连接到骨骼（来自拉丁语ligare，绑定）。关键运动术语：屈曲减小关节角度；伸展增大角度。外展使肢体远离身体中线；内收使其靠近中线。旋前使前臂掌心朝下；旋后使掌心朝上。后缀\"-trophy\"描述生长或营养：肥大（hypertrophy）是肌肉体积增加（由训练引起）；萎缩（atrophy）是由废用或疾病引起的消耗。\"脊柱侧凸\"（scoliosis，希腊语：skolios，弯曲）是脊柱侧向弯曲。",
+    "domain": "macro"
   },
   {
     "id": 16,
@@ -141,7 +156,8 @@
     "title_zh": "激素如何调控机体功能",
     "difficulty": 1,
     "content_en": "The endocrine system uses chemical messengers called hormones to regulate many of the body's functions, from metabolism and growth to reproduction and stress response. Hormones are produced by endocrine glands—including the pituitary, thyroid, parathyroid, adrenal glands, pancreas, and gonads (testes or ovaries)—and are secreted directly into the bloodstream. Unlike nerve signals (which are rapid and localized), hormonal signals are slower but can affect distant target cells throughout the body. A target cell responds to a specific hormone only if it has the matching receptor. Once a hormone binds to its receptor, it triggers intracellular changes that alter cell function. Hormone levels are tightly regulated through feedback loops. In a negative feedback system—the most common type—elevated hormone levels signal the gland to reduce production, stabilizing concentrations. For example, when blood thyroid hormone rises above normal, the pituitary gland decreases secretion of thyroid-stimulating hormone (TSH), telling the thyroid to slow production. This elegant self-regulating system maintains homeostasis—the stable internal environment essential for health.",
-    "content_zh": "内分泌系统利用称为激素的化学信使调节机体的许多功能，包括代谢、生长、生殖和应激反应。激素由内分泌腺（包括垂体、甲状腺、甲状旁腺、肾上腺、胰腺和性腺）产生，并直接分泌到血液中。与神经信号（快速且局限）不同，激素信号较慢，但可以影响全身遥远的靶细胞。靶细胞只有在拥有匹配受体时才会对特定激素做出反应。一旦激素与其受体结合，便会触发改变细胞功能的胞内变化。激素水平通过反馈回路被精确调控。在负反馈系统（最常见类型）中，激素水平升高会向腺体发出减少生产的信号，从而维持浓度稳定。例如，当血液中甲状腺激素高于正常水平时，垂体会减少促甲状腺激素（TSH）的分泌，告诉甲状腺减少产量。这一精妙的自我调节系统维持着稳态——健康所必需的稳定内部环境。"
+    "content_zh": "内分泌系统利用称为激素的化学信使调节机体的许多功能，包括代谢、生长、生殖和应激反应。激素由内分泌腺（包括垂体、甲状腺、甲状旁腺、肾上腺、胰腺和性腺）产生，并直接分泌到血液中。与神经信号（快速且局限）不同，激素信号较慢，但可以影响全身遥远的靶细胞。靶细胞只有在拥有匹配受体时才会对特定激素做出反应。一旦激素与其受体结合，便会触发改变细胞功能的胞内变化。激素水平通过反馈回路被精确调控。在负反馈系统（最常见类型）中，激素水平升高会向腺体发出减少生产的信号，从而维持浓度稳定。例如，当血液中甲状腺激素高于正常水平时，垂体会减少促甲状腺激素（TSH）的分泌，告诉甲状腺减少产量。这一精妙的自我调节系统维持着稳态——健康所必需的稳定内部环境。",
+    "domain": "macro"
   },
   {
     "id": 17,
@@ -150,7 +166,8 @@
     "title_zh": "胰腺与血糖调节",
     "difficulty": 2,
     "content_en": "The pancreas serves both exocrine and endocrine functions. As an exocrine organ, it secretes digestive enzymes (lipase, protease, amylase) through ducts into the duodenum. As an endocrine organ, the islets of Langerhans—scattered clusters of cells within the pancreas—secrete hormones directly into the bloodstream. The two main islet cell types are alpha cells, which produce glucagon, and beta cells, which produce insulin. These two hormones act in opposition to maintain blood glucose within a narrow range (approximately 70–140 mg/dL). After a meal, rising blood glucose triggers insulin secretion. Insulin promotes glucose uptake by cells (especially muscle and fat cells), stimulates glycogen synthesis in the liver, and inhibits glucagon. When blood glucose falls between meals or during exercise, glucagon is secreted, stimulating the liver to break down glycogen (glycogenolysis) and synthesize new glucose (gluconeogenesis). Diabetes mellitus arises when this regulation fails: in type 1 diabetes, the immune system destroys beta cells; in type 2 diabetes, cells develop insulin resistance. Both result in chronic hyperglycemia, which damages blood vessels and nerves over time.",
-    "content_zh": "胰腺同时具有外分泌和内分泌功能。作为外分泌器官，它通过导管将消化酶（脂肪酶、蛋白酶、淀粉酶）分泌到十二指肠。作为内分泌器官，散布在胰腺内的郎格罕岛（islets of Langerhans）细胞簇直接向血液分泌激素。两种主要的胰岛细胞类型是：产生胰高血糖素的α细胞和产生胰岛素的β细胞。这两种激素相互对抗，将血糖维持在狭窄范围内（约70–140 mg/dL）。餐后血糖升高触发胰岛素分泌，胰岛素促进细胞（尤其是肌肉和脂肪细胞）摄取葡萄糖，刺激肝脏糖原合成，并抑制胰高血糖素。当两餐之间或运动时血糖下降，胰高血糖素被分泌，刺激肝脏分解糖原（糖原分解）并合成新葡萄糖（糖异生）。当这种调节失败时就会发生糖尿病：1型糖尿病中，免疫系统破坏β细胞；2型糖尿病中，细胞出现胰岛素抵抗。两者均导致慢性高血糖，长期损害血管和神经。"
+    "content_zh": "胰腺同时具有外分泌和内分泌功能。作为外分泌器官，它通过导管将消化酶（脂肪酶、蛋白酶、淀粉酶）分泌到十二指肠。作为内分泌器官，散布在胰腺内的郎格罕岛（islets of Langerhans）细胞簇直接向血液分泌激素。两种主要的胰岛细胞类型是：产生胰高血糖素的α细胞和产生胰岛素的β细胞。这两种激素相互对抗，将血糖维持在狭窄范围内（约70–140 mg/dL）。餐后血糖升高触发胰岛素分泌，胰岛素促进细胞（尤其是肌肉和脂肪细胞）摄取葡萄糖，刺激肝脏糖原合成，并抑制胰高血糖素。当两餐之间或运动时血糖下降，胰高血糖素被分泌，刺激肝脏分解糖原（糖原分解）并合成新葡萄糖（糖异生）。当这种调节失败时就会发生糖尿病：1型糖尿病中，免疫系统破坏β细胞；2型糖尿病中，细胞出现胰岛素抵抗。两者均导致慢性高血糖，长期损害血管和神经。",
+    "domain": "macro"
   },
   {
     "id": 18,
@@ -159,7 +176,8 @@
     "title_zh": "主要内分泌腺及其激素",
     "difficulty": 3,
     "content_en": "The body's endocrine system consists of widely distributed glands. The hypothalamus-pituitary axis is the master control: the hypothalamus releases releasing hormones that stimulate the anterior pituitary to secrete tropic hormones, which then stimulate other glands. The pituitary gland releases growth hormone (GH), thyroid-stimulating hormone (TSH), adrenocorticotropic hormone (ACTH), follicle-stimulating hormone (FSH), and luteinizing hormone (LH). The thyroid gland produces thyroxine (T4) and triiodothyronine (T3), which regulate metabolism, growth, and body temperature. The parathyroid glands produce parathyroid hormone (PTH), which raises blood calcium. The adrenal glands consist of two regions: the cortex secretes cortisol (stress response), aldosterone (sodium/potassium balance), and sex steroids; the medulla secretes epinephrine (adrenaline) and norepinephrine during the 'fight or flight' response. The gonads produce sex hormones: the testes produce testosterone, and the ovaries produce estrogen and progesterone. The pineal gland secretes melatonin, regulating sleep-wake cycles. Endocrine disorders arise from hormone excess (e.g., Cushing's syndrome from excess cortisol) or deficiency (e.g., Addison's disease from cortisol deficiency).",
-    "content_zh": "机体内分泌系统由广泛分布的腺体组成。下丘脑-垂体轴是总控制中心：下丘脑释放释放激素，刺激垂体前叶分泌促激素，进而刺激其他腺体。垂体分泌生长激素（GH）、促甲状腺激素（TSH）、促肾上腺皮质激素（ACTH）、促卵泡激素（FSH）和黄体生成素（LH）。甲状腺产生甲状腺素（T4）和三碘甲腺原氨酸（T3），调节代谢、生长和体温。甲状旁腺产生甲状旁腺激素（PTH），升高血钙。肾上腺由两个区域组成：皮质分泌皮质醇（应激反应）、醛固酮（钠/钾平衡）和性类固醇；髓质在\"战斗或逃跑\"反应中分泌肾上腺素和去甲肾上腺素。性腺产生性激素：睾丸产生睾酮，卵巢产生雌激素和孕激素。松果体分泌褪黑素，调节睡眠-觉醒周期。内分泌疾病由激素过多（如皮质醇过多引起的库欣综合征）或不足（如皮质醇缺乏引起的艾迪生病）引起。"
+    "content_zh": "机体内分泌系统由广泛分布的腺体组成。下丘脑-垂体轴是总控制中心：下丘脑释放释放激素，刺激垂体前叶分泌促激素，进而刺激其他腺体。垂体分泌生长激素（GH）、促甲状腺激素（TSH）、促肾上腺皮质激素（ACTH）、促卵泡激素（FSH）和黄体生成素（LH）。甲状腺产生甲状腺素（T4）和三碘甲腺原氨酸（T3），调节代谢、生长和体温。甲状旁腺产生甲状旁腺激素（PTH），升高血钙。肾上腺由两个区域组成：皮质分泌皮质醇（应激反应）、醛固酮（钠/钾平衡）和性类固醇；髓质在\"战斗或逃跑\"反应中分泌肾上腺素和去甲肾上腺素。性腺产生性激素：睾丸产生睾酮，卵巢产生雌激素和孕激素。松果体分泌褪黑素，调节睡眠-觉醒周期。内分泌疾病由激素过多（如皮质醇过多引起的库欣综合征）或不足（如皮质醇缺乏引起的艾迪生病）引起。",
+    "domain": "macro"
   },
   {
     "id": 19,
@@ -168,7 +186,8 @@
     "title_zh": "肾脏如何过滤血液",
     "difficulty": 1,
     "content_en": "The kidneys are two bean-shaped organs, each about the size of a fist, located on either side of the spine just below the rib cage. Their primary function is to filter approximately 200 liters of blood daily, producing about 1–2 liters of urine. The functional unit of the kidney is the nephron, of which each kidney contains about one million. Each nephron begins with a glomerulus—a tiny knot of capillaries—enclosed in Bowman's capsule. Blood pressure forces plasma (the fluid component of blood, minus blood cells) through the glomerular capillary walls into Bowman's capsule. This ultrafiltrate passes through the nephron tubule system (proximal tubule, loop of Henle, distal tubule), where useful substances—glucose, amino acids, water, and electrolytes—are reabsorbed back into the bloodstream. Waste products such as urea, creatinine, and excess ions remain in the filtrate and become urine. Urine flows through the collecting duct, into the renal pelvis, down the ureter, into the bladder, and is excreted through the urethra. The kidneys also regulate blood pressure (via the renin-angiotensin system), red blood cell production (via erythropoietin), and calcium metabolism (via vitamin D activation).",
-    "content_zh": "肾脏是两个豆形器官，各约拳头大小，位于脊柱两侧、肋骨下方。其主要功能是每天过滤约200升血液，产生约1至2升尿液。肾脏的功能单位是肾单位，每个肾脏约含100万个肾单位。每个肾单位始于肾小球——包裹在鲍曼囊中的微小毛细血管球。血压迫使血浆（血液的液体成分，不含血细胞）通过肾小球毛细血管壁进入鲍曼囊。这种超滤液经过肾单位管系统（近曲小管、亨利氏袢、远曲小管），在那里有用物质——葡萄糖、氨基酸、水和电解质——被重新吸收回血液。尿素、肌酐和多余离子等废物留在滤液中成为尿液。尿液流经集合管，进入肾盂，沿输尿管流入膀胱，通过尿道排出。肾脏还通过肾素-血管紧张素系统调节血压，通过促红细胞生成素调节红细胞产生，通过维生素D激活调节钙代谢。"
+    "content_zh": "肾脏是两个豆形器官，各约拳头大小，位于脊柱两侧、肋骨下方。其主要功能是每天过滤约200升血液，产生约1至2升尿液。肾脏的功能单位是肾单位，每个肾脏约含100万个肾单位。每个肾单位始于肾小球——包裹在鲍曼囊中的微小毛细血管球。血压迫使血浆（血液的液体成分，不含血细胞）通过肾小球毛细血管壁进入鲍曼囊。这种超滤液经过肾单位管系统（近曲小管、亨利氏袢、远曲小管），在那里有用物质——葡萄糖、氨基酸、水和电解质——被重新吸收回血液。尿素、肌酐和多余离子等废物留在滤液中成为尿液。尿液流经集合管，进入肾盂，沿输尿管流入膀胱，通过尿道排出。肾脏还通过肾素-血管紧张素系统调节血压，通过促红细胞生成素调节红细胞产生，通过维生素D激活调节钙代谢。",
+    "domain": "macro"
   },
   {
     "id": 20,
@@ -177,7 +196,8 @@
     "title_zh": "理解尿液分析",
     "difficulty": 2,
     "content_en": "A urinalysis (UA) is one of the most commonly ordered tests in medicine, providing valuable information about kidney function and overall health. It consists of three components. Physical examination: color (normally pale to dark yellow, depending on hydration), clarity (normally clear), and specific gravity (a measure of urine concentration, normally 1.005–1.030). Chemical analysis (dipstick): A chemically treated strip is dipped into the urine. Normally negative findings include glucose (its presence suggests diabetes), protein (proteinuria suggests kidney damage), blood (hematuria), nitrites (suggesting bacterial infection), and leukocyte esterase (indicating white blood cells, also suggesting infection). Abnormal pH can reflect kidney function or dietary patterns. Ketones in urine may indicate starvation or poorly controlled diabetes. Microscopic examination: the sediment of centrifuged urine is examined under a microscope. Normal findings include few red blood cells and white blood cells. Casts (cylindrical structures formed in the tubules) can indicate kidney disease. Bacteria confirm infection. Urinalysis is particularly useful for diagnosing urinary tract infections (UTIs), kidney disease, and metabolic conditions.",
-    "content_zh": "尿液分析（UA）是医学中最常开具的检验之一，提供有关肾功能和整体健康的宝贵信息。它包含三个部分。物理检查：颜色（通常根据水合状态从淡黄到深黄）、清晰度（通常清澈）和比重（尿液浓度的测量指标，正常值1.005–1.030）。化学分析（试纸条）：将经化学处理的试纸浸入尿液。正常情况下应为阴性的指标包括：葡萄糖（阳性提示糖尿病）、蛋白质（蛋白尿提示肾脏损伤）、血液（血尿）、亚硝酸盐（提示细菌感染）和白细胞酯酶（提示白细胞，也提示感染）。异常pH值可反映肾功能或饮食习惯。尿酮体可能提示饥饿或血糖控制不佳的糖尿病。显微镜检查：对离心后的尿液沉渣进行显微镜检查。正常所见包括少量红细胞和白细胞。管型（在肾小管中形成的圆柱状结构）可提示肾脏疾病。细菌确认感染存在。尿液分析对诊断尿路感染（UTI）、肾脏疾病和代谢疾病尤为有用。"
+    "content_zh": "尿液分析（UA）是医学中最常开具的检验之一，提供有关肾功能和整体健康的宝贵信息。它包含三个部分。物理检查：颜色（通常根据水合状态从淡黄到深黄）、清晰度（通常清澈）和比重（尿液浓度的测量指标，正常值1.005–1.030）。化学分析（试纸条）：将经化学处理的试纸浸入尿液。正常情况下应为阴性的指标包括：葡萄糖（阳性提示糖尿病）、蛋白质（蛋白尿提示肾脏损伤）、血液（血尿）、亚硝酸盐（提示细菌感染）和白细胞酯酶（提示白细胞，也提示感染）。异常pH值可反映肾功能或饮食习惯。尿酮体可能提示饥饿或血糖控制不佳的糖尿病。显微镜检查：对离心后的尿液沉渣进行显微镜检查。正常所见包括少量红细胞和白细胞。管型（在肾小管中形成的圆柱状结构）可提示肾脏疾病。细菌确认感染存在。尿液分析对诊断尿路感染（UTI）、肾脏疾病和代谢疾病尤为有用。",
+    "domain": "macro"
   },
   {
     "id": 21,
@@ -186,7 +206,8 @@
     "title_zh": "肾脏与泌尿系统医学词汇",
     "difficulty": 3,
     "content_en": "The prefix 'nephro-' (Greek: nephros, kidney) underpins renal vocabulary. Nephrology is the study of kidney diseases; nephritis is kidney inflammation; glomerulonephritis specifically inflames the filtering glomeruli; nephrectomy (-ectomy) is surgical kidney removal; nephroptosis (-ptosis, falling) is a dropped kidney. 'Uro-' or 'uri-' (Greek: ouron, urine) appears in urology, urinalysis, uremia (urea in blood, toxic in renal failure), and urolithiasis (urinary stones). Suffixes describing urine conditions: -uria is critical—hematuria (blood), proteinuria (protein), glucosuria (glucose), polyuria (excessive urine volume, poly- = much), oliguria (scanty urine, oligo- = little), anuria (no urine production, an- = without). The 'cyst-' root (Greek: kystis, bladder): cystitis (bladder inflammation), cystoscopy (bladder examination), and cystectomy (bladder removal). Hydro- (water) + nephro- gives hydronephrosis: kidney swelling from urine backup. The suffix '-lith' (stone) appears in urolithiasis and nephrolithiasis (kidney stones). Dialysis (dia-, through + -lysis, loosening) is the filtration process replacing failed kidney function.",
-    "content_zh": "前缀\"nephro-\"（希腊语：nephros，肾脏）是肾脏词汇的基础。肾脏病学（nephrology）研究肾脏疾病；肾炎（nephritis）是肾脏炎症；肾小球肾炎（glomerulonephritis）特指过滤性肾小球的炎症；肾切除术（nephrectomy，-ectomy）是手术切除肾脏；肾下垂（nephroptosis，-ptosis，脱垂）是肾脏移位。\"Uro-\"或\"uri-\"（希腊语：ouron，尿液）出现在泌尿外科（urology）、尿液分析（urinalysis）、尿毒症（uremia，尿素在血液中积聚，肾衰竭时有毒）和泌尿系结石（urolithiasis）中。描述尿液状态的后缀：\"-uria\"至关重要——血尿（hematuria，血液）、蛋白尿（proteinuria，蛋白质）、糖尿（glucosuria，葡萄糖）、多尿（polyuria，尿量过多，poly-=多）、少尿（oliguria，尿量减少，oligo-=少）、无尿（anuria，无尿液产生，an-=无）。\"cyst-\"词根（希腊语：kystis，膀胱）：膀胱炎（cystitis）、膀胱镜检查（cystoscopy）和膀胱切除术（cystectomy）。Hydro-（水）+nephro-派生出肾积水（hydronephrosis）：尿液回流导致肾脏肿胀。后缀\"-lith\"（石）出现在泌尿系结石（urolithiasis）和肾结石（nephrolithiasis）中。透析（dialysis，dia-，通过+-lysis，分离）是替代衰竭肾功能的过滤过程。"
+    "content_zh": "前缀\"nephro-\"（希腊语：nephros，肾脏）是肾脏词汇的基础。肾脏病学（nephrology）研究肾脏疾病；肾炎（nephritis）是肾脏炎症；肾小球肾炎（glomerulonephritis）特指过滤性肾小球的炎症；肾切除术（nephrectomy，-ectomy）是手术切除肾脏；肾下垂（nephroptosis，-ptosis，脱垂）是肾脏移位。\"Uro-\"或\"uri-\"（希腊语：ouron，尿液）出现在泌尿外科（urology）、尿液分析（urinalysis）、尿毒症（uremia，尿素在血液中积聚，肾衰竭时有毒）和泌尿系结石（urolithiasis）中。描述尿液状态的后缀：\"-uria\"至关重要——血尿（hematuria，血液）、蛋白尿（proteinuria，蛋白质）、糖尿（glucosuria，葡萄糖）、多尿（polyuria，尿量过多，poly-=多）、少尿（oliguria，尿量减少，oligo-=少）、无尿（anuria，无尿液产生，an-=无）。\"cyst-\"词根（希腊语：kystis，膀胱）：膀胱炎（cystitis）、膀胱镜检查（cystoscopy）和膀胱切除术（cystectomy）。Hydro-（水）+nephro-派生出肾积水（hydronephrosis）：尿液回流导致肾脏肿胀。后缀\"-lith\"（石）出现在泌尿系结石（urolithiasis）和肾结石（nephrolithiasis）中。透析（dialysis，dia-，通过+-lysis，分离）是替代衰竭肾功能的过滤过程。",
+    "domain": "macro"
   },
   {
     "id": 22,
@@ -195,7 +216,8 @@
     "title_zh": "皮肤的三层结构",
     "difficulty": 1,
     "content_en": "The skin is the largest organ of the body, covering an area of approximately 1.7–2.0 square meters in an adult. It consists of three primary layers. The epidermis is the outermost layer, composed mainly of keratinocytes—cells that produce the protein keratin, which waterproofs and strengthens the skin. The epidermis contains no blood vessels; its deepest cells divide and push older cells toward the surface, where they flatten and die. Melanocytes, also in the epidermis, produce the pigment melanin, which gives skin its color and provides some protection from ultraviolet radiation. The dermis, the middle layer, is much thicker and contains collagen and elastin fibers that give skin its strength and elasticity. It houses blood vessels, lymph vessels, nerves, sweat glands, sebaceous (oil) glands, and hair follicles. Sweat glands regulate body temperature and excrete waste products. Sebaceous glands produce sebum, an oily substance that lubricates the skin and hair. The hypodermis (subcutaneous layer) lies below the dermis. Composed largely of adipose (fat) tissue, it cushions and insulates the body, anchors the skin to underlying tissues, and serves as an energy reserve.",
-    "content_zh": "皮肤是人体最大的器官，成人皮肤面积约为1.7至2.0平方米。它由三个主要层次组成。表皮是最外层，主要由角质形成细胞构成——这些细胞产生角蛋白，使皮肤防水并增加强度。表皮内没有血管；其最深处的细胞不断分裂，将老细胞推向表面，在那里它们扁平化并死亡。同样位于表皮的黑色素细胞产生黑色素，赋予皮肤颜色并提供一定的紫外线防护。真皮（中间层）更厚，含有给予皮肤强度和弹性的胶原纤维和弹力纤维，还容纳血管、淋巴管、神经、汗腺、皮脂腺（油脂腺）和毛囊。汗腺调节体温并排泄废物；皮脂腺产生皮脂，一种润滑皮肤和毛发的油性物质。皮下组织（皮下层）位于真皮下方，主要由脂肪组织构成，起缓冲和隔热作用，将皮肤锚定到下方组织，并作为能量储备。"
+    "content_zh": "皮肤是人体最大的器官，成人皮肤面积约为1.7至2.0平方米。它由三个主要层次组成。表皮是最外层，主要由角质形成细胞构成——这些细胞产生角蛋白，使皮肤防水并增加强度。表皮内没有血管；其最深处的细胞不断分裂，将老细胞推向表面，在那里它们扁平化并死亡。同样位于表皮的黑色素细胞产生黑色素，赋予皮肤颜色并提供一定的紫外线防护。真皮（中间层）更厚，含有给予皮肤强度和弹性的胶原纤维和弹力纤维，还容纳血管、淋巴管、神经、汗腺、皮脂腺（油脂腺）和毛囊。汗腺调节体温并排泄废物；皮脂腺产生皮脂，一种润滑皮肤和毛发的油性物质。皮下组织（皮下层）位于真皮下方，主要由脂肪组织构成，起缓冲和隔热作用，将皮肤锚定到下方组织，并作为能量储备。",
+    "domain": "macro"
   },
   {
     "id": 23,
@@ -204,7 +226,8 @@
     "title_zh": "皮肤的保护功能",
     "difficulty": 2,
     "content_en": "Beyond its role as a physical barrier, the skin performs a remarkable array of protective and regulatory functions. Physical barrier: the epidermis prevents most bacteria, viruses, and other pathogens from entering the body. The lipid-rich intercellular cement between keratinocytes also prevents excessive water loss, a function critical for life (severe burn injuries are life-threatening partly because they cause massive fluid loss). Immune defense: the skin contains specialized immune cells called Langerhans cells in the epidermis and mast cells in the dermis, which detect and respond to threats. Thermoregulation: blood vessels in the dermis dilate when the body is warm, radiating heat outward, or constrict when cold, conserving heat. Sweat evaporation further cools the body. Sensation: the dermis contains an array of sensory receptors for touch, pressure, vibration, temperature, and pain, providing constant information about the external environment. Vitamin D synthesis: UV light striking the skin triggers the conversion of a cholesterol precursor in the skin into vitamin D3, which is then processed by the liver and kidneys into its active form. Vitamin D is essential for calcium absorption and bone health. Skin integrity is compromised by conditions such as dermatitis, psoriasis, and infections like cellulitis.",
-    "content_zh": "除作为物理屏障外，皮肤还具有一系列令人印象深刻的保护和调节功能。物理屏障：表皮阻止大多数细菌、病毒和其他病原体进入人体。角质形成细胞间富含脂质的细胞间隙也能防止过度失水——这一功能对生命至关重要（严重烧伤部分因大量体液流失而危及生命）。免疫防御：皮肤在表皮中含有称为朗格汉斯细胞的特化免疫细胞，在真皮中含有肥大细胞，可检测并应对威胁。体温调节：真皮中的血管在体温升高时扩张，向外散热；寒冷时收缩，保存热量；汗液蒸发进一步冷却身体。感觉：真皮含有多种感觉受体，感知触觉、压力、振动、温度和疼痛，持续提供有关外部环境的信息。维生素D合成：照射皮肤的紫外线触发皮肤中胆固醇前体转化为维生素D3，再经肝脏和肾脏加工成其活性形式。维生素D对钙的吸收和骨骼健康至关重要。皮炎、银屑病和蜂窝织炎等感染会损害皮肤完整性。"
+    "content_zh": "除作为物理屏障外，皮肤还具有一系列令人印象深刻的保护和调节功能。物理屏障：表皮阻止大多数细菌、病毒和其他病原体进入人体。角质形成细胞间富含脂质的细胞间隙也能防止过度失水——这一功能对生命至关重要（严重烧伤部分因大量体液流失而危及生命）。免疫防御：皮肤在表皮中含有称为朗格汉斯细胞的特化免疫细胞，在真皮中含有肥大细胞，可检测并应对威胁。体温调节：真皮中的血管在体温升高时扩张，向外散热；寒冷时收缩，保存热量；汗液蒸发进一步冷却身体。感觉：真皮含有多种感觉受体，感知触觉、压力、振动、温度和疼痛，持续提供有关外部环境的信息。维生素D合成：照射皮肤的紫外线触发皮肤中胆固醇前体转化为维生素D3，再经肝脏和肾脏加工成其活性形式。维生素D对钙的吸收和骨骼健康至关重要。皮炎、银屑病和蜂窝织炎等感染会损害皮肤完整性。",
+    "domain": "macro"
   },
   {
     "id": 24,
@@ -213,7 +236,8 @@
     "title_zh": "皮肤科学词汇",
     "difficulty": 3,
     "content_en": "The prefix 'dermo-' or 'dermat-' (Greek: derma, skin) is the foundation of dermatological vocabulary. Dermatology is the medical specialty; a dermatologist diagnoses and treats skin, hair, and nail disorders. Dermatitis (derm- + -itis) is skin inflammation; atopic dermatitis is chronic eczema. Dermatosis refers to any skin disease. Epidermis (epi-, upon + derm-) is the outer skin; subcutaneous (sub-, under + cutis, Latin for skin) means beneath the skin. Key lesion vocabulary: a macule is a flat color change (no raised component); a papule is a raised solid lesion <5mm; a plaque is a raised flat-topped lesion >5mm; a vesicle is a fluid-filled blister; a pustule is a pus-filled lesion; a nodule is a deep-seated raised lesion. Erythema (from Greek erythros, red) is skin redness. Pruritus is itching. Ecchymosis is a bruise (escape of blood into skin tissue). Melanoma (melan-, black + -oma, tumor) is skin's most dangerous cancer; carcinoma refers to cancers of epithelial origin. Keratosis (keratin + -osis) is abnormal keratin growth; seborrhea is excessive sebum discharge. Knowing these terms enables precise communication about skin lesion morphology.",
-    "content_zh": "前缀\"dermo-\"或\"dermat-\"（希腊语：derma，皮肤）是皮肤科词汇的基础。皮肤科学（dermatology）是医学专科；皮肤科医生（dermatologist）诊断和治疗皮肤、毛发和指甲疾病。皮炎（dermatitis，derm-+-itis）是皮肤炎症；特应性皮炎（atopic dermatitis）是慢性湿疹。皮肤病（dermatosis）指任何皮肤疾病。表皮（epidermis，epi-，表面+derm-）是皮肤外层；皮下（subcutaneous，sub-，下方+cutis，拉丁语，皮肤）意为皮肤下方。关键皮损词汇：斑疹（macule）是扁平色变（无隆起）；丘疹（papule）是<5mm的隆起实性损害；斑块（plaque）是>5mm的扁平顶部隆起损害；水疱（vesicle）是充满液体的皮疱；脓疱（pustule）是含脓的皮损；结节（nodule）是深部隆起损害。红斑（erythema，来自希腊语erythros，红色）是皮肤发红；瘙痒（pruritus）是痒感；瘀斑（ecchymosis）是血液渗入皮肤组织形成的瘀伤。黑色素瘤（melanoma，melan-，黑色+-oma，肿瘤）是皮肤最危险的癌症；癌（carcinoma）指上皮来源的恶性肿瘤。角化病（keratosis）是异常角蛋白生长；皮脂溢出（seborrhea）是皮脂过度分泌。了解这些术语有助于精确描述皮肤损害形态。"
+    "content_zh": "前缀\"dermo-\"或\"dermat-\"（希腊语：derma，皮肤）是皮肤科词汇的基础。皮肤科学（dermatology）是医学专科；皮肤科医生（dermatologist）诊断和治疗皮肤、毛发和指甲疾病。皮炎（dermatitis，derm-+-itis）是皮肤炎症；特应性皮炎（atopic dermatitis）是慢性湿疹。皮肤病（dermatosis）指任何皮肤疾病。表皮（epidermis，epi-，表面+derm-）是皮肤外层；皮下（subcutaneous，sub-，下方+cutis，拉丁语，皮肤）意为皮肤下方。关键皮损词汇：斑疹（macule）是扁平色变（无隆起）；丘疹（papule）是<5mm的隆起实性损害；斑块（plaque）是>5mm的扁平顶部隆起损害；水疱（vesicle）是充满液体的皮疱；脓疱（pustule）是含脓的皮损；结节（nodule）是深部隆起损害。红斑（erythema，来自希腊语erythros，红色）是皮肤发红；瘙痒（pruritus）是痒感；瘀斑（ecchymosis）是血液渗入皮肤组织形成的瘀伤。黑色素瘤（melanoma，melan-，黑色+-oma，肿瘤）是皮肤最危险的癌症；癌（carcinoma）指上皮来源的恶性肿瘤。角化病（keratosis）是异常角蛋白生长；皮脂溢出（seborrhea）是皮脂过度分泌。了解这些术语有助于精确描述皮肤损害形态。",
+    "domain": "macro"
   },
   {
     "id": 25,
@@ -222,7 +246,8 @@
     "title_zh": "血压及其调节",
     "difficulty": 2,
     "content_en": "Blood pressure is the force exerted by circulating blood on the walls of arteries. It is recorded as two numbers: systolic pressure (when the ventricles contract) over diastolic pressure (when the heart relaxes). A typical healthy value is around 120/80 mmHg. The body regulates blood pressure through the autonomic nervous system, which adjusts heart rate and vessel diameter, and through hormones such as those of the renin-angiotensin-aldosterone system, which control blood volume. Sustained high blood pressure, or hypertension, forces the heart to work harder and damages arteries over time, raising the risk of stroke, heart attack, and kidney disease.",
-    "content_zh": "血压是循环血液对动脉壁施加的压力，记录为两个数值：收缩压（心室收缩时）/舒张压（心脏舒张时），健康成人通常约为 120/80 mmHg。机体通过自主神经系统调节心率和血管口径，并通过肾素-血管紧张素-醛固酮系统等激素调控血容量来维持血压。长期高血压会迫使心脏负荷加重并逐渐损伤动脉，增加卒中、心肌梗死和肾病的风险。"
+    "content_zh": "血压是循环血液对动脉壁施加的压力，记录为两个数值：收缩压（心室收缩时）/舒张压（心脏舒张时），健康成人通常约为 120/80 mmHg。机体通过自主神经系统调节心率和血管口径，并通过肾素-血管紧张素-醛固酮系统等激素调控血容量来维持血压。长期高血压会迫使心脏负荷加重并逐渐损伤动脉，增加卒中、心肌梗死和肾病的风险。",
+    "domain": "macro"
   },
   {
     "id": 26,
@@ -231,7 +256,8 @@
     "title_zh": "动脉粥样硬化与冠心病",
     "difficulty": 3,
     "content_en": "Atherosclerosis is the gradual buildup of fatty plaques within the walls of arteries. Plaques narrow the vessel lumen and reduce blood flow, and they may rupture, triggering a clot. When this happens in the coronary arteries that supply the heart muscle, the result is coronary artery disease. Reduced flow causes chest pain known as angina, while complete blockage causes a myocardial infarction (heart attack), in which heart muscle dies from lack of oxygen. Major risk factors include high cholesterol, smoking, diabetes, and hypertension.",
-    "content_zh": "动脉粥样硬化是动脉壁内脂质斑块逐渐堆积的过程。斑块使管腔狭窄、血流减少，并可能破裂诱发血栓。当其发生在供应心肌的冠状动脉时即为冠心病：血流减少引起称为心绞痛的胸痛，完全阻塞则导致心肌梗死，心肌因缺氧而坏死。主要危险因素包括高胆固醇、吸烟、糖尿病和高血压。"
+    "content_zh": "动脉粥样硬化是动脉壁内脂质斑块逐渐堆积的过程。斑块使管腔狭窄、血流减少，并可能破裂诱发血栓。当其发生在供应心肌的冠状动脉时即为冠心病：血流减少引起称为心绞痛的胸痛，完全阻塞则导致心肌梗死，心肌因缺氧而坏死。主要危险因素包括高胆固醇、吸烟、糖尿病和高血压。",
+    "domain": "macro"
   },
   {
     "id": 27,
@@ -240,7 +266,8 @@
     "title_zh": "心脏传导系统",
     "difficulty": 3,
     "content_en": "Each heartbeat begins as an electrical impulse in the sinoatrial (SA) node, the heart's natural pacemaker located in the right atrium. The impulse spreads across both atria, causing them to contract, then reaches the atrioventricular (AV) node, which briefly delays the signal before passing it down the bundle of His and Purkinje fibers to the ventricles. This orderly sequence ensures the atria empty into the ventricles before the ventricles contract. Disruptions in conduction produce arrhythmias, which an electrocardiogram (ECG) can detect by recording the heart's electrical activity.",
-    "content_zh": "每次心跳都始于位于右心房的窦房结（SA 结）发出的电冲动，它是心脏的天然起搏点。冲动传遍两个心房使其收缩，随后到达房室结（AV 结）短暂延搁，再经希氏束和浦肯野纤维传向心室。这一有序过程确保心房先将血液排入心室、心室再收缩。传导异常会产生心律失常，心电图（ECG）可通过记录心脏电活动来检测。"
+    "content_zh": "每次心跳都始于位于右心房的窦房结（SA 结）发出的电冲动，它是心脏的天然起搏点。冲动传遍两个心房使其收缩，随后到达房室结（AV 结）短暂延搁，再经希氏束和浦肯野纤维传向心室。这一有序过程确保心房先将血液排入心室、心室再收缩。传导异常会产生心律失常，心电图（ECG）可通过记录心脏电活动来检测。",
+    "domain": "macro"
   },
   {
     "id": 28,
@@ -249,7 +276,8 @@
     "title_zh": "呼吸的力学",
     "difficulty": 2,
     "content_en": "Breathing moves air in and out of the lungs through changes in chest cavity volume. During inhalation, the diaphragm contracts and flattens while the external intercostal muscles lift the ribs, enlarging the thorax and lowering the pressure inside the lungs so that air rushes in. During quiet exhalation these muscles relax, the elastic lungs recoil, and air flows out passively. The pleural membranes and the fluid between them keep the lungs adhered to the chest wall, so that the lungs follow its movements.",
-    "content_zh": "呼吸通过改变胸腔容积使空气进出肺部。吸气时膈肌收缩变平、肋间外肌上提肋骨，使胸腔扩大、肺内压下降，空气随即涌入；平静呼气时这些肌肉松弛，富有弹性的肺回缩，空气被动排出。胸膜及其间的胸膜液使肺紧贴胸壁，从而随胸壁运动。"
+    "content_zh": "呼吸通过改变胸腔容积使空气进出肺部。吸气时膈肌收缩变平、肋间外肌上提肋骨，使胸腔扩大、肺内压下降，空气随即涌入；平静呼气时这些肌肉松弛，富有弹性的肺回缩，空气被动排出。胸膜及其间的胸膜液使肺紧贴胸壁，从而随胸壁运动。",
+    "domain": "macro"
   },
   {
     "id": 29,
@@ -258,7 +286,8 @@
     "title_zh": "肺泡气体交换",
     "difficulty": 3,
     "content_en": "Gas exchange occurs across the thin walls of the alveoli, the tiny air sacs that give the lungs an enormous surface area. Oxygen from inhaled air diffuses across the alveolar wall and the surrounding capillary into the blood, where it binds to hemoglobin in red blood cells. At the same time, carbon dioxide diffuses from the blood into the alveoli to be exhaled. This exchange is driven by differences in partial pressure between air and blood. Conditions such as emphysema or pneumonia impair gas exchange and cause shortness of breath.",
-    "content_zh": "气体交换发生在肺泡的薄壁上——这些微小气囊赋予肺巨大的表面积。吸入空气中的氧气经肺泡壁和周围毛细血管扩散入血，与红细胞中的血红蛋白结合；同时二氧化碳从血液扩散入肺泡随呼气排出。该交换由空气与血液间的分压差驱动。肺气肿、肺炎等疾病会损害气体交换并引起呼吸困难。"
+    "content_zh": "气体交换发生在肺泡的薄壁上——这些微小气囊赋予肺巨大的表面积。吸入空气中的氧气经肺泡壁和周围毛细血管扩散入血，与红细胞中的血红蛋白结合；同时二氧化碳从血液扩散入肺泡随呼气排出。该交换由空气与血液间的分压差驱动。肺气肿、肺炎等疾病会损害气体交换并引起呼吸困难。",
+    "domain": "macro"
   },
   {
     "id": 30,
@@ -267,7 +296,8 @@
     "title_zh": "哮喘与气道阻塞",
     "difficulty": 2,
     "content_en": "Asthma is a chronic inflammatory disease of the airways. In susceptible people, triggers such as allergens, cold air, or exercise cause the smooth muscle around the bronchi to contract (bronchospasm), the airway lining to swell, and mucus production to increase. The airways narrow, producing wheezing, coughing, chest tightness, and difficulty breathing. Treatment combines long-term anti-inflammatory inhalers that control the underlying inflammation with fast-acting bronchodilators that relax airway muscle during an attack.",
-    "content_zh": "哮喘是一种气道慢性炎症性疾病。在易感人群中，过敏原、冷空气或运动等诱因会使支气管周围平滑肌收缩（支气管痉挛）、气道黏膜肿胀、黏液分泌增多，导致气道狭窄，出现喘鸣、咳嗽、胸闷和呼吸困难。治疗将控制基础炎症的长期抗炎吸入剂与发作时松弛气道肌肉的速效支气管扩张剂相结合。"
+    "content_zh": "哮喘是一种气道慢性炎症性疾病。在易感人群中，过敏原、冷空气或运动等诱因会使支气管周围平滑肌收缩（支气管痉挛）、气道黏膜肿胀、黏液分泌增多，导致气道狭窄，出现喘鸣、咳嗽、胸闷和呼吸困难。治疗将控制基础炎症的长期抗炎吸入剂与发作时松弛气道肌肉的速效支气管扩张剂相结合。",
+    "domain": "macro"
   },
   {
     "id": 31,
@@ -276,7 +306,8 @@
     "title_zh": "神经元与神经冲动",
     "difficulty": 3,
     "content_en": "Neurons are the basic signaling cells of the nervous system. A typical neuron has dendrites that receive signals, a cell body, and a long axon that carries impulses to other cells. Information travels along the axon as an action potential, a brief reversal of electrical charge across the membrane that moves like a wave. Where one neuron meets another, at the synapse, the impulse triggers the release of chemical neurotransmitters that cross the gap and influence the next cell. Many axons are wrapped in a myelin sheath that greatly speeds conduction.",
-    "content_zh": "神经元是神经系统的基本信号细胞。典型神经元由接收信号的树突、胞体和将冲动传向其他细胞的长轴突组成。信息以动作电位的形式沿轴突传播——这是一种跨膜电荷的短暂逆转，像波一样推进。在神经元相接的突触处，冲动触发化学神经递质释放，递质跨越间隙影响下一个细胞。许多轴突外包髓鞘，可极大加快传导速度。"
+    "content_zh": "神经元是神经系统的基本信号细胞。典型神经元由接收信号的树突、胞体和将冲动传向其他细胞的长轴突组成。信息以动作电位的形式沿轴突传播——这是一种跨膜电荷的短暂逆转，像波一样推进。在神经元相接的突触处，冲动触发化学神经递质释放，递质跨越间隙影响下一个细胞。许多轴突外包髓鞘，可极大加快传导速度。",
+    "domain": "macro"
   },
   {
     "id": 32,
@@ -285,7 +316,8 @@
     "title_zh": "中枢与周围神经系统",
     "difficulty": 2,
     "content_en": "The nervous system is divided into two parts. The central nervous system (CNS) consists of the brain and spinal cord, where information is processed and decisions are made. The peripheral nervous system (PNS) consists of the nerves that connect the CNS to the rest of the body. The PNS includes the somatic division, which controls voluntary muscles, and the autonomic division, which regulates involuntary functions such as heart rate and digestion. The autonomic system is further split into the sympathetic ('fight-or-flight') and parasympathetic ('rest-and-digest') branches.",
-    "content_zh": "神经系统分为两部分。中枢神经系统（CNS）由脑和脊髓组成，负责处理信息和做出决策；周围神经系统（PNS）由连接中枢与全身的神经组成。PNS 包括控制随意肌的躯体部分和调节心率、消化等不随意功能的自主部分。自主神经系统又分为交感（「战或逃」）和副交感（「休息与消化」）两支。"
+    "content_zh": "神经系统分为两部分。中枢神经系统（CNS）由脑和脊髓组成，负责处理信息和做出决策；周围神经系统（PNS）由连接中枢与全身的神经组成。PNS 包括控制随意肌的躯体部分和调节心率、消化等不随意功能的自主部分。自主神经系统又分为交感（「战或逃」）和副交感（「休息与消化」）两支。",
+    "domain": "macro"
   },
   {
     "id": 33,
@@ -294,7 +326,8 @@
     "title_zh": "卒中：脑供血中断",
     "difficulty": 3,
     "content_en": "A stroke occurs when blood flow to part of the brain is interrupted, depriving neurons of oxygen. In an ischemic stroke, the most common type, a clot blocks a cerebral artery. In a hemorrhagic stroke, a vessel ruptures and bleeds into brain tissue. Because brain cells die quickly without oxygen, a stroke is a medical emergency. Symptoms appear suddenly and may include weakness or paralysis on one side of the body (hemiplegia), difficulty speaking (aphasia), facial drooping, and loss of coordination. Rapid treatment can limit permanent damage.",
-    "content_zh": "卒中（中风）发生在脑某部分血流中断、神经元缺氧时。最常见的缺血性卒中由血栓阻塞脑动脉所致；出血性卒中则因血管破裂出血进入脑组织。由于脑细胞缺氧后迅速死亡，卒中属于急症。症状突然出现，可包括一侧肢体无力或偏瘫、言语困难（失语）、面部下垂和协调障碍。及时治疗可减少永久性损伤。"
+    "content_zh": "卒中（中风）发生在脑某部分血流中断、神经元缺氧时。最常见的缺血性卒中由血栓阻塞脑动脉所致；出血性卒中则因血管破裂出血进入脑组织。由于脑细胞缺氧后迅速死亡，卒中属于急症。症状突然出现，可包括一侧肢体无力或偏瘫、言语困难（失语）、面部下垂和协调障碍。及时治疗可减少永久性损伤。",
+    "domain": "macro"
   },
   {
     "id": 34,
@@ -303,7 +336,8 @@
     "title_zh": "食物在消化道中的旅程",
     "difficulty": 2,
     "content_en": "Digestion begins in the mouth, where teeth grind food and saliva starts breaking down starch. Swallowed food passes down the esophagus by waves of muscle contraction called peristalsis into the stomach, where acid and enzymes turn it into a semi-liquid. Most nutrient absorption happens in the small intestine, whose lining is folded into tiny villi to maximize surface area. The large intestine then reabsorbs water and forms waste into stool. The liver, gallbladder, and pancreas add bile and enzymes that aid digestion.",
-    "content_zh": "消化始于口腔，牙齿研磨食物、唾液开始分解淀粉。吞下的食物经食管的蠕动（节律性肌肉收缩）进入胃，被胃酸和酶转化为半液态。大部分营养在小肠吸收——其内壁折叠成微小绒毛以最大化表面积；随后大肠重吸收水分并将残渣形成粪便。肝、胆囊和胰腺则分泌胆汁和酶以辅助消化。"
+    "content_zh": "消化始于口腔，牙齿研磨食物、唾液开始分解淀粉。吞下的食物经食管的蠕动（节律性肌肉收缩）进入胃，被胃酸和酶转化为半液态。大部分营养在小肠吸收——其内壁折叠成微小绒毛以最大化表面积；随后大肠重吸收水分并将残渣形成粪便。肝、胆囊和胰腺则分泌胆汁和酶以辅助消化。",
+    "domain": "macro"
   },
   {
     "id": 35,
@@ -312,7 +346,8 @@
     "title_zh": "肝脏：人体的化工厂",
     "difficulty": 3,
     "content_en": "The liver is the largest internal organ and performs hundreds of functions. It processes nutrients absorbed from the intestine, stores glucose as glycogen, and releases it when blood sugar falls. It produces bile to help digest fats, makes proteins needed for blood clotting, and detoxifies drugs and waste products such as ammonia. Because blood from the digestive tract passes through the liver first, it acts as a filter and gatekeeper. Chronic injury from infection or alcohol can lead to cirrhosis, in which scar tissue replaces healthy liver.",
-    "content_zh": "肝脏是最大的内脏器官，承担数百种功能：处理从肠道吸收的营养、以糖原形式储存葡萄糖并在血糖下降时释放；生成帮助消化脂肪的胆汁、制造凝血所需蛋白，并对药物和氨等废物进行解毒。由于来自消化道的血液先经过肝脏，肝脏起到过滤器和「守门人」的作用。感染或酒精导致的慢性损伤可引起肝硬化，瘢痕组织取代健康肝组织。"
+    "content_zh": "肝脏是最大的内脏器官，承担数百种功能：处理从肠道吸收的营养、以糖原形式储存葡萄糖并在血糖下降时释放；生成帮助消化脂肪的胆汁、制造凝血所需蛋白，并对药物和氨等废物进行解毒。由于来自消化道的血液先经过肝脏，肝脏起到过滤器和「守门人」的作用。感染或酒精导致的慢性损伤可引起肝硬化，瘢痕组织取代健康肝组织。",
+    "domain": "macro"
   },
   {
     "id": 36,
@@ -321,7 +356,8 @@
     "title_zh": "消化性溃疡与幽门螺杆菌",
     "difficulty": 3,
     "content_en": "A peptic ulcer is an open sore in the lining of the stomach or the first part of the small intestine, where digestive acid has eroded the protective mucous layer. For many years ulcers were blamed on stress and spicy food, but most are actually caused by infection with the bacterium Helicobacter pylori or by long-term use of NSAID painkillers. Typical symptoms include burning upper-abdominal pain. Treatment combines antibiotics to clear the infection with acid-suppressing drugs that allow the lining to heal.",
-    "content_zh": "消化性溃疡是胃或小肠起始部黏膜上的开放性溃烂，因消化酸侵蚀了保护性黏液层所致。多年来溃疡曾被归咎于压力和辛辣食物，但实际上多由幽门螺杆菌感染或长期服用非甾体抗炎止痛药引起。典型症状为上腹部烧灼样疼痛。治疗将清除感染的抗生素与抑酸药物相结合，使黏膜得以愈合。"
+    "content_zh": "消化性溃疡是胃或小肠起始部黏膜上的开放性溃烂，因消化酸侵蚀了保护性黏液层所致。多年来溃疡曾被归咎于压力和辛辣食物，但实际上多由幽门螺杆菌感染或长期服用非甾体抗炎止痛药引起。典型症状为上腹部烧灼样疼痛。治疗将清除感染的抗生素与抑酸药物相结合，使黏膜得以愈合。",
+    "domain": "macro"
   },
   {
     "id": 37,
@@ -330,7 +366,8 @@
     "title_zh": "骨的结构与重塑",
     "difficulty": 2,
     "content_en": "Bone is living tissue that constantly renews itself. The hard outer layer, compact bone, surrounds a spongy inner region and, in long bones, a central marrow cavity where blood cells are made. Two cell types keep bone in balance: osteoblasts build new bone matrix, while osteoclasts break old bone down. This continual remodeling repairs micro-damage and releases calcium into the blood when needed. When breakdown outpaces formation, bones lose density and become fragile, a condition called osteoporosis that increases the risk of fractures.",
-    "content_zh": "骨是不断自我更新的活组织。坚硬的外层为密质骨，包绕内部的松质骨，长骨中央还有制造血细胞的骨髓腔。两类细胞维持骨的平衡：成骨细胞构建新的骨基质，破骨细胞分解旧骨。这种持续重塑可修复微损伤并在需要时向血中释放钙。当分解超过形成时，骨密度下降、变得脆弱，即骨质疏松症，会增加骨折风险。"
+    "content_zh": "骨是不断自我更新的活组织。坚硬的外层为密质骨，包绕内部的松质骨，长骨中央还有制造血细胞的骨髓腔。两类细胞维持骨的平衡：成骨细胞构建新的骨基质，破骨细胞分解旧骨。这种持续重塑可修复微损伤并在需要时向血中释放钙。当分解超过形成时，骨密度下降、变得脆弱，即骨质疏松症，会增加骨折风险。",
+    "domain": "macro"
   },
   {
     "id": 38,
@@ -339,7 +376,8 @@
     "title_zh": "骨骼肌如何收缩",
     "difficulty": 3,
     "content_en": "Skeletal muscles move the body by contracting. Each muscle is made of bundles of fibers, and each fiber contains thread-like myofibrils built from overlapping filaments of the proteins actin and myosin. When a nerve signal arrives, calcium is released inside the fiber, allowing myosin heads to grab the actin filaments and pull them past one another. This sliding shortens the muscle. The process requires energy in the form of ATP, which is why muscles fatigue and why oxygen and nutrients delivered by the blood are essential for sustained activity.",
-    "content_zh": "骨骼肌通过收缩使身体运动。每块肌肉由成束的肌纤维构成，每条纤维内含线状肌原纤维，由肌动蛋白和肌球蛋白丝交叠组成。神经信号到达时，纤维内释放钙离子，使肌球蛋白头部抓住肌动蛋白丝并相互滑过，这种滑动使肌肉缩短。该过程需要 ATP 形式的能量，这也是肌肉会疲劳、以及血液输送的氧和养分对持续活动至关重要的原因。"
+    "content_zh": "骨骼肌通过收缩使身体运动。每块肌肉由成束的肌纤维构成，每条纤维内含线状肌原纤维，由肌动蛋白和肌球蛋白丝交叠组成。神经信号到达时，纤维内释放钙离子，使肌球蛋白头部抓住肌动蛋白丝并相互滑过，这种滑动使肌肉缩短。该过程需要 ATP 形式的能量，这也是肌肉会疲劳、以及血液输送的氧和养分对持续活动至关重要的原因。",
+    "domain": "macro"
   },
   {
     "id": 39,
@@ -348,7 +386,8 @@
     "title_zh": "关节炎：关节的炎症",
     "difficulty": 2,
     "content_en": "Arthritis refers to inflammation of one or more joints, causing pain and stiffness. The two most common forms differ in cause. Osteoarthritis is a 'wear-and-tear' disease in which the cartilage cushioning the ends of bones gradually breaks down, most often in weight-bearing joints of older adults. Rheumatoid arthritis, by contrast, is an autoimmune disease in which the body's immune system attacks the joint lining, leading to swelling, deformity, and damage that can affect many joints at once. Management aims to reduce inflammation and preserve mobility.",
-    "content_zh": "关节炎指一个或多个关节的炎症，引起疼痛和僵硬。最常见的两种类型病因不同：骨关节炎是一种「磨损性」疾病，缓冲骨端的软骨逐渐破坏，多见于老年人的承重关节；类风湿关节炎则是自身免疫病，免疫系统攻击关节滑膜，导致肿胀、畸形和损害，常同时累及多个关节。治疗目标是减轻炎症、保持活动能力。"
+    "content_zh": "关节炎指一个或多个关节的炎症，引起疼痛和僵硬。最常见的两种类型病因不同：骨关节炎是一种「磨损性」疾病，缓冲骨端的软骨逐渐破坏，多见于老年人的承重关节；类风湿关节炎则是自身免疫病，免疫系统攻击关节滑膜，导致肿胀、畸形和损害，常同时累及多个关节。治疗目标是减轻炎症、保持活动能力。",
+    "domain": "macro"
   },
   {
     "id": 40,
@@ -357,7 +396,8 @@
     "title_zh": "激素与内分泌系统",
     "difficulty": 2,
     "content_en": "The endocrine system is a network of glands that release chemical messengers called hormones directly into the bloodstream. Hormones travel to distant target organs, where they regulate processes such as growth, metabolism, reproduction, and the body's response to stress. Major glands include the pituitary, which coordinates many others; the thyroid, which sets metabolic rate; the adrenal glands, which release stress hormones; and the pancreas, which controls blood sugar. Because hormones act in tiny amounts, even small imbalances can have widespread effects.",
-    "content_zh": "内分泌系统是一组将称为激素的化学信使直接释放入血的腺体网络。激素运行至远处的靶器官，调节生长、代谢、生殖以及机体对应激的反应等过程。主要腺体包括协调众多腺体的垂体、设定代谢率的甲状腺、释放应激激素的肾上腺，以及调控血糖的胰腺。由于激素以极微量起作用，即使轻微失衡也可能产生广泛影响。"
+    "content_zh": "内分泌系统是一组将称为激素的化学信使直接释放入血的腺体网络。激素运行至远处的靶器官，调节生长、代谢、生殖以及机体对应激的反应等过程。主要腺体包括协调众多腺体的垂体、设定代谢率的甲状腺、释放应激激素的肾上腺，以及调控血糖的胰腺。由于激素以极微量起作用，即使轻微失衡也可能产生广泛影响。",
+    "domain": "macro"
   },
   {
     "id": 41,
@@ -366,7 +406,8 @@
     "title_zh": "糖尿病",
     "difficulty": 3,
     "content_en": "Diabetes mellitus is a group of disorders marked by chronically high blood glucose. Normally the pancreas releases insulin, a hormone that lets cells take up glucose from the blood. In type 1 diabetes, the immune system destroys the insulin-producing cells, so little or no insulin is made. In the far more common type 2 diabetes, the body becomes resistant to insulin and cannot keep up with demand. Over years, high glucose damages blood vessels and nerves, raising the risk of heart disease, kidney failure, blindness, and poor wound healing.",
-    "content_zh": "糖尿病是一组以血糖长期升高为特征的疾病。正常情况下胰腺释放胰岛素，使细胞从血液中摄取葡萄糖。1 型糖尿病中，免疫系统破坏产生胰岛素的细胞，胰岛素极少或缺失；在更为常见的 2 型糖尿病中，机体对胰岛素产生抵抗、难以满足需求。多年累积下，高血糖损伤血管和神经，增加心脏病、肾衰竭、失明和伤口难愈的风险。"
+    "content_zh": "糖尿病是一组以血糖长期升高为特征的疾病。正常情况下胰腺释放胰岛素，使细胞从血液中摄取葡萄糖。1 型糖尿病中，免疫系统破坏产生胰岛素的细胞，胰岛素极少或缺失；在更为常见的 2 型糖尿病中，机体对胰岛素产生抵抗、难以满足需求。多年累积下，高血糖损伤血管和神经，增加心脏病、肾衰竭、失明和伤口难愈的风险。",
+    "domain": "macro"
   },
   {
     "id": 42,
@@ -375,7 +416,8 @@
     "title_zh": "甲状腺与代谢",
     "difficulty": 2,
     "content_en": "The thyroid is a butterfly-shaped gland in the neck that sets the body's metabolic rate by releasing thyroid hormones. When the gland is overactive (hyperthyroidism), metabolism speeds up, producing weight loss, a fast heartbeat, heat intolerance, and anxiety. When it is underactive (hypothyroidism), metabolism slows, causing fatigue, weight gain, cold intolerance, and dry skin. The pituitary gland monitors hormone levels and releases thyroid-stimulating hormone (TSH) to keep them in balance, which is why TSH is measured to assess thyroid function.",
-    "content_zh": "甲状腺是颈部一个蝶形腺体，通过释放甲状腺激素设定机体的代谢率。腺体功能亢进（甲亢）时代谢加快，出现体重下降、心跳加快、怕热和焦虑；功能减退（甲减）时代谢减慢，导致乏力、体重增加、怕冷和皮肤干燥。垂体监测激素水平并释放促甲状腺激素（TSH）以维持平衡，这也是临床通过检测 TSH 评估甲状腺功能的原因。"
+    "content_zh": "甲状腺是颈部一个蝶形腺体，通过释放甲状腺激素设定机体的代谢率。腺体功能亢进（甲亢）时代谢加快，出现体重下降、心跳加快、怕热和焦虑；功能减退（甲减）时代谢减慢，导致乏力、体重增加、怕冷和皮肤干燥。垂体监测激素水平并释放促甲状腺激素（TSH）以维持平衡，这也是临床通过检测 TSH 评估甲状腺功能的原因。",
+    "domain": "macro"
   },
   {
     "id": 43,
@@ -384,7 +426,8 @@
     "title_zh": "肾脏如何过滤血液",
     "difficulty": 3,
     "content_en": "The kidneys are a pair of bean-shaped organs that filter waste from the blood and balance the body's water and salts. Each kidney contains about a million tiny filtering units called nephrons. In each nephron, blood is first filtered through a tuft of capillaries known as the glomerulus, producing a fluid that passes through a series of tubules. There, useful substances such as water, glucose, and salts are reabsorbed back into the blood, while waste products remain to form urine. The result is precise control of blood composition and volume.",
-    "content_zh": "肾脏是一对蚕豆形器官，负责从血液中过滤废物并平衡机体的水和盐。每个肾脏约含一百万个称为肾单位的微小过滤单元。在每个肾单位中，血液先经称为肾小球的毛细血管丛过滤，生成的滤液流经一系列肾小管；其中水、葡萄糖、盐等有用物质被重吸收回血液，而废物则留下形成尿液。由此实现对血液成分和容量的精确调控。"
+    "content_zh": "肾脏是一对蚕豆形器官，负责从血液中过滤废物并平衡机体的水和盐。每个肾脏约含一百万个称为肾单位的微小过滤单元。在每个肾单位中，血液先经称为肾小球的毛细血管丛过滤，生成的滤液流经一系列肾小管；其中水、葡萄糖、盐等有用物质被重吸收回血液，而废物则留下形成尿液。由此实现对血液成分和容量的精确调控。",
+    "domain": "macro"
   },
   {
     "id": 44,
@@ -393,7 +436,8 @@
     "title_zh": "尿路感染",
     "difficulty": 2,
     "content_en": "A urinary tract infection (UTI) occurs when bacteria, most often from the bowel, enter and multiply in the urinary tract. Infections of the bladder (cystitis) cause a burning sensation when urinating, a frequent urge to go, and cloudy or strong-smelling urine. If bacteria travel up the ureters to the kidneys, a more serious infection called pyelonephritis can develop, often with fever and back pain. UTIs are more common in women because of the shorter urethra, and they are usually treated effectively with antibiotics.",
-    "content_zh": "尿路感染（UTI）发生在细菌（多来自肠道）进入并在尿路中繁殖时。膀胱感染（膀胱炎）引起排尿灼痛、尿频和尿液混浊或异味。若细菌沿输尿管上行至肾脏，可发展为更严重的肾盂肾炎，常伴发热和腰背痛。由于尿道较短，女性更易患尿路感染，通常用抗生素可有效治疗。"
+    "content_zh": "尿路感染（UTI）发生在细菌（多来自肠道）进入并在尿路中繁殖时。膀胱感染（膀胱炎）引起排尿灼痛、尿频和尿液混浊或异味。若细菌沿输尿管上行至肾脏，可发展为更严重的肾盂肾炎，常伴发热和腰背痛。由于尿道较短，女性更易患尿路感染，通常用抗生素可有效治疗。",
+    "domain": "macro"
   },
   {
     "id": 45,
@@ -402,7 +446,8 @@
     "title_zh": "肾结石",
     "difficulty": 2,
     "content_en": "Kidney stones are hard deposits of minerals and salts that form inside the kidneys when urine becomes concentrated. A small stone may pass unnoticed, but a larger one can lodge in the ureter and block the flow of urine, causing sudden, severe pain in the side and back that may radiate to the lower abdomen, often with blood in the urine and nausea. Drinking plenty of fluids helps prevent stones, and many pass on their own; larger stones may require procedures that break them up or remove them.",
-    "content_zh": "肾结石是当尿液浓缩时在肾脏内形成的矿物质和盐类硬性沉积。小结石可能无症状排出，而较大结石可嵌顿于输尿管阻塞尿流，引起腰侧和背部突发剧痛并可向下腹放射，常伴血尿和恶心。多饮水有助于预防结石，许多可自行排出；较大结石可能需要碎石或取石等处理。"
+    "content_zh": "肾结石是当尿液浓缩时在肾脏内形成的矿物质和盐类硬性沉积。小结石可能无症状排出，而较大结石可嵌顿于输尿管阻塞尿流，引起腰侧和背部突发剧痛并可向下腹放射，常伴血尿和恶心。多饮水有助于预防结石，许多可自行排出；较大结石可能需要碎石或取石等处理。",
+    "domain": "macro"
   },
   {
     "id": 46,
@@ -411,7 +456,8 @@
     "title_zh": "皮肤：结构与功能",
     "difficulty": 2,
     "content_en": "The skin is the body's largest organ and its first line of defense. It has three layers: the epidermis, a tough outer barrier that constantly sheds and renews; the dermis, which contains blood vessels, nerves, hair follicles, and sweat and oil glands; and the deeper subcutaneous layer of fat that cushions and insulates. The skin protects against injury and microbes, helps regulate body temperature through sweating and blood-flow changes, senses touch and pain, and produces vitamin D when exposed to sunlight.",
-    "content_zh": "皮肤是人体最大的器官，也是第一道防线。它由三层组成：表皮——坚韧的外屏障，不断脱落更新；真皮——含血管、神经、毛囊以及汗腺和皮脂腺；以及更深的皮下脂肪层，起缓冲和保温作用。皮肤抵御损伤和微生物，通过出汗和血流变化帮助调节体温，感知触觉和痛觉，并在阳光照射下生成维生素 D。"
+    "content_zh": "皮肤是人体最大的器官，也是第一道防线。它由三层组成：表皮——坚韧的外屏障，不断脱落更新；真皮——含血管、神经、毛囊以及汗腺和皮脂腺；以及更深的皮下脂肪层，起缓冲和保温作用。皮肤抵御损伤和微生物，通过出汗和血流变化帮助调节体温，感知触觉和痛觉，并在阳光照射下生成维生素 D。",
+    "domain": "macro"
   },
   {
     "id": 47,
@@ -420,7 +466,8 @@
     "title_zh": "伤口愈合",
     "difficulty": 3,
     "content_en": "Wound healing is an orderly process that restores damaged skin. It begins with hemostasis, in which blood clots to stop bleeding. Next comes inflammation, when immune cells clear debris and bacteria, producing redness and swelling. During the proliferation phase, new tissue and tiny blood vessels fill the wound and the edges draw together. Finally, in the remodeling phase, collagen is reorganized to strengthen the area, sometimes leaving a scar. Poor circulation, infection, and conditions such as diabetes can slow each of these steps.",
-    "content_zh": "伤口愈合是恢复受损皮肤的有序过程。它始于止血——血液凝固以止血；随后是炎症期，免疫细胞清除碎屑和细菌，出现红肿；在增生期，新组织和微小血管填充伤口、创缘相互靠拢；最后在重塑期，胶原重新排列以增强强度，有时留下瘢痕。血液循环不良、感染以及糖尿病等情况会减慢上述各步骤。"
+    "content_zh": "伤口愈合是恢复受损皮肤的有序过程。它始于止血——血液凝固以止血；随后是炎症期，免疫细胞清除碎屑和细菌，出现红肿；在增生期，新组织和微小血管填充伤口、创缘相互靠拢；最后在重塑期，胶原重新排列以增强强度，有时留下瘢痕。血液循环不良、感染以及糖尿病等情况会减慢上述各步骤。",
+    "domain": "macro"
   },
   {
     "id": 48,
@@ -429,6 +476,187 @@
     "title_zh": "常见皮肤感染",
     "difficulty": 2,
     "content_en": "Because the skin is constantly exposed, it is prone to infection by bacteria, fungi, and viruses. Cellulitis is a bacterial infection of the deeper skin that causes a spreading area of redness, warmth, and tenderness and can become serious if untreated. Fungal infections such as athlete's foot thrive in warm, moist areas and cause itching and scaling. Viral infections include warts and cold sores. Keeping skin clean and dry, and treating breaks in the surface promptly, helps prevent these infections from taking hold.",
-    "content_zh": "由于皮肤持续暴露，易受细菌、真菌和病毒感染。蜂窝织炎是较深部皮肤的细菌感染，引起逐渐扩大的红、热、压痛区域，若不治疗可变得严重；足癣等真菌感染好发于温暖潮湿处，引起瘙痒和脱屑；病毒感染包括疣和唇疱疹。保持皮肤清洁干燥、及时处理皮肤破损有助于防止这些感染发生。"
+    "content_zh": "由于皮肤持续暴露，易受细菌、真菌和病毒感染。蜂窝织炎是较深部皮肤的细菌感染，引起逐渐扩大的红、热、压痛区域，若不治疗可变得严重；足癣等真菌感染好发于温暖潮湿处，引起瘙痒和脱屑；病毒感染包括疣和唇疱疹。保持皮肤清洁干燥、及时处理皮肤破损有助于防止这些感染发生。",
+    "domain": "macro"
+  },
+  {
+    "id": 49,
+    "system_id": 9,
+    "title_en": "The Cell as the Unit of Life",
+    "title_zh": "细胞——生命的基本单位",
+    "difficulty": 1,
+    "content_en": "Every living thing is made of cells, the smallest units that can carry out all the processes of life. A typical human cell is bounded by a plasma membrane that controls what enters and leaves. Inside, the cytoplasm holds specialized structures called organelles, each with its own job. The nucleus stores DNA and directs the cell's activities, mitochondria supply energy, ribosomes build proteins, and the endoplasmic reticulum and Golgi apparatus process and ship those proteins. Although cells share these basic parts, they become highly specialized: a nerve cell, a muscle cell, and a red blood cell look and act very differently while following the same fundamental design.",
+    "content_zh": "一切生物都由细胞构成，细胞是能够完成全部生命过程的最小单位。典型的人体细胞被质膜包围，质膜控制物质进出。细胞内，细胞质中含有称为细胞器的专门结构，各司其职：细胞核储存 DNA 并指挥细胞活动，线粒体供应能量，核糖体合成蛋白质，内质网和高尔基体则加工并运送这些蛋白质。尽管细胞都具备这些基本部件，它们却会高度特化——神经细胞、肌细胞和红细胞在遵循同一基本设计的同时，外形和功能却大不相同。",
+    "domain": "micro"
+  },
+  {
+    "id": 50,
+    "system_id": 9,
+    "title_en": "Membranes and the Endomembrane System",
+    "title_zh": "膜与内膜系统",
+    "difficulty": 3,
+    "content_en": "The cell membrane is far more than a simple wall. It is a fluid phospholipid bilayer studded with proteins that act as channels, pumps, and receptors. This same membrane design extends inside the cell to form the endomembrane system, a connected network that includes the nuclear envelope, endoplasmic reticulum, Golgi apparatus, lysosomes, and transport vesicles. Proteins made on the rough endoplasmic reticulum are folded, modified, and passed to the Golgi apparatus for sorting, then shipped in vesicles to their destinations. Lysosomes, filled with digestive enzymes, break down worn-out parts and recycle their components. Together these compartments keep the cell's chemistry organized and efficient.",
+    "content_zh": "细胞膜远不只是一道简单的墙。它是流动的磷脂双分子层，其中镶嵌着充当通道、泵和受体的蛋白质。这种膜结构也延伸到细胞内部，构成内膜系统——一个相互连通的网络，包括核膜、内质网、高尔基体、溶酶体和运输囊泡。在粗面内质网上合成的蛋白质经折叠、修饰后被送往高尔基体分选，再由囊泡运往目的地。充满消化酶的溶酶体则分解老化结构并回收其组分。这些区室共同使细胞的化学过程保持有序而高效。",
+    "domain": "micro"
+  },
+  {
+    "id": 51,
+    "system_id": 9,
+    "title_en": "Powerhouses and Protein Factories",
+    "title_zh": "能量工厂与蛋白质工厂",
+    "difficulty": 2,
+    "content_en": "Two organelles capture the cell's essential trade-off between energy and information. Mitochondria are the powerhouses: their folded inner membranes, called cristae, host the reactions of cellular respiration that turn nutrients and oxygen into ATP, the cell's energy currency. Cells that work hard, such as muscle and liver cells, are packed with mitochondria. Ribosomes are the protein factories: these tiny machines read messenger RNA and link amino acids into chains. Some ribosomes float freely in the cytoplasm, while others attach to the endoplasmic reticulum to make proteins destined for membranes or export. Both organelles are essential, and damage to mitochondria in particular underlies many diseases.",
+    "content_zh": "两类细胞器体现了细胞在能量与信息之间的关键权衡。线粒体是能量工厂：其折叠的内膜（称为嵴）承载细胞呼吸的反应，将养分和氧气转化为细胞的能量货币 ATP。工作繁重的细胞（如肌细胞和肝细胞）富含线粒体。核糖体则是蛋白质工厂：这些微小机器读取信使 RNA，将氨基酸连接成链。一部分核糖体游离于细胞质中，另一部分附着于内质网，合成将用于膜或输出的蛋白质。两类细胞器都不可或缺，而线粒体的损伤尤其是许多疾病的基础。",
+    "domain": "micro"
+  },
+  {
+    "id": 52,
+    "system_id": 9,
+    "title_en": "The Cytoskeleton and Cell Movement",
+    "title_zh": "细胞骨架与细胞运动",
+    "difficulty": 3,
+    "content_en": "Far from being a shapeless bag, a cell is held together and moved by an internal scaffolding called the cytoskeleton. It is built from three kinds of protein fibers. Microtubules are hollow tubes that give the cell shape and serve as tracks for transporting organelles and vesicles; they also form the spindle that separates chromosomes during division. Microfilaments, made of actin, allow the cell to change shape, crawl, and pinch in two during cytokinesis. Intermediate filaments are tough, rope-like fibers that resist mechanical stress and anchor structures in place. Specialized extensions of the cytoskeleton, such as cilia and flagella, let cells sweep fluid or swim.",
+    "content_zh": "细胞远非一只无形的口袋，而是由称为细胞骨架的内部支架支撑并驱动运动。它由三类蛋白纤维构成。微管是中空的管子，赋予细胞形状，并充当运输细胞器和囊泡的轨道；它们还形成在分裂时分离染色体的纺锤体。由肌动蛋白构成的微丝使细胞能够改变形状、爬行，并在胞质分裂时缢裂为二。中间丝是坚韧的绳索状纤维，可抵抗机械应力并将结构固定在适当位置。细胞骨架的特化延伸结构（如纤毛和鞭毛）则使细胞能够清扫液体或游动。",
+    "domain": "micro"
+  },
+  {
+    "id": 53,
+    "system_id": 10,
+    "title_en": "Crossing the Membrane: Transport Mechanisms",
+    "title_zh": "跨膜运输机制",
+    "difficulty": 3,
+    "content_en": "The cell membrane decides what can enter and leave, and it does so by several routes. In passive transport, substances move down their concentration gradient without any energy cost: simple diffusion carries small molecules like oxygen straight through the membrane, while facilitated diffusion lets larger molecules such as glucose pass through carrier or channel proteins. Osmosis is the special case of water diffusing toward the saltier side. When a cell must move a substance against its gradient, it uses active transport, spending ATP to power protein pumps. Large items are handled in bulk: endocytosis brings material in by wrapping it in membrane, and exocytosis releases material by fusing vesicles with the membrane.",
+    "content_zh": "细胞膜决定哪些物质可以进出，并通过多种途径实现。在被动运输中，物质顺浓度梯度移动而不消耗能量：简单扩散使氧气等小分子直接穿过膜，易化扩散则让葡萄糖等较大分子借助载体或通道蛋白通过。渗透是水向更咸一侧扩散的特例。当细胞必须逆浓度梯度运输物质时，便采用主动运输，消耗 ATP 驱动蛋白泵。大型物质则成批处理：胞吞作用用膜包裹将物质带入，胞吐作用则通过囊泡与膜融合将物质释放。",
+    "domain": "micro"
+  },
+  {
+    "id": 54,
+    "system_id": 10,
+    "title_en": "Tonicity: How Cells Respond to Their Surroundings",
+    "title_zh": "渗透压：细胞如何应对外环境",
+    "difficulty": 2,
+    "content_en": "Because water crosses cell membranes freely by osmosis, the concentration of dissolved particles in the surrounding fluid has powerful effects on a cell. In an isotonic solution, the outside matches the inside, so water moves in and out equally and the cell keeps its normal shape. In a hypotonic solution, the outside is more dilute, so water rushes in and the cell swells and may even burst. In a hypertonic solution, the outside is saltier, so water leaves and the cell shrinks. This is why intravenous fluids given in hospitals are carefully matched to the body, and why both dehydration and overhydration disturb cell function.",
+    "content_zh": "由于水可经渗透自由跨膜，周围液体中溶解颗粒的浓度对细胞有强烈影响。在等渗溶液中，外部与内部浓度相当，水进出相等，细胞保持正常形态；在低渗溶液中，外部较稀，水大量涌入，细胞肿胀甚至可能破裂；在高渗溶液中，外部较咸，水分流出，细胞皱缩。这正是医院静脉输液需与机体仔细匹配的原因，也是脱水和水中毒都会扰乱细胞功能的原因。",
+    "domain": "micro"
+  },
+  {
+    "id": 55,
+    "system_id": 10,
+    "title_en": "Energy and Enzymes",
+    "title_zh": "能量与酶",
+    "difficulty": 3,
+    "content_en": "Cells run on energy, and they manage it through metabolism, the sum of all their chemical reactions. Reactions that build complex molecules, called anabolism, require energy, while reactions that break molecules down, called catabolism, release it. The energy released is captured in ATP, a molecule whose phosphate bonds store and deliver energy where it is needed. Almost every reaction in the cell is controlled by enzymes, proteins that act as catalysts. Each enzyme binds a specific substrate at its active site and lowers the energy needed for the reaction, speeding it up dramatically without being used up. By switching enzymes on and off, a cell controls when and how fast each step proceeds.",
+    "content_zh": "细胞依靠能量运转，并通过代谢（全部化学反应的总和）来管理能量。构建复杂分子的反应称为合成代谢，需要消耗能量；分解分子的反应称为分解代谢，会释放能量。释放出的能量被 ATP 捕获——这种分子的磷酸键能够储存能量并将其输送到需要之处。细胞中几乎每个反应都由酶控制，酶是充当催化剂的蛋白质。每种酶在其活性位点结合特定底物，降低反应所需能量，从而在自身不被消耗的情况下显著加快反应。通过开启或关闭酶，细胞得以控制各步骤何时进行、进行多快。",
+    "domain": "micro"
+  },
+  {
+    "id": 56,
+    "system_id": 10,
+    "title_en": "The Cell Cycle and Mitosis",
+    "title_zh": "细胞周期与有丝分裂",
+    "difficulty": 4,
+    "content_en": "To grow, repair tissue, and replace worn-out cells, the body must produce new cells through an orderly sequence called the cell cycle. Most of the cycle is spent in interphase, when the cell grows, carries out its normal work, and copies its DNA so that each new cell will receive a full set. Division of the nucleus then proceeds through mitosis in four stages: in prophase the chromosomes condense and the spindle forms; in metaphase they line up at the cell's center; in anaphase the sister chromatids are pulled to opposite poles; and in telophase two new nuclei form. Finally, cytokinesis splits the cytoplasm, yielding two genetically identical daughter cells. Loss of control over this cycle is a hallmark of cancer.",
+    "content_zh": "为了生长、修复组织和替换老化细胞，机体必须通过称为细胞周期的有序过程产生新细胞。周期的大部分时间处于间期，此时细胞生长、执行日常功能，并复制 DNA，使每个新细胞都能获得完整的一套。随后核分裂经有丝分裂的四个阶段进行：前期染色体凝缩、纺锤体形成；中期它们排列于细胞中央；后期姐妹染色单体被拉向两极；末期形成两个新核。最后，胞质分裂将细胞质分开，产生两个遗传上完全相同的子细胞。对这一周期失去控制是癌症的标志性特征。",
+    "domain": "micro"
+  },
+  {
+    "id": 57,
+    "system_id": 11,
+    "title_en": "DNA: The Molecule of Heredity",
+    "title_zh": "DNA：遗传的分子",
+    "difficulty": 2,
+    "content_en": "DNA, or deoxyribonucleic acid, is the molecule that stores the instructions for building and running a living thing. Its structure is a double helix, two strands twisted around each other like a spiral ladder. The rungs of the ladder are pairs of chemical bases, and the order of these bases spells out the genetic code. A gene is a stretch of DNA that holds the instructions for one product, usually a protein. Before a cell divides, the two strands separate and each serves as a template to build a new partner, a process called replication that ensures both daughter cells receive an identical copy. Occasional errors, or mutations, are the raw material of genetic variation and disease.",
+    "content_zh": "DNA（脱氧核糖核酸）是储存构建和运行生命体指令的分子。它的结构为双螺旋，两条链像螺旋阶梯一样相互缠绕。阶梯的横档是成对的化学碱基，这些碱基的排列顺序拼写出遗传密码。基因是 DNA 上一段含有某一产物（通常是蛋白质）指令的序列。在细胞分裂前，两条链分开，各自作为模板合成新的配对链，这一过程称为复制，确保两个子细胞都获得完全相同的拷贝。偶尔出现的错误（即突变）是遗传变异和疾病的原始素材。",
+    "domain": "micro"
+  },
+  {
+    "id": 58,
+    "system_id": 11,
+    "title_en": "From Gene to Protein",
+    "title_zh": "从基因到蛋白质",
+    "difficulty": 4,
+    "content_en": "The instructions in a gene are carried out in two steps known together as gene expression. In transcription, an enzyme reads a gene and builds a matching strand of messenger RNA, which then leaves the nucleus. In translation, ribosomes read the messenger RNA three bases at a time; each three-base codon specifies one amino acid, and transfer RNA molecules deliver the matching amino acids in order. The growing chain of amino acids folds into a polypeptide and ultimately a working protein. Because proteins do most of the cell's work — as enzymes, structures, and signals — this flow of information from DNA to RNA to protein, often called the central dogma, is fundamental to all life.",
+    "content_zh": "基因中的指令通过合称为基因表达的两个步骤得以执行。在转录中，一种酶读取基因并合成与之匹配的信使 RNA，后者随即离开细胞核。在翻译中，核糖体每次读取信使 RNA 的三个碱基；每个三碱基密码子指定一个氨基酸，转运 RNA 分子按顺序送来相应的氨基酸。不断延长的氨基酸链折叠成多肽，最终形成有功能的蛋白质。由于蛋白质承担细胞的大部分工作——作为酶、结构和信号——这种从 DNA 到 RNA 再到蛋白质的信息流动（常称为中心法则）是一切生命的根本。",
+    "domain": "micro"
+  },
+  {
+    "id": 59,
+    "system_id": 11,
+    "title_en": "Chromosomes, Alleles, and Inheritance",
+    "title_zh": "染色体、等位基因与遗传",
+    "difficulty": 3,
+    "content_en": "Genes are carried on chromosomes, the condensed packages of DNA found in the nucleus. Human body cells are diploid, holding 46 chromosomes in 23 pairs, with one member of each pair inherited from each parent. Because the pairs carry the same genes, each gene is present in two copies that may differ; these alternative forms are called alleles. A dominant allele shows its effect even when paired with a different one, while a recessive allele is expressed only when both copies match. An individual with two identical alleles is homozygous; one with two different alleles is heterozygous. These simple rules, first worked out by Gregor Mendel, explain how traits pass from one generation to the next.",
+    "content_zh": "基因位于染色体上——染色体是细胞核中 DNA 的凝缩包装。人体体细胞为二倍体，含 46 条染色体，排成 23 对，每对中各有一条分别来自父母。由于成对染色体携带相同的基因，每个基因都以两个可能不同的拷贝存在；这些不同形式称为等位基因。显性等位基因即使与不同的等位基因配对也会表现其效应，而隐性等位基因只有在两个拷贝相同时才表达。具有两个相同等位基因的个体为纯合，具有两个不同等位基因的为杂合。这些最初由孟德尔阐明的简单规律，解释了性状如何代代相传。",
+    "domain": "micro"
+  },
+  {
+    "id": 60,
+    "system_id": 11,
+    "title_en": "Mutations and Their Consequences",
+    "title_zh": "突变及其后果",
+    "difficulty": 4,
+    "content_en": "A mutation is any change in the sequence of DNA. Some arise from errors during replication, others from environmental agents such as radiation or certain chemicals. Many mutations are harmless because they fall in unused regions or do not change the resulting protein. Others alter a single amino acid and can change how a protein works — for better, for worse, or with no clear effect. When a harmful mutation occurs in a gene that controls cell division, it can contribute to cancer. Mutations in reproductive cells can be passed to offspring and cause inherited diseases such as sickle cell anemia. Yet mutation is also essential, providing the genetic variation on which evolution depends.",
+    "content_zh": "突变是指 DNA 序列的任何改变。有些源于复制时的错误，有些则由辐射或某些化学物质等环境因素引起。许多突变是无害的，因为它们落在未被利用的区域，或并不改变所生成的蛋白质。另一些则改变单个氨基酸，可能改变蛋白质的工作方式——或好、或坏、或无明显影响。当有害突变发生在控制细胞分裂的基因中时，可能促成癌症。生殖细胞中的突变可传给后代，导致镰状细胞贫血等遗传病。然而突变也不可或缺，它提供了进化所依赖的遗传变异。",
+    "domain": "micro"
+  },
+  {
+    "id": 61,
+    "system_id": 12,
+    "title_en": "The Four Basic Tissue Types",
+    "title_zh": "四种基本组织类型",
+    "difficulty": 2,
+    "content_en": "Although the body contains many organs, they are all built from just four basic tissue types. Epithelial tissue covers surfaces and lines cavities and glands, forming protective barriers and controlling absorption and secretion. Connective tissue, the most varied type, supports and binds the body and includes bone, cartilage, fat, and blood. Muscle tissue is specialized to contract, producing movement, and exists as skeletal, cardiac, and smooth varieties. Nervous tissue carries electrical signals and makes up the brain, spinal cord, and nerves. By combining these four tissues in different proportions and arrangements, the body constructs every organ, from the heart to the skin.",
+    "content_zh": "尽管人体含有众多器官，它们都由仅仅四种基本组织类型构成。上皮组织覆盖表面、衬于体腔和腺体，形成保护性屏障并控制吸收与分泌。结缔组织是种类最多的类型，支持并连接机体，包括骨、软骨、脂肪和血液。肌组织专门用于收缩以产生运动，分为骨骼肌、心肌和平滑肌。神经组织传导电信号，构成脑、脊髓和神经。通过将这四种组织以不同比例和排列加以组合，机体构建出从心脏到皮肤的每一个器官。",
+    "domain": "micro"
+  },
+  {
+    "id": 62,
+    "system_id": 12,
+    "title_en": "Epithelium: Surfaces and Linings",
+    "title_zh": "上皮：表面与衬里",
+    "difficulty": 3,
+    "content_en": "Epithelial tissue forms the body's surfaces and the linings of its tubes and cavities. Its cells sit close together on a thin basement membrane that anchors them to the tissue below, and the tissue is classified by cell shape and layering. Cells may be flat (squamous), cube-shaped (cuboidal), or tall (columnar). A single layer, called simple epithelium, favors absorption and diffusion, as in the lungs and intestine; multiple layers, called stratified epithelium, protect surfaces that take wear, such as the skin and mouth. Specialized epithelial cells include goblet cells that secrete protective mucus and the endothelium that lines blood vessels. Because epithelium is constantly exposed, it renews itself rapidly throughout life.",
+    "content_zh": "上皮组织构成机体的表面以及管道和体腔的衬里。其细胞紧密排列在薄薄的基膜上，基膜将它们固定于下层组织；该组织按细胞形状和层次分类。细胞可为扁平（鳞状）、立方（立方状）或高柱形（柱状）。单层上皮利于吸收和扩散，如肺和肠道所见；复层上皮则保护承受磨损的表面，如皮肤和口腔。特化的上皮细胞包括分泌保护性黏液的杯状细胞和衬于血管的内皮。由于上皮持续暴露，它在一生中不断快速自我更新。",
+    "domain": "micro"
+  },
+  {
+    "id": 63,
+    "system_id": 12,
+    "title_en": "Connective Tissue: Support and Connection",
+    "title_zh": "结缔组织：支持与连接",
+    "difficulty": 3,
+    "content_en": "Connective tissue is the body's most abundant and diverse tissue, and unlike the others it is defined as much by what lies between its cells as by the cells themselves. Scattered cells such as fibroblasts secrete an extracellular matrix made of protein fibers and a surrounding ground substance. Collagen fibers give the matrix tensile strength, while elastin fibers let it stretch and recoil. By varying the cells and matrix, connective tissue takes many forms: loose areolar tissue cushions and connects organs, adipose tissue stores fat and insulates, and dense tissue forms tough tendons and ligaments. Even bone, cartilage, and blood are classified as connective tissues, sharing the theme of cells embedded in a specialized matrix.",
+    "content_zh": "结缔组织是人体最丰富、最多样的组织，与其他组织不同，它的定义既取决于细胞本身，也同样取决于细胞之间的物质。成纤维细胞等散在的细胞分泌由蛋白纤维和周围基质构成的细胞外基质。胶原纤维赋予基质抗拉强度，弹性纤维则使其能伸展回弹。通过改变细胞和基质，结缔组织呈现多种形式：疏松结缔组织缓冲并连接器官，脂肪组织储存脂肪并保温，致密组织形成坚韧的肌腱和韧带。甚至骨、软骨和血液也被归为结缔组织，它们共有「细胞嵌于特化基质中」这一主题。",
+    "domain": "micro"
+  },
+  {
+    "id": 64,
+    "system_id": 13,
+    "title_en": "From Fertilization to Implantation",
+    "title_zh": "从受精到着床",
+    "difficulty": 3,
+    "content_en": "Human development begins when a sperm fertilizes an egg, fusing two haploid gametes into a single diploid cell called the zygote. Over the next several days the zygote undergoes cleavage, a series of rapid divisions that increase cell number without increasing overall size, producing first a solid ball called the morula and then a hollow ball called the blastocyst. The blastocyst travels to the uterus, where its outer layer, the trophoblast, helps it embed into the uterine wall in a process called implantation. The trophoblast goes on to form part of the placenta, the organ that will nourish the embryo. These earliest events set the stage for the body plan that follows.",
+    "content_zh": "人类发育始于精子使卵子受精，将两个单倍体配子融合为一个称为受精卵的二倍体细胞。在随后数天里，受精卵经历卵裂——一系列快速分裂使细胞数目增加而总体积不变，先形成称为桑椹胚的实心细胞球，再形成称为囊胚的中空细胞球。囊胚移行至子宫，其外层（滋养层）帮助它嵌入子宫壁，这一过程称为着床。滋养层随后形成胎盘的一部分，胎盘是将为胚胎提供营养的器官。这些最早的事件为之后的身体蓝图奠定基础。",
+    "domain": "micro"
+  },
+  {
+    "id": 65,
+    "system_id": 13,
+    "title_en": "The Three Germ Layers",
+    "title_zh": "三个胚层",
+    "difficulty": 4,
+    "content_en": "Once implanted, the embryo undergoes gastrulation, a remarkable rearrangement that organizes its cells into three primary germ layers. The outer layer, the ectoderm, gives rise to the skin and the entire nervous system, including the brain and spinal cord. The middle layer, the mesoderm, forms muscle, bone, blood, the heart, and the kidneys. The inner layer, the endoderm, becomes the lining of the digestive and respiratory tracts and contributes to organs such as the liver and pancreas. From these three simple sheets, every tissue and organ of the body eventually arises. Establishing the germ layers correctly is one of the most critical steps in development.",
+    "content_zh": "着床之后，胚胎经历原肠胚形成——一次了不起的重排，将其细胞组织成三个主要胚层。外层（外胚层）发育成皮肤和整个神经系统，包括脑和脊髓；中层（中胚层）形成肌肉、骨骼、血液、心脏和肾脏；内层（内胚层）则成为消化道和呼吸道的内衬，并参与肝、胰等器官的形成。机体的每一种组织和器官最终都由这三张简单的细胞层发育而来。正确建立胚层是发育中最关键的步骤之一。",
+    "domain": "micro"
+  },
+  {
+    "id": 66,
+    "system_id": 13,
+    "title_en": "Stem Cells and Differentiation",
+    "title_zh": "干细胞与分化",
+    "difficulty": 4,
+    "content_en": "Every cell in the body descends from the single zygote, yet a neuron and a skin cell could hardly be more different. This diversity arises through differentiation, the process by which unspecialized cells switch on particular genes and take on specific roles. Early embryonic cells are remarkably flexible: the zygote is totipotent, able to form an entire organism, while slightly later cells are pluripotent, able to become nearly any cell type. As development proceeds, cells become progressively more committed until they reach their final, specialized form. Some stem cells persist into adulthood, allowing tissues such as skin, blood, and the lining of the gut to renew themselves. Understanding how differentiation is controlled is central to regenerative medicine.",
+    "content_zh": "体内每个细胞都源自单一的受精卵，然而神经元与皮肤细胞却天差地别。这种多样性通过分化产生——分化是未特化细胞开启特定基因、承担特定角色的过程。早期胚胎细胞极为灵活：受精卵是全能的，能形成完整个体；稍后的细胞是多能的，能成为几乎任何细胞类型。随着发育推进，细胞逐渐变得更加专一，直至达到最终的特化形态。一些干细胞会保留到成年，使皮肤、血液和肠道内衬等组织得以自我更新。理解分化如何受到调控是再生医学的核心。",
+    "domain": "micro"
   }
 ]

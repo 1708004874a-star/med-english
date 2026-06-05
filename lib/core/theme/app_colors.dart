@@ -29,7 +29,9 @@ abstract final class AppColors {
   static const Color error = Color(0xFFDC2626);
   static const Color errorLight = Color(0xFFFEE2E2);
 
-  // Body system accent colors (index matches system_id - 1)
+  // Body system accent colors (index matches system_id - 1).
+  // 0–7: macro organ systems. 8–12: micro (cellular) categories — a cooler
+  // violet→cyan family to reinforce the "microscope / lab" mood.
   static const List<Color> systemColors = [
     Color(0xFFEF4444), // 0 Cardiovascular
     Color(0xFF3B82F6), // 1 Respiratory
@@ -39,6 +41,11 @@ abstract final class AppColors {
     Color(0xFFEC4899), // 5 Endocrine
     Color(0xFF06B6D4), // 6 Urinary
     Color(0xFF84CC16), // 7 Integumentary
+    Color(0xFF7C3AED), // 8 Cell Structure (micro)
+    Color(0xFF6366F1), // 9 Cell Function & Molecular (micro)
+    Color(0xFF2563EB), // 10 Genetics & Molecular Biology (micro)
+    Color(0xFF0891B2), // 11 Histology (micro)
+    Color(0xFF0D9488), // 12 Embryology (micro)
   ];
 
   static const List<Color> systemColorsLight = [
@@ -50,6 +57,11 @@ abstract final class AppColors {
     Color(0xFFFCE7F3),
     Color(0xFFCFFAFE),
     Color(0xFFECFCCB),
+    Color(0xFFEDE9FE), // 8 Cell Structure
+    Color(0xFFE0E7FF), // 9 Cell Function & Molecular
+    Color(0xFFDBEAFE), // 10 Genetics & Molecular Biology
+    Color(0xFFCFFAFE), // 11 Histology
+    Color(0xFFCCFBF1), // 12 Embryology
   ];
 
   // Morpheme chip colors for word decomposition visualization

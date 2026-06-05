@@ -7,4 +7,5 @@ class WordMorphemes extends Table {
   TextColumn get meaningZh => text()();
   TextColumn get meaningEn => text()();
   TextColumn get origin => text().nullable()();
+  TextColumn get domain => text().withDefault(const Constant('macro'))();
 }

@@ -1,10 +1,12 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../../data/providers.dart';
+import '../../../../data/settings_providers.dart';
 import '../../../../domain/entities/body_system.dart';
 import '../../../../domain/entities/knowledge_article.dart';
 
-final knowledgeSystemsProvider = FutureProvider<List<BodySystem>>((ref) {
-  return ref.watch(vocabularyRepositoryProvider).getAllSystems();
+final knowledgeSystemsProvider = FutureProvider<List<BodySystem>>((ref) async {
+  final domain = ref.watch(domainProvider);
+  return ref.watch(vocabularyRepositoryProvider).getSystemsByDomain(domain.name);
 });
 
 final articlesBySystemProvider =

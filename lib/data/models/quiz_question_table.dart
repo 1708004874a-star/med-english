@@ -16,4 +16,5 @@ class QuizQuestions extends Table {
       integer().nullable().references(VocabularyWords, #id)();
   IntColumn get morphemeId =>
       integer().nullable().references(WordMorphemes, #id)();
+  TextColumn get domain => text().withDefault(const Constant('macro'))();
 }

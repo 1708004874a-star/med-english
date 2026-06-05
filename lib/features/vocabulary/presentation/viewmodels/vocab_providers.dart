@@ -3,11 +3,13 @@ import '../../../../domain/entities/body_system.dart';
 import '../../../../domain/entities/morpheme.dart';
 import '../../../../domain/entities/vocabulary.dart';
 import '../../../../data/providers.dart';
+import '../../../../data/settings_providers.dart';
 
 // ── Body Systems ──────────────────────────────────────────────────────────────
 
-final allSystemsProvider = FutureProvider<List<BodySystem>>((ref) {
-  return ref.watch(vocabularyRepositoryProvider).getAllSystems();
+final allSystemsProvider = FutureProvider<List<BodySystem>>((ref) async {
+  final domain = ref.watch(domainProvider);
+  return ref.watch(vocabularyRepositoryProvider).getSystemsByDomain(domain.name);
 });
 
 // ── Vocabulary List ───────────────────────────────────────────────────────────
@@ -18,14 +20,17 @@ final vocabSearchQueryProvider = StateProvider<String>((ref) => '');
 
 final vocabDisplayProvider = FutureProvider<List<Vocabulary>>((ref) async {
   final query = ref.watch(vocabSearchQueryProvider);
+  final domain = ref.watch(domainProvider);
   final repo = ref.watch(vocabularyRepositoryProvider);
 
   if (query.isNotEmpty) {
-    return repo.searchVocab(query);
+    return repo.searchVocab(query, domain: domain.name);
   }
 
   final systemId = ref.watch(selectedSystemProvider);
-  return systemId == null ? repo.getAllVocab() : repo.getVocabBySystem(systemId);
+  return systemId == null
+      ? repo.getVocabByDomain(domain.name)
+      : repo.getVocabBySystem(systemId);
 });
 
 // ── Vocabulary Detail ─────────────────────────────────────────────────────────
@@ -45,8 +50,11 @@ final morphemeTypeFilterProvider = StateProvider<String?>((ref) => null);
 
 final filteredMorphemesProvider = FutureProvider<List<Morpheme>>((ref) async {
   final repo = ref.watch(morphemeRepositoryProvider);
+  final domain = ref.watch(domainProvider);
   final type = ref.watch(morphemeTypeFilterProvider);
-  return type == null ? repo.getAllMorphemes() : repo.getMorphemesByType(type);
+  return type == null
+      ? repo.getMorphemesByDomain(domain.name)
+      : repo.getMorphemesByType(type, domain: domain.name);
 });
 
 final morphemeDetailProvider =
@@ -57,4 +65,18 @@ final morphemeDetailProvider =
 final vocabForMorphemeProvider =
     FutureProvider.family<List<Vocabulary>, int>((ref, morphemeId) {
   return ref.watch(morphemeRepositoryProvider).getVocabForMorpheme(morphemeId);
+});
+
+// ── Domain Stats (for home screen counts) ─────────────────────────────────────
+
+final domainVocabCountProvider = FutureProvider<int>((ref) async {
+  final domain = ref.watch(domainProvider);
+  return ref.watch(vocabularyRepositoryProvider).countVocabByDomain(domain.name);
+});
+
+final domainSystemCountProvider = FutureProvider<int>((ref) async {
+  final domain = ref.watch(domainProvider);
+  final systems =
+      await ref.watch(vocabularyRepositoryProvider).getSystemsByDomain(domain.name);
+  return systems.length;
 });

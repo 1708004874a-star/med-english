@@ -16,15 +16,24 @@ class DbSeeder {
 
   final AppDatabase _db;
 
+  // Macro (clinical) organ systems: ids 1–8. Micro (cellular) categories:
+  // ids 9–13. The ids are deterministic because `_clearSeededContent` resets
+  // `sqlite_sequence`, so the JSON content (which references these ids via
+  // `system_id`) stays valid across re-seeds.
   static const List<Map<String, dynamic>> _bodySystems = [
-    {'id': 1, 'name_en': 'Cardiovascular', 'name_zh': '心血管系统', 'icon': 'heart', 'color': '#EF4444'},
-    {'id': 2, 'name_en': 'Respiratory', 'name_zh': '呼吸系统', 'icon': 'lungs', 'color': '#3B82F6'},
-    {'id': 3, 'name_en': 'Nervous', 'name_zh': '神经系统', 'icon': 'brain', 'color': '#8B5CF6'},
-    {'id': 4, 'name_en': 'Digestive', 'name_zh': '消化系统', 'icon': 'stomach', 'color': '#F59E0B'},
-    {'id': 5, 'name_en': 'Musculoskeletal', 'name_zh': '肌肉骨骼系统', 'icon': 'bone', 'color': '#10B981'},
-    {'id': 6, 'name_en': 'Endocrine', 'name_zh': '内分泌系统', 'icon': 'gland', 'color': '#EC4899'},
-    {'id': 7, 'name_en': 'Urinary', 'name_zh': '泌尿系统', 'icon': 'kidney', 'color': '#06B6D4'},
-    {'id': 8, 'name_en': 'Integumentary', 'name_zh': '皮肤系统', 'icon': 'skin', 'color': '#84CC16'},
+    {'id': 1, 'name_en': 'Cardiovascular', 'name_zh': '心血管系统', 'icon': 'heart', 'color': '#EF4444', 'domain': 'macro'},
+    {'id': 2, 'name_en': 'Respiratory', 'name_zh': '呼吸系统', 'icon': 'lungs', 'color': '#3B82F6', 'domain': 'macro'},
+    {'id': 3, 'name_en': 'Nervous', 'name_zh': '神经系统', 'icon': 'brain', 'color': '#8B5CF6', 'domain': 'macro'},
+    {'id': 4, 'name_en': 'Digestive', 'name_zh': '消化系统', 'icon': 'stomach', 'color': '#F59E0B', 'domain': 'macro'},
+    {'id': 5, 'name_en': 'Musculoskeletal', 'name_zh': '肌肉骨骼系统', 'icon': 'bone', 'color': '#10B981', 'domain': 'macro'},
+    {'id': 6, 'name_en': 'Endocrine', 'name_zh': '内分泌系统', 'icon': 'gland', 'color': '#EC4899', 'domain': 'macro'},
+    {'id': 7, 'name_en': 'Urinary', 'name_zh': '泌尿系统', 'icon': 'kidney', 'color': '#06B6D4', 'domain': 'macro'},
+    {'id': 8, 'name_en': 'Integumentary', 'name_zh': '皮肤系统', 'icon': 'skin', 'color': '#84CC16', 'domain': 'macro'},
+    {'id': 9, 'name_en': 'Cell Structure', 'name_zh': '细胞结构', 'icon': 'cell', 'color': '#7C3AED', 'domain': 'micro'},
+    {'id': 10, 'name_en': 'Cell Function & Molecular', 'name_zh': '细胞功能与分子', 'icon': 'molecule', 'color': '#6366F1', 'domain': 'micro'},
+    {'id': 11, 'name_en': 'Genetics & Molecular Biology', 'name_zh': '遗传与分子生物学', 'icon': 'dna', 'color': '#2563EB', 'domain': 'micro'},
+    {'id': 12, 'name_en': 'Histology', 'name_zh': '组织学', 'icon': 'tissue', 'color': '#0891B2', 'domain': 'micro'},
+    {'id': 13, 'name_en': 'Embryology', 'name_zh': '胚胎学', 'icon': 'embryo', 'color': '#0D9488', 'domain': 'micro'},
   ];
 
   Future<void> seedIfNeeded() async {
@@ -77,6 +86,7 @@ class DbSeeder {
           nameZh: s['name_zh'] as String,
           iconName: s['icon'] as String,
           colorHex: s['color'] as String,
+          domain: Value(s['domain'] as String),
         ));
     await _db.vocabularyDao.batchInsertSystems(companions.toList());
   }
@@ -90,6 +100,7 @@ class DbSeeder {
           meaningZh: m['meaning_zh'] as String,
           meaningEn: m['meaning_en'] as String,
           origin: Value(m['origin'] as String?),
+          domain: Value((m['domain'] as String?) ?? 'macro'),
         ));
     await _db.morphemeDao.batchInsertMorphemes(companions.toList());
   }
@@ -108,6 +119,7 @@ class DbSeeder {
           systemId: Value(v['system_id'] as int?),
           difficulty:
               Value((v['difficulty'] as int?) ?? Difficulty.beginner.value),
+          domain: Value((v['domain'] as String?) ?? 'macro'),
         ));
     await _db.vocabularyDao.batchInsertVocab(vocabCompanions.toList());
 
@@ -138,6 +150,7 @@ class DbSeeder {
           contentEn: a['content_en'] as String,
           contentZh: a['content_zh'] as String,
           difficulty: Value((a['difficulty'] as int?) ?? 1),
+          domain: Value((a['domain'] as String?) ?? 'macro'),
         ));
     await _db.knowledgeDao.batchInsertArticles(companions.toList());
   }
@@ -156,6 +169,7 @@ class DbSeeder {
           explanationZh: q['explanation_zh'] as String,
           vocabId: Value(q['vocab_id'] as int?),
           morphemeId: Value(q['morpheme_id'] as int?),
+          domain: Value((q['domain'] as String?) ?? 'macro'),
         ));
     await _db.quizDao.batchInsertQuestions(companions.toList());
   }

@@ -1,3 +1,41 @@
+/// The two knowledge domains of the app.
+///
+/// Each domain has its own content (vocabulary, morphemes, articles, quiz
+/// questions) and visual palette. The user's choice is persisted and drives
+/// filtering across the entire app.
+enum AppDomain {
+  macro,
+  micro;
+
+  /// Value stored in SharedPreferences.
+  String get storageValue => name;
+
+  /// Human-readable label (English).
+  String get label {
+    switch (this) {
+      case AppDomain.macro:
+        return 'Clinical Macro';
+      case AppDomain.micro:
+        return 'Medical Micro';
+    }
+  }
+
+  /// Human-readable label (Chinese).
+  String get labelZh {
+    switch (this) {
+      case AppDomain.macro:
+        return '临床宏观系统';
+      case AppDomain.micro:
+        return '医用微观系统';
+    }
+  }
+
+  static AppDomain fromStorage(String? value) {
+    if (value == 'micro') return AppDomain.micro;
+    return AppDomain.macro;
+  }
+}
+
 enum MorphemeType {
   prefix,
   suffix,
@@ -62,9 +100,16 @@ const String kDbSeededKey = 'db_seeded';
 
 /// Bumped whenever the bundled seed content (vocabulary, articles, quizzes,
 /// morphemes) changes, so existing installs re-import the new content on update.
-const int kSeedVersion = 2;
+///
+/// v3 adds the dual-system (macro/micro) content: every row carries a `domain`
+/// tag and the micro (cell biology / histology / embryology) content set.
+const int kSeedVersion = 3;
 const String kSeedVersionKey = 'seed_version';
 
 /// Stored language code chosen by the user ('en' / 'zh').
 /// Absent means "follow the system language".
 const String kLocaleKey = 'app_locale';
+
+/// Stored knowledge domain chosen by the user ('macro' / 'micro').
+/// Absent means the default ([AppDomain.macro]).
+const String kDomainKey = 'app_domain';

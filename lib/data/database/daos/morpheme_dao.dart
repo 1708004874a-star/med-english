@@ -24,6 +24,15 @@ class MorphemeDao extends DatabaseAccessor<AppDatabase>
   Future<List<WordMorpheme>> getMorphemesByType(String type) =>
       (select(wordMorphemes)..where((t) => t.type.equals(type))).get();
 
+  Future<List<WordMorpheme>> getMorphemesByDomain(String domain) =>
+      (select(wordMorphemes)..where((t) => t.domain.equals(domain))).get();
+
+  Future<List<WordMorpheme>> getMorphemesByTypeAndDomain(
+          String type, String domain) =>
+      (select(wordMorphemes)
+            ..where((t) => t.type.equals(type) & t.domain.equals(domain)))
+          .get();
+
   Future<List<VocabularyWord>> getVocabForMorpheme(int morphemeId) {
     final query = select(vocabularyWords).join([
       innerJoin(

@@ -5,11 +5,25 @@ import 'package:med_english/l10n/app_localizations.dart';
 import '../../../../core/theme/app_colors.dart';
 import '../../../../core/theme/app_typography.dart';
 import '../../../../core/utils/locale_utils.dart';
+import '../../../../data/providers.dart';
+import '../../../../data/settings_providers.dart';
 import '../../../../domain/entities/quiz_question.dart';
 import '../viewmodels/quiz_providers.dart';
 
+/// The quiz session screen supports two modes:
+///
+/// * **Normal** — [questionIds] is null; loads random questions for the active
+///   domain. Wrong answers are recorded.
+/// * **Review** — [questionIds] is provided (wrong-question redo). Wrong
+///   answers are recorded again; correct answers mark the question as mastered.
 class QuizSessionScreen extends ConsumerStatefulWidget {
-  const QuizSessionScreen({super.key});
+  const QuizSessionScreen({super.key, this.questionIds});
+
+  /// If non-null, load these specific questions (review mode).
+  final List<int>? questionIds;
+
+  /// Whether this is review mode.
+  bool get isReview => questionIds != null;
 
   @override
   ConsumerState<QuizSessionScreen> createState() => _QuizSessionScreenState();
@@ -24,13 +38,22 @@ class _QuizSessionScreenState extends ConsumerState<QuizSessionScreen> {
 
   void _selectAnswer(int idx, QuizQuestion q) {
     if (_answered) return;
+    final domain = ref.read(domainProvider).name;
+    final wrongRepo = ref.read(wrongQuestionRepositoryProvider);
+
     setState(() {
       _selectedIndex = idx;
       _answered = true;
       if (idx == q.correctIndex) {
         _correctCount++;
+        // In review mode, correct answer → mark mastered.
+        if (widget.isReview) {
+          wrongRepo.markMastered(q.id);
+        }
       } else {
         _wrongIds.add(q.id);
+        // Record wrong answer (both modes).
+        wrongRepo.recordWrong(q.id, domain);
       }
     });
   }
@@ -41,6 +64,7 @@ class _QuizSessionScreenState extends ConsumerState<QuizSessionScreen> {
         'correct': _correctCount,
         'total': total,
         'wrongIds': _wrongIds,
+        'isReview': widget.isReview,
       });
       return;
     }
@@ -54,12 +78,16 @@ class _QuizSessionScreenState extends ConsumerState<QuizSessionScreen> {
   @override
   Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context)!;
-    final questionsAsync = ref.watch(quizSessionProvider);
+
+    // Pick the right provider based on mode.
+    final questionsAsync = widget.isReview
+        ? ref.watch(quizReviewProvider(widget.questionIds!))
+        : ref.watch(quizSessionProvider);
 
     return Scaffold(
       backgroundColor: AppColors.background,
       appBar: AppBar(
-        title: Text(l10n.quizTitle),
+        title: Text(widget.isReview ? l10n.quizWrongRedo : l10n.quizTitle),
         backgroundColor: AppColors.surface,
       ),
       body: questionsAsync.when(
@@ -72,13 +100,12 @@ class _QuizSessionScreenState extends ConsumerState<QuizSessionScreen> {
 
           final q = questions[_currentIndex];
           final total = questions.length;
-          final options = LocaleUtils.isZh(context)
-              ? q.optionsZh
-              : q.optionsEn;
-          final question = LocaleUtils.pick(context,
-              en: q.questionEn, zh: q.questionZh);
-          final explanation = LocaleUtils.pick(context,
-              en: q.explanationEn, zh: q.explanationZh);
+          final options =
+              LocaleUtils.isZh(context) ? q.optionsZh : q.optionsEn;
+          final question = LocaleUtils.pick(
+              context, en: q.questionEn, zh: q.questionZh);
+          final explanation = LocaleUtils.pick(
+              context, en: q.explanationEn, zh: q.explanationZh);
 
           return Column(
             children: [
@@ -170,8 +197,7 @@ class _QuizSessionScreenState extends ConsumerState<QuizSessionScreen> {
                                     ),
                                     child: Center(
                                       child: Text(
-                                        String.fromCharCode(
-                                            65 + i), // A B C D
+                                        String.fromCharCode(65 + i),
                                         style: AppTypography.label
                                             .copyWith(color: borderColor),
                                       ),
@@ -189,14 +215,12 @@ class _QuizSessionScreenState extends ConsumerState<QuizSessionScreen> {
                                   ),
                                   if (_answered && i == q.correctIndex)
                                     Icon(Icons.check_circle,
-                                        color: AppColors.success,
-                                        size: 20),
+                                        color: AppColors.success, size: 20),
                                   if (_answered &&
                                       i == _selectedIndex &&
                                       i != q.correctIndex)
                                     Icon(Icons.cancel,
-                                        color: AppColors.error,
-                                        size: 20),
+                                        color: AppColors.error, size: 20),
                                 ],
                               ),
                             ),
@@ -213,8 +237,8 @@ class _QuizSessionScreenState extends ConsumerState<QuizSessionScreen> {
                             color: AppColors.primaryLight,
                             borderRadius: BorderRadius.circular(12),
                             border: Border.all(
-                                color:
-                                    AppColors.primary.withValues(alpha: 0.3)),
+                                color: AppColors.primary
+                                    .withValues(alpha: 0.3)),
                           ),
                           child: Row(
                             crossAxisAlignment: CrossAxisAlignment.start,
