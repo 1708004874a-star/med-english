@@ -67,6 +67,17 @@
   "moduleKnowledgeSubtitle": "Anatomy & physiology",
   "@moduleKnowledgeSubtitle": { "description": "Home module card subtitle for knowledge base" },
 
+  "moduleKnowledgeSubtitleMicro": "Cell biology & histology",
+  "@moduleKnowledgeSubtitleMicro": { "description": "Home module card subtitle for knowledge base in micro domain" },
+
+  "nArticles": "{count, plural, =1{1 article} other{{count} articles}}",
+  "@nArticles": {
+    "description": "Article count label on knowledge system cards",
+    "placeholders": {
+      "count": { "type": "int", "example": "6" }
+    }
+  },
+
   "moduleQuizTitle": "Self-Test",
   "@moduleQuizTitle": { "description": "Home module card title for quiz section" },
 
@@ -149,6 +160,9 @@
 
   "backToVocab": "Back to Vocabulary",
   "@backToVocab": { "description": "Button to return to vocabulary list from flashcard session" },
+
+  "savedToNotebook": "Added to notebook",
+  "@savedToNotebook": { "description": "Snackbar shown when a word is saved to notebook from flashcard" },
 
   "quizTitle": "Self-Test",
   "@quizTitle": { "description": "App bar title for quiz screen" },
@@ -257,6 +271,33 @@
 
   "masteryLevel": "Mastery Level",
   "@masteryLevel": { "description": "Label for mastery level selector in notebook" },
+
+  "setMasteryTitle": "Set Mastery Level",
+  "@setMasteryTitle": { "description": "Bottom sheet title for mastery level picker in notebook" },
+
+  "filterAll": "All",
+  "@filterAll": { "description": "Notebook filter chip: show all entries" },
+
+  "filterNeedsReview": "Needs Review",
+  "@filterNeedsReview": { "description": "Notebook filter chip: show learning entries" },
+
+  "filterMastered": "Mastered",
+  "@filterMastered": { "description": "Notebook filter chip: show mastered entries" },
+
+  "masteryUnseen": "Unseen",
+  "@masteryUnseen": { "description": "Mastery level label" },
+
+  "masteryLearning": "Learning",
+  "@masteryLearning": { "description": "Mastery level label" },
+
+  "masteryFamiliar": "Familiar",
+  "@masteryFamiliar": { "description": "Mastery level label" },
+
+  "masteryProficient": "Proficient",
+  "@masteryProficient": { "description": "Mastery level label" },
+
+  "masteryMastered": "Mastered",
+  "@masteryMastered": { "description": "Mastery level label" },
 
   "savedOn": "Saved on {date}",
   "@savedOn": {

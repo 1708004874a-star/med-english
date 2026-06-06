@@ -72,6 +72,20 @@ class AppLocalizationsEn extends AppLocalizations {
   String get moduleKnowledgeSubtitle => 'Anatomy & physiology';
 
   @override
+  String get moduleKnowledgeSubtitleMicro => 'Cell biology & histology';
+
+  @override
+  String nArticles(int count) {
+    String _temp0 = intl.Intl.pluralLogic(
+      count,
+      locale: localeName,
+      other: '$count articles',
+      one: '1 article',
+    );
+    return '$_temp0';
+  }
+
+  @override
   String get moduleQuizTitle => 'Self-Test';
 
   @override
@@ -146,6 +160,9 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get backToVocab => 'Back to Vocabulary';
+
+  @override
+  String get savedToNotebook => 'Added to notebook';
 
   @override
   String get quizTitle => 'Self-Test';
@@ -249,6 +266,33 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get masteryLevel => 'Mastery Level';
+
+  @override
+  String get setMasteryTitle => 'Set Mastery Level';
+
+  @override
+  String get filterAll => 'All';
+
+  @override
+  String get filterNeedsReview => 'Needs Review';
+
+  @override
+  String get filterMastered => 'Mastered';
+
+  @override
+  String get masteryUnseen => 'Unseen';
+
+  @override
+  String get masteryLearning => 'Learning';
+
+  @override
+  String get masteryFamiliar => 'Familiar';
+
+  @override
+  String get masteryProficient => 'Proficient';
+
+  @override
+  String get masteryMastered => 'Mastered';
 
   @override
   String savedOn(String date) {

@@ -218,6 +218,18 @@ abstract class AppLocalizations {
   /// **'Anatomy & physiology'**
   String get moduleKnowledgeSubtitle;
 
+  /// Home module card subtitle for knowledge base in micro domain
+  ///
+  /// In en, this message translates to:
+  /// **'Cell biology & histology'**
+  String get moduleKnowledgeSubtitleMicro;
+
+  /// Article count label on knowledge system cards
+  ///
+  /// In en, this message translates to:
+  /// **'{count, plural, =1{1 article} other{{count} articles}}'**
+  String nArticles(int count);
+
   /// Home module card title for quiz section
   ///
   /// In en, this message translates to:
@@ -361,6 +373,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Back to Vocabulary'**
   String get backToVocab;
+
+  /// Snackbar shown when a word is saved to notebook from flashcard
+  ///
+  /// In en, this message translates to:
+  /// **'Added to notebook'**
+  String get savedToNotebook;
 
   /// App bar title for quiz screen
   ///
@@ -535,6 +553,60 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Mastery Level'**
   String get masteryLevel;
+
+  /// Bottom sheet title for mastery level picker in notebook
+  ///
+  /// In en, this message translates to:
+  /// **'Set Mastery Level'**
+  String get setMasteryTitle;
+
+  /// Notebook filter chip: show all entries
+  ///
+  /// In en, this message translates to:
+  /// **'All'**
+  String get filterAll;
+
+  /// Notebook filter chip: show learning entries
+  ///
+  /// In en, this message translates to:
+  /// **'Needs Review'**
+  String get filterNeedsReview;
+
+  /// Notebook filter chip: show mastered entries
+  ///
+  /// In en, this message translates to:
+  /// **'Mastered'**
+  String get filterMastered;
+
+  /// Mastery level label
+  ///
+  /// In en, this message translates to:
+  /// **'Unseen'**
+  String get masteryUnseen;
+
+  /// Mastery level label
+  ///
+  /// In en, this message translates to:
+  /// **'Learning'**
+  String get masteryLearning;
+
+  /// Mastery level label
+  ///
+  /// In en, this message translates to:
+  /// **'Familiar'**
+  String get masteryFamiliar;
+
+  /// Mastery level label
+  ///
+  /// In en, this message translates to:
+  /// **'Proficient'**
+  String get masteryProficient;
+
+  /// Mastery level label
+  ///
+  /// In en, this message translates to:
+  /// **'Mastered'**
+  String get masteryMastered;
 
   /// Shows when a word was saved to notebook
   ///

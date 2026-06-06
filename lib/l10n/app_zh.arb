@@ -24,6 +24,13 @@
   "moduleVocabSubtitle": "{systems}大系统共{count}个词汇",
   "moduleKnowledgeTitle": "知识库",
   "moduleKnowledgeSubtitle": "解剖学与生理学",
+  "moduleKnowledgeSubtitleMicro": "细胞学与组织学",
+  "nArticles": "{count}篇文章",
+  "@nArticles": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
   "moduleQuizTitle": "自我测试",
   "moduleQuizSubtitle": "测验你的掌握程度",
 
@@ -51,6 +58,7 @@
   "scoreLabel": "{total}题中答对{correct}题",
   "studyAgain": "再练一次",
   "backToVocab": "返回词汇表",
+  "savedToNotebook": "已加入生词本",
 
   "quizTitle": "自我测试",
   "startQuiz": "开始测试",
@@ -82,6 +90,15 @@
   "notebookEmptyHint": "在任意词汇卡片上点击书签图标即可收藏到这里",
   "addNote": "添加笔记...",
   "masteryLevel": "掌握程度",
+  "setMasteryTitle": "设置掌握程度",
+  "filterAll": "全部",
+  "filterNeedsReview": "待复习",
+  "filterMastered": "已掌握",
+  "masteryUnseen": "未接触",
+  "masteryLearning": "待复习",
+  "masteryFamiliar": "熟悉",
+  "masteryProficient": "熟练",
+  "masteryMastered": "已掌握",
   "savedOn": "收藏于{date}",
   "removeFromNotebook": "移除",
 

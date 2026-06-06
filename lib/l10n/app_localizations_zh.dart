@@ -72,6 +72,14 @@ class AppLocalizationsZh extends AppLocalizations {
   String get moduleKnowledgeSubtitle => '解剖学与生理学';
 
   @override
+  String get moduleKnowledgeSubtitleMicro => '细胞学与组织学';
+
+  @override
+  String nArticles(int count) {
+    return '$count篇文章';
+  }
+
+  @override
   String get moduleQuizTitle => '自我测试';
 
   @override
@@ -146,6 +154,9 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get backToVocab => '返回词汇表';
+
+  @override
+  String get savedToNotebook => '已加入生词本';
 
   @override
   String get quizTitle => '自我测试';
@@ -241,6 +252,33 @@ class AppLocalizationsZh extends AppLocalizations {
 
   @override
   String get masteryLevel => '掌握程度';
+
+  @override
+  String get setMasteryTitle => '设置掌握程度';
+
+  @override
+  String get filterAll => '全部';
+
+  @override
+  String get filterNeedsReview => '待复习';
+
+  @override
+  String get filterMastered => '已掌握';
+
+  @override
+  String get masteryUnseen => '未接触';
+
+  @override
+  String get masteryLearning => '待复习';
+
+  @override
+  String get masteryFamiliar => '熟悉';
+
+  @override
+  String get masteryProficient => '熟练';
+
+  @override
+  String get masteryMastered => '已掌握';
 
   @override
   String savedOn(String date) {
