@@ -77,6 +77,45 @@ import '../../domain/entities/knowledge_article.dart' as entity;
 // drift-generated KnowledgeArticle is unaliased; entity.KnowledgeArticle is the domain class
 ```
 
+## iOS native setup (do not regress)
+
+The iOS host (`ios/Runner/`) uses an **explicit pre-warmed FlutterEngine**, not
+the default implicit-engine template. This is load-bearing — reverting it
+reintroduces a launch crash.
+
+- `AppDelegate.swift` creates `FlutterEngine(name:)`, calls `.run()`, registers
+  `GeneratedPluginRegistrant` on it, builds a `FlutterViewController(engine:…)`,
+  and sets it as `window.rootViewController` in `didFinishLaunchingWithOptions`.
+  `FlutterSceneDelegate` then moves that VC onto the scene window.
+- `Info.plist` has **no** `UIMainStoryboardFile` and the scene config has **no**
+  `UISceneStoryboardFile`. Do not add them back — they would auto-instantiate a
+  second implicit-engine `FlutterViewController` that crashes.
+
+**Why:** On iOS 26 ProMotion devices (e.g. iPhone 17 Pro, 120Hz), the implicit
+engine flow crashes on launch — SIGSEGV in `-[VSyncClient initWithTaskRunner:]`.
+`FlutterViewController.viewDidLoad` → `createTouchRateCorrectionVSyncClientIfNeeded`
+(runs only on >60Hz displays) dereferences a null `engine.platformTaskRunner`
+because the implicit engine isn't attached yet. Symptom: permanent white screen
+on device; **simulator is unaffected** (60Hz path, never triggers it). Running
+the engine before the VC exists guarantees the task runner is ready. Ref:
+flutter/flutter#183900.
+
+### Deploying to a physical device
+
+`flutter run` and Xcode's debug launch frequently time out on this setup
+("Dart VM Service not discovered", "Timed out waiting for CONFIGURATION_BUILD_DIR").
+Reliable path: build then install via CoreDevice.
+
+```bash
+flutter build ios --release            # AOT, runs standalone without a debugger
+xcrun devicectl device install app --device <UDID> build/ios/iphoneos/Runner.app
+```
+
+Debug/profile builds need the debugger attached to render; if the connection
+drops they white-screen. Use `--release` for hands-off install. Device crash
+logs land in `~/Library/Developer/Xcode/DeviceLogs/<device>/Runner-*.ips`
+(JSON; first line is metadata, rest is the crash body).
+
 ## App Store compliance
 
 The app is categorized as **Education**, not Medical. Never add:
