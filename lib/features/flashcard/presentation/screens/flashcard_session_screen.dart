@@ -8,6 +8,7 @@ import '../../../../core/theme/app_typography.dart';
 import '../../../../core/utils/tts_helper.dart';
 import '../../../../core/widgets/bilingual_text.dart';
 import '../../../../domain/entities/vocabulary.dart';
+import '../../../../data/providers.dart';
 import '../viewmodels/flashcard_providers.dart';
 import '../widgets/flip_card.dart';
 
@@ -45,7 +46,18 @@ class _FlashcardSessionScreenState
     }
   }
 
-  void _onReview(List<Vocabulary> cards) {
+  Future<void> _onReview(List<Vocabulary> cards) async {
+    final vocab = cards[_currentIndex];
+    await ref.read(notebookRepositoryProvider).upsertAsLearning(vocab.id);
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(AppLocalizations.of(context)!.savedToNotebook),
+          duration: const Duration(seconds: 2),
+          behavior: SnackBarBehavior.floating,
+        ),
+      );
+    }
     setState(() => _currentIndex++);
     if (_currentIndex >= cards.length) {
       _navigateToComplete(cards.length);
