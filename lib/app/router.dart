@@ -59,9 +59,16 @@ final appRouter = GoRouter(
                 ),
                 GoRoute(
                   path: ':vocabId',
-                  builder: (context, state) => VocabDetailScreen(
-                    vocabId: int.parse(state.pathParameters['vocabId']!),
-                  ),
+                  builder: (context, state) {
+                    final extra = state.extra as Map<String, dynamic>?;
+                    final ids = (extra?['ids'] as List?)?.cast<int>();
+                    final index = (extra?['index'] as int?) ?? 0;
+                    return VocabDetailScreen(
+                      vocabId: int.parse(state.pathParameters['vocabId']!),
+                      vocabIds: ids,
+                      initialIndex: index,
+                    );
+                  },
                 ),
               ],
             ),

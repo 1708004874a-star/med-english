@@ -126,8 +126,13 @@ class _VocabListScreenState extends ConsumerState<VocabListScreen> {
                   itemBuilder: (context, i) => _VocabCard(
                     vocab: vocabs[i],
                     systems: systems,
-                    onTap: () =>
-                        context.push('/vocabulary/${vocabs[i].id}'),
+                    onTap: () => context.push(
+                      '/vocabulary/${vocabs[i].id}',
+                      extra: {
+                        'ids': vocabs.map((v) => v.id).toList(),
+                        'index': i,
+                      },
+                    ),
                   ),
                 );
               },

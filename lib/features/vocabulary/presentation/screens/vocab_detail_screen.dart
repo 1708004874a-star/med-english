@@ -12,9 +12,99 @@ import '../../../../domain/entities/morpheme.dart';
 import '../../../../domain/entities/vocabulary.dart';
 import '../viewmodels/vocab_providers.dart';
 
-class VocabDetailScreen extends ConsumerWidget {
-  const VocabDetailScreen({super.key, required this.vocabId});
+class VocabDetailScreen extends ConsumerStatefulWidget {
+  const VocabDetailScreen({
+    super.key,
+    required this.vocabId,
+    this.vocabIds,
+    this.initialIndex = 0,
+  });
 
+  final int vocabId;
+  final List<int>? vocabIds;
+  final int initialIndex;
+
+  @override
+  ConsumerState<VocabDetailScreen> createState() => _VocabDetailScreenState();
+}
+
+class _VocabDetailScreenState extends ConsumerState<VocabDetailScreen> {
+  late final PageController _pageController;
+  late int _currentPage;
+
+  @override
+  void initState() {
+    super.initState();
+    _currentPage = widget.initialIndex;
+    _pageController = PageController(initialPage: widget.initialIndex);
+  }
+
+  @override
+  void dispose() {
+    _pageController.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final ids = widget.vocabIds;
+    final isSwipeMode = ids != null && ids.length > 1;
+
+    if (!isSwipeMode) {
+      return _SingleWordScaffold(vocabId: widget.vocabId);
+    }
+
+    final l10n = AppLocalizations.of(context)!;
+    final currentId = ids[_currentPage];
+    final inNotebookAsync = ref.watch(isInNotebookProvider(currentId));
+    final inNotebook = inNotebookAsync.valueOrNull ?? false;
+
+    return Scaffold(
+      backgroundColor: AppColors.background,
+      appBar: AppBar(
+        backgroundColor: AppColors.surface,
+        foregroundColor: AppColors.textPrimary,
+        title: Text(
+          '${_currentPage + 1} / ${ids.length}',
+          style: AppTypography.caption.copyWith(
+            color: AppColors.textSecondary,
+          ),
+        ),
+        actions: [
+          IconButton(
+            onPressed: () => _toggleNotebook(currentId, inNotebook),
+            icon: Icon(
+              inNotebook ? Icons.bookmark : Icons.bookmark_outline,
+              color: inNotebook ? AppColors.accent : AppColors.textSecondary,
+            ),
+            tooltip:
+                inNotebook ? l10n.removeFromNotebook : l10n.tabNotebook,
+          ),
+        ],
+      ),
+      body: PageView.builder(
+        controller: _pageController,
+        itemCount: ids.length,
+        onPageChanged: (page) => setState(() => _currentPage = page),
+        itemBuilder: (_, index) => _VocabPageContent(vocabId: ids[index]),
+      ),
+    );
+  }
+
+  Future<void> _toggleNotebook(int id, bool isIn) async {
+    final repo = ref.read(notebookRepositoryProvider);
+    if (isIn) {
+      await repo.removeEntry(id);
+    } else {
+      await repo.addEntry(id);
+    }
+    ref.invalidate(isInNotebookProvider(id));
+  }
+}
+
+/// Fallback for single-word navigation — preserves the existing pinned SliverAppBar layout.
+class _SingleWordScaffold extends ConsumerWidget {
+  const _SingleWordScaffold({required this.vocabId});
   final int vocabId;
 
   @override
@@ -26,13 +116,10 @@ class VocabDetailScreen extends ConsumerWidget {
     return Scaffold(
       backgroundColor: AppColors.background,
       body: vocabAsync.when(
-        loading: () =>
-            const Center(child: CircularProgressIndicator()),
+        loading: () => const Center(child: CircularProgressIndicator()),
         error: (_, __) => Center(child: Text(l10n.errorGeneric)),
         data: (vocab) {
-          if (vocab == null) {
-            return Center(child: Text(l10n.noResults));
-          }
+          if (vocab == null) return Center(child: Text(l10n.noResults));
           return _VocabDetailBody(
             vocab: vocab,
             inNotebookAsync: inNotebookAsync,
@@ -41,6 +128,31 @@ class VocabDetailScreen extends ConsumerWidget {
           );
         },
       ),
+    );
+  }
+}
+
+/// One scrollable page inside the swipe PageView.
+class _VocabPageContent extends ConsumerWidget {
+  const _VocabPageContent({required this.vocabId});
+  final int vocabId;
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final l10n = AppLocalizations.of(context)!;
+    final vocabAsync = ref.watch(vocabDetailProvider(vocabId));
+
+    return vocabAsync.when(
+      loading: () => const Center(child: CircularProgressIndicator()),
+      error: (_, __) => Center(child: Text(l10n.errorGeneric)),
+      data: (vocab) {
+        if (vocab == null) return Center(child: Text(l10n.noResults));
+        return SingleChildScrollView(
+          physics: const BouncingScrollPhysics(),
+          padding: const EdgeInsets.fromLTRB(24, 12, 24, 0),
+          child: _VocabDetailContent(vocab: vocab, l10n: l10n),
+        );
+      },
     );
   }
 }
@@ -65,7 +177,6 @@ class _VocabDetailBody extends StatelessWidget {
     return CustomScrollView(
       physics: const BouncingScrollPhysics(),
       slivers: [
-        // ── Hero app bar ───────────────────────────────────────────────────
         SliverAppBar(
           expandedHeight: 0,
           pinned: true,
@@ -88,85 +199,7 @@ class _VocabDetailBody extends StatelessWidget {
         SliverToBoxAdapter(
           child: Padding(
             padding: const EdgeInsets.fromLTRB(24, 12, 24, 0),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                // ── Word ────────────────────────────────────────────────────
-                Text(
-                  vocab.word,
-                  style: GoogleFonts.dmSerifDisplay(
-                    fontSize: 38,
-                    color: AppColors.textPrimary,
-                    height: 1.1,
-                  ),
-                ),
-
-                // ── IPA + TTS ────────────────────────────────────────────────
-                if (vocab.pronunciationIpa != null)
-                  Padding(
-                    padding: const EdgeInsets.only(top: 6),
-                    child: Row(
-                      children: [
-                        Text(vocab.pronunciationIpa!,
-                            style: AppTypography.ipa.copyWith(fontSize: 15)),
-                        const SizedBox(width: 10),
-                        _SpeakButton(
-                          word: vocab.word,
-                          label: l10n.speakWord,
-                        ),
-                      ],
-                    ),
-                  ),
-
-                const SizedBox(height: 12),
-                DifficultyBadge(difficulty: vocab.difficulty),
-
-                // ── Morpheme decomposition ───────────────────────────────────
-                if (vocab.morphemes.isNotEmpty) ...[
-                  const SizedBox(height: 20),
-                  _SectionLabel(l10n.morphemesLabel),
-                  const SizedBox(height: 10),
-                  Wrap(
-                    spacing: 8,
-                    runSpacing: 8,
-                    children: vocab.morphemes
-                        .map((m) => _MorphemeDetailChip(
-                              morpheme: m,
-                              onTap: () => context
-                                  .push('/vocabulary/morphemes/${m.id}'),
-                            ))
-                        .toList(),
-                  ),
-                ],
-
-                // ── Definition ────────────────────────────────────────────────
-                const SizedBox(height: 20),
-                _SectionLabel(
-                  Localizations.localeOf(context).languageCode == 'zh'
-                      ? '释义'
-                      : 'Definition',
-                ),
-                const SizedBox(height: 8),
-                _BilingualBlock(
-                  en: vocab.definitionEn,
-                  zh: vocab.definitionZh,
-                ),
-
-                // ── Example ───────────────────────────────────────────────────
-                if (vocab.exampleEn != null) ...[
-                  const SizedBox(height: 20),
-                  _SectionLabel(l10n.exampleLabel),
-                  const SizedBox(height: 8),
-                  _BilingualBlock(
-                    en: vocab.exampleEn!,
-                    zh: vocab.exampleZh ?? '',
-                    isItalic: true,
-                  ),
-                ],
-
-                const SizedBox(height: 48),
-              ],
-            ),
+            child: _VocabDetailContent(vocab: vocab, l10n: l10n),
           ),
         ),
       ],
@@ -182,6 +215,79 @@ class _VocabDetailBody extends StatelessWidget {
       await repo.addEntry(vocab.id);
     }
     ref.invalidate(isInNotebookProvider(vocab.id));
+  }
+}
+
+class _VocabDetailContent extends StatelessWidget {
+  const _VocabDetailContent({required this.vocab, required this.l10n});
+
+  final Vocabulary vocab;
+  final AppLocalizations l10n;
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text(
+          vocab.word,
+          style: GoogleFonts.dmSerifDisplay(
+            fontSize: 38,
+            color: AppColors.textPrimary,
+            height: 1.1,
+          ),
+        ),
+        if (vocab.pronunciationIpa != null)
+          Padding(
+            padding: const EdgeInsets.only(top: 6),
+            child: Row(
+              children: [
+                Text(vocab.pronunciationIpa!,
+                    style: AppTypography.ipa.copyWith(fontSize: 15)),
+                const SizedBox(width: 10),
+                _SpeakButton(word: vocab.word, label: l10n.speakWord),
+              ],
+            ),
+          ),
+        const SizedBox(height: 12),
+        DifficultyBadge(difficulty: vocab.difficulty),
+        if (vocab.morphemes.isNotEmpty) ...[
+          const SizedBox(height: 20),
+          _SectionLabel(l10n.morphemesLabel),
+          const SizedBox(height: 10),
+          Wrap(
+            spacing: 8,
+            runSpacing: 8,
+            children: vocab.morphemes
+                .map((m) => _MorphemeDetailChip(
+                      morpheme: m,
+                      onTap: () =>
+                          context.push('/vocabulary/morphemes/${m.id}'),
+                    ))
+                .toList(),
+          ),
+        ],
+        const SizedBox(height: 20),
+        _SectionLabel(
+          Localizations.localeOf(context).languageCode == 'zh'
+              ? '释义'
+              : 'Definition',
+        ),
+        const SizedBox(height: 8),
+        _BilingualBlock(en: vocab.definitionEn, zh: vocab.definitionZh),
+        if (vocab.exampleEn != null) ...[
+          const SizedBox(height: 20),
+          _SectionLabel(l10n.exampleLabel),
+          const SizedBox(height: 8),
+          _BilingualBlock(
+            en: vocab.exampleEn!,
+            zh: vocab.exampleZh ?? '',
+            isItalic: true,
+          ),
+        ],
+        const SizedBox(height: 48),
+      ],
+    );
   }
 }
 

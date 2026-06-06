@@ -103,8 +103,13 @@ class NotebookListScreen extends ConsumerWidget {
                             const SizedBox(height: 10),
                         itemBuilder: (context, i) => _NotebookEntryCard(
                           entry: filtered[i],
-                          onTap: () => context
-                              .push('/vocabulary/${filtered[i].vocabId}'),
+                          onTap: () => context.push(
+                            '/vocabulary/${filtered[i].vocabId}',
+                            extra: {
+                              'ids': filtered.map((e) => e.vocabId).toList(),
+                              'index': i,
+                            },
+                          ),
                           onDelete: () async {
                             await ref
                                 .read(notebookRepositoryProvider)
