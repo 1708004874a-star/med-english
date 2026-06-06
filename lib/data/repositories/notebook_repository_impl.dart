@@ -45,6 +45,23 @@ class NotebookRepositoryImpl implements INotebookRepository {
     await _db.notebookDao.updateMastery(entryId, level.value);
   }
 
+  @override
+  Future<void> upsertAsLearning(int vocabId) async {
+    final existing = await _db.notebookDao.getByVocabId(vocabId);
+    if (existing == null) {
+      final now = DateTime.now().millisecondsSinceEpoch;
+      await _db.notebookDao.addEntry(
+        UserNotebookCompanion.insert(vocabId: vocabId, addedAt: now),
+      );
+      final created = await _db.notebookDao.getByVocabId(vocabId);
+      await _db.notebookDao.updateMastery(
+          created!.id, MasteryLevel.learning.value);
+    } else {
+      await _db.notebookDao.updateMastery(
+          existing.id, MasteryLevel.learning.value);
+    }
+  }
+
   NotebookEntry _toEntity(UserNotebookData row) => NotebookEntry(
         id: row.id,
         vocabId: row.vocabId,

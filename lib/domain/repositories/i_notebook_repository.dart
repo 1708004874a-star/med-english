@@ -8,4 +8,5 @@ abstract interface class INotebookRepository {
   Future<void> removeEntry(int vocabId);
   Future<void> updateNote(int entryId, String note);
   Future<void> updateMastery(int entryId, MasteryLevel level);
+  Future<void> upsertAsLearning(int vocabId);
 }
