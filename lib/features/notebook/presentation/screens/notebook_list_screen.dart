@@ -58,21 +58,47 @@ class NotebookListScreen extends ConsumerWidget {
             );
           }
 
-          return ListView.separated(
-            padding: const EdgeInsets.fromLTRB(16, 12, 16, 24),
-            itemCount: entries.length,
-            separatorBuilder: (_, __) => const SizedBox(height: 10),
-            itemBuilder: (context, i) => _NotebookEntryCard(
-              entry: entries[i],
-              onTap: () =>
-                  context.push('/vocabulary/${entries[i].vocabId}'),
-              onDelete: () async {
-                await ref
-                    .read(notebookRepositoryProvider)
-                    .removeEntry(entries[i].vocabId);
-                ref.invalidate(isInNotebookProvider(entries[i].vocabId));
-              },
-            ),
+          final filter = ref.watch(notebookFilterProvider);
+          final filtered = switch (filter) {
+            NotebookFilter.all => entries,
+            NotebookFilter.needsReview => entries
+                .where((e) => e.masteryLevel == MasteryLevel.learning)
+                .toList(),
+            NotebookFilter.mastered => entries
+                .where((e) => e.masteryLevel == MasteryLevel.mastered)
+                .toList(),
+          };
+
+          return Column(
+            children: [
+              _FilterChipBar(
+                selected: filter,
+                onChanged: (f) =>
+                    ref.read(notebookFilterProvider.notifier).state = f,
+              ),
+              Expanded(
+                child: filtered.isEmpty
+                    ? Center(child: Text(l10n.noResults))
+                    : ListView.separated(
+                        padding: const EdgeInsets.fromLTRB(16, 4, 16, 24),
+                        itemCount: filtered.length,
+                        separatorBuilder: (_, __) =>
+                            const SizedBox(height: 10),
+                        itemBuilder: (context, i) => _NotebookEntryCard(
+                          entry: filtered[i],
+                          onTap: () => context
+                              .push('/vocabulary/${filtered[i].vocabId}'),
+                          onDelete: () async {
+                            await ref
+                                .read(notebookRepositoryProvider)
+                                .removeEntry(filtered[i].vocabId);
+                            ref.invalidate(
+                                isInNotebookProvider(filtered[i].vocabId));
+                          },
+                        ),
+                      ),
+              ),
+            ],
           );
         },
       ),
@@ -245,6 +271,50 @@ class _MasteryChip extends StatelessWidget {
           fontWeight: FontWeight.w600,
           fontSize: 11,
         ),
+      ),
+    );
+  }
+}
+
+class _FilterChipBar extends StatelessWidget {
+  const _FilterChipBar({required this.selected, required this.onChanged});
+
+  final NotebookFilter selected;
+  final ValueChanged<NotebookFilter> onChanged;
+
+  @override
+  Widget build(BuildContext context) {
+    final l10n = AppLocalizations.of(context)!;
+    final chips = [
+      (NotebookFilter.all, l10n.filterAll),
+      (NotebookFilter.needsReview, l10n.filterNeedsReview),
+      (NotebookFilter.mastered, l10n.filterMastered),
+    ];
+    return SingleChildScrollView(
+      scrollDirection: Axis.horizontal,
+      padding: const EdgeInsets.fromLTRB(16, 8, 16, 4),
+      child: Row(
+        children: chips.map((item) {
+          final (filter, label) = item;
+          final isSelected = selected == filter;
+          return Padding(
+            padding: const EdgeInsets.only(right: 8),
+            child: FilterChip(
+              label: Text(label),
+              selected: isSelected,
+              onSelected: (_) => onChanged(filter),
+              selectedColor: AppColors.primaryLight,
+              checkmarkColor: AppColors.primary,
+              labelStyle: AppTypography.caption.copyWith(
+                color: isSelected
+                    ? AppColors.primary
+                    : AppColors.textSecondary,
+                fontWeight:
+                    isSelected ? FontWeight.w600 : FontWeight.normal,
+              ),
+            ),
+          );
+        }).toList(),
       ),
     );
   }
