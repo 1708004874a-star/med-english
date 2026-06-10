@@ -7,6 +7,7 @@ import '../../../../core/theme/app_colors.dart';
 import '../../../../core/theme/app_typography.dart';
 import '../../../../core/utils/tts_helper.dart';
 import '../../../../core/widgets/bilingual_text.dart';
+import '../../../../core/widgets/vocab_image_card.dart';
 import '../../../../domain/entities/vocabulary.dart';
 import '../../../../data/providers.dart';
 import '../viewmodels/flashcard_providers.dart';
@@ -291,6 +292,15 @@ class _BackContent extends StatelessWidget {
           ),
 
           const Divider(height: 20),
+
+          if (vocab.imagePath != null) ...[
+            VocabImageCard(
+              imagePath: vocab.imagePath!,
+              credit: vocab.imageCredit,
+              maxHeight: 140,
+            ),
+            const SizedBox(height: 14),
+          ],
 
           // Definition
           BilingualText(

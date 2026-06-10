@@ -95,6 +95,8 @@ class VocabularyRepositoryImpl implements IVocabularyRepository {
       exampleZh: row.exampleZh,
       systemId: row.systemId,
       difficulty: Difficulty.fromValue(row.difficulty),
+      imagePath: row.imagePath,
+      imageCredit: row.imageCredit,
       morphemes: morphemeRows.map(_morphemeToEntity).toList(),
     );
   }

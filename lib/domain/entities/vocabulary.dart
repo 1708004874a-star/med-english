@@ -12,6 +12,8 @@ class Vocabulary {
     this.exampleZh,
     this.systemId,
     required this.difficulty,
+    this.imagePath,
+    this.imageCredit,
     this.morphemes = const [],
   });
 
@@ -24,6 +26,8 @@ class Vocabulary {
   final String? exampleZh;
   final int? systemId;
   final Difficulty difficulty;
+  final String? imagePath;
+  final String? imageCredit;
   final List<Morpheme> morphemes;
 
   Vocabulary copyWith({List<Morpheme>? morphemes}) {
@@ -37,6 +41,8 @@ class Vocabulary {
       exampleZh: exampleZh,
       systemId: systemId,
       difficulty: difficulty,
+      imagePath: imagePath,
+      imageCredit: imageCredit,
       morphemes: morphemes ?? this.morphemes,
     );
   }

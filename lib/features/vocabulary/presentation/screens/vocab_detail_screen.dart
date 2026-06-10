@@ -6,6 +6,7 @@ import 'package:med_english/l10n/app_localizations.dart';
 import '../../../../core/theme/app_colors.dart';
 import '../../../../core/theme/app_typography.dart';
 import '../../../../core/widgets/difficulty_badge.dart';
+import '../../../../core/widgets/vocab_image_card.dart';
 import '../../../../core/utils/tts_helper.dart';
 import '../../../../data/providers.dart';
 import '../../../../domain/entities/morpheme.dart';
@@ -249,6 +250,13 @@ class _VocabDetailContent extends StatelessWidget {
               ],
             ),
           ),
+        if (vocab.imagePath != null) ...[
+          const SizedBox(height: 16),
+          VocabImageCard(
+            imagePath: vocab.imagePath!,
+            credit: vocab.imageCredit,
+          ),
+        ],
         const SizedBox(height: 12),
         DifficultyBadge(difficulty: vocab.difficulty),
         if (vocab.morphemes.isNotEmpty) ...[

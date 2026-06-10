@@ -120,6 +120,8 @@ class DbSeeder {
           difficulty:
               Value((v['difficulty'] as int?) ?? Difficulty.beginner.value),
           domain: Value((v['domain'] as String?) ?? 'macro'),
+          imagePath: Value(v['image'] as String?),
+          imageCredit: Value(v['image_credit'] as String?),
         ));
     await _db.vocabularyDao.batchInsertVocab(vocabCompanions.toList());
 

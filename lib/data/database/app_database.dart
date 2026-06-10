@@ -46,7 +46,7 @@ class AppDatabase extends _$AppDatabase {
   AppDatabase.forTesting(super.e) : super.new();
 
   @override
-  int get schemaVersion => 2;
+  int get schemaVersion => 3;
 
   @override
   MigrationStrategy get migration => MigrationStrategy(
@@ -61,6 +61,11 @@ class AppDatabase extends _$AppDatabase {
             await m.addColumn(knowledgeArticles, knowledgeArticles.domain);
             await m.addColumn(quizQuestions, quizQuestions.domain);
             await m.createTable(wrongQuestions);
+          }
+          // v2 → v3: optional illustration per vocabulary word.
+          if (from < 3) {
+            await m.addColumn(vocabularyWords, vocabularyWords.imagePath);
+            await m.addColumn(vocabularyWords, vocabularyWords.imageCredit);
           }
         },
       );

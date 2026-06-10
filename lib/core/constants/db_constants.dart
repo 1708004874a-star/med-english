@@ -103,7 +103,9 @@ const String kDbSeededKey = 'db_seeded';
 ///
 /// v3 adds the dual-system (macro/micro) content: every row carries a `domain`
 /// tag and the micro (cell biology / histology / embryology) content set.
-const int kSeedVersion = 3;
+///
+/// v4 adds optional illustrations (`image` / `image_credit`) to vocabulary.
+const int kSeedVersion = 4;
 const String kSeedVersionKey = 'seed_version';
 
 /// Stored language code chosen by the user ('en' / 'zh').
