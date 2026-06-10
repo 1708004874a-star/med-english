@@ -54,3 +54,4 @@ flutter:
   assets:
     - assets/data/
     - assets/images/vocab/
+    # clinical_cases.json lives under assets/data/ (already covered above)

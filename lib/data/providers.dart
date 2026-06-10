@@ -7,12 +7,14 @@ import 'repositories/knowledge_repository_impl.dart';
 import 'repositories/notebook_repository_impl.dart';
 import 'repositories/quiz_repository_impl.dart';
 import 'repositories/wrong_question_repository_impl.dart';
+import 'repositories/clinical_case_repository_impl.dart';
 import '../domain/repositories/i_vocabulary_repository.dart';
 import '../domain/repositories/i_morpheme_repository.dart';
 import '../domain/repositories/i_knowledge_repository.dart';
 import '../domain/repositories/i_notebook_repository.dart';
 import '../domain/repositories/i_quiz_repository.dart';
 import '../domain/repositories/i_wrong_question_repository.dart';
+import '../domain/repositories/i_clinical_case_repository.dart';
 
 // ── Database ──────────────────────────────────────────────────────────────────
 
@@ -48,6 +50,12 @@ final quizRepositoryProvider = Provider<IQuizRepository>(
 
 final wrongQuestionRepositoryProvider = Provider<IWrongQuestionRepository>(
   (ref) => WrongQuestionRepositoryImpl(ref.watch(appDatabaseProvider)),
+);
+
+/// Fictional clinical cases — loaded from a bundled JSON asset (offline).
+/// Swap this impl for an LLM-backed one later without touching the UI.
+final clinicalCaseRepositoryProvider = Provider<IClinicalCaseRepository>(
+  (ref) => ClinicalCaseRepositoryImpl(),
 );
 
 // ── App Initialization ────────────────────────────────────────────────────────

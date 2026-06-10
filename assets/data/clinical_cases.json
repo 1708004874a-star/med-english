@@ -1,0 +1,440 @@
+[
+  {
+    "id": 1,
+    "title_en": "The Collapsing Athlete",
+    "title_zh": "晕倒的运动员",
+    "difficulty": 2,
+    "system_id": 1,
+    "presentation_en": "A fictional 19-year-old college basketball player collapses during practice and briefly loses consciousness. He recovers within a minute. He mentions two similar 'blackouts' over the past year, both during exertion. No chest pain. A cousin died suddenly at age 25.",
+    "presentation_zh": "一名虚构的 19 岁大学篮球运动员在训练中突然晕倒并短暂失去意识，一分钟内自行恢复。他提到过去一年还有两次类似的'眼前发黑'，都发生在剧烈运动时。无胸痛。一位表亲在 25 岁时猝死。",
+    "differentials": [
+      {
+        "id": "hcm",
+        "name_en": "Hypertrophic cardiomyopathy",
+        "name_zh": "肥厚型心肌病",
+        "rationale_en": "Exertional syncope plus a family history of sudden death in a young athlete is the classic pattern. A thickened heart muscle can obstruct outflow during exercise.",
+        "rationale_zh": "运动性晕厥加上年轻运动员的猝死家族史是典型表现。增厚的心肌在运动时可阻塞流出道。",
+        "vocab_ids": [194, 4]
+      },
+      {
+        "id": "vasovagal",
+        "name_en": "Vasovagal syncope",
+        "name_zh": "血管迷走性晕厥",
+        "rationale_en": "The most common cause of fainting in young people — usually benign and triggered by standing, heat, or emotion.",
+        "rationale_zh": "年轻人晕厥最常见的原因，通常为良性，由久站、闷热或情绪诱发。",
+        "vocab_ids": [194]
+      },
+      {
+        "id": "arrhythmia_long_qt",
+        "name_en": "Long QT arrhythmia",
+        "name_zh": "长 QT 综合征心律失常",
+        "rationale_en": "An inherited electrical disorder can cause exertional collapse and sudden death, and would also explain the family history.",
+        "rationale_zh": "一种遗传性心电异常可导致运动性晕厥和猝死，也能解释家族史。",
+        "vocab_ids": [7]
+      }
+    ],
+    "rounds": [
+      {
+        "tests": [
+          {
+            "id": "history",
+            "name_en": "Detailed history of the episodes",
+            "name_zh": "详细询问发作史",
+            "finding_en": "Every blackout happened at peak exertion, with no warning lightheadedness beforehand. Vasovagal faints almost always have warning symptoms and occur at rest or on standing.",
+            "finding_zh": "每次发作都在运动高峰时，事先没有头晕预兆。血管迷走性晕厥几乎总有预兆，且多在休息或站立时发生。",
+            "rules_out": ["vasovagal"]
+          },
+          {
+            "id": "orthostatic",
+            "name_en": "Orthostatic blood-pressure check",
+            "name_zh": "体位性血压测量",
+            "finding_en": "Blood pressure is stable from lying to standing — no orthostatic drop. This makes a simple reflex faint less likely but does not pin down the cause.",
+            "finding_zh": "从卧位到立位血压稳定，无体位性下降。这降低了单纯反射性晕厥的可能，但未能锁定病因。",
+            "rules_out": ["vasovagal"]
+          }
+        ]
+      },
+      {
+        "tests": [
+          {
+            "id": "ecg",
+            "name_en": "12-lead ECG",
+            "name_zh": "12 导联心电图",
+            "finding_en": "The QT interval is normal, making an inherited long-QT arrhythmia unlikely. However, there are large voltages suggesting a thick left ventricle.",
+            "finding_zh": "QT 间期正常，遗传性长 QT 心律失常可能性小。但出现高电压，提示左心室肥厚。",
+            "rules_out": ["arrhythmia_long_qt"]
+          },
+          {
+            "id": "echo",
+            "name_en": "Echocardiogram",
+            "name_zh": "超声心动图",
+            "finding_en": "The left ventricular wall is markedly thickened with outflow obstruction during exertion. The QT-related electrical pattern is normal.",
+            "finding_zh": "左心室壁明显增厚，运动时出现流出道梗阻。与 QT 相关的电生理表现正常。",
+            "rules_out": ["arrhythmia_long_qt"]
+          }
+        ]
+      }
+    ],
+    "answer_id": "hcm",
+    "epilogue_en": "The thickened heart muscle — hypertrophic cardiomyopathy — obstructed blood flow during exertion, causing the collapses, and explains the family history of sudden death. In this fictional teaching scenario the player learns the vocabulary of syncope, cardiac muscle, and arrhythmia. This is a learning game, not medical advice.",
+    "epilogue_zh": "增厚的心肌——肥厚型心肌病——在运动时阻塞血流，导致晕倒，也解释了猝死家族史。在这个虚构的教学情景中，玩家学习了晕厥、心肌与心律失常相关词汇。本功能是学习游戏，不构成医疗建议。",
+    "vocab_ids": [194, 4, 7, 1]
+  },
+  {
+    "id": 2,
+    "title_en": "Sudden Breathlessness",
+    "title_zh": "突发的呼吸困难",
+    "difficulty": 2,
+    "system_id": 2,
+    "presentation_en": "A fictional tall, thin 22-year-old develops sudden sharp chest pain and shortness of breath while sitting quietly. No fever, no cough. He smokes occasionally.",
+    "presentation_zh": "一名虚构的高瘦 22 岁男性在静坐时突然出现尖锐胸痛和呼吸困难。无发热、无咳嗽。偶尔吸烟。",
+    "differentials": [
+      {
+        "id": "pneumothorax",
+        "name_en": "Spontaneous pneumothorax",
+        "name_zh": "自发性气胸",
+        "rationale_en": "A tall, thin young smoker with sudden one-sided chest pain and breathlessness at rest is the textbook picture of a collapsed lung.",
+        "rationale_zh": "高瘦、吸烟的年轻人在静息时突发单侧胸痛和呼吸困难，是肺萎陷的典型表现。",
+        "vocab_ids": [24, 16]
+      },
+      {
+        "id": "pneumonia",
+        "name_en": "Pneumonia",
+        "name_zh": "肺炎",
+        "rationale_en": "A lung infection can cause breathlessness and chest pain — but usually with fever and a productive cough.",
+        "rationale_zh": "肺部感染可引起呼吸困难和胸痛，但通常伴发热和咳痰。",
+        "vocab_ids": [13]
+      },
+      {
+        "id": "embolism",
+        "name_en": "Pulmonary embolism",
+        "name_zh": "肺栓塞",
+        "rationale_en": "A clot in the lung circulation causes sudden breathlessness and pleuritic pain, and must always be considered.",
+        "rationale_zh": "肺循环血栓可引起突发呼吸困难和胸膜性疼痛，必须始终考虑。",
+        "vocab_ids": [104, 103]
+      }
+    ],
+    "rounds": [
+      {
+        "tests": [
+          {
+            "id": "vitals",
+            "name_en": "Temperature and inflammatory markers",
+            "name_zh": "体温与炎症指标",
+            "finding_en": "Temperature is normal and inflammatory markers are not raised, making an acute infection such as pneumonia unlikely.",
+            "finding_zh": "体温正常，炎症指标不升高，急性感染（如肺炎）可能性小。",
+            "rules_out": ["pneumonia"]
+          }
+        ]
+      },
+      {
+        "tests": [
+          {
+            "id": "ddimer",
+            "name_en": "D-dimer and leg ultrasound",
+            "name_zh": "D-二聚体与下肢超声",
+            "finding_en": "D-dimer is low and there is no leg clot, making a pulmonary embolism very unlikely.",
+            "finding_zh": "D-二聚体低，下肢无血栓，肺栓塞可能性极低。",
+            "rules_out": ["embolism"]
+          },
+          {
+            "id": "cxr",
+            "name_en": "Chest X-ray",
+            "name_zh": "胸部 X 线",
+            "finding_en": "The X-ray shows air in the pleural space with the lung edge pulled inward on one side — and clear lung fields elsewhere, with no clot-related changes in the vessels.",
+            "finding_zh": "X 线显示一侧胸膜腔积气、肺缘内收，其余肺野清晰，血管无血栓相关改变。",
+            "rules_out": ["embolism"]
+          }
+        ]
+      }
+    ],
+    "answer_id": "pneumothorax",
+    "epilogue_en": "Air had leaked into the pleural space, partially collapsing the lung — a spontaneous pneumothorax, classic in tall, thin young smokers. The fictional case teaches the vocabulary of pneumothorax, dyspnea, and embolism. Educational game only.",
+    "epilogue_zh": "空气漏入胸膜腔，使肺部分萎陷——自发性气胸，常见于高瘦的年轻吸烟者。这个虚构病例教授气胸、呼吸困难和栓塞相关词汇。仅为教育游戏。",
+    "vocab_ids": [24, 16, 13, 104]
+  },
+  {
+    "id": 3,
+    "title_en": "The Worst Headache",
+    "title_zh": "最剧烈的头痛",
+    "difficulty": 3,
+    "system_id": 3,
+    "presentation_en": "A fictional 30-year-old develops a severe headache over several hours, with fever and a stiff neck. Bright light hurts her eyes. She is sleepy but rousable.",
+    "presentation_zh": "一名虚构的 30 岁女性数小时内出现剧烈头痛，伴发热和颈部僵硬。强光刺眼。她嗜睡但可唤醒。",
+    "differentials": [
+      {
+        "id": "meningitis",
+        "name_en": "Meningitis",
+        "name_zh": "脑膜炎",
+        "rationale_en": "Headache with fever, a stiff neck, and light sensitivity is the classic triad of inflamed meninges.",
+        "rationale_zh": "头痛伴发热、颈强直和畏光，是脑膜炎症的经典三联征。",
+        "vocab_ids": [27]
+      },
+      {
+        "id": "encephalitis",
+        "name_en": "Encephalitis",
+        "name_zh": "脑炎",
+        "rationale_en": "Inflammation of the brain itself can cause fever and headache, but usually with confusion, seizures, or altered behavior.",
+        "rationale_zh": "脑实质本身的炎症可引起发热和头痛，但通常伴意识混乱、癫痫发作或行为改变。",
+        "vocab_ids": [26]
+      },
+      {
+        "id": "migraine",
+        "name_en": "Migraine",
+        "name_zh": "偏头痛",
+        "rationale_en": "A severe headache with light sensitivity could be a migraine — but migraines do not cause fever or a stiff neck.",
+        "rationale_zh": "伴畏光的剧烈头痛可能是偏头痛，但偏头痛不会引起发热或颈强直。",
+        "vocab_ids": [185]
+      }
+    ],
+    "rounds": [
+      {
+        "tests": [
+          {
+            "id": "exam",
+            "name_en": "Neurological examination",
+            "name_zh": "神经系统查体",
+            "finding_en": "There is clear neck stiffness and fever, which a migraine never produces. Thinking and behavior are normal between bouts of drowsiness.",
+            "finding_zh": "存在明确的颈强直和发热，这是偏头痛绝不会出现的。在阵发性嗜睡之间，思维和行为正常。",
+            "rules_out": ["migraine"]
+          }
+        ]
+      },
+      {
+        "tests": [
+          {
+            "id": "lp",
+            "name_en": "Lumbar puncture (spinal fluid)",
+            "name_zh": "腰椎穿刺（脑脊液）",
+            "finding_en": "The spinal fluid shows many inflammatory cells with a pattern pointing to infection of the meninges. Brain-tissue inflammation markers are absent and behavior is preserved, arguing against encephalitis.",
+            "finding_zh": "脑脊液显示大量炎症细胞，提示脑膜感染。脑组织炎症标志缺如，且行为保留，不支持脑炎。",
+            "rules_out": ["encephalitis", "migraine"]
+          }
+        ]
+      }
+    ],
+    "answer_id": "meningitis",
+    "epilogue_en": "The inflamed meninges — meningitis — produced the headache, fever, stiff neck, and light sensitivity. The fictional case teaches the vocabulary of meningitis, encephalitis, and migraine. This is a learning game and not medical advice; real sudden severe headaches need urgent professional care.",
+    "epilogue_zh": "发炎的脑膜——脑膜炎——引起了头痛、发热、颈强直和畏光。这个虚构病例教授脑膜炎、脑炎和偏头痛相关词汇。本功能是学习游戏、不构成医疗建议；现实中突发剧烈头痛需要紧急就医。",
+    "vocab_ids": [27, 26, 185]
+  },
+  {
+    "id": 4,
+    "title_en": "Pain in the Right Lower Belly",
+    "title_zh": "右下腹的疼痛",
+    "difficulty": 2,
+    "system_id": 4,
+    "presentation_en": "A fictional 16-year-old has belly pain that began around the navel and moved to the right lower side over a day. She has no appetite, mild fever, and feels nauseated.",
+    "presentation_zh": "一名虚构的 16 岁女孩腹痛起初在脐周，一天内转移到右下腹。她食欲不振、低热、恶心。",
+    "differentials": [
+      {
+        "id": "appendicitis",
+        "name_en": "Appendicitis",
+        "name_zh": "阑尾炎",
+        "rationale_en": "Pain that starts centrally and migrates to the right lower belly with loss of appetite is the textbook story of an inflamed appendix.",
+        "rationale_zh": "疼痛起于中腹、转移至右下腹并伴食欲减退，是阑尾发炎的典型经过。",
+        "vocab_ids": [41]
+      },
+      {
+        "id": "gastritis",
+        "name_en": "Gastritis",
+        "name_zh": "胃炎",
+        "rationale_en": "Stomach inflammation causes upper-belly pain and nausea — but it stays central and does not migrate to the right lower side.",
+        "rationale_zh": "胃部炎症引起上腹痛和恶心，但疼痛位于中上腹、不会转移到右下腹。",
+        "vocab_ids": [37]
+      },
+      {
+        "id": "cholecystitis",
+        "name_en": "Cholecystitis",
+        "name_zh": "胆囊炎",
+        "rationale_en": "Gallbladder inflammation causes right-sided belly pain — but high up under the ribs, often after fatty meals.",
+        "rationale_zh": "胆囊炎引起右侧腹痛，但位置在右上腹肋下，常在进食油腻后发作。",
+        "vocab_ids": [40]
+      }
+    ],
+    "rounds": [
+      {
+        "tests": [
+          {
+            "id": "exam",
+            "name_en": "Abdominal examination",
+            "name_zh": "腹部查体",
+            "finding_en": "Tenderness is sharply localized to the right lower belly, not the upper stomach area — making simple gastritis unlikely.",
+            "finding_zh": "压痛明确局限于右下腹，而非上腹部，单纯胃炎可能性小。",
+            "rules_out": ["gastritis"]
+          },
+          {
+            "id": "murphy",
+            "name_en": "Check for gallbladder tenderness",
+            "name_zh": "检查胆囊区压痛",
+            "finding_en": "There is no tenderness high under the right ribs, and no link to fatty meals — pointing away from the gallbladder.",
+            "finding_zh": "右上腹肋下无压痛，与油腻饮食无关，不支持胆囊病变。",
+            "rules_out": ["cholecystitis"]
+          }
+        ]
+      },
+      {
+        "tests": [
+          {
+            "id": "ultrasound",
+            "name_en": "Abdominal ultrasound",
+            "name_zh": "腹部超声",
+            "finding_en": "The appendix is swollen and inflamed. The gallbladder and stomach lining look normal.",
+            "finding_zh": "阑尾肿胀发炎。胆囊和胃黏膜外观正常。",
+            "rules_out": ["gastritis", "cholecystitis"]
+          }
+        ]
+      }
+    ],
+    "answer_id": "appendicitis",
+    "epilogue_en": "The migrating pain and right-lower-belly tenderness pointed to an inflamed appendix — appendicitis. The fictional case teaches the vocabulary of appendicitis, gastritis, and cholecystitis. Learning game only.",
+    "epilogue_zh": "转移性疼痛和右下腹压痛指向发炎的阑尾——阑尾炎。这个虚构病例教授阑尾炎、胃炎和胆囊炎相关词汇。仅为学习游戏。",
+    "vocab_ids": [41, 37, 40]
+  },
+  {
+    "id": 5,
+    "title_en": "Blood in the Urine",
+    "title_zh": "尿中带血",
+    "difficulty": 3,
+    "system_id": 7,
+    "presentation_en": "A fictional 28-year-old notices pink urine and has sharp pain in his flank that comes in waves, radiating to the groin. No fever. He has been drinking little water during a hot summer.",
+    "presentation_zh": "一名虚构的 28 岁男性发现尿液呈粉红色，腰部出现波浪式剧痛并向腹股沟放射。无发热。炎热夏天里他饮水很少。",
+    "differentials": [
+      {
+        "id": "urolithiasis",
+        "name_en": "Urinary stone",
+        "name_zh": "泌尿系结石",
+        "rationale_en": "Waves of severe flank pain radiating to the groin, with blood in the urine and dehydration, is the classic picture of a stone moving down the ureter.",
+        "rationale_zh": "波浪式腰痛向腹股沟放射、伴血尿和脱水，是结石沿输尿管移动的典型表现。",
+        "vocab_ids": [81, 74]
+      },
+      {
+        "id": "pyelonephritis",
+        "name_en": "Kidney infection",
+        "name_zh": "肾盂肾炎",
+        "rationale_en": "A kidney infection causes flank pain and can color the urine — but almost always brings fever and chills.",
+        "rationale_zh": "肾脏感染引起腰痛、尿色改变，但几乎总伴发热和寒战。",
+        "vocab_ids": [291, 73]
+      },
+      {
+        "id": "cystitis",
+        "name_en": "Bladder infection",
+        "name_zh": "膀胱炎",
+        "rationale_en": "A bladder infection causes burning and frequent urination with bloody urine — but the pain is low, not in waves up in the flank.",
+        "rationale_zh": "膀胱感染引起排尿灼痛、尿频和血尿，但疼痛在下腹，而非波浪式的腰部剧痛。",
+        "vocab_ids": [76]
+      }
+    ],
+    "rounds": [
+      {
+        "tests": [
+          {
+            "id": "urinalysis",
+            "name_en": "Urinalysis",
+            "name_zh": "尿液分析",
+            "finding_en": "There is blood but no sign of infection in the urine, making bladder or kidney infection unlikely.",
+            "finding_zh": "尿中有血但无感染迹象，膀胱或肾脏感染可能性小。",
+            "rules_out": ["cystitis", "pyelonephritis"]
+          },
+          {
+            "id": "temp",
+            "name_en": "Temperature check",
+            "name_zh": "体温测量",
+            "finding_en": "No fever or chills, which argues strongly against a kidney infection.",
+            "finding_zh": "无发热或寒战，强烈不支持肾脏感染。",
+            "rules_out": ["pyelonephritis"]
+          }
+        ]
+      },
+      {
+        "tests": [
+          {
+            "id": "ctkub",
+            "name_en": "CT scan of kidneys and ureters",
+            "name_zh": "泌尿系 CT",
+            "finding_en": "A small dense stone is lodged in the ureter, with no signs of infection in the kidney or bladder.",
+            "finding_zh": "输尿管内嵌顿一枚致密小结石，肾脏和膀胱无感染征象。",
+            "rules_out": ["cystitis", "pyelonephritis"]
+          }
+        ]
+      }
+    ],
+    "answer_id": "urolithiasis",
+    "epilogue_en": "A stone working its way down the ureter caused the waves of pain and the blood in the urine — urolithiasis, made more likely by dehydration. The fictional case teaches the vocabulary of urinary stones, hematuria, and urinary infections. Learning game, not medical advice.",
+    "epilogue_zh": "一枚沿输尿管下行的结石引起了波浪式疼痛和血尿——泌尿系结石，脱水使其更易发生。这个虚构病例教授泌尿系结石、血尿和泌尿系感染相关词汇。学习游戏，不构成医疗建议。",
+    "vocab_ids": [81, 74, 291, 76]
+  },
+  {
+    "id": 6,
+    "title_en": "Weight Loss and a Racing Heart",
+    "title_zh": "消瘦与心慌",
+    "difficulty": 3,
+    "system_id": 6,
+    "presentation_en": "A fictional 34-year-old has lost weight despite a big appetite. She feels her heart racing, sweats easily, and feels anxious and warm all the time. Her hands have a fine tremor.",
+    "presentation_zh": "一名虚构的 34 岁女性食量很大却体重下降。她感到心慌、容易出汗、终日焦虑燥热，双手有细微震颤。",
+    "differentials": [
+      {
+        "id": "hyperthyroidism",
+        "name_en": "Hyperthyroidism",
+        "name_zh": "甲状腺功能亢进",
+        "rationale_en": "Weight loss despite eating well, a racing heart, heat intolerance, sweating, and a fine tremor together point to an overactive thyroid.",
+        "rationale_zh": "食量大却消瘦、心动过速、怕热、出汗和细微震颤共同指向甲状腺过度活跃。",
+        "vocab_ids": [62, 3]
+      },
+      {
+        "id": "diabetes",
+        "name_en": "Diabetes",
+        "name_zh": "糖尿病",
+        "rationale_en": "Diabetes can cause weight loss and a big appetite — but typically with heavy thirst and frequent urination, not heat intolerance and tremor.",
+        "rationale_zh": "糖尿病可引起消瘦和食欲增加，但通常伴明显口渴和多尿，而非怕热和震颤。",
+        "vocab_ids": [61]
+      },
+      {
+        "id": "arrhythmia",
+        "name_en": "Primary arrhythmia",
+        "name_zh": "原发性心律失常",
+        "rationale_en": "A racing heart could be a primary electrical problem of the heart — but that alone would not explain the weight loss, sweating, and tremor.",
+        "rationale_zh": "心慌可能是心脏原发的电生理问题，但单凭这点无法解释消瘦、出汗和震颤。",
+        "vocab_ids": [7]
+      }
+    ],
+    "rounds": [
+      {
+        "tests": [
+          {
+            "id": "glucose",
+            "name_en": "Blood glucose",
+            "name_zh": "血糖检测",
+            "finding_en": "Blood glucose is normal, making diabetes an unlikely explanation for the weight loss.",
+            "finding_zh": "血糖正常，糖尿病难以解释这种消瘦。",
+            "rules_out": ["diabetes"]
+          }
+        ]
+      },
+      {
+        "tests": [
+          {
+            "id": "ecg",
+            "name_en": "ECG and heart rhythm review",
+            "name_zh": "心电图与心律分析",
+            "finding_en": "The heart is beating fast but the rhythm is regular and structurally driven by an outside cause, not a primary electrical fault.",
+            "finding_zh": "心跳虽快但节律规整，由外部因素驱动，而非心脏原发的电生理故障。",
+            "rules_out": ["arrhythmia"]
+          },
+          {
+            "id": "thyroid",
+            "name_en": "Thyroid hormone levels",
+            "name_zh": "甲状腺激素水平",
+            "finding_en": "Thyroid hormones are clearly elevated, explaining the racing heart, sweating, weight loss, and tremor at once.",
+            "finding_zh": "甲状腺激素明显升高，一举解释了心慌、出汗、消瘦和震颤。",
+            "rules_out": ["arrhythmia", "diabetes"]
+          }
+        ]
+      }
+    ],
+    "answer_id": "hyperthyroidism",
+    "epilogue_en": "An overactive thyroid flooded the body with hormone, speeding the heart and metabolism — hyperthyroidism ties every clue together. The fictional case teaches the vocabulary of hyperthyroidism, diabetes, and arrhythmia. Learning game only, not medical advice.",
+    "epilogue_zh": "过度活跃的甲状腺使体内激素泛滥，加快了心率和代谢——甲亢把所有线索串联起来。这个虚构病例教授甲亢、糖尿病和心律失常相关词汇。仅为学习游戏，不构成医疗建议。",
+    "vocab_ids": [62, 3, 61, 7]
+  }
+]
