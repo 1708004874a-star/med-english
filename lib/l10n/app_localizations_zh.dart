@@ -86,6 +86,68 @@ class AppLocalizationsZh extends AppLocalizations {
   String get moduleQuizSubtitle => '测验你的掌握程度';
 
   @override
+  String get moduleCasesTitle => '病例推理';
+
+  @override
+  String get moduleCasesSubtitle => '推演虚构病例';
+
+  @override
+  String get casesHubTitle => '病例推理';
+
+  @override
+  String get casesDisclaimer => '所有病例均为虚构，仅供医学英语学习，不构成任何医疗建议。';
+
+  @override
+  String get casesSolvedBadge => '已通关';
+
+  @override
+  String get casesStart => '开始推理';
+
+  @override
+  String get casesPresentationLabel => '患者主诉';
+
+  @override
+  String get casesDifferentialsLabel => '鉴别假设';
+
+  @override
+  String get casesDifferentialsIntro => '列出你的假设，再通过检查逐一排除。';
+
+  @override
+  String get casesOrderTest => '选择一项检查';
+
+  @override
+  String get casesFindingLabel => '检查结果';
+
+  @override
+  String get casesRuledOut => '已排除';
+
+  @override
+  String get casesContinue => '继续';
+
+  @override
+  String get casesFinalPrompt => '你的最终判断？';
+
+  @override
+  String get casesCorrect => '判断正确！';
+
+  @override
+  String get casesIncorrect => '还差一点。';
+
+  @override
+  String casesAnswerWas(String name) {
+    return '正确答案是 $name。';
+  }
+
+  @override
+  String get casesRevealLabel => '揭晓';
+
+  @override
+  String get casesVocabLabel => '本案词汇';
+
+  @override
+  String get casesPlayAgain => '返回病例列表';
+
+  @override
   String get vocabListTitle => '医学词汇';
 
   @override

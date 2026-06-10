@@ -33,10 +33,10 @@ class _HomeScreenState extends ConsumerState<HomeScreen>
       duration: const Duration(milliseconds: 800),
     );
     _cardFades = List.generate(
-      4,
+      5,
       (i) => CurvedAnimation(
         parent: _ctrl,
-        curve: Interval(0.1 + i * 0.12, 0.55 + i * 0.12,
+        curve: Interval(0.1 + i * 0.1, 0.5 + i * 0.1,
             curve: Curves.easeOutCubic),
       ),
     );
@@ -125,7 +125,9 @@ class _HomeScreenState extends ConsumerState<HomeScreen>
                   color: AppColors.systemColors[2],
                   colorLight: AppColors.systemColorsLight[2],
                   title: l10n.moduleKnowledgeTitle,
-                  subtitle: l10n.moduleKnowledgeSubtitle,
+                  subtitle: domain == AppDomain.micro
+                      ? l10n.moduleKnowledgeSubtitleMicro
+                      : l10n.moduleKnowledgeSubtitle,
                   onTap: () => context.go('/knowledge'),
                 ),
                 _ModuleCard(
@@ -136,6 +138,15 @@ class _HomeScreenState extends ConsumerState<HomeScreen>
                   title: l10n.moduleQuizTitle,
                   subtitle: l10n.moduleQuizSubtitle,
                   onTap: () => context.push('/quiz'),
+                ),
+                _ModuleCard(
+                  animation: _cardFades[4],
+                  icon: Icons.medical_information_outlined,
+                  color: AppColors.systemColors[0],
+                  colorLight: AppColors.systemColorsLight[0],
+                  title: l10n.moduleCasesTitle,
+                  subtitle: l10n.moduleCasesSubtitle,
+                  onTap: () => context.push('/cases'),
                 ),
               ],
             ),

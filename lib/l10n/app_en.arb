@@ -84,6 +84,66 @@
   "moduleQuizSubtitle": "Test your knowledge",
   "@moduleQuizSubtitle": { "description": "Home module card subtitle for quiz section" },
 
+  "moduleCasesTitle": "Case Studies",
+  "@moduleCasesTitle": { "description": "Home module card title for clinical cases section" },
+
+  "moduleCasesSubtitle": "Reason through fictional cases",
+  "@moduleCasesSubtitle": { "description": "Home module card subtitle for clinical cases section" },
+
+  "casesHubTitle": "Case Studies",
+  "@casesHubTitle": { "description": "App bar title for the clinical cases hub" },
+
+  "casesDisclaimer": "All cases are fictional and for medical-English learning only — not medical advice.",
+  "@casesDisclaimer": { "description": "Persistent disclaimer banner on the cases screens" },
+
+  "casesSolvedBadge": "Solved",
+  "@casesSolvedBadge": { "description": "Badge shown on a case the user has completed" },
+
+  "casesStart": "Take the case",
+  "@casesStart": { "description": "Button to begin a case" },
+
+  "casesPresentationLabel": "Presentation",
+  "@casesPresentationLabel": { "description": "Section label for the patient presentation" },
+
+  "casesDifferentialsLabel": "Differentials",
+  "@casesDifferentialsLabel": { "description": "Section label for the list of diagnostic hypotheses" },
+
+  "casesDifferentialsIntro": "List your hypotheses, then order tests to rule them out.",
+  "@casesDifferentialsIntro": { "description": "Intro text on the differentials stage" },
+
+  "casesOrderTest": "Order a test",
+  "@casesOrderTest": { "description": "Prompt to pick an investigation in a round" },
+
+  "casesFindingLabel": "Finding",
+  "@casesFindingLabel": { "description": "Label for the result of a chosen test" },
+
+  "casesRuledOut": "Ruled out",
+  "@casesRuledOut": { "description": "Label on an eliminated differential" },
+
+  "casesContinue": "Continue",
+  "@casesContinue": { "description": "Button to advance to the next round" },
+
+  "casesFinalPrompt": "Your final answer?",
+  "@casesFinalPrompt": { "description": "Prompt for the player's final diagnosis choice" },
+
+  "casesCorrect": "You nailed it!",
+  "@casesCorrect": { "description": "Shown when the player picks the correct answer" },
+
+  "casesIncorrect": "Not quite.",
+  "@casesIncorrect": { "description": "Shown when the player picks the wrong answer" },
+
+  "casesAnswerWas": "The answer was {name}.",
+  "@casesAnswerWas": { "description": "Reveals the correct answer", "placeholders": { "name": { "type": "String" } } },
+
+  "casesRevealLabel": "The reveal",
+  "@casesRevealLabel": { "description": "Section label for the epilogue explanation" },
+
+  "casesVocabLabel": "Words in this case",
+  "@casesVocabLabel": { "description": "Section label for vocabulary featured in the case" },
+
+  "casesPlayAgain": "Back to cases",
+  "@casesPlayAgain": { "description": "Button returning to the cases hub" },
+
   "vocabListTitle": "Medical Vocabulary",
   "@vocabListTitle": { "description": "App bar title for vocabulary list screen" },
 

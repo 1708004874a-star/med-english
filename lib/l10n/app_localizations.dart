@@ -242,6 +242,126 @@ abstract class AppLocalizations {
   /// **'Test your knowledge'**
   String get moduleQuizSubtitle;
 
+  /// Home module card title for clinical cases section
+  ///
+  /// In en, this message translates to:
+  /// **'Case Studies'**
+  String get moduleCasesTitle;
+
+  /// Home module card subtitle for clinical cases section
+  ///
+  /// In en, this message translates to:
+  /// **'Reason through fictional cases'**
+  String get moduleCasesSubtitle;
+
+  /// App bar title for the clinical cases hub
+  ///
+  /// In en, this message translates to:
+  /// **'Case Studies'**
+  String get casesHubTitle;
+
+  /// Persistent disclaimer banner on the cases screens
+  ///
+  /// In en, this message translates to:
+  /// **'All cases are fictional and for medical-English learning only — not medical advice.'**
+  String get casesDisclaimer;
+
+  /// Badge shown on a case the user has completed
+  ///
+  /// In en, this message translates to:
+  /// **'Solved'**
+  String get casesSolvedBadge;
+
+  /// Button to begin a case
+  ///
+  /// In en, this message translates to:
+  /// **'Take the case'**
+  String get casesStart;
+
+  /// Section label for the patient presentation
+  ///
+  /// In en, this message translates to:
+  /// **'Presentation'**
+  String get casesPresentationLabel;
+
+  /// Section label for the list of diagnostic hypotheses
+  ///
+  /// In en, this message translates to:
+  /// **'Differentials'**
+  String get casesDifferentialsLabel;
+
+  /// Intro text on the differentials stage
+  ///
+  /// In en, this message translates to:
+  /// **'List your hypotheses, then order tests to rule them out.'**
+  String get casesDifferentialsIntro;
+
+  /// Prompt to pick an investigation in a round
+  ///
+  /// In en, this message translates to:
+  /// **'Order a test'**
+  String get casesOrderTest;
+
+  /// Label for the result of a chosen test
+  ///
+  /// In en, this message translates to:
+  /// **'Finding'**
+  String get casesFindingLabel;
+
+  /// Label on an eliminated differential
+  ///
+  /// In en, this message translates to:
+  /// **'Ruled out'**
+  String get casesRuledOut;
+
+  /// Button to advance to the next round
+  ///
+  /// In en, this message translates to:
+  /// **'Continue'**
+  String get casesContinue;
+
+  /// Prompt for the player's final diagnosis choice
+  ///
+  /// In en, this message translates to:
+  /// **'Your final answer?'**
+  String get casesFinalPrompt;
+
+  /// Shown when the player picks the correct answer
+  ///
+  /// In en, this message translates to:
+  /// **'You nailed it!'**
+  String get casesCorrect;
+
+  /// Shown when the player picks the wrong answer
+  ///
+  /// In en, this message translates to:
+  /// **'Not quite.'**
+  String get casesIncorrect;
+
+  /// Reveals the correct answer
+  ///
+  /// In en, this message translates to:
+  /// **'The answer was {name}.'**
+  String casesAnswerWas(String name);
+
+  /// Section label for the epilogue explanation
+  ///
+  /// In en, this message translates to:
+  /// **'The reveal'**
+  String get casesRevealLabel;
+
+  /// Section label for vocabulary featured in the case
+  ///
+  /// In en, this message translates to:
+  /// **'Words in this case'**
+  String get casesVocabLabel;
+
+  /// Button returning to the cases hub
+  ///
+  /// In en, this message translates to:
+  /// **'Back to cases'**
+  String get casesPlayAgain;
+
   /// App bar title for vocabulary list screen
   ///
   /// In en, this message translates to:

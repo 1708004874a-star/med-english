@@ -15,6 +15,9 @@ import '../features/quiz/presentation/screens/quiz_session_screen.dart';
 import '../features/quiz/presentation/screens/quiz_result_screen.dart';
 import '../features/quiz/presentation/screens/wrong_questions_screen.dart';
 import '../features/notebook/presentation/screens/notebook_list_screen.dart';
+import '../features/case_study/presentation/screens/case_hub_screen.dart';
+import '../features/case_study/presentation/screens/case_session_screen.dart';
+import '../features/case_study/presentation/screens/case_result_screen.dart';
 import '../features/settings/presentation/screens/about_screen.dart';
 import 'shell_scaffold.dart';
 
@@ -179,6 +182,33 @@ final appRouter = GoRouter(
           correct: extra['correct'] as int,
           total: extra['total'] as int,
           wrongIds: (extra['wrongIds'] as List).cast<int>(),
+        );
+      },
+    ),
+
+    // ── Clinical cases (fictional differential-reasoning game) ────────────
+
+    GoRoute(
+      parentNavigatorKey: _rootNavigatorKey,
+      path: '/cases',
+      builder: (context, state) => const CaseHubScreen(),
+    ),
+    GoRoute(
+      parentNavigatorKey: _rootNavigatorKey,
+      path: '/cases/session/:caseId',
+      builder: (context, state) => CaseSessionScreen(
+        caseId: int.parse(state.pathParameters['caseId']!),
+      ),
+    ),
+    GoRoute(
+      parentNavigatorKey: _rootNavigatorKey,
+      path: '/cases/result',
+      builder: (context, state) {
+        final extra = state.extra as Map<String, dynamic>;
+        return CaseResultScreen(
+          caseId: extra['caseId'] as int,
+          correct: extra['correct'] as bool,
+          pickedId: extra['pickedId'] as String,
         );
       },
     ),

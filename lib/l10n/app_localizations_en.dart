@@ -92,6 +92,70 @@ class AppLocalizationsEn extends AppLocalizations {
   String get moduleQuizSubtitle => 'Test your knowledge';
 
   @override
+  String get moduleCasesTitle => 'Case Studies';
+
+  @override
+  String get moduleCasesSubtitle => 'Reason through fictional cases';
+
+  @override
+  String get casesHubTitle => 'Case Studies';
+
+  @override
+  String get casesDisclaimer =>
+      'All cases are fictional and for medical-English learning only — not medical advice.';
+
+  @override
+  String get casesSolvedBadge => 'Solved';
+
+  @override
+  String get casesStart => 'Take the case';
+
+  @override
+  String get casesPresentationLabel => 'Presentation';
+
+  @override
+  String get casesDifferentialsLabel => 'Differentials';
+
+  @override
+  String get casesDifferentialsIntro =>
+      'List your hypotheses, then order tests to rule them out.';
+
+  @override
+  String get casesOrderTest => 'Order a test';
+
+  @override
+  String get casesFindingLabel => 'Finding';
+
+  @override
+  String get casesRuledOut => 'Ruled out';
+
+  @override
+  String get casesContinue => 'Continue';
+
+  @override
+  String get casesFinalPrompt => 'Your final answer?';
+
+  @override
+  String get casesCorrect => 'You nailed it!';
+
+  @override
+  String get casesIncorrect => 'Not quite.';
+
+  @override
+  String casesAnswerWas(String name) {
+    return 'The answer was $name.';
+  }
+
+  @override
+  String get casesRevealLabel => 'The reveal';
+
+  @override
+  String get casesVocabLabel => 'Words in this case';
+
+  @override
+  String get casesPlayAgain => 'Back to cases';
+
+  @override
   String get vocabListTitle => 'Medical Vocabulary';
 
   @override
