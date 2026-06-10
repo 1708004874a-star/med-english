@@ -329,7 +329,9 @@
     "system_id": 2,
     "difficulty": 2,
     "morpheme_ids": [],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/alveolus.webp",
+    "image_credit": "Illustration © MedEnglish (CC0)"
   },
   {
     "id": 23,
@@ -417,7 +419,9 @@
     "system_id": 3,
     "difficulty": 2,
     "morpheme_ids": [],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/axon.webp",
+    "image_credit": "Illustration © MedEnglish (CC0)"
   },
   {
     "id": 29,
@@ -1349,7 +1353,9 @@
     "morpheme_ids": [
       6
     ],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/epidermis.webp",
+    "image_credit": "Illustration © MedEnglish (CC0)"
   },
   {
     "id": 91,
@@ -4331,7 +4337,9 @@
     "morpheme_ids": [
       17
     ],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/nephron.webp",
+    "image_credit": "Illustration © MedEnglish (CC0)"
   },
   {
     "id": 290,
@@ -5227,7 +5235,9 @@
     "system_id": 9,
     "difficulty": 1,
     "morpheme_ids": [],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/cell.webp",
+    "image_credit": "Illustration © MedEnglish (CC0)"
   },
   {
     "id": 350,
@@ -5375,7 +5385,9 @@
     "morpheme_ids": [
       135
     ],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/mitochondrion.webp",
+    "image_credit": "Illustration © MedEnglish (CC0)"
   },
   {
     "id": 360,
@@ -5404,7 +5416,9 @@
       138,
       137
     ],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/ribosome.webp",
+    "image_credit": "Illustration © MedEnglish (CC0)"
   },
   {
     "id": 362,
@@ -6339,7 +6353,9 @@
     "system_id": 11,
     "difficulty": 2,
     "morpheme_ids": [],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/DNA.webp",
+    "image_credit": "Illustration © MedEnglish (CC0)"
   },
   {
     "id": 426,
