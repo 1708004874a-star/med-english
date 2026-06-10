@@ -212,6 +212,17 @@ final appRouter = GoRouter(
         );
       },
     ),
+    // Vocab detail reached from a case (a root/full-screen context). The
+    // shell-nested '/vocabulary/:id' route can't be pushed from outside the
+    // shell without duplicating the shell's navigator keys, so cases use this
+    // standalone root-level route instead.
+    GoRoute(
+      parentNavigatorKey: _rootNavigatorKey,
+      path: '/cases/vocab/:vocabId',
+      builder: (context, state) => VocabDetailScreen(
+        vocabId: int.parse(state.pathParameters['vocabId']!),
+      ),
+    ),
 
     GoRoute(
       parentNavigatorKey: _rootNavigatorKey,

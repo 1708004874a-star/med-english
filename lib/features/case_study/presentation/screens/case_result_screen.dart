@@ -197,7 +197,7 @@ class _VocabChips extends ConsumerWidget {
                 label: Text(v.word, style: AppTypography.bodySmall),
                 backgroundColor: AppColors.surface,
                 side: BorderSide(color: AppColors.primaryLight),
-                onPressed: () => context.push('/vocabulary/${v.id}'),
+                onPressed: () => context.push('/cases/vocab/${v.id}'),
               ),
           ],
         );
