@@ -154,7 +154,10 @@ class _ResultBody extends ConsumerWidget {
           child: SizedBox(
             width: double.infinity,
             child: ElevatedButton(
-              onPressed: () => context.go('/cases'),
+              // Pop back to the hub so the home tab stays under it (a plain
+              // go('/cases') would reset the stack and strand the user).
+              onPressed: () =>
+                  context.canPop() ? context.pop() : context.go('/cases'),
               style: ElevatedButton.styleFrom(
                 backgroundColor: AppColors.primary,
                 foregroundColor: Colors.white,

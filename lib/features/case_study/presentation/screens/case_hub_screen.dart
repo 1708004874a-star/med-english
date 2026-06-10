@@ -28,6 +28,14 @@ class CaseHubScreen extends ConsumerWidget {
       appBar: AppBar(
         backgroundColor: AppColors.surface,
         foregroundColor: AppColors.textPrimary,
+        // Always offer a way back to the home tab. Returning from a finished
+        // case resets the stack, so fall back to going home when there's
+        // nothing left to pop.
+        leading: IconButton(
+          icon: const Icon(Icons.arrow_back),
+          onPressed: () =>
+              context.canPop() ? context.pop() : context.go('/'),
+        ),
         title: Text(l10n.casesHubTitle, style: AppTypography.title),
       ),
       body: Column(
