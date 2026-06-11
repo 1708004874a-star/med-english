@@ -116,6 +116,22 @@ drops they white-screen. Use `--release` for hands-off install. Device crash
 logs land in `~/Library/Developer/Xcode/DeviceLogs/<device>/Runner-*.ips`
 (JSON; first line is metadata, rest is the crash body).
 
+Use the device's **hardware UDID** (the `00008140-…` from `flutter devices`),
+not the CoreDevice identifier, for `--device`.
+
+The first `devicectl … install` often fails with `CoreDeviceError 4000`
+("connection was invalidated") while the tunnel re-establishes — the phone must
+be **unlocked and awake**; just run the same command again and it succeeds.
+
+Confirm a launch didn't white-screen/crash **without looking at the phone**:
+launch via `xcrun devicectl device process launch --device <UDID> <bundleID>`,
+then check the process is still alive and no fresh crash log appeared:
+
+```bash
+xcrun devicectl device info processes --device <UDID> | grep Runner.app   # alive
+find ~/Library/Developer/Xcode/DeviceLogs -name "Runner-*.ips" -mmin -2   # empty = good
+```
+
 ## App Store compliance
 
 The app is categorized as **Education**, not Medical. Never add:
