@@ -210,6 +210,136 @@ def nephron():
     return frame(body)
 
 
+def enzyme():
+    # Lock-and-key: substrate (amber) docking into an enzyme's active site.
+    body = (
+        # enzyme body with a notched active site
+        f'<path d="M180,180 h300 a40,40 0 0 1 40,40 v40 h-70 '
+        f'a45,45 0 0 0 0,90 h70 v40 a40,40 0 0 1 -40,40 h-300 '
+        f'a40,40 0 0 1 -40,-40 v-170 a40,40 0 0 1 40,-40 z" '
+        f'fill="#D1FAE5" stroke="{GREEN}" stroke-width="8"/>'
+        # substrate keying into the notch
+        f'<path d="M560,235 h70 a40,40 0 0 1 0,130 h-70 '
+        f'a45,45 0 0 1 0,-90 a45,45 0 0 0 0,-40 z" '
+        f'fill="#FEF3C7" stroke="{AMBER}" stroke-width="7"/>'
+        # motion arrow
+        f'<line x1="680" y1="300" x2="600" y2="300" stroke="{INK}" '
+        f'stroke-width="6" stroke-linecap="round"/>'
+        f'<path d="M620,285 L600,300 L620,315" fill="none" stroke="{INK}" '
+        f'stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>'
+    )
+    return frame(body)
+
+
+def chromosome():
+    # Iconic X-shaped duplicated chromosome: four chromatid arms (two sister
+    # chromatids) converging at a constricted centromere.
+    cx, cy = 400, 300
+    arms = [(-1, -1), (1, -1), (-1, 1), (1, 1)]
+    body = ""
+    for sx, sy in arms:
+        tip_x = cx + sx * 150
+        tip_y = cy + sy * 175
+        # bulge the arm outward for the classic plump chromosome look
+        ctrl_x = cx + sx * 130
+        ctrl_y = cy + sy * 70
+        body += (
+            f'<path d="M{cx},{cy} Q {ctrl_x},{ctrl_y} {tip_x},{tip_y}" '
+            f'fill="none" stroke="{BLUE}" stroke-width="52" '
+            f'stroke-linecap="round"/>'
+        )
+    # centromere constriction
+    body += (
+        f'<ellipse cx="{cx}" cy="{cy}" rx="60" ry="34" fill="{AMBER}" '
+        f'stroke="{INK}" stroke-width="3"/>'
+    )
+    return frame(body)
+
+
+def cilium():
+    import math
+    # Apical cell surface fringed with motile cilia.
+    surface = (
+        f'<rect x="60" y="380" width="680" height="160" fill="#DBEAFE" '
+        f'stroke="{BLUE}" stroke-width="6"/>'
+    )
+    hairs = []
+    for i, x in enumerate(range(110, 740, 70)):
+        bend = 40 if i % 2 == 0 else 60
+        hairs.append(
+            f'<path d="M{x},380 q {bend},-120 {bend-20},-230" fill="none" '
+            f'stroke="{PURPLE}" stroke-width="9" stroke-linecap="round"/>'
+        )
+    # basal bodies
+    dots = "".join(
+        f'<circle cx="{x}" cy="400" r="9" fill="{INK}"/>'
+        for x in range(110, 740, 70)
+    )
+    return frame(surface + "".join(hairs) + dots)
+
+
+def lysosome():
+    # A lysosome (red vesicle of enzymes) fusing with a vesicle to digest cargo.
+    body = (
+        f'<circle cx="320" cy="300" r="150" fill="#FEE2E2" '
+        f'stroke="{RED}" stroke-width="9"/>'
+        # digestive enzymes inside
+        + "".join(
+            f'<path d="M{x},{y} l10,18 l-20,0 z" fill="{RED}"/>'
+            for x, y in [(280, 250), (350, 270), (300, 340), (370, 330), (250, 310)]
+        )
+        # incoming vesicle with cargo
+        + f'<circle cx="560" cy="300" r="90" fill="#FEF3C7" '
+        f'stroke="{AMBER}" stroke-width="8"/>'
+        + "".join(
+            f'<circle cx="{x}" cy="{y}" r="12" fill="{AMBER}"/>'
+            for x, y in [(540, 280), (580, 300), (555, 330)]
+        )
+        # fusion arrow
+        + f'<line x1="470" y1="300" x2="430" y2="300" stroke="{INK}" '
+        f'stroke-width="6" stroke-linecap="round"/>'
+        + f'<path d="M450,288 L430,300 L450,312" fill="none" stroke="{INK}" '
+        f'stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>'
+    )
+    return frame(body)
+
+
+def osteoporosis():
+    import random
+    rnd = random.Random(7)
+    # Healthy dense bone (left) vs porous osteoporotic bone (right).
+    def block(x0, holes, label_color):
+        rects = (
+            f'<rect x="{x0}" y="120" width="260" height="360" rx="24" '
+            f'fill="#FDE68A" stroke="{INK}" stroke-width="4"/>'
+        )
+        pores = ""
+        for _ in range(holes):
+            cx = x0 + 30 + rnd.random() * 200
+            cy = 150 + rnd.random() * 300
+            r = 8 + rnd.random() * (22 if holes > 40 else 9)
+            pores += f'<circle cx="{cx:.0f}" cy="{cy:.0f}" r="{r:.0f}" fill="{BG}"/>'
+        return rects + pores
+    body = block(70, 36, INK) + block(470, 70, RED)
+    return frame(body)
+
+
+def aneurysm():
+    # A blood vessel with a balloon-like bulge (aneurysm) in its wall.
+    body = (
+        f'<path d="M80,330 h240 q40,0 60,-40 q40,-130 120,-130 '
+        f'q80,0 120,130 q20,40 60,40 h160" fill="none" stroke="{RED}" '
+        f'stroke-width="46" stroke-linecap="round"/>'
+        # lumen highlight
+        f'<path d="M80,330 h560" fill="none" stroke="#FCA5A5" '
+        f'stroke-width="14" stroke-linecap="round" opacity="0.7"/>'
+        # the bulge sac outline
+        f'<circle cx="440" cy="190" r="86" fill="#FEE2E2" '
+        f'stroke="{RED}" stroke-width="8"/>'
+    )
+    return frame(body)
+
+
 PILOT = {
     "DNA": dna,
     "cell": cell,
@@ -219,6 +349,12 @@ PILOT = {
     "epidermis": epidermis,
     "ribosome": ribosome,
     "nephron": nephron,
+    "enzyme": enzyme,
+    "chromosome": chromosome,
+    "cilium": cilium,
+    "lysosome": lysosome,
+    "osteoporosis": osteoporosis,
+    "aneurysm": aneurysm,
 }
 
 

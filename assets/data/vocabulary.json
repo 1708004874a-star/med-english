@@ -29,7 +29,9 @@
     "morpheme_ids": [
       38
     ],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/atherosclerosis.webp",
+    "image_credit": "NHLBI / Wikimedia Commons, Public domain"
   },
   {
     "id": 3,
@@ -92,7 +94,9 @@
       22,
       3
     ],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/pericardium.webp",
+    "image_credit": "OpenStax / Wikimedia Commons, CC BY 3.0"
   },
   {
     "id": 7,
@@ -169,7 +173,9 @@
     "morpheme_ids": [
       11
     ],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/hemoglobin.webp",
+    "image_credit": "Veronica Stafford / Wikimedia Commons, CC BY-SA 4.0"
   },
   {
     "id": 12,
@@ -359,7 +365,9 @@
     "morpheme_ids": [
       23
     ],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/pneumothorax.webp",
+    "image_credit": "BruceBlaus / Wikimedia Commons, CC BY 3.0"
   },
   {
     "id": 25,
@@ -434,7 +442,9 @@
     "system_id": 3,
     "difficulty": 2,
     "morpheme_ids": [],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/synapse.webp",
+    "image_credit": "Mouagip / Wikimedia Commons, CC BY-SA 3.0"
   },
   {
     "id": 30,
@@ -506,7 +516,9 @@
     "morpheme_ids": [
       16
     ],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/myelin.webp",
+    "image_credit": "LadyofHats / Wikimedia Commons, Public domain"
   },
   {
     "id": 35,
@@ -753,7 +765,9 @@
       20,
       38
     ],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/osteoporosis.webp",
+    "image_credit": "Illustration © MedEnglish (CC0)"
   },
   {
     "id": 51,
@@ -816,7 +830,9 @@
     "morpheme_ids": [
       38
     ],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/scoliosis.webp",
+    "image_credit": "https://www.scientificanimations.com / Wikimedia Commons, CC BY-SA 4.0"
   },
   {
     "id": 55,
@@ -1186,7 +1202,9 @@
     "system_id": 7,
     "difficulty": 3,
     "morpheme_ids": [],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/dialysis.webp",
+    "image_credit": "G. Mrabet / Wikimedia Commons, CC BY-SA 3.0"
   },
   {
     "id": 80,
@@ -1492,7 +1510,9 @@
     "morpheme_ids": [
       9
     ],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/erythrocyte.webp",
+    "image_credit": "LadyofHats / Wikimedia Commons, Public domain"
   },
   {
     "id": 100,
@@ -1576,7 +1596,9 @@
     "system_id": 1,
     "difficulty": 3,
     "morpheme_ids": [],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/aneurysm.webp",
+    "image_credit": "Illustration © MedEnglish (CC0)"
   },
   {
     "id": 106,
@@ -2512,7 +2534,9 @@
     "morpheme_ids": [
       67
     ],
-    "domain": "macro"
+    "domain": "macro",
+    "image": "assets/images/vocab/cerebrum.webp",
+    "image_credit": "Mysid, arrows were added by Was a bee / Wikimedia Commons, Public domain"
   },
   {
     "id": 168,
@@ -5266,7 +5290,9 @@
     "system_id": 9,
     "difficulty": 2,
     "morpheme_ids": [],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/organelle.webp",
+    "image_credit": "domdomegg / Wikimedia Commons, CC BY 4.0"
   },
   {
     "id": 352,
@@ -5281,7 +5307,9 @@
     "morpheme_ids": [
       133
     ],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/nucleus.webp",
+    "image_credit": "Mariana Ruiz LadyofHats / Wikimedia Commons, Public domain"
   },
   {
     "id": 353,
@@ -5340,7 +5368,9 @@
     "system_id": 9,
     "difficulty": 2,
     "morpheme_ids": [],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/plasma_membrane.webp",
+    "image_credit": "Mariana Ruiz / Wikimedia Commons, Public domain"
   },
   {
     "id": 357,
@@ -5355,7 +5385,9 @@
     "morpheme_ids": [
       170
     ],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/phospholipid.webp",
+    "image_credit": "OpenStax / Wikimedia Commons, CC BY 3.0"
   },
   {
     "id": 358,
@@ -5434,7 +5466,9 @@
       142,
       134
     ],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/endoplasmic_reticulum.webp",
+    "image_credit": "Mariana Ruiz LadyofHats / Wikimedia Commons, Public domain"
   },
   {
     "id": 363,
@@ -5447,7 +5481,9 @@
     "system_id": 9,
     "difficulty": 4,
     "morpheme_ids": [],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/Golgi_apparatus.webp",
+    "image_credit": "Mariana Ruiz LadyofHats / Wikimedia Commons, Public domain"
   },
   {
     "id": 364,
@@ -5463,7 +5499,9 @@
       139,
       137
     ],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/lysosome.webp",
+    "image_credit": "Illustration © MedEnglish (CC0)"
   },
   {
     "id": 365,
@@ -5491,7 +5529,9 @@
     "system_id": 9,
     "difficulty": 3,
     "morpheme_ids": [],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/vacuole.webp",
+    "image_credit": "LadyofHats / Wikimedia Commons, Public domain"
   },
   {
     "id": 367,
@@ -5623,7 +5663,9 @@
       136,
       137
     ],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/chromosome.webp",
+    "image_credit": "Illustration © MedEnglish (CC0)"
   },
   {
     "id": 376,
@@ -5666,7 +5708,9 @@
     "system_id": 9,
     "difficulty": 3,
     "morpheme_ids": [],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/cilium.webp",
+    "image_credit": "Illustration © MedEnglish (CC0)"
   },
   {
     "id": 379,
@@ -5679,7 +5723,9 @@
     "system_id": 9,
     "difficulty": 3,
     "morpheme_ids": [],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/flagellum.webp",
+    "image_credit": "Chillery16 / Wikimedia Commons, CC BY-SA 3.0"
   },
   {
     "id": 380,
@@ -5796,7 +5842,9 @@
     "system_id": 10,
     "difficulty": 2,
     "morpheme_ids": [],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/diffusion.webp",
+    "image_credit": "LadyofHats Mariana Ruiz Villarreal / Wikimedia Commons, Public domain"
   },
   {
     "id": 388,
@@ -5811,7 +5859,9 @@
     "morpheme_ids": [
       177
     ],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/osmosis.webp",
+    "image_credit": "KDS4444 / Wikimedia Commons, CC0"
   },
   {
     "id": 389,
@@ -6093,7 +6143,9 @@
     "system_id": 10,
     "difficulty": 3,
     "morpheme_ids": [],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/enzyme.webp",
+    "image_credit": "Illustration © MedEnglish (CC0)"
   },
   {
     "id": 408,
@@ -6265,7 +6317,9 @@
       135,
       177
     ],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/mitosis.webp",
+    "image_credit": "Jpablo cad and juliana osorio / Wikimedia Commons, CC BY-SA 3.0"
   },
   {
     "id": 420,
@@ -6370,7 +6424,9 @@
     "morpheme_ids": [
       138
     ],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/RNA.webp",
+    "image_credit": "Sponk / Wikimedia Commons, CC BY-SA 3.0"
   },
   {
     "id": 427,
@@ -6385,7 +6441,9 @@
     "morpheme_ids": [
       133
     ],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/nucleotide.webp",
+    "image_credit": "Kep17 / Wikimedia Commons, CC BY-SA 4.0"
   },
   {
     "id": 428,
@@ -6473,7 +6531,9 @@
     "morpheme_ids": [
       158
     ],
-    "domain": "micro"
+    "domain": "micro",
+    "image": "assets/images/vocab/centromere.webp",
+    "image_credit": "Christinelmiller / Wikimedia Commons, CC BY-SA 4.0"
   },
   {
     "id": 434,

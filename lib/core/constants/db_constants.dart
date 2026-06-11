@@ -105,7 +105,10 @@ const String kDbSeededKey = 'db_seeded';
 /// tag and the micro (cell biology / histology / embryology) content set.
 ///
 /// v4 adds optional illustrations (`image` / `image_credit`) to vocabulary.
-const int kSeedVersion = 4;
+///
+/// v5 expands illustration coverage from 8 to 38 words: 24 curated openly-
+/// licensed Wikimedia Commons diagrams + 6 new house-style SVGs.
+const int kSeedVersion = 5;
 const String kSeedVersionKey = 'seed_version';
 
 /// Stored language code chosen by the user ('en' / 'zh').
