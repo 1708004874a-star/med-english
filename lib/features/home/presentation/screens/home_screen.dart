@@ -205,7 +205,8 @@ class _Header extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      l10n.appTitle,
+                      // Brand wordmark — always "MedEnglish", never localized.
+                      'MedEnglish',
                       style: GoogleFonts.dmSerifDisplay(
                         fontSize: 34,
                         color: Colors.white,
